@@ -30,6 +30,10 @@ freshfruit = ['  banana', '  loganberry ', 'passion fruit  ']
 vec = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 [num for elem in vec for num in elem]
 
+fibs = [0,1]
+for i in range(8):
+    fibs.append(fibs[-2]+fibs[-1])
+
 # %%
 '''5.1.4. Nested List Comprehensions'''
 # 3 methods

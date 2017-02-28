@@ -73,6 +73,10 @@ L = [('Bob', 75), ('Adam', 92), ('Bart', 66), ('Lisa', 88)]
 sorted(L, key=lambda x: x[0])
 sorted(L, key=lambda x: x[1], reverse=True)
 
+from functools import reduce
+a = list(range(1, 101))
+reduce(lambda x, y: x+y, a)
+
 # %%
 
 
