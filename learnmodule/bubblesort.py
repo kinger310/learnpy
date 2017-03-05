@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
 
+from learnmodule.fibo import fib
 
-def bubbleSort(numbers):
+def bubble_sort(numbers):
     for j in range(len(numbers)-1, -1, -1):
         for i in range(j):
             if numbers[i] > numbers[i+1]:
                 numbers[i], numbers[i+1] = numbers[i+1], numbers[i]
+
+
 # %%
 
 
@@ -24,13 +27,12 @@ def search(seq, number, low=0, high=None):
 # %%
 
 
-def main1():
-    from fibo import fib
-    fib(100)
+def main():
     numbers = [4, 2, 8, 9, 10, 3, 1, 5, 7, 6]
-    bubbleSort(numbers)
+    bubble_sort(numbers)
     print(numbers)
 
 if __name__ == '__main__':
+    main()
     a = list(range(1, 101, 3))
     search(a, 25)
