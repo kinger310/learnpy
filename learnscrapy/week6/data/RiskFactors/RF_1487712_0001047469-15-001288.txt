@@ -1,0 +1,603 @@
+," in this Annual Report on Form 10-K. We do not intend and undertake no obligation to update any forward-looking information to reflect actual results or future
+events or circumstances. 3 Table of Contents PART I ITEM 1. BUSINESS Overview Air Lease Corporation (the "Company", "ALC", "we", "our" or "us"), is a leading aircraft leasing company that was founded by aircraft
+leasing industry pioneer, Steven F. Udvar-Házy. We are principally engaged in purchasing new commercial jet transport aircraft directly from aircraft manufacturers, such as The Boeing
+Company ("Boeing") and Airbus S.A.S. ("Airbus"), and leasing those aircraft to airlines throughout the world. In addition to our leasing activities, we sell aircraft from our operating lease
+portfolio to third parties, including other leasing companies, financial services companies and airlines. We also provide fleet management services to investors and owners of aircraft portfolios for a
+management fee. We
+currently have relationships with over 200 airlines across 70 countries. We operate our business on a global basis, providing aircraft to airline customers in every major geographical
+region, including markets such as Asia, the Pacific Rim, Latin America, the Middle East and Eastern Europe. Many of these markets are experiencing increased demand for passenger airline travel and
+have lower market saturation than more mature markets such as North America and Western Europe. We expect that these markets will also present significant replacement opportunities in upcoming years
+as some airlines in these markets look to replace aging aircraft with new, modern technology, fuel efficient jet aircraft. An important focus of our strategy is meeting the needs of this replacement
+market. Airlines in some of these markets have fewer financing alternatives, enabling us to command relatively higher lease rates compared to those in more mature markets. We
+mitigate the risks of owning and leasing aircraft through careful management and diversification of our leases and lessees by geography, lease term, and aircraft age and type. We
+believe that diversification of our operating lease portfolio reduces the risks associated with individual lessee defaults and adverse geopolitical and regional economic events. We mitigate the risks
+associated with cyclical variations in the airline industry by managing customer concentrations and lease maturities in our operating lease portfolio to minimize periods of concentrated lease
+expirations. In order to maximize residual values and minimize the risk of obsolescence, our strategy is to own an aircraft during the first third of its expected 25 year useful life. During
+the year ended December 31, 2014, we took delivery of 36 aircraft from our new order pipeline and we sold 16 aircraft, ending the year with a total of 213 aircraft. We
+leased the aircraft in our fleet to a globally diversified customer base comprised of 77 airlines in 46 countries. The weighted average lease term remaining of our operating lease portfolio was
+7.3 years and the weighted average age of our fleet was 3.5 years as of December 31, 2014. In addition, we managed 17 jet aircraft for third parties as of December 31,
+2014. During
+2014, we entered into definitive agreements with Airbus, Boeing and Avions de Transport Régional ("ATR") to purchase 97 additional aircraft. From Airbus, we agreed
+to purchase 60 A321neo aircraft, two A321-200 aircraft and one A320-200 aircraft. From Boeing, we agreed to purchase six Boeing 777-300ER aircraft, one 737-800 aircraft and confirmed the purchase of
+20 737-8/9 MAX
+aircraft which were previously subject to reconfirmation. From ATR, we agreed to purchase seven ATR 72-600 aircraft. Deliveries of the aircraft are scheduled to commence in 2015 and continue
+through 2023. As of December 31, 2014, we had, in the aggregate, 364 aircraft on order with Boeing, Airbus and ATR for delivery through 2023, with an estimated aggregate purchase price of
+$28.8 billion, making us one of the largest customers of Boeing and Airbus. We
+were the first launch customer for the Airbus A330neo aircraft and A321LR aircraft. In July 2014, we entered into a non-binding memorandum of understanding with Airbus to purchase
+25 A330neo aircraft. In January 2015, we entered into a non-binding memorandum of understanding 4 Table of Contents with
+Airbus to purchase 30 A321LR aircraft. Deliveries of the aircraft are scheduled to commence in 2018 and continue through 2023. As
+of December 31, 2014, all of our 213 aircraft were leased. Our airline customers were obligated to make $7.5 billion in minimum future rental payments over the
+non-cancellable lease term. In addition, we have signed lease agreements for 99 aircraft that we ordered from the manufacturers for delivery through 2023. Under these lease agreements our airline
+customers are contractually obligated to make $9.0 billion in minimum future rental payments over the non-cancellable lease term. In the aggregate, between aircraft we own in our operating
+lease portfolio and those that we have leased from our orderbook, our customers are contractually obligated to make $16.5 billion in minimum future rental payments. We
+finance the purchase of aircraft and our business with available cash balances, internally generated funds, including aircraft sales and trading activities, and debt financings. Our
+debt financing strategy is focused on raising unsecured debt in the global bank and capital markets, with a limited utilization of export credit or secured financing. We ended 2014 with total debt
+outstanding of $6.7 billion, of which 75.2% was at a fixed rate and 82.3% of which was unsecured, with a composite cost of funds of 3.64%. In
+2014, we had total revenues of $1.1 billion, representing an increase of $191.8 million or 22.3% compared to 2013. This is comprised of rental revenues on our operating
+lease portfolio of $991.2 million and aircraft sales, trading and other revenue of $59.3 million. We recorded earnings before income taxes of $394.8 million in 2014, an increase
+of $101.3 million or 34.5% compared to 2013, for a pretax profit margin of 37.6%. Our operating performance is principally driven by the growth of our fleet, the terms of our leases and the
+interest rates on our indebtedness, supplemented by the gains of our aircraft sales and trading activities and management fees. Operations to Date Current Fleet As of December 31, 2014, we owned 213 aircraft, comprised of 163 single-aisle narrowbody jet aircraft, 32 twin-aisle widebody
+jet aircraft and 18 turboprop aircraft, with a weighted average age of 3.5 years. As of December 31, 2013, we owned 193 aircraft, comprised of 146 single-aisle narrowbody jet aircraft,
+31 twin-aisle widebody jet aircraft and 16 turboprop aircraft, with a weighted average age of 3.7 years. In addition, we also managed 17 jet aircraft for third party owners on a fee basis as of
+December 31, 2014. 5 Table of Contents Geographic Diversification Over 95% of our aircraft are operated internationally. The following table sets forth the dollar amount and percentage of our rental of
+flight equipment revenues attributable to the respective geographical regions based on each airline's principal place of business: December 31, 2014 December 31, 2013 December 31, 2012 Region Amount of Rental Revenue % of Total Amount of Rental Revenue % of Total Amount of Rental Revenue % of Total (dollars in thousands) Asia $ 409,014 41.3 % $ 299,472 35.8 % $ 204,675 31.7 % Europe 337,349 34.0 % 300,761 36.0 % 253,376 39.2 % Central America, South America and Mexico 111,583 11.3 % 107,857 12.9 % 84,341 13.1 % The Middle East and Africa 47,958 4.9 % 55,624 6.6 % 39,398 6.1 % Pacific, Australia, New Zealand 30,330 3.1 % 15,436 1.8 % 10,862 1.7 % U.S. and Canada 55,007 5.4 % 57,366 6.9 % 53,201 8.2 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total $ 991,241 100.0 % $ 836,516 100.0 % $ 645,853 100.0 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ The
+following table sets forth the regional concentration of our owned aircraft portfolio based on net book value as of December 31, 2014 and 2013: December 31, 2014 December 31, 2013 Region Net Book Value % of Total Net Book Value % of Total (dollars in thousands) Asia $ 3,838,523 42.9 % $ 3,165,367 41.6 % Europe 2,953,232 33.0 % 2,656,816 34.9 % Central America, South America and Mexico 778,991 8.7 % 829,930 10.9 % The Middle East and Africa 498,896 5.6 % 372,618 4.9 % Pacific, Australia, New Zealand 471,630 5.2 % 151,751 2.0 % U.S. and Canada 412,532 4.6 % 436,653 5.7 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total $ 8,953,804 100.0 % $ 7,613,135 100.0 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ At
+December 31, 2014, 2013 and 2012, we owned and managed leased aircraft to customers in the following regions: December 31, 2014 December 31, 2013 December 31, 2012 Region Number of Customers(1) % of Total Number of Customers(1) % of Total Number of Customers(1) % of Total Asia 29 36.3 % 29 36.7 % 26 37.7 % Europe 24 30.0 % 21 26.6 % 17 24.6 % Central America, South America and Mexico 10 12.5 % 12 15.2 % 9 13.0 % The Middle East and Africa 7 8.8 % 7 8.9 % 8 11.6 % Pacific, Australia, New Zealand 2 2.4 % 2 2.5 % 2 3.0 % U.S. and Canada 8 10.0 % 8 10.1 % 7 10.1 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total 80 100.0 % 79 100.0 % 69 100.0 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ (1) A
+customer is an airline with its own operating certificate. 6 Table of Contents In
+2014, rental of flight equipment revenue attributable to China was $218.6 million or 22.1%, and represented our only country concentration in excess of 10%. In 2013, rental of
+flight equipment revenue attributable to China was $129.8 million or 15.5%, and represented our only country concentration in excess of 10%. In 2012, three countries represented at least 10% of
+our rental revenue. Rental of flight equipment revenue attributable to China, Italy and France was $75.5 million or 11.7%, $71.0 million or 11.0% and $67.4 million or 10.4%,
+respectively. In
+2014 and 2013, no individual airline represented at least 10% of our rental of flight equipment revenue. In 2012, one airline represented at least 10% of our rental of flight
+equipment revenue. For the year ended December 31, 2012, Alitalia attributed for $71.0 million of 11.0% of our rental flight equipment revenue. Aircraft Acquisition Strategy We seek to acquire the most highly in demand and widely distributed, modern technology, fuel efficient narrowbody and widebody
+commercial jet transport aircraft. Our strategy is to order new aircraft directly from the manufacturers. When placing new aircraft orders with the manufacturers, we strategically target the
+replacement of aging aircraft with modern technology aircraft. Additionally, we look to supplement our order pipeline with opportunistic purchases of aircraft in the secondary market and participate
+in sale-leaseback transactions with airlines. Prior
+to ordering aircraft, we evaluate the market for specific types of aircraft. We consider the overall demand for the aircraft in the marketplace based on our deep knowledge of the
+aviation industry and our customer relationships. It is important to assess the airplane's economic viability, the operating performance characteristics, engine variant options, intended utilization
+by our customers, and which aircraft types it will replace or compete with in the global market. Additionally, we study the effects of global airline passenger traffic growth in order to determine the
+likely demand for our new aircraft. For
+new aircraft deliveries, we source many components separately, which include seats, safety equipment, avionics, galleys, cabin finishes, engines and other equipment. Often times we
+are able to achieve lower pricing through direct bulk purchase contracts with the component manufacturers than would be achievable if the airframe manufacturers sourced the components for the
+airplane. Manufacturers such as Boeing and Airbus install this buyer furnished equipment in our aircraft during the final assembly process at their facilities. With this purchasing strategy, we are
+able to meet specific customer configuration requirements and lower the total acquisition cost of the aircraft. Aircraft Leasing Strategy The airline industry is a complex industry with constantly evolving competition, code shares (where two or more airlines share the same
+flight), alliances and passenger traffic patterns. This requires frequent updating and flexibility within an airline's fleet. The operating lease allows airlines to effectively adapt and manage their
+fleets through varying market conditions without bearing the full financial risk associated with these capital intensive assets which have an expected 25 year useful life. This fleet
+flexibility enables airlines to more effectively operate and compete in their respective markets. We work closely with our airline customers throughout the world to help optimize their long-term
+aircraft fleet strategies. We
+work to mitigate the risks of owning and leasing aircraft through careful management of our fleet, including managing customer concentrations by geography and region, staggering lease
+maturities, balancing aircraft type exposures, and maintaining a young fleet age. We believe that diversification of our operating lease portfolio reduces the risks associated with individual customer
+defaults and the impact of adverse geopolitical and regional economic events. We work to mitigate the risks associated with cyclical variations in the airline industry by entering into long term
+leases and staggering our lease 7 Table of Contents maturities.
+In order to maximize residual values and minimize the risk of obsolescence, our strategy is generally to own an aircraft for approximately the first third of its expected 25 year
+useful life. Our
+management team identifies prospective airline customers based upon industry knowledge and long-standing relationships. Prior to leasing an aircraft, we evaluate the competitive
+positioning of the airline, the strength and quality of the management team, and the financial performance of the airline. Management obtains and reviews relevant business materials from all
+prospective customers before entering into a lease agreement. Under certain circumstances, the customer may be required to obtain guarantees or other financial support from a financial institution. We
+work closely with our existing customers and potential lessees to develop customized lease structures that address their specific needs. We typically enter into a lease agreement 18 to
+36 months in advance of the delivery of a new aircraft from our order pipeline. Once the aircraft has been delivered and operated by the airline, we look to remarket the aircraft and sign a
+follow-on lease six to 12 months ahead of the scheduled expiry of the initial lease term. Our leases typically contain the following key
+provisions:  our leases are primarily structured as operating leases, whereby we retain the residual rights to the aircraft;  our leases are triple net leases, whereby the lessee is responsible for all operating costs including taxes, insurance, and aircraft
+maintenance;  our leases typically require all payments be made in U.S. dollars;  our leases are typically for fixed rates and terms;  our leases typically require cash security deposits and maintenance reserve payments; and  our leases contain provisions which require payment whether or not the aircraft is operated, irrespective of the circumstances. The
+lessee is responsible for compliance with applicable laws and regulations with respect to the aircraft. We require our lessees to comply with the standards of either the U.S. Federal
+Aviation Administration ("FAA") or its equivalent in foreign jurisdictions. As a function of these laws and the provisions in our lease contracts, the lessees are responsible to perform all
+maintenance of the aircraft and return the aircraft and its components in a specified return condition. Generally, we receive a cash deposit and maintenance reserves as security for the lessee's
+performance of obligations under the lease and the condition of the aircraft upon return. In addition, most leases contain extensive provisions regarding our remedies and rights in the event of a
+default by a lessee. The lessee generally is required to continue to make lease payments under all circumstances, including periods during which the aircraft is not in operation due to maintenance or
+grounding. Some
+foreign countries have currency and exchange laws regulating the international transfer of currencies. When necessary, we may require, as a condition to any foreign transaction,
+that the lessee or purchaser in a foreign country obtain the necessary approvals of the appropriate government agency, finance ministry or central bank for the remittance of all funds contractually
+owed in U.S. dollars. We attempt to minimize our currency and exchange risks by negotiating the designated payment currency in our leases to be U.S. dollars. To meet the needs of certain of our
+airline customers, we have agreed to accept certain of our lease payments in a foreign currency. After we agree to the rental payment currency with an airline, the negotiated currency typically
+remains for the term of the lease. We may enter into contracts to mitigate our foreign currency risk, but we expect that the economic risk arising from foreign currency denominated leases will be
+insignificant to us. We
+may, in connection with the lease of used aircraft, agree to contribute specific additional amounts to the cost of certain first major overhauls or modifications, which usually
+reflect the usage of the aircraft prior to the commencement of the lease, and which are typically covered by the prior operator's usage fees. We may be obligated under the leases to make
+reimbursements of maintenance 8 Table of Contents reserves
+previously received to lessees for expenses incurred for certain planned major maintenance. We also, on occasion, may contribute towards aircraft modifications and recover any such costs over
+the life of the lease. Monitoring During the lease term, we closely follow the operating and financial performance of our lessees. We maintain a high level of
+communication with the lessee and frequently evaluate the state of the market in which the lessee operates, including the impact of changes in passenger air travel and preferences, emerging
+competition, new government regulations, regional catastrophes and other unforeseen shocks that are relevant to the airline's market. This enables us to identify lessees that may be experiencing
+operating and financial difficulties. This identification assists us in assessing the lessee's ability to fulfill its obligations under the lease. This monitoring also identifies candidates, where
+appropriate, to restructure the lease prior to the lessee's insolvency or the initiation of bankruptcy or similar proceedings. Once an insolvency or bankruptcy occurs we typically have less control
+over, and would most likely incur greater costs in connection with, the restructuring of the lease or the repossession of the aircraft. During
+the life of the lease, situations may lead us to restructure leases with our lessees. When we repossess an aircraft leased in a foreign country, we generally expect to export the
+aircraft from the lessee's jurisdiction. In some very limited situations, the lessees may not fully cooperate in returning the aircraft. In those cases, we will take legal action in the appropriate
+jurisdictions, a process that could ultimately delay the return and export of the aircraft. In addition, in connection with the repossession of an aircraft, we may be required to pay outstanding
+mechanics' liens, airport charges, and navigation fees and other amounts secured by liens on the repossessed aircraft. These charges could relate to other aircraft that we do not own but were operated
+by the lessee. Remarketing Our lease agreements are generally structured to require lessees to notify us nine to 12 months in advance of the lease's
+expiration if a lessee desires to renew or extend the lease. Requiring lessees to provide us with such advance notice provides our management team with an extended period of time to consider a broad
+set of alternatives with respect to the aircraft, including assessing general market and competitive conditions and preparing to remarket or sell the aircraft. If a lessee fails to provide us with
+notice, the lease will automatically expire at the end of the term, and the
+lessee will be required to return the aircraft pursuant to the conditions in the lease. Our leases contain detailed provisions regarding the required condition of the aircraft and its components upon
+redelivery at the end of the lease term. Aircraft Sales & Trading Strategy Our strategy is to maintain a portfolio of young aircraft with a widely diversified customer base. In order to achieve this profile, we
+primarily order new planes directly from the manufacturers, place them on long term leases, and sell the aircraft when they near the end of the first third of their expected 25 year economic
+useful lives. We typically sell aircraft that are currently operated by an airline with multiple years of lease term remaining on the contract, in order to achieve the maximum disposition value of the
+aircraft. Buyers of the aircraft may include leasing companies, financial institutions and airlines. We also buy and sell aircraft on an opportunistic basis for trading profits. Additionally, we may
+provide management services of the aircraft asset to the buyer for a fee. 9 Table of Contents Aircraft Management Strategy We supplement our core business model by providing fleet management services to third party investors and owners of aircraft portfolios
+for a management fee. This allows us to better serve our airline customers and expand our existing airline customer base by providing additional leasing opportunities beyond our own aircraft
+portfolio, new order pipeline and customer or regional concentration limits. Financing Strategy We finance the purchase of aircraft and our business with available cash balances, internally generated funds, including aircraft sales
+and trading activity, and debt financings. We have structured the Company to have investment grade credit metrics and our debt financing strategy has focused on funding our business on an unsecured
+basis. Unsecured financing provides us with operational flexibility when selling or transitioning aircraft from one airline to another. We may, to a limited extent, utilize export credit financing in
+support of our new aircraft deliveries. Insurance We require our lessees to carry those types of insurance that are customary in the air transportation industry, including comprehensive
+liability insurance, aircraft all-risk hull insurance and war-risk insurance covering risks such as hijacking, terrorism (but excluding coverage for weapons of mass destruction and nuclear events),
+confiscation, expropriation, seizure and nationalization. We generally require a certificate of insurance from the lessee's insurance broker prior to delivery of an aircraft. Generally, all
+certificates of insurance contain a breach of warranty endorsement so that our interests are not prejudiced by any act or omission of the lessee. Lease agreements generally require hull and liability
+limits to be in U.S. dollars, which are shown on the certificate of insurance. Insurance
+premiums are to be paid by the lessee, with coverage acknowledged by the broker or carrier. The territorial coverage, in each case, should be suitable for the lessee's area of
+operations. We generally require that the certificates of insurance contain, among other provisions, a provision prohibiting cancellation or material change without at least 30 days' advance
+written notice to the insurance broker (who would be obligated to give us prompt notice), except in the case of hull war insurance policies, which customarily only provide seven days' advance written
+notice for cancellation and may be subject to shorter notice under certain market conditions. Furthermore, the insurance is primary and not contributory, and we require that all insurance carriers be
+required to waive rights of subrogation against us. The
+stipulated loss value schedule under aircraft hull insurance policies is on an agreed-value basis acceptable to us and usually exceeds the book value of the aircraft. In cases where
+we believe that the agreed value stated in the lease is not sufficient, we make arrangements to cover such deficiency, which would include the purchase of additional "Total Loss Only" coverage for the
+deficiency. Aircraft
+hull policies generally contain standard clauses covering aircraft engines. The lessee is required to pay all deductibles. Furthermore, the hull war policies generally contain
+full war risk endorsements, including, but not limited to, confiscation (where available), seizure, hijacking and similar forms of retention or terrorist acts. The
+comprehensive liability insurance listed on certificates of insurance generally include provisions for bodily injury, property damage, passenger liability, cargo liability and such
+other provisions reasonably necessary in commercial passenger and cargo airline operations. We expect that such certificates of insurance list combined comprehensive single liability limits of not
+less than $500.0 million for Airbus and Boeing aircraft and $200.0 million for Embraer S.A. ("Embraer") and ATR aircraft. As a standard in the industry, airline operator's
+policies contain a sublimit for third-party 10 Table of Contents war
+risk liability in the amount of $50.0 million. We require each lessee to purchase higher limits of third-party war risk liability or obtain an indemnity from its respective government. In
+late 2005, the international aviation insurance market unilaterally introduced exclusions for physical damage to aircraft hulls caused by dirty bombs, bio-hazardous materials and
+electromagnetic pulsing. Exclusions for the same type of perils could be introduced into liability policies. Separately,
+we purchase contingent liability insurance and contingent hull insurance on all aircraft in our fleet and maintain other insurance covering the specific needs of our business
+operations. We believe our insurance is adequate both as to coverages and amounts. We
+cannot assure investors that our lessees will be adequately insured against all risks, that lessees will at all times comply with their obligations to maintain insurance, that any
+particular claim will be paid, or that lessees will be able to obtain adequate insurance coverage at commercially reasonable rates in the future. Competition The leasing, remarketing and sale of aircraft is highly competitive. We face competition from aircraft manufacturers, banks, financial
+institutions, other leasing companies,
+aircraft brokers and airlines. Some of our competitors may have greater operating and financial resources and access to lower capital costs than we have. Competition for leasing transactions is based
+on a number of factors, including delivery dates, lease rates, lease terms, other lease provisions, aircraft condition and the availability in the marketplace of the types of aircraft required to meet
+the needs of airline customers. Competition in the purchase and sale of used aircraft is based principally on the availability of used aircraft, price, the terms of the lease to which an aircraft is
+subject and the creditworthiness of the lessee, if any. Government Regulation The air transportation industry is highly regulated. We do not operate commercial aircraft, and thus may not be directly subject to
+many industry laws and regulations, such as regulations of the U.S. Department of State (the "DOS"), the U.S. Department of Transportation, or their counterpart organizations in foreign countries
+regarding the operation of aircraft for public transportation of passengers and property. As discussed below, however, we are subject to government regulation in a number of respects. In addition, our
+lessees are subject to extensive regulation under the laws of the jurisdictions in which they are registered or operate. These laws govern, among other things, the registration, operation, maintenance
+and condition of the aircraft. We
+are required to register our aircraft with an aviation authority mutually agreed upon with our lessee. Each aircraft registered to fly must have a Certificate of Airworthiness, which
+is a certificate demonstrating the aircraft's compliance with applicable government rules and regulations and that the aircraft is considered airworthy. Each airline we lease to must have a valid
+operation certificate to operate our aircraft. Our lessees are obligated to maintain the Certificates of Airworthiness for the aircraft they lease. Our
+involvement with the civil aviation authorities of foreign jurisdictions consists largely of requests to register and deregister our aircraft on those countries' registries. We
+are also subject to the regulatory authority of the DOS and the U.S. Department of Commerce (the "DOC") to the extent such authority relates to the export of aircraft for lease and
+sale to foreign entities and the export of parts to be installed on our aircraft. We may be required to obtain export licenses for parts installed in aircraft exported to foreign countries. The DOC
+and the U.S. Department of the Treasury (through its Office of Foreign Assets Control) impose restrictions on the operation of U.S.-made goods, such as aircraft and engines, in sanctioned countries,
+as well as on the 11 Table of Contents ability
+of U.S. companies to conduct business with entities in those countries. The U.S. Patriot Act of 2001 (the "Patriot Act") prohibits financial transactions by U.S. persons, including U.S.
+individuals, entities and charitable organizations, with individuals and organizations designated as terrorists and terrorist supporters by the U.S. Secretary of State or the U.S. Secretary of the
+Treasury. The U.S. Customs and Border Protection, a law enforcement agency of the U.S. Department of Homeland Security, enforces regulations related to the import of aircraft into the United States
+for maintenance or lease and the importation of parts into the U.S. for installation. Jurisdictions
+in which aircraft are registered as well as jurisdictions in which they operate may impose regulations relating to noise and emission standards. In addition, most
+countries' aviation laws require aircraft to be maintained under an approved maintenance program with defined procedures and intervals for inspection, maintenance and repair. To the extent that
+aircraft are not subject to a lease or a lessee is not in compliance, we are required to comply with such requirements, possibly at our own expense. Employees As of December 31, 2014, we had 65 full-time employees. On average, our senior management team has approximately 24 years
+of experience in the commercial aviation industry. None of our employees are represented by a union or collective bargaining agreements. Access to Our Information We file annual, quarterly, current reports, proxy statements and other information with the Securities and Exchange Commission (the
+"SEC"). We make our public SEC filings available, at no cost, through our website at www.airleasecorp.com as soon as reasonably practicable after the report is electronically filed with, or furnished
+to, the SEC. The information contained on or connected to our website is not incorporated by reference into this Annual Report on Form 10-K and should not be considered part of this or any
+other report filed with the SEC. We will also provide these reports in electronic or paper format free of charge upon written request made to Investor Relations at 2000 Avenue of the Stars,
+Suite 1000N, Los Angeles, California 90067. Our SEC filings are also available free of charge on the SEC's website at www.sec.gov. The public may also read and copy any document we file with
+the SEC at the SEC's public reference room located at 100 F
+Street NE, Washington, DC 20549. Please call the SEC at 1-800-SEC-0330 for further information on the operation of the public reference room. Corporate Information Air Lease Corporation incorporated in Delaware and launched in February 2010. Our website is www.airleasecorp.com. We may post
+information that is important to investors on our website. Information included or referred to on, or otherwise accessible through, our website is not intended to form a part of or be
+incorporated by reference into this report. 12 Table of Contents Executive Officers of the Company Set forth below is certain information concerning each of our executive officers as of February 26, 2015, including his/her age,
+current position with the Company and business experience during the past five years. Name Age Company Position Prior Positions* Steven F. Udvar-Házy 69 Chairman and Chief Executive Officer (since February 2010) Chairman and Chief Executive Officer of International Lease Finance Corporation ("ILFC"), 1973-2010 John L. Plueger 60 President, Chief Operating Officer and Director (since March 2010) Chief Executive Officer of ILFC, 2010 President and Chief Operating Officer of ILFC, 2002-2010 Carol H. Forsyte 52 Executive Vice President, General Counsel, Corporate Secretary and Chief Compliance Officer (since September 2012) Corporate Vice President Law of Motorola Mobility LLC, July 2012-September 14, 2012 Corporate Vice President and Secretary of Motorola Mobility, Inc., January 2011-July 2012 Corporate Vice President Law, Motorola Inc. 2005-2010 Marc H. Baer 50 Executive Vice President, Marketing (since April 2010) Senior Vice President of ILFC, 2007-2010 Jie Chen 51 Executive Vice President and Managing Director of Asia (since August 2010) Senior Vice President and Managing Director, Asia of ILFC, 2002-2010 Alex A. Khatibi 54 Executive Vice President (since April 2010) Managing Director of ILFC's Middle East business, 1996-2010 Grant A. Levy 52 Executive Vice President (since April 2010) Senior Vice President, Marketing of ILFC, 2002-2010 Gregory B. Willis 36 Senior Vice President and Chief Financial Officer (since March 2012) Vice President, Finance, and Chief Accounting Officer of ALC, 2010-2012 Director of Accounting Policy of ILFC, 2007-2010 John D. Poerschke 53 Senior Vice President of Aircraft Procurement and Specifications (since March 2010) Vice President, Aircraft Specifications and Material, of ILFC, 1995-2010 * ILFC
+is an aircraft leasing company. Motorola Mobility LLC, Motorola Mobility, Inc., and Motorola Inc. are manufacturers of communication
+equipment. 13 Table of Contents ITEM 1A. RISK FACTORS We wish to caution the reader that the following important risk factors, and those risk factors described
+elsewhere in this report or in our other filings with the Securities and Exchange Commission, could cause our actual results to differ materially from those stated in forward-looking statements
+contained in this document and elsewhere. These risks are not presented in order of importance or probability of occurrence. Further, the risks described below are not the only risks that we face.
+Additional risks and uncertainties not currently known to us or that we currently deem immaterial may also impair our business operations. Any of these risks may have a material adverse effect on our
+business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. Risks Relating to Our Business We cannot assure you that we will be able to enter into profitable leases for any aircraft acquired,
+which failure to do so would negatively affect our financial condition, cash flow and results of operations. We cannot assure you that we will be able to enter into profitable leases upon the acquisition of the aircraft we purchase in the
+future. You must rely upon our management team's judgment and ability to evaluate the ability of lessees and other counterparties to perform their obligations to us and to negotiate transaction
+documents. We cannot assure you that our management team will be able to perform such functions in a manner that will achieve our investment objectives, which would negatively affect our financial
+condition, cash flow and results of operations. Our business model depends on the continual leasing and remarketing of our aircraft, and we may not
+be able to do so on favorable terms, which would negatively affect our financial condition, cash flow and results of operations. Our business model depends on the continual leasing and remarketing of our aircraft in order to generate sufficient revenues to finance
+our growth and operations, pay our debt service obligations and generate positive cash flows from operations. Our ability to lease and remarket our aircraft will depend on general market and
+competitive conditions at the time the initial leases are entered into and expire. If we are not able to lease or remarket an aircraft or to do so on favorable terms, we may be required to attempt to
+sell the aircraft to provide funds for our debt service obligations or operating expenses. Our ability to lease, remarket or sell the aircraft on favorable terms or without significant off-lease time
+and costs could be negatively affected by depressed conditions in the aviation industry, airline bankruptcies, the effects of terrorism, war, natural disasters and/or epidemic diseases on airline
+passenger traffic trends, declines in the values of aircraft, and various other general market and competitive conditions and factors which are outside of our control. If we are unable to lease and
+remarket our aircraft, on favorable terms, our financial condition, cash flow and results of operations would be negatively affected. Incurring significant costs resulting from lease defaults could negatively affect our financial
+condition, cash flow and results of operations. If we are required to repossess an aircraft after a lessee default, we may be required to incur significant costs. Those costs likely
+would include legal and other expenses associated with court or other governmental proceedings, including the cost of posting surety bonds or letters of credit necessary to effect repossession of an
+aircraft, particularly if the lessee is contesting the proceedings or is in bankruptcy. In addition, during any such proceedings the relevant aircraft would likely not be generating revenue. We could
+also incur substantial maintenance, refurbishment or repair costs if a defaulting lessee fails to pay such costs and where such maintenance, refurbishment or repairs are necessary to put the aircraft
+in suitable condition for remarketing or sale. We may also incur storage costs associated with any aircraft that we repossess and are unable to place immediately with another 14 Table of Contents lessee.
+It may also be necessary to pay off liens, taxes and other governmental charges on the aircraft to obtain clear possession and to remarket the aircraft effectively, including, in some cases,
+liens that the lessor might have incurred in connection with the operation of its other aircraft. We could also incur other costs in connection with the physical possession of the aircraft. We
+may suffer other negative consequences as a result of a lessee default, the related termination of the lease and the repossession of the related aircraft. It is likely that our rights
+upon a lessee default will vary significantly depending upon the jurisdiction and the applicable law, including the need to obtain a court order for repossession of the aircraft and/or consents for
+deregistration or export of the aircraft. We anticipate that when a defaulting lessee is in bankruptcy, protective administration, insolvency or similar proceedings, additional limitations may apply.
+Certain jurisdictions give rights to the trustee in bankruptcy or a similar officer to assume or reject the lease or to assign it to a third party, or entitle the lessee or another third party to
+retain possession of the aircraft without paying lease rentals or performing all or some of the obligations under the relevant lease. In addition, certain of our lessees are owned, in whole or in
+part, by government-related entities, which could complicate our efforts to repossess our aircraft in that lessee's domicile. Accordingly, we may be delayed in, or prevented from, enforcing certain of
+our rights under a lease and in remarketing the affected aircraft. If
+we repossess an aircraft, we may not necessarily be able to export or deregister and profitably redeploy the aircraft. For instance, where a lessee or other operator flies only
+domestic routes in the jurisdiction in which the aircraft is registered, repossession may be more difficult, especially if the jurisdiction permits the lessee or the other operator to resist
+deregistration. We may also incur significant costs in retrieving or recreating aircraft records required for registration of the aircraft, and in obtaining the Certificate of Airworthiness for an
+aircraft. If, upon a lessee default, we incur
+significant costs in connection with repossessing our aircraft, are delayed in repossessing our aircraft or are unable to obtain possession of our aircraft as a result of lessee defaults, our
+financial condition, cash flow and results of operations would be negatively affected. If our lessees fail to discharge aircraft liens, we may be obligated to pay the aircraft liens,
+which would negatively affect our financial condition, cash flow and results of operations. In the normal course of their business, our lessees are likely to incur aircraft liens that secure the payment of airport fees and
+taxes, customs duties, air navigation charges, including charges imposed by Eurocontrol, the European Organization for the Safety of Air Navigation, landing charges, salvage or other liens that may
+attach to our aircraft. These liens may secure substantial sums that may, in certain jurisdictions or for certain types of liens, particularly liens on entire fleets of aircraft, exceed the value of
+the particular aircraft to which the liens have attached. Aircraft may also be subject to mechanics' liens as a result of routine maintenance performed by third parties on behalf of our lessees.
+Although we anticipate that the financial obligations relating to these liens will be the responsibility of our lessees, if they fail to fulfill such obligations, the liens may attach to our aircraft
+and ultimately become our responsibility. In some jurisdictions, aircraft liens may give the holder thereof the right to detain or, in limited cases, sell or cause the forfeiture of the aircraft. Until
+they are discharged, these liens could impair our ability to repossess, remarket or sell our aircraft. Our lessees may not comply with the anticipated obligations under their
+leases to discharge aircraft liens arising during the terms of the leases. If they do not, we may find it necessary to pay the claims secured by such aircraft liens in order to repossess the aircraft.
+Such payments would negatively affect our financial condition, cash flow and results of operations. 15 Table of Contents If our lessees fail to perform as expected and we decide to restructure or reschedule our leases,
+the restructuring and rescheduling would likely result in less favorable leases, which would negatively affect our financial condition, cash flow and results of operations. A lessee's ability to perform its obligations under its lease will depend primarily on the lessee's financial condition and cash flow,
+which may be affected by factors outside our control, including:  competition;  passenger and air cargo rates;  passenger and air cargo demand;  geopolitical and other events, including war, acts of terrorism, outbreaks of epidemic diseases and natural disasters;  increases in operating costs, including the price and availability of jet fuel and labor costs;  labor difficulties, including pilot shortages;  economic conditions and currency fluctuations in the countries and regions in which the lessee operates; and  governmental regulation and associated fees affecting the air transportation business. Many
+airlines, including some of our customers, are not backed by sovereign credit and do not have investment grade credit profiles. We anticipate that some of our lessees will
+experience a weakened financial condition or suffer liquidity problems. This could lead to a lessee experiencing difficulties in performing under the terms of our lease agreement. This could result in
+the lessee seeking relief under some of the terms of our lease agreement, or it could result in us electing to repossess the aircraft. Any
+future downturns in the airline industry could greatly exacerbate the weakened financial condition of some of these lessees and further increase the risk of delayed, missed or
+reduced rental payments. We may not correctly assess the credit risk of a lessee, or may not charge lease rates which correctly reflect the related risks, and as a result, lessees may not be able to
+satisfy their financial and other obligations under their leases. A delayed, missed or reduced rental payment from a lessee would decrease our revenues and cash flow. If we, in the exercise of our
+remedies under a lease, repossess an aircraft, we may not be able to remarket the aircraft promptly or at favorable rates. It
+is likely that restructurings and/or repossessions with some of our lessees will occur in the future. The terms and conditions of possible lease restructurings or reschedulings may
+result in a significant reduction of lease revenue, which may negatively affect our financial results and growth prospects. If any request for payment restructuring or rescheduling is made and
+granted, reduced or deferred rental payments may be payable over all or some part of the remaining term of the lease. The terms of any revised payment schedules may be unfavorable and such payments
+may not be made. Our default levels would likely increase over time if economic conditions deteriorate. If lessees of a significant number of our aircraft defaulted on their leases, it would
+negatively affect our financial condition, cash flow and results of operations. Failure to obtain certain required licenses and approvals could negatively affect our ability to
+remarket or sell aircraft, which would negatively affect our financial condition, cash flow and results of operations. Lessees are subject to extensive regulation under the laws of the jurisdictions in which they are registered and in which they operate.
+As a result, we expect that certain aspects of our leases will require licenses, consents or approvals, including consents from governmental or regulatory authorities for certain payments under our
+leases and for the import, export or deregistration of the aircraft. 16 Table of Contents Subsequent
+changes in applicable law or administrative practice may increase such requirements and governmental consent, once given, could be withdrawn. Furthermore, consents needed in connection with
+the future remarketing or sale of an aircraft may not be forthcoming. Any of these events could negatively affect our ability to remarket or sell aircraft, which would negatively affect our financial
+condition, cash flow and results of operations. Our aircraft require routine maintenance, and if they are not properly maintained, their value may
+decline and we may not be able to lease or remarket such aircraft at favorable rates, if at all, which would negatively affect our financial condition, cash flow and results of operations. We may be exposed to increased maintenance costs for our aircraft associated with a lessee's failure to properly maintain the aircraft
+or pay supplemental maintenance rent. If an aircraft is not properly maintained, its market value may decline, which would result in lower revenues from its lease or sale. We enter into leases
+pursuant to which the lessees are primarily responsible for many obligations, which include maintaining the aircraft and complying with all governmental requirements applicable to the lessee and the
+aircraft, including operational, maintenance, government agency oversight, registration requirements and airworthiness directives. Failure of a lessee to perform required maintenance during the term
+of a lease could result in a decrease in value of an aircraft, an inability to remarket an aircraft at favorable rates, if at all, or a potential grounding of an aircraft. Maintenance failures by a
+lessee would also likely require us to incur maintenance and modification costs upon the termination of the applicable lease, which could be substantial, to restore the aircraft to an acceptable
+condition prior to remarketing or sale. Any failure by our lessees to meet their obligations to perform required scheduled maintenance or our inability to maintain our aircraft would negatively affect
+our financial condition, cash flow and results of operations. If we experience abnormally high maintenance or obsolescence issues with any of our aircraft or
+aircraft that we acquire, it would negatively affect our financial condition, cash flow and results of operations. Aircraft are long-lived assets, requiring long lead times to develop and manufacture, with particular types and models becoming
+obsolete or less in demand over time when newer, more advanced aircraft are manufactured. Our existing fleet, as well as, the aircraft that we have ordered, have exposure to obsolescence, particularly
+if unanticipated events occur which shorten the life cycle of such aircraft types. These events include but are not limited to government regulation or changes in our airline customers' preferences.
+These events may shorten the life cycle for aircraft types in our fleet and, accordingly, may negatively impact lease rates, trigger impairment charges, increase
+depreciation expense or result in losses related to aircraft asset value guarantees, if we provide such guarantees. Further,
+variable expenses like fuel, crew size or aging aircraft corrosion control or modification programs and airworthiness directives could make the operation of older aircraft more
+costly to our lessees and may result in increased lessee defaults. We may also incur some of these increased maintenance expenses and regulatory costs upon acquisition or remarketing of our aircraft.
+Any of these expenses or costs would negatively affect our financial condition, cash flow and results of operations. If we acquire a high concentration of a particular model of aircraft, our financial condition, cash
+flow and results of operations would be negatively affected by changes in market demand or problems specific to that aircraft model. If we acquire a high concentration of a particular model of aircraft, our business and financial results could be negatively affected
+if the market demand for that model of aircraft declines, if it is redesigned or replaced by its manufacturer or if this type of aircraft experiences design or technical problems. If we acquire a high
+concentration of a particular aircraft model and such model encounters technical or other problems, the value and lease rates of such aircraft will likely decline, and we may be 17 Table of Contents unable
+to lease such aircraft on favorable terms, if at all. A significant technical problem with a specific type of aircraft could result in the grounding of the aircraft. Any decrease in the value
+and lease rates of our aircraft would negatively affect our financial condition, cash flow and results of operations. The introduction of superior aircraft technology or a new line of aircraft, in particular more fuel
+efficient aircraft, could cause the aircraft that we acquire to become outdated or obsolete or oversupplied and therefore less desirable, which would negatively affect our financial condition, cash
+flow and results of operations. As manufacturers introduce technological innovations and new types of aircraft, some of the aircraft in our fleet could become less
+desirable to potential lessees. In particular, the introduction recently of more fuel efficient aircraft have made some older models less attractive
+and more difficult to lease. Technological innovations, increased fuel efficiency and new models may increase the rate of obsolescence of existing aircraft faster than currently anticipated by our
+management. New aircraft manufacturers could emerge to produce aircraft that compete with the aircraft we own. The introduction of new technologies or introduction of a new type of aircraft, in
+particular more fuel efficient models, may negatively affect the value of the aircraft in our fleet. In
+addition, the imposition of increased regulation regarding stringent noise or emissions restrictions may make some of our aircraft less desirable and accordingly less valuable in the
+marketplace. The development of new aircraft and engine options could decrease the desirability of certain aircraft in our fleet and/or aircraft that we have ordered. This could, in turn, reduce both
+future residual values and lease rates for certain types of aircraft in our portfolio. Any of these risks may negatively affect our ability to lease or sell our aircraft on favorable terms, if at all,
+which would negatively affect our financial condition, cash flow and results of operations. We are indirectly subject to many of the economic and political risks associated with emerging
+markets, which could negatively affect our financial condition, cash flow and results of operations. Our business strategy emphasizes leasing aircraft to lessees outside of the United States, including to airlines in emerging market
+countries. Emerging market countries have less developed economies and infrastructure and are often more vulnerable to economic and geopolitical challenges and may experience significant fluctuations
+in gross domestic product, interest rates and currency exchange rates, as well as civil disturbances, government instability, nationalization and expropriation of private assets and the imposition of
+taxes or other charges by government authorities. The occurrence of any of these events in markets served by our lessees and the resulting economic instability that may arise, particularly if combined
+with high fuel prices, could negatively affect the value of our aircraft subject to lease in such countries, or the ability of our lessees, which operate in these markets, to meet their lease
+obligations. As a result, lessees that operate in emerging market countries may be more likely to default than lessees that operate in developed countries. In addition, legal systems in emerging
+market countries may be less developed, which could make it more difficult for us to enforce our legal rights in such countries. Further,
+demand for aircraft is dependent on passenger and cargo traffic, which in turn is dependent on general business and economic conditions. As a result, weak or negative economic
+growth in emerging markets may have an indirect effect on the value of the assets that we acquire if airlines and other potential lessees are negatively affected. Economic downturns can affect the
+values of the assets we purchase, which may have a negative effect on our financial condition, cash flow and results of operation. 18 Table of Contents From time to time, the aircraft industry has experienced periods of oversupply during which lease
+rates and aircraft values have declined, and any future oversupply could negatively affect our financial condition, cash flow and results of operations. Historically, the aircraft leasing business has experienced periods of aircraft oversupply. The oversupply of a specific type of
+aircraft is likely to depress the lease rates for and the value of that type of aircraft, including upon sale. The supply and demand for aircraft is affected by various cyclical and non-cyclical
+factors that are outside of our control, including:  passenger and air cargo demand;  fuel costs and general economic conditions;  geopolitical events, including war, prolonged armed conflict and acts of terrorism;  outbreaks of communicable diseases and natural disasters;  governmental regulation;  interest rates;  the availability of credit;  airline restructurings and bankruptcies;  airline fleet planning that reduces capacity or changes the type of aircraft in demand;  manufacturer production levels and technological innovation;  manufacturers merging or exiting the industry or ceasing to produce aircraft types;  retirement and obsolescence of aircraft models;  reintroduction into service of aircraft previously in storage; and  airport and air traffic control infrastructure constraints. In
+addition, operating lessors may be sold or merged with other entities. Recently, two of our competitors merged to create a larger competitor for us. These types of transactions may
+call for a reduction in the fleet of the new entity, which could increase supply levels of used and older aircraft in the market. Any
+of these factors may produce sharp and prolonged decreases in aircraft lease rates and values. They may have a negative effect on our ability to lease or remarket the aircraft in our
+fleet or in our order book. Any of these factors could negatively affect our financial condition, cash flow and results of operations. The value of the aircraft we acquire and the market rates for leases could decline, which would have
+a negative effect on our financial condition, cash flow and results of operations. Aircraft values and market rates for leases have from time to time experienced sharp decreases due to a number of factors including,
+but not limited to, decreases in passenger and air cargo demand, increases in fuel costs, government regulation and increases in interest rates. Operating leases place the risk of realization of
+residual values on aircraft lessors because only a portion of the equipment's value is covered by contractual cash flows at lease inception. In addition to factors linked to the aviation industry
+generally, many other factors may affect the value of the aircraft that we acquire and market rates for leases, including:  the particular maintenance, operating history and documentary records of the aircraft;  the number of operators using that type of aircraft; 19 Table of Contents  aircraft age;  the regulatory authority under which the aircraft is operated;  any renegotiation of an existing lease on less favorable terms;  the negotiability of clear title free from mechanics' liens and encumbrances;  any regulatory and legal requirements that must be satisfied before the aircraft can be purchased, sold or re-leased;  compatibility of aircraft configurations or specifications with other aircraft owned by operators of that type;  comparative value based on newly manufactured competitive aircraft; and  the availability of spare parts. Any
+decrease in the value of aircraft that we acquire and market rates for leases, which may result from the above factors or other unanticipated factors, would have a negative effect on
+our financial condition, cash flow and results of operations. Competition from other aircraft lessors with greater resources or a lower cost of capital than ours
+could negatively affect our financial condition, cash flow and results of operations. The aircraft leasing industry is highly competitive. Our competitors may have greater resources or a lower cost of capital than ours;
+accordingly, they may be able to compete more effectively in one or more of the markets we conduct business in. In
+addition, we may encounter competition from other entities in the acquisition of aircraft such as:  airlines;  financial institutions;  aircraft brokers;  public and private partnerships, investors and funds with more capital to invest in aircraft; and  other aircraft leasing companies that we do not currently consider our major competitors. Competition
+for a leasing transaction is based principally upon lease rates, delivery dates, lease terms, reputation, management expertise, aircraft condition, specifications and
+configuration and the availability of the types of aircraft necessary to meet the needs of the customer. Competition in the purchase and sale of aircraft is based principally on the availability of
+the aircraft, the price, and where applicable the terms of the lease to which an aircraft is subject and the creditworthiness of the lessee. We will not always be able to compete successfully with our
+competitors, which could negatively affect our financial condition, cash flow and results of operations. The failure of any manufacturer to meet its delivery obligations to us would negatively affect our
+cash flow and results of operations. The supply of commercial aircraft is dominated by a few airframe manufacturers and a limited number of engine manufacturers. As a
+result, we are dependent on the success of these manufacturers in remaining financially stable, producing products and related components which meet the airlines' demands and fulfilling any
+contractual obligations they may have to us. 20 Table of Contents Should the manufacturers fail to respond appropriately to changes in the market environment or fail to fulfill any contractual obligations they might have to us,
+we may experience:  missed or late delivery of aircraft and a potential inability to meet our contractual obligations owed to any of our then lessees,
+resulting in potential lost or delayed revenues, lower growth rates and strained customer relationships;  an inability to acquire aircraft and related components on terms which will allow us to lease those aircraft to airline customers at a
+profit, resulting in lower growth rates or a contraction in our aircraft fleet;  a market environment with too many aircraft available, potentially creating downward pressure on demand for the anticipated aircraft
+in our fleet and reduced market lease rates and sale prices; or  a reduction in our competitiveness due to deep discounting by the manufacturers, which may lead to reduced market lease rates and
+aircraft values and may affect our ability to remarket or sell at a profit, or at all, some of the aircraft in our fleet. There
+have been recent well-publicized delays by airframe manufacturers in meeting stated deadlines in bringing new aircraft to market. If there are manufacturing delays for aircraft for
+which we have made future lease commitments, some or all of our affected lessees could elect to terminate their lease arrangements with respect to such delayed aircraft. Any such termination could
+strain our relations with those lessees going forward and would negatively affect our cash flow and results of operations. Aircraft have limited economic useful lives and depreciate over time, which would negatively affect
+our financial condition, cash flow and results of operations. As commercial aircraft age, they will depreciate and generally the aircraft will generate lower revenues and cash flows. We must be
+able to replace such older depreciated aircraft with newer aircraft or our ability to maintain or increase our revenues and cash flow will decline. In addition, since we depreciate our aircraft for
+accounting purposes on a straight-line basis to the aircraft's residual value over its estimated useful life, if we dispose of an aircraft for a price that is less than the depreciated book value of
+the aircraft on our balance sheet, we will recognize a loss on the sale. For these reasons, our financial condition, cash flow and results of operations would be negatively affected. Failure to close our aircraft acquisition commitments could negatively affect our financial
+condition, cash flow and results of operations. As of December 31, 2014, we had entered into binding purchase commitments to acquire a total of 364 new aircraft for delivery
+through 2023. If we are unable to maintain our financing sources or find new sources of financing or if the various conditions to our existing commitments are not satisfied, we may be unable to close
+the purchase of some or all of the aircraft which we have commitments to acquire. If our aircraft acquisition commitments are not closed
+for these or other reasons, we will be subject to several risks, including the following:  forfeiting deposits and progress payments and having to pay and expense certain significant costs relating to these commitments, such
+as actual damages, and legal, accounting and financial advisory expenses, not realizing any of the benefits of completing the transactions and damage to our reputation and relationship with aircraft
+manufacturers;  defaulting on our lease commitments, which could result in monetary damages and damage to our reputation and relationships with
+lessees; and 21 Table of Contents  failing to capitalize on other aircraft acquisition opportunities that were not pursued due to our management's focus on these
+commitments. If
+we determine that the capital we require to satisfy these commitments may not be available to us, either at all or on terms we deem attractive, we may eliminate or reduce any dividend
+program that may be in place at that time in order to preserve capital to apply to these commitments. These risks would negatively affect our financial condition, cash flow and results of operations. Our credit facilities may limit our operational flexibility, our ability to effectively compete and
+our ability to grow our business as currently planned, which would negatively affect our financial condition, cash flow and results of operations. Our credit facilities contain financial and non-financial covenants, such as requirements that we comply with one or more of the
+following covenants: maximum debt-to-equity ratios, dividend restrictions, minimum net worth and interest coverage ratios, change of control provisions, and prohibitions against our disposing of our
+aircraft or other aviation assets without a lender's prior consent. Complying with such covenants may at times necessitate that we forego other opportunities, such as using available cash to grow our
+aircraft fleet or promptly disposing of less profitable aircraft or other aviation assets. Moreover, our failure to comply with any of these covenants would likely constitute a default under such
+facilities and could give rise to an acceleration of some, if not all, of our then outstanding indebtedness, which would have a negative effect on our business and our ability to continue as a going
+concern. In
+addition, we cannot assure you that our business will generate cash flow from operations in an amount sufficient to enable us to service our debt and grow our operations as planned.
+We cannot assure you that we will be able to refinance any of our debt on favorable terms, if at all. In addition, we cannot assure you that in the future we will be able to access long-term financing
+or credit support on attractive terms, if at all, or qualify for guarantees, or obtain attractive terms for such guarantees, from the export credit agencies. Any inability to generate sufficient cash
+flow, maintain our existing fleet and facilities, or access long-term financing or credit support would negatively affect our financial condition, cash flow and results of operations. We will need additional capital to finance our growth, and we may not be able to obtain it on terms
+acceptable to us, or at all, which may limit our ability to satisfy our commitments to acquire additional aircraft and to compete effectively in the commercial aircraft leasing market and would
+negatively affect our financial condition, cash flow and results of operations. Growing our fleet will require substantial additional capital. Accordingly, we will need to obtain additional financing, which may not
+be available to us on favorable terms or at all. Our access to additional sources of financing will depend upon a number of factors over which we have limited control,
+including:  general market conditions;  the market's view of the quality of our assets;  the market's perception of our growth potential;  interest rate fluctuations;  our current and potential future earnings and cash distributions; and  the market price of our Class A common stock. Weaknesses
+in the capital and credit markets could negatively affect one or more private lenders and could cause one or more private lenders to be unwilling or unable to provide us with
+financing or 22 Table of Contents to
+increase the costs of that financing. In addition, if there are new regulatory capital requirements imposed on our private lenders, they may be required to limit, or increase the cost of, financing
+they provide to us. In general, this could potentially increase our financing costs and reduce our liquidity or require us to sell assets at an inopportune time or price. If
+we are unable to raise additional funds or obtain capital on terms acceptable to us, we may not be able to satisfy funding requirements should we have any aircraft acquisition
+commitments then in place.
+If we are unable to satisfy our purchase commitments, we may be forced to forfeit our deposits. Further, we would be exposed to potential breach of contract claims by our lessees and manufacturers.
+These risks may also be increased by the volatility and disruption in the capital and credit markets. Depending on market conditions at the time, we may have to rely more heavily on additional equity
+issuances, which may be dilutive to our stockholders, or on less efficient forms of debt financing that require a larger portion of our cash flow from operations, thereby reducing funds available for
+our operations, future business opportunities and other purposes. Moreover, if additional capital is raised through the issuance of additional equity securities, the interests of existing stockholders
+could be diluted. Because our charter permits the issuance of preferred stock, if our board of directors approves the issuance of preferred stock in a future financing transaction, such preferred
+stockholders may have rights, preferences or privileges senior to existing stockholders, and you will not have the ability to approve such a transaction. These risks would negatively affect our
+financial condition, cash flow and results of operations. Negative changes in our credit ratings may limit our ability to obtain financing or increase our
+borrowing costs which would negatively affect our financial condition, cash flow and results of operations. We are currently subject to periodic review by independent credit rating agencies Standard & Poor's Rating Services ("S&P") and
+Kroll Bond Rating Agency ("Kroll"), each of which currently maintains investment grade credit ratings with respect to us and certain of our debt securities, and we may become subject to periodic
+review by other independent credit rating agencies in the future. An increase in the level of our outstanding indebtedness, or other events that could have a negative impact on our business,
+properties, financial condition, results of operations or prospects, may cause S&P or Kroll, or, in the future, other rating agencies, to downgrade or withdraw the credit rating with respect to us or
+our debt securities, which could negatively impact our ability to secure financing and increase our borrowing costs. We
+cannot assure you that these credit ratings will remain in effect for any given period of time or that a rating will not be lowered, suspended or withdrawn entirely by the applicable
+rating agency, if, in such rating agency's sole judgment, circumstances so warrant. Ratings are not a recommendation to buy, sell or hold any security. Each agency's rating should be evaluated
+independently of any other agency's rating. Actual or anticipated changes or downgrades in our credit ratings, including any announcement that our ratings are under further review for a downgrade,
+could increase our corporate borrowing costs and limit our access to the capital markets which would negatively affect our financial condition, cash flow and results of operations. An unexpected increase in our borrowing costs would negatively affect our financial condition, cash
+flow and results of operations. We finance many of the aircraft in our fleet through a combination of short-and long-term debt financings. As these debt financings
+mature, we may have to refinance these existing commitments by entering into new financings, which could result in higher borrowing costs, or repay them by using cash on hand or cash from the sale of
+our assets. Moreover, an increase in interest rates under the various debt financing facilities we have in place would have a negative effect on our earnings and could make our aircraft leasing
+contracts unprofitable. 23 Table of Contents Some
+of our debt financings bear interest at a floating rate, such that our interest expense would vary with changes in the applicable reference rate. As a result, our inability to
+sufficiently protect ourselves from changes in our cost of borrowing, as reflected in our composite interest rate, may have a direct, negative impact on our net income. Our lease rental stream is
+generally fixed over the life of our leases, whereas we have used floating-rate debt to finance a significant portion of our aircraft acquisitions. As of December 31, 2014, we had
+$1.7 billion in floating-rate debt. If interest rates increase, we would be obligated to make higher interest payments to our lenders. If we incur significant fixed-rate debt in the future,
+increased interest rates prevailing in the market at the time of the incurrence of such debt would also increase our interest expense. If our composite interest rate were to increase by 1.0%, we would
+expect to incur additional interest expense on our existing indebtedness as of December 31, 2014, of approximately $16.6 million on an annualized basis, which would negatively affect our
+financial condition, cash flow and results of operations. The
+interest rates that we obtain on our debt financings have several components, including credit spreads, swap spreads, duration, and new issue premiums. These are all incremental to
+the underlying risk-free rates, as applicable. Volatility in our perceived risk of default or in a market sector's risk of default will negatively impact our cost of funds. We
+currently are not involved in any interest rate hedging activities, but we are contemplating engaging in hedging activities in the future. Any such hedging activities will require us
+to incur additional costs, and there can be no assurance that we will be able to successfully protect ourselves from any or all negative interest rate fluctuations at a reasonable cost. Our substantial indebtedness incurred to acquire our aircraft requires significant debt service
+payments which would negatively affect our financial condition, cash flow and results of operations. We and our subsidiaries have a significant amount of indebtedness. As of December 31, 2014, our total consolidated indebtedness
+was approximately $6.7 billion, and we expect this amount to grow as we acquire more aircraft. Our high level of debt could have important consequences, including the
+following:  making it more difficult for us to satisfy our payment obligations with respect to our debt;  limiting our ability to obtain additional financing to fund the acquisition of aircraft or for other corporate requirements;  requiring a substantial portion of our cash flows to be dedicated to debt service payments instead of other purposes, thereby reducing
+the amount of cash flows available for dividends, aircraft acquisitions and other general corporate purposes;  increasing our vulnerability to general negative economic and industry conditions;  exposing us to the risk of increased interest rates as certain of our borrowings, including borrowings under our various credit
+facilities, are at variable rates of interest;  limiting our flexibility in planning for and reacting to changes in the aircraft industry;  placing us at a disadvantage compared to other competitors; and  increasing our cost of borrowing. In
+addition, certain agreements governing our existing indebtedness contain financial maintenance covenants that require us to satisfy certain ratios and maintain minimum net worth, and
+other restrictive covenants that limit our ability to engage in activities that may be in our long-term best interest. Our failure to comply with those covenants could result in an event of default
+which, if not cured or waived, may result in the acceleration of some or all our debt, which would negatively affect our financial condition, cash flow and results of operations. 24 Table of Contents Creditors of any subsidiaries we form for purposes of financing will have priority over our
+stockholders in the event of a distribution of such subsidiaries' assets. Many of the aircraft we acquire are held in special-purpose, bankruptcy-remote subsidiaries of our Company. Liens on those assets will
+be held by a collateral agent for the benefit of the lenders under the respective facility. In addition, funds generated from the lease of aircraft generally are applied first to amounts due to
+lenders, with certain exceptions. Creditors of our subsidiaries will have priority over us and our stockholders in any distribution of any such subsidiaries' assets in a liquidation, reorganization or
+otherwise. Defaults by one or more of our significant airline customers would negatively affect our financial
+condition, cash flow and results of operations. The airline industry is cyclical, economically sensitive and highly competitive. Our lessees are affected by fuel prices and shortages,
+political or economic instability, terrorist activities, changes in national policy, competitive pressures, labor actions, pilot shortages, insurance costs, recessions, health concerns, and other
+political or economic events negatively affecting the world or regional trading markets. Our lessees' abilities to react to and cope with the volatile competitive environment in which they operate, as
+well as our own competitive environment, will likely affect our revenues and income. The loss of one or more of our significant airline customers or their inability to make operating lease payments
+due to financial difficulties, bankruptcy or otherwise could have a material negative effect on our cash flow and earnings. This, in turn, could result in a breach of the covenants contained in any of
+our long-term debt facilities, possibly resulting in accelerated amortization or defaults and would negatively affect our financial condition, cash flow and results of operations. To a large extent, our success also depends upon our ability to access financing on favorable terms
+to finance the purchase of aircraft and repay outstanding debt obligations as they mature. If disruptions in credit markets occur, we may not be able to obtain financing from third parties on
+favorable terms, if at all, which would negatively affect our financial condition and results of operations. During the most recent financial crisis, many companies experienced downward pressure on share prices and had limited or no access to
+the credit markets, often without regard to their underlying financial strength. If financial market disruption and volatility were to occur again, we cannot assure you that we will be able to access
+capital, which could negatively affect our financial condition and results of operations. We
+are exposed to risk from volatility and disruption in the financial markets in various ways, including:  difficulty or inability to finance obligations for, or to finance a portion of, the acquisition of aircraft;  increased risk of default by our lessees resulting from financial market distress, lack of available credit or continuing effects of
+the global economic recession;  exposure to increased bank or counterparty risk in the current environment, including the risk that our counterparties will not be
+able to perform their obligations under contracts effectively locking in interest rates for our debt that has a floating interest rate feature and the risk that, if banks issue letters of credit to us
+in lieu of cash security deposits from our lessees, such banks may fail to pay when we seek to draw on these letters of credit; and  the risk that we will not be able to re-finance any of our debt financings, as they come due, on favorable terms or at all. 25 Table of Contents Certain of our subsidiaries may be restricted in their ability to make distributions to us which
+would negatively affect our financial condition and cash flow. The subsidiaries that hold our aircraft are legally distinct from us, and some of these subsidiaries are restricted from paying
+dividends or otherwise making funds available to us pursuant to agreements governing our indebtedness. Many of our principal debt facilities have financial covenants. If we are unable to comply with
+these covenants, then the amounts outstanding under these facilities may become immediately due and payable, cash generated by our subsidiaries affected by these facilities may be unavailable to us
+and/or we may be unable to draw additional amounts under these facilities. The events that could cause some of our subsidiaries not to be in compliance with their loan agreements, such as a lessee
+default, may be beyond our control, but they nevertheless could have a substantial negative impact on the amount of our cash flow available to fund working capital, make capital expenditures and
+satisfy other cash needs. For these reasons our financial condition and cash flow would be negatively affected. For a description of the operating and financial restrictions in our debt facilities,
+see the section titled "Management's Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and Capital Resources." Our aircraft may not at all times be adequately insured either as a result of lessees failing to
+maintain sufficient insurance during the course of a lease or insurers not being willing to cover certain risks which would negatively affect our financial condition, cash flow and results of
+operations. We do not directly control the operation of any aircraft we acquire. Nevertheless, because we hold title, directly or indirectly, to
+such aircraft, we could be sued or held strictly liable for losses resulting from the operation of such aircraft, or may be held liable for those losses on other legal theories, in certain
+jurisdictions around the world, or claims may be made against us as the owner of an aircraft requiring us to expend resources in our defense. We require our lessees to obtain specified levels of
+insurance and indemnify us for, and insure against, liabilities arising out of their use and operation of the aircraft. Some lessees may fail to maintain adequate insurance coverage during a lease
+term, which, although in contravention of the lease terms, would necessitate our taking some corrective action such as terminating the lease or securing insurance for the aircraft, either of which
+could negatively affect our financial results. In
+addition, there are certain risks or liabilities that our lessees may face, for which insurers may be unwilling to provide coverage or the cost to obtain such coverage may be
+prohibitively expensive. For example, following the terrorist attacks of September 11, 2001, non-government aviation insurers significantly reduced the amount of insurance coverage available
+for claims resulting from acts of terrorism, war, dirty bombs, bio-hazardous materials, electromagnetic pulsing or similar events. Accordingly, we anticipate that our lessees' insurance or other
+coverage may not be sufficient to cover all claims that could or will be asserted against us arising from the operation of our aircraft by our lessees. Inadequate insurance coverage or default by
+lessees in fulfilling their indemnification or insurance obligations will reduce the proceeds that would be received by us in the event that we are sued and are required to make payments to claimants,
+which would negatively affect our financial condition, cash flow and results of operations. The death, incapacity or departure of key officers could harm our business and negatively affect our
+financial condition, cash flow and results of operations. We believe our senior management's reputation and relationships with lessees, manufacturers, buyers and financiers of aircraft are a
+critical element to the success of our business. We depend on the diligence, skill and network of business contacts of our management team. We believe there are only a limited number of available
+qualified executives in the aircraft industry, and we therefore have encountered, and will likely continue to encounter, intense competition for qualified employees from other companies in our
+industry. Our future success will depend, to a significant extent, upon the 26 Table of Contents continued
+service of our senior management personnel, particularly: Mr. Udvar-Házy, our founder, Chairman and Chief Executive Officer; Mr. Plueger, our President and Chief
+Operating Officer; and our other senior officers, each of whose services are critical to the success of our business strategies. We only have employment agreements with
+Messrs. Udvar-Házy and Plueger and have no intention at this time to enter into employment agreements with any of our other senior officers. The employment agreements with
+Messrs. Udvar- Házy and Plueger are scheduled to expire in 2016. If we were to lose the services of any of the members of our senior management team, it could negatively affect
+our financial condition, cash flow and results of operations. Conflicts of interest may arise between us and clients who will utilize our fleet management
+services, which could negatively affect our business interests, cash flow and results of operations. Conflicts of interest may arise between us and third-party aircraft owners, financiers and operating lessors who hire us to perform
+fleet management services such as leasing, re-leasing, lease management and sales services. These conflicts may arise because services we anticipate providing for these clients are also services we
+will provide for our own fleet, including the placement of aircraft with lessees. We expect our fleet management services agreements will provide that we will use our reasonable commercial efforts in
+providing services, but, to the extent that we are in competition with the client for leasing opportunities, we will give priority to our own fleet. Nevertheless, despite these contractual waivers,
+competing with our fleet management clients in practice may result in strained relationships with them, which could negatively affect our business interests, cash flow and results of operations. We may on occasion enter into strategic ventures with the intent that we would serve as the manager
+of such strategic ventures; however, entering into strategic relationships poses risks in that we most likely would not have complete control over the enterprise, and our financial condition, cash
+flow and results of operations could be negatively affected if we encounter disputes, deadlock or other conflicts of interest with our strategic partners. In addition to our Napier Park joint venture discussed in Item 7. Management's Discussion and Analysis of Financial Condition and
+Results of Operations, we may on occasion enter into strategic ventures with third parties to take advantage of favorable financing opportunities or tax benefits, to share capital and/or operating
+risk, and/or to earn fleet management fees. Although we anticipate that we would serve as the manager of any such strategic ventures, it has been our management's experience that most strategic
+venture agreements will provide the non-managing strategic partner certain veto rights over various significant actions, including the right to remove us as the manager under certain circumstances. If
+we were to be removed as the manager from
+a strategic venture that generates significant management fees, our financial results and growth prospects could be materially and negatively affected. In addition, if we were unable to resolve a
+dispute with a significant strategic partner that retains material managerial veto rights, we might reach an impasse that could require us to dissolve the strategic venture at a time and in a manner
+that could result in our losing some or all of our original investment in the strategic venture, which could have a negative effect on our financial condition, cash flow and results of operations. Our business and earnings are affected by general business, financial market and economic conditions
+throughout the world, which could have a negative effect on our financial condition, cash flow and results of operations. Our business and earnings are affected by general business, financial market and economic conditions throughout the world. As an
+aircraft leasing business with exposure to emerging markets, we are particularly exposed to downturns in these emerging markets. A recession or worsening of economic conditions, particularly if
+combined with high fuel prices, may have a material negative effect on the ability of our lessees to meet their financial and other obligations under our operating leases, 27 Table of Contents which,
+if our lessees default on their obligations to us, could have a material negative effect on our cash flow and results of operations. General business and economic conditions that could affect
+us include the level and volatility of short-term and long-term interest rates, inflation, employment levels, bankruptcies, demand for passenger and cargo air travel, volatility in both debt and
+equity capital markets, liquidity of the global financial markets, the availability and cost of credit, investor confidence and the strength of the global economy and the local economies in which we
+operate. For these reasons our financial condition, cash flow and results of operations could be negatively affected. Additional terrorist attacks or the fear of such attacks, even if not made directly on the airline
+industry, could negatively affect lessees and the airline industry, which would negatively affect our cash flow and results of operations. As a result of the September 11, 2001 terrorist attacks in the United States and subsequent terrorist attacks abroad, notably in
+the Middle East, Southeast Asia and Europe, increased security restrictions were implemented on air travel, costs for aircraft insurance and security measures increased, passenger and cargo demand for
+air travel decreased, and operators faced, and to a certain extent, continue to face, increased difficulties in acquiring war risk and other insurance at reasonable costs. The September 11,
+2001 terrorist attacks resulted in substantial flight disruption costs
+caused by the temporary grounding of the U.S. airline industry's fleet and prohibition of all flights in and out of the U.S. by the U.S. Federal Aviation Administration, significantly increased
+security costs and associated passenger inconvenience, increased insurance costs, substantially higher ticket refunds and significantly decreased traffic. Additional
+terrorist attacks, even if not made directly on the airline industry, or the fear of or any precautions taken in anticipation of such attacks (including elevated national
+threat warnings or selective cancellation or reduction of flights), could materially negatively affect lessees and the airline industry. Conflict in the Middle East and additional international
+hostilities, including heightened terrorist activity, could also have a material negative impact on our lessees' financial condition, liquidity and results of operations. Lessees' financial resources
+might not be sufficient to absorb the negative effects of any further terrorist attacks or other international hostilities involving the United States or U.S. interests, which could result in
+significant decreases in aircraft leasing transactions and would negatively affect our cash flow and results of operations. Increases in fuel costs could materially negatively affect our lessees and by extension the demand
+for our aircraft which would negatively affect our financial condition, cash flow and results of operations. Fuel costs represent a major expense to airlines, and fuel prices fluctuate widely depending primarily on international market
+conditions, geopolitical and environmental events, regulatory changes (including those related to greenhouse gas emissions) and currency exchange rates. If airlines are unable to increase ticket
+prices to offset fuel price increases, their cash flows will suffer. Political unrest in the Middle East and North Africa has generated uncertainty regarding the predictability of the world's future
+oil supply, which recently led to significant near-term increases in fuel costs. If this unrest continues, fuel costs may continue to rise in the future. Other events can also significantly affect
+fuel availability and prices, including natural disasters (such as the recent natural disaster in Japan), decisions by the Organization of the Petroleum Exporting Countries regarding their members'
+oil output, and the increase in global demand for fuel from countries such as China. High
+fuel costs would likely have a material negative impact on airline profitability. Due to the competitive nature of the airline industry, airlines may not be able to pass on
+increases in fuel prices to their passengers by increasing fares. If airlines are successful in increasing fares, demand for air travel may be negatively affected. In addition, airlines may not be
+able to manage fuel cost risk by appropriately hedging their exposure to fuel price fluctuations. If fuel price increases continue to occur, 28 Table of Contents they
+are likely to cause our lessees to incur higher costs or experience reduced revenues. Consequently, these conditions may:  affect our lessees' ability to make rental and other lease payments;  result in lease restructurings and aircraft and engine repossessions;  increase our costs of maintaining and marketing aircraft;  impair our ability to remarket aircraft and other aviation assets or remarket or otherwise sell our assets on a timely basis at
+favorable rates; or  reduce the sale proceeds received for aircraft or other aviation assets upon any disposition. Such
+effects would materially negatively affect demand for our aircraft which would negatively affect our financial condition, cash flow and results of operations. A deterioration in the financial condition of the airline industry would have a negative impact on
+our ability to lease our aircraft which would negatively affect our financial condition, cash flow and results of operations. The financial condition of the airline industry is of particular importance to us because we plan to lease our aircraft to passenger
+airlines. Our ability to achieve our primary business objectives will depend on the financial condition and growth of the airline industry. The risks affecting airlines are generally out of our
+control, but because these risks have a significant impact on our intended airline customers, they will affect us as well. We may experience:  downward pressure on demand for our aircraft and reduced market lease rates and lease
+margins;  a higher incidence of lessee defaults, lease restructurings, repossessions and airline bankruptcies and restructurings, resulting in
+lower lease margins due to maintenance and legal costs associated with repossession, as well as lost revenue for the time our aircraft are off lease and possibly lower lease rates from our new
+lessees; and  an inability to lease aircraft on commercially acceptable terms, resulting in lower lease margins due to aircraft not earning revenue
+and resulting in storage, insurance and maintenance costs. For
+these reasons our financial condition, cash flow and results of operations would be negatively affected. SARS, H1N1, Ebola and other epidemic diseases may hinder airline travel and reduce the demand for
+aircraft which would negatively affect our financial condition, cash flow and results of operations. The outbreak of severe acute respiratory syndrome ("SARS") materially negatively affected passenger demand for air travel in 2003. In
+addition, since 2003, there have been several outbreaks of avian influenza, or the bird flu, beginning in Asia and, eventually, spreading to certain parts of Africa and Europe. Additional outbreaks of
+SARS, bird flu, swine flu, Ebola or other pandemic diseases, or the fear of such events, could provoke responses, including government-imposed travel restrictions, which could negatively affect
+passenger demand for air travel and the financial condition of the aviation industry. The consequences of these events may reduce the demand for aircraft and/or impair our lessees' ability to satisfy
+their lease payment obligations to us, which in turn would negatively affect our financial condition, cash flow and results of operations. Natural disasters and other natural phenomena may disrupt air travel and reduce the demand for
+aircraft which would negatively affect our financial condition, cash flow and results of operations. Air travel can be disrupted, sometimes severely, by the occurrence of natural disasters and other natural phenomena. A natural disaster
+could cause disruption to air travel and could result in a reduced demand for aircraft and/or impair our lessees' ability to satisfy their lease payment obligations to us, which in turn would
+negatively affect our financial condition, cash flow and results of operations. 29 Table of Contents The effects of various environmental regulations may negatively affect the airline industry, which
+may in turn cause lessees to default on their lease payment obligations to us which would negatively affect our financial condition, cash flow and results of operations. Governmental regulations regarding aircraft and engine noise and emissions levels apply based on where the relevant aircraft is
+registered and operated. For example, jurisdictions throughout the world have adopted noise regulations which require all aircraft to comply with noise level standards. In addition to the current
+requirements, the United States and the International Civil Aviation Organization (the "ICAO"), have adopted a new, more stringent set of standards for noise levels which applies to engines
+manufactured or certified on or after January 1, 2006. Currently, U.S. regulations would not require any phase-out of aircraft that qualify with the older standards applicable to engines
+manufactured or certified prior to January 1, 2006, but the European Union has established a framework for the imposition of operating limitations on aircraft that do not comply with the new
+standards and incorporated aviation-related emissions into the European Union's Emission Trading Scheme beginning in 2013. These regulations could limit the economic life of the aircraft and engines,
+reduce their value, limit our ability to lease or sell the non-compliant aircraft and engines or, if engine modifications are permitted, require us to make significant additional investments in the
+aircraft and engines to make them compliant. In
+addition to more stringent noise restrictions, the United States and other jurisdictions are beginning to impose more stringent limits on nitrogen oxide, carbon monoxide and carbon
+dioxide emissions from engines, consistent with current ICAO standards. These limits generally apply only to engines manufactured after 1999. Because aircraft engines are replaced from time to time in
+the normal course, it is likely that the number of such engines would increase over time. The ICAO is expected to develop a global scheme based on market-based measures to limit CO 2 emissions from international aviation by 2016 to be implemented by 2020. Concerns over global warming could result in more stringent limitations on the operation of aircraft powered by older,
+non-compliant engines, as well as newer engines. European
+countries generally have relatively strict environmental regulations that can restrict operational flexibility and decrease aircraft productivity. The European Parliament has
+confirmed that aviation is to be included in the European Union's Emissions Trading Scheme starting in 2012, and that all of the emissions associated with international flights that land or take off
+within the European Union will be subject to the trading program, even those emissions that are emitted outside of the European Union but exempted emissions from that portion of such flights that are
+outside the European Union zone through 2016 when the ICAO is expected to establish new global measures. The United Kingdom doubled its air passenger duties, effective February 1, 2007, in
+recognition of the environmental costs of air travel. Similar measures may be implemented in other jurisdictions as a result of environmental concerns. These
+regulations could limit the economic life of the aircraft and engines, reduce their value, limit our ability to lease or sell the compliant aircraft and engines or, if engine
+modifications are permitted, require us to make significant additional investments in the aircraft and engines to make them compliant, which would negatively affect our financial condition, cash flow
+and results of operations. Further, compliance with current or future regulations, taxes or duties imposed to deal with environmental concerns could cause lessees to incur higher costs and to generate
+lower net revenues, resulting in a negative impact on their financial conditions. Consequently, such compliance may affect lessees' ability to make rental and other lease payments and reduce the value
+we receive for the aircraft upon any disposition, which would negatively affect our financial condition, cash flow and results of operations. 30 Table of Contents We operate in multiple jurisdictions and may become subject to a wide range of income and other
+taxes which would negatively affect our cash flow and results of operations. We operate in multiple jurisdictions and may become subject to a wide range of income and other taxes. If we are unable to execute our
+business in jurisdictions with favorable tax treatment, our operations may be subject to significant income and other taxes. Moreover,
+as our aircraft are operated by our lessees in multiple states and foreign jurisdictions, we may have nexus or taxable presence as a result of our aircraft landings in various
+states or foreign jurisdictions. Such landings may result in us being subject to various foreign, state and local taxes in such states or foreign jurisdictions. For these reasons our cash flow and
+results of operations would be negatively affected. We are subject to various risks and requirements associated with transacting business in foreign
+countries which would negatively affect our cash flow and results of operations. Our international operations expose us to trade and economic sanctions and other restrictions imposed by the United States or other
+governments or organizations. The U.S. Departments of Justice, Commerce, State and Treasury and other foreign agencies and authorities have a broad range of civil and criminal penalties they may seek
+to impose against corporations and individuals for violations of economic sanctions laws, export control laws, the Foreign Corrupt Practices Act ("FCPA") and other federal statutes and regulations,
+including the International Traffic in Arms Regulations and those established by the Office of Foreign Assets Control ("OFAC"). Under these laws and regulations, the government may require export
+licenses, may seek to impose modifications to business practices, including cessation of business activities in sanctioned countries, and modifications to compliance programs, which may increase
+compliance costs, and may subject us to fines, penalties and other sanctions. A violation of these laws or regulations could negatively impact our business, operating results, and financial condition. We
+have in place training programs for our employees with respect to FCPA, OFAC, export controls and similar laws and regulations. There can be no assurance that our employees,
+consultants, sales agents, or associates will not engage in unlawful conduct for which we may be held responsible. Violations of the FCPA, OFAC and other export control regulations, and similar laws
+and regulations may result in severe criminal or civil sanctions, and we may be subject to other liabilities, which could negatively affect our cash flow and results of operations. A cyber-attack that bypasses our information technology, or IT, security systems, causing an IT
+security breach, may lead to a material disruption of our IT systems and the loss of business information which may hinder our ability to conduct our business effectively and may result in lost
+revenues and additional costs. Parts of our business depend on the secure operation of our computer systems to manage, process, store, and transmit information
+associated with aircraft leasing. We have, from time to time, experienced threats to our data and systems, including malware and computer virus attacks. A cyber-attack could adversely impact our daily
+operations and lead to the loss of sensitive information, including our own proprietary information and that of our customers, suppliers and employees. Such losses could harm our reputation and result
+in competitive disadvantages, litigation, regulatory enforcement actions, lost revenues, additional costs and liability. While we devote substantial resources to maintaining adequate levels of
+cyber-security, our resources and technical sophistication may not be adequate to prevent all types of cyber-attacks. 31 Table of Contents Material damage to, or interruptions in, our information systems as a result of external factors,
+staffing shortages and difficulties in updating our existing software or developing or implementing new software could have a material adverse effect on our business or results of operations. We depend largely upon our information technology systems in the conduct of all aspects of our operations. Such systems are subject to
+damage or interruption from power outages, computer and telecommunications failures, computer viruses, security breaches, fire and natural disasters. Damage or interruption to our information systems
+may require a significant investment to fix or replace them, and we may suffer interruptions in our operations in the interim. Potential problems and interruptions associated with the implementation
+of new or upgraded systems and technology or with maintenance or adequate support of existing systems could also disrupt or reduce the efficiency of our operations. Any material interruptions or
+failures in our information systems may have a material adverse effect on our business or results of operations. A new standard for lease accounting is expected to be announced in the future, but we are unable to
+predict the impact of such a standard at this time. In August 2010, the Financial Accounting Standards Board ("FASB") and the International Accounting Standards Board ("IASB") issued an
+Exposure Draft that proposes substantial changes to existing lease accounting that will affect all lease arrangements. Subsequent meetings of the joint committee of the FASB and the IASB have made
+further changes to the proposed lease accounting. Under
+the current proposed accounting model, lessees will be required to record an asset representing the right to use the leased item for the lease term (the "Right-of-Use Asset") and a
+liability to make lease payments. The Right-of-Use Asset and liability incorporate the rights arising under the lease and are based on the lessee's assessment of expected payments to be made over the
+lease term. The proposed model requires measuring these amounts at the present value of the future expected payments. Under
+the current proposed accounting model, lessor accounting for operating leases will remain substantially unchanged. The
+FASB and the IASB issued a revised exposure draft in May 2013. The proposal does not include a proposed effective date; rather it states that the feedback of interested parties will
+be considered and that they are aware that the proposals affect almost every reporting entity and that the proposed changes to accounting for leases are significant. The FASB and IASB will be
+considering these and other relevant factors when evaluating the exposure draft. The FASB and the IASB continue to deliberate on the proposed accounting. Currently, management is unable to assess the
+impact the adoption of the new finalized lease standard will have on our financial statements. Although we believe the presentation of our financial statements, and those of our lessees, could change,
+we do not believe the accounting pronouncement will change the fundamental economic reasons for which the airlines lease aircraft. We may not be able to pay or maintain dividends, or we may choose not to pay dividends, and the
+failure to pay or maintain dividends may negatively affect our share price. Current dividends may not be indicative of the amount of any future quarterly dividends. Our ability to pay, maintain or increase cash
+dividends to our shareholders is subject to the discretion of our Board of Directors and will depend on many factors, including our ability to comply with covenants in our financing documents that
+limit our ability to pay dividends and make certain other restricted payments to shareholders; the difficulty we may experience in raising and
+the cost of additional capital and our ability to finance our aircraft acquisition commitments; our ability to re-finance our long-term financings before excess cash flows are no longer made available
+to us to pay dividends and for other purposes; our ability to negotiate and enforce favorable lease rates and other contractual terms; the 32 Table of Contents level
+of demand for our aircraft; the economic condition of the commercial aviation industry generally; the financial condition and liquidity of our lessees; unexpected or increased expenses; the
+level and timing of capital expenditures, principal repayments and other capital needs; the value of our aircraft portfolio; our compliance with loan to value, interest rate coverage and other
+financial tests in our financings; our results of operations, financial condition and liquidity; general business conditions; restrictions imposed by our debt agreements; legal restrictions on the
+payment of dividends; and other factors that our Board of Directors deems relevant. Some of these factors are beyond our control, and a change in any such factor could affect our ability to pay
+dividends on our common stock. In the future we may not choose to pay dividends or may not be able to pay dividends, maintain our current level of dividends, or increase them over time. The failure to
+maintain or pay dividends may negatively affect our share price. A negative outcome in our litigation with ILFC could negatively affect our financial condition, cash
+flow and results of operations. On April 24, 2012, the Company was named as a defendant in a complaint filed in Superior Court of the State of California for
+the County of Los Angeles by American International Group, Inc. and ILFC (the "AIG/ILFC Complaint"). The complaint also names as defendants certain executive officers and employees of the
+Company. American International Group withdrew as a plaintiff on all but one cause of action that is not asserted against the Company. Among
+other things, the complaint, as amended, alleges breach of fiduciary duty, misappropriation of trade secrets, the wrongful recruitment of ILFC employees, and the wrongful diversion
+of potential ILFC leasing opportunities. The complaint seeks an unspecified amount of damages and injunctive relief. The Company believes that it has meritorious defenses to these claims and intends
+to defend this matter vigorously. The amount or range of loss, if any, is not estimable at this time. Litigation,
+regardless of the outcome, would require us to incur substantial legal costs and divert management's attention from the operation of our business, causing our business to
+suffer. In addition, a negative outcome in the litigation could negatively affect our financial condition, cash flow and results of operations. Risks Related to Our Class A common stock The price of our Class A common stock historically has been volatile. This volatility may
+negatively affect the price of our Class A common stock. The Company's stock continues to experience substantial price volatility. This volatility may negatively affect the price of our
+Class A common stock at any point in time. Our stock price is likely to continue to be volatile and subject to significant price and volume fluctuations in response to market and other factors,
+including:  announcements concerning our competitors, the airline industry or the economy in general;  announcements concerning the availability of the type of aircraft we own;  general and industry-specific economic conditions;  changes in the price of aircraft fuel;  changes in financial estimates or recommendations by securities analysts or failure to meet analysts' performance expectations;  additions or departures of key members of management;  any increased indebtedness we may incur in the future; 33 Table of Contents  speculation or reports by the press or investment community with respect to us or our industry in general;  announcements by us or our competitors of significant contracts, acquisitions, dispositions, strategic partnerships, joint ventures or
+capital commitments;  changes or proposed changes in laws or regulations affecting the airline industry or enforcement of these laws and regulations, or
+announcements relating to these matters; and  general market, political and economic conditions, including any such conditions and local conditions in the markets in which our
+lessees are located. Broad
+market and industry factors may decrease the market price of our Class A common stock, regardless of our actual operating performance. The stock market in general has from
+time to time experienced extreme price and volume fluctuations, including periods of sharp decline. In addition, in the past, following periods of volatility in the overall market and the market price
+of a company's securities, securities class action litigation has often been instituted against these companies. Such litigation, if instituted against us, could result in substantial costs and a
+diversion of our management's attention and resources. Provisions in Delaware law and our restated certificate of incorporation and amended and restated
+bylaws may inhibit a takeover of us, which could cause the market price of our Class A common stock to decline and could entrench management. Our restated certificate of incorporation and amended and restated bylaws contain provisions that may discourage unsolicited takeover
+proposals that stockholders may consider to be in their best interests, including the ability of our board of directors to designate the terms of and issue new series of preferred stock, a prohibition
+on our stockholders from calling special meetings of the stockholders, and advance notice requirements for stockholder proposals and director nominations. In addition, Section 203 of the
+Delaware General Corporation Law, which we have not opted out of, prohibits a public Delaware corporation from engaging in certain business combinations with an "interested stockholder" (as defined in
+such section) for a period of three years following the time that such stockholder became an interested stockholder without the prior consent of our board of directors. The effect of
+Section 203 of the Delaware General Corporation Law, as well as these charter and bylaws provisions, may make the removal of management more difficult. It may also impede a merger, takeover or
+other business combination or discourage a potential acquirer from making a tender offer for our Class A common stock, which, under certain circumstances, could reduce the market price of our
+Class A common stock. Future offerings of debt or equity securities by us may adversely affect the market price of our
+Class A common stock. In the future, we may attempt to obtain financing or to further increase our capital resources by issuing additional shares of
+Class A common stock or offering debt or additional equity securities, including commercial paper, medium-term notes, senior or subordinated notes or preferred shares. Issuing additional shares
+of Class A common stock or other additional equity offerings may dilute the economic and voting rights of our existing stockholders or reduce the market price of our Class A common
+stock, or both. Upon liquidation, holders of such debt securities and preferred shares, if issued, and lenders with respect to other borrowings, would receive a distribution of
+our available assets prior to the holders of our Class A common stock. Preferred shares, if issued, could have a preference with respect to liquidating distributions or a preference with
+respect to dividend payments that could limit our ability to pay dividends to the holders of our Class A common stock. Because our decision to issue securities in any future offering will
+depend on market conditions and other factors beyond our control, we cannot predict or estimate the amount, timing or nature of our future offerings. Thus, 34 Table of Contents holders
+of our Class A common stock bear the risk of our future offerings reducing the market price of our Class A common stock and diluting their share holdings in us. 

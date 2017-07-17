@@ -1,0 +1,348 @@
+. An investment in our common stock
+involves a high degree of risk. You should carefully consider the risks and uncertainties described below, together with all of
+the other information in this registration statement, including our consolidated financial statements and related notes included
+elsewhere in this prospectus, before deciding to invest in our common stock. If any of the following risks actually occurs, our
+business, financial condition, results of operations and future prospects could be materially and adversely affected. In that event,
+the market price of our common stock could decline and you could lose part or all of your investment. Risks Related to Our Business Our growth rates may decline in the
+future. In fiscal 2013, we experienced rapid growth in our corporate incentives solution business. However, this revenue growth
+was offset by a reduction in revenue derived from our pharmaceutical sampling card programs. This resulted in a decrease in our
+year over year revenue. There can be no assurance that we will be able to resume our historical growth rates in future periods.
+In the near term, our continued growth depends in significant part on our ability, among other things, to enter new markets and
+to continue to attract new clients, and to retain our current clientele. Our continued growth also depends on our ability to develop
+and market other debit card products that can utilize the platform that we have developed for our pharmaceutical sampling business. As the prepaid financial services industry
+continues to develop, our competitors may be able to offer products and services that are, or that are perceived to be, substantially
+similar to or better than ours. This may force us to compete on the basis of price and to expend significant marketing, product
+development and other resources in order to remain competitive. Even if we are successful at increasing our operating revenues
+through our various initiatives and strategies, we will experience an inevitable decline in growth rates as our operating revenues
+increase to higher levels and we may also experience a decline in margins. If our operating revenue growth rates slow materially
+or decline, our business, operating results and financial condition could be adversely affected. 15 We operate in a highly regulated
+environment, and failure by us or business partners to comply with applicable laws and regulations could have an adverse effect
+on our business, financial position and results of operations. We operate in a highly regulated environment,
+and failure by us or our business partners to comply with the laws and regulations to which we are subject could negatively impact
+our business. We are subject to state money transmission licensing requirements and a wide range of federal and other state laws
+and regulations, which are described under "Business – Regulation" above. In particular, our products
+and services are subject to an increasingly strict set of legal and regulatory requirements intended to protect consumers and to
+help detect and prevent money laundering, terrorist financing and other illicit activities. Many
+of these laws and regulations are evolving, unclear and inconsistent across various jurisdictions, and ensuring compliance with
+them is difficult and costly. For example, with increasing frequency, federal and state regulators are holding businesses like ours to higher standards of training, monitoring and compliance,
+including monitoring for possible violations of laws by the businesses that participate in our reload network. Failure by us or
+those businesses to comply with the laws and regulations to which we are subject could result in fines, penalties or limitations
+on our ability to conduct our business, or federal or state actions, any of which could significantly harm our reputation with
+consumers and other network participants, banks that issue our cards and regulators, and could materially and adversely affect
+our business, operating results and financial condition. Changes in the laws, regulations, credit card association
+rules or other industry standards affecting our business may impose costly compliance burdens and negatively impact our business. There may be changes in the laws, regulations,
+card association rules or other industry standards that affect our operating environment in substantial and unpredictable ways.
+Changes to statutes, regulations or industry standards, including interpretation and implementation of statutes, regulations or
+standards, could increase the cost of doing business or affect the competitive balance. For example, more stringent anti-money
+laundering regulations could require the collection and verification of more information from our customers, which could have a
+material adverse effect on our operations. Regulation of the payments industry has increased significantly in recent years. A number
+of regulations impacting the credit card industry were recently implemented. Additional changes may require us to incur significant
+expenses to redevelop our products. Also, failure to comply with laws, rules and regulations or standards to which we are subject,
+including with respect to privacy and data use and security, could result in fines, sanctions or other penalties, which could have
+a material adverse effect on our financial position and results of operations, as well as damage our reputation. A data security breach could expose
+us to liability and protracted and costly litigation, and could adversely affect our reputation and operating revenues. We, the banks that issue our cards and
+our third party service providers receive, transmit and store confidential customer and other information in connection with our
+products and services. The encryption software and the other technologies we and our partners use to provide security for storage,
+processing and transmission of confidential customer and other information may not be effective to protect against data security
+breaches. The risk of unauthorized circumvention of our security measures has been heightened by advances in computer capabilities
+and the increasing sophistication of hackers. The banks that issue our cards, our clients and our third-party processors also may
+experience similar security breaches involving the receipt, transmission and storage of our confidential customer and other information.
+Improper access to our or these third parties' systems or databases could result in the theft, publication, deletion or modification
+of confidential customer and other information. 16 A data security breach of the systems
+on which sensitive cardholder data and account information are stored could lead to fraudulent activity involving our products
+and services, reputational damage and claims or regulatory actions against us. If we are sued in connection with any data security
+breach, we could be involved in protracted and costly litigation. If unsuccessful in defending that litigation, we might be forced
+to pay damages and/or change our business practices or pricing structure, any of which could have a material adverse effect on
+our operating revenues and profitability. We would also likely have to pay (or indemnify the banks that issue our cards for) fines,
+penalties and/or other assessments imposed by Visa or MasterCard as a result of any data security breach. Further, a significant
+data security breach could lead to additional regulation, which could impose new and costly compliance obligations. In addition,
+a data security breach at one of the banks that issue our cards or our third party service providers could result in significant
+reputational harm to us and cause the use and acceptance of our cards to decline, either of which could have a significant adverse
+impact on our operating revenues and future growth prospects. The industry in which we compete
+is highly competitive, which could adversely affect our operating revenue growth. A number of other companies provide
+debit cards for the pharmaceutical sampling business, including McKesson, Emdeon and Trial Card. We also compete for the marketing
+dollars of pharmaceutical companies with other forms of marketing, such as mass media advertising and direct sales. We believe that our existing competitors
+have longer operating histories, are substantially larger than we are, may already have or could develop substantially greater
+financial and other resources than we have, may offer, develop or introduce a wider range of programs and services than we offer
+or may use more effective advertising and marketing strategies than we do to achieve broader brand recognition, customer awareness
+and retail penetration. We may also face price competition that results in decreases in the purchase and use of our products and
+services. To stay competitive, we may have to increase the incentives that we offer to our marketing partners and decrease the
+prices of our products and services, which could adversely affect our operating results. We rely on relationships with card
+issuing banks to conduct our business, and our results of operations and financial position could be materially and adversely affected
+if we fail to maintain these relationships or we maintain them under new terms that are less favorable to us. Our relationship with various banks
+is currently, and will be for the foreseeable future, a critical component of our ability to conduct our business and to maintain
+our revenue and expense structure, because we are currently unable to issue our own cards. If we lose or do not maintain existing
+banking relationships, we would incur significant switching and other costs and expenses and we and users of our products and services
+could be significantly affected, creating contingent liabilities for us. As a result, the failure to maintain adequate banking
+relationships could have a material adverse effect on our business, results of operations and financial condition. Our agreement
+with the bank that issues our cards provide for cost and expense allocations between the parties. Changes in the costs and expenses
+that we have to bear under these relationships could have a material impact on our operating expenses. In addition, we may be unable
+to maintain adequate banking relationships or renew our agreements with the banks that currently issue our cards under terms at
+least as favorable to us as those existing before renewal. 17 We receive important services from
+third-party vendors, and replacing them could entail unexpected integration costs Some services relating to our business,
+including fraud management and other customer verification services, transaction processing and settlement, pharmacy claims adjudication,
+card production and customer service are outsourced to third-party vendors. All of our vendors could be replaced with competitors
+if our vender terminated our contract or went out of business. However, in some cases replacing a vendor would entail one-time
+integration costs to connect our systems to the successor’s systems, and could result in less advantageous contract terms
+for the same service, which could adversely affect our profitability. Changes in credit card association
+or other network rules or standards set by Visa and MasterCard, or changes in card association and debit network fees or products
+or interchange rates, could adversely affect our business, financial position and results of operations. We and the banks that issue our cards
+are subject to Visa and MasterCard, Pulse, NYCE and Star association rules that could subject us to a variety of fines or penalties
+that may be levied by the card associations or networks for acts or omissions by us or businesses that work with us. The termination
+of the card association registrations held by us or any of the banks that issue our cards or any changes in card association or
+other debit network rules or standards, including interpretation and implementation of existing rules or standards, that increase
+the cost of doing business or limit our ability to provide our products and services could have an adverse effect on our business,
+operating results and financial condition. In addition, from time to time, card associations increase the organization and/or processing
+fees that they charge, which could increase our operating expenses, reduce our profit margin and adversely affect our business,
+operating results and financial condition. For example, a portion of our operating
+revenues is derived from interchange fees. The amount of interchange revenues that we earn is highly dependent on the interchange
+rates that Visa and MasterCard set and adjust from time to time. Interchange rates for certain products and certain issuing banks
+declined significantly as a result of the enactment of the Dodd-Frank Bill. If interchange rates decline further, whether due to
+actions by Visa or MasterCard or future legislation or regulation, we would likely need to change our fee structure to compensate
+for lost interchange revenues. To the extent we increase the pricing of our products and services, we might find it more difficult
+to acquire consumers and to maintain or grow card usage and customer retention. We also might have to discontinue certain products
+or services. As a result, our operating revenues, operating results, prospects for future growth and overall business could be
+materially and adversely affected. We may not be able to successfully
+manage our intellectual property and may be subject to infringement claims. In the rapidly developing legal framework,
+we rely on a combination of contractual rights and copyright, trademark and trade secret laws to establish and protect our proprietary
+technology. Despite our efforts to protect our intellectual property, third parties may infringe or misappropriate our intellectual
+property or may develop software or technology competitive to us. Our competitors may independently develop similar technology,
+duplicate our products or services or design around our intellectual property rights. We may have to litigate to enforce and protect
+our intellectual property rights, trade secrets and know-how or to determine their scope, validity or enforceability, which is
+expensive and could cause a diversion of resources and may not prove successful. The loss of intellectual property protection or
+the inability to secure or enforce intellectual property protection could harm our business and ability to compete. 18 We may also be subject to costly litigation
+in the event our products and technology infringe upon another party’s proprietary rights. Third parties may have, or may
+eventually be issued, patents that would be infringed by our products or technology. Any of these third parties could make a claim
+of infringement against us with respect to our products or technology. We may also be subject to claims by third parties for breach
+of copyright, trademark or license usage rights. Any such claims and any resulting litigation could subject us to significant liability
+for damages. An adverse determination in any litigation of this type could require us to design around a third party’s patent
+or to license alternative technology from another party. In addition, litigation is time consuming and expensive to defend and
+could result in the diversion of the time and attention of our management and employees. Any claim from third parties may result
+in limitations on our ability to use the intellectual property subject to these claims. As of December, 31, 2013, we had not received
+any notice or claim of infringement from any party. Additional equity or debt financing
+may be dilutive to existing stockholders or impose terms that are unfavorable to us or our existing stockholders. We may raise capital in order to repay
+indebtedness and provide working capital for our expansion into other products and services using our payments platform. If we
+raise additional funds by issuing equity securities, our stockholders will experience dilution. Debt financing, if available, may
+involve arrangements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional
+debt, making capital expenditures or declaring dividends. Any debt financing or additional equity that we raise may contain terms,
+such as liquidation and other preferences that are not favorable to us or our current stockholders. If we raise additional funds
+through collaboration and licensing arrangements with third parties, it may be necessary to relinquish valuable rights to our technologies
+and products or grant unfavorable license terms. We depend on key personnel and could
+be harmed by the loss of their services because of the limited number of qualified people in our industry. Because of our small size, we require
+the continued service and performance of our management team, sales and technology employees, all of whom we consider to be key
+employees. Competition for highly qualified employees in the financial services and healthcare industry is intense. Our success
+will depend to a significant degree upon our ability to attract, train, and retain highly skilled directors, officers, management,
+business, financial, legal, marketing, sales, and technical personnel and upon the continued contributions of such people. In addition,
+we may not be able to retain our current key employees. The loss of the services of one or more of our key personnel and our failure
+to attract additional highly qualified personnel could impair our ability to expand our operations and provide service to our customers. Our future success depends on our
+ability to attract, integrate, retain and incentivize key personnel. Our future success will depend, to a
+significant extent, on our ability to attract, integrate, retain and incentivize key personnel, namely our management team and
+experienced sales, marketing and program and systems management personnel. We must retain and motivate existing personnel, and
+we must also attract, assimilate and motivate additional highly-qualified employees. We may experience difficulty assimilating
+our newly-hired personnel, which may adversely affect our business. Competition for qualified management, sales, marketing and
+program and systems management personnel can be intense. Competitors have in the past and may in the future attempt to recruit
+our top management and employees. If we fail to attract, integrate, retain and incentivize key personnel, our ability to manage
+and grow our business could be harmed. 19 Security and privacy breaches of
+our electronic transactions may damage customer relations and inhibit our growth. Any failures in our security and privacy
+measures could have a material adverse effect on our business, financial condition and results of operations. While we do not currently
+store personal information about consumers, some of the products we are contemplating offering in the future would require that
+we store personal information, including birth dates, addresses, bank account numbers, credit card information, social security
+numbers and merchant account numbers. If we are unable to protect this information, or if consumers perceive that we are unable
+to protect this information, our business and the growth of the electronic commerce market in general could be materially adversely
+affected. A security or privacy breach may: · cause our customers to lose confidence in our services; · deter consumers from using our services; · harm our reputation; · require that we expend significant additional resources related to our information security systems
+and could result in a disruption of our operations; · expose us to liability; · increase expenses related to remediation costs; and · decrease market acceptance of electronic commerce transactions and SVC use. Although management believes that we
+have utilized proven applications designed for premium data security and integrity in electronic transactions, our use of these
+applications may be insufficient to address changing market conditions and the security and privacy concerns of existing and potential
+customers. The market for electronic commerce
+services is evolving and may not continue to develop or grow rapidly enough for us to become profitable. If the number of electronic commerce
+transactions does not continue to grow or if consumers or businesses do not continue as projected to adopt our products and services,
+it could have a material adverse effect on our business, financial condition and results of operations. Management believes future
+growth in the electronic commerce market will be driven by the cost, ease of use and quality of products and services
+offered to consumers and businesses. In order to reach and thereafter maintain our profitability, consumers and businesses must
+continue to adopt our products and services. The debit card and SVC industry is a fairly new industry
+that is developing and building standards, processes and relationships. We are a developmental company building
+our networks and relationships. In the course of this development of our network, relationships, load locations and related systems,
+there exists the possibility that the associated companies may delay roll-out of our products and services. These delays
+could have an adverse effect on cash flow, sales and inventory levels. 20 If we do not respond to rapid technological
+change or changes in industry standards, our products and services could become obsolete and we could lose our customers. If competitors introduce new products
+and services, or if new industry standards and practices emerge, our existing product and service offerings, technology and systems
+may become obsolete. Further, if we fail to adopt or develop new technologies or to adapt our products and services to emerging
+industry standards, we may lose current and future customers, which could have a material adverse effect on our business, financial
+condition and results of operations. The electronic commerce industry is changing rapidly. To remain competitive, we must continue
+to enhance and improve the functionality and features of our products, services and technologies. Changes in the Bank Secrecy Act and/or
+the USA PATRIOT Act could impede our ability to circulate cards that can be easily loaded or issued. Our current compliance program and screening
+process for the distribution and/or sale of SVCs is designed to comply with the Bank Secrecy Act (“BSA”) and the
+Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act (the “USA
+PATRIOT Act”). These regulations require financial institutions to obtain and confirm information related to their
+respective cardholders. If the BSA and/or the USA PATRIOT Act or subsequent legislation increases the level of scrutiny that we
+must apply to our cardholders and customers, it may be costly or impractical for us to continue to profitably issue and load cards
+for our customers. Internal processing errors could
+result in our failing to appropriately reflect transactions in customer accounts. In the event of a system failure that
+goes undetected for a substantial period of time, we could allow transactions on blocked accounts, confirm false authorizations,
+fail to deduct charges from accounts or fail to detect systematic fraud or abuse. Errors or failures of this nature could adversely
+impact our operations, our credibility and our financial standing. Our business is dependent on the
+efficient and uninterrupted operation of computer network systems and data centers. Our ability to provide reliable service
+to our clients and cardholders depends on the efficient and uninterrupted operation of our computer network systems and data centers
+as well as those of our third party service providers. Our business involves movement of large sums of money, processing of large
+numbers of transactions and management of the data necessary to do both. Our success depends upon the efficient and error-free
+handling of the money. We rely on the ability of our employees, systems and processes and those of the banks that issue our cards,
+our third party service providers to process and facilitate these transactions in an efficient, uninterrupted and error-free manner. In the event of a breakdown, a catastrophic
+event (such as fire, natural disaster, power loss, telecommunications failure or physical break-in), a security breach or malicious
+attack, an improper operation or any other event impacting our systems or processes, or those of our vendors, or an improper action
+by our employees, agents or third-party vendors, we could suffer financial loss, loss of customers, regulatory sanctions and damage
+to our reputation. The measures we have taken, including the implementation of disaster recovery plans and redundant computer systems,
+may not be successful, and we may experience other problems unrelated to system failures. We may also experience software defects,
+development delays and installation difficulties, any of which could harm our business and reputation and expose us to potential
+liability and increased operating expenses. We currently do not carry business interruption insurance. 21 Difficult conditions in the economy
+generally may materially adversely affect our business and results of operations, and we do not expect these conditions to improve
+in the near future. Our results of operations are materially
+affected by conditions in the economy generally. The capital and credit markets have been experiencing extreme volatility and disruption
+for more than twelve months at unprecedented levels. Recently, concerns over inflation, energy costs, geopolitical issues, the
+availability and cost of credit, the U.S. mortgage market and a declining U.S. real estate market have contributed to increased
+volatility and diminished expectations for the economy and consumer spending. These factors in declining business and consumer
+confidence and increased unemployment, have precipitated an economic slowdown and national recession. These events and the continuing
+market upheavals may have an adverse effect on us because we are dependent upon customer and consumer behavior. Our revenues are
+likely to decline in such circumstances. In addition, in the event of extreme and prolonged market events, such as the global credit
+crisis, we could incur significant losses. Factors such as consumer spending, business
+investment, the volatility and strength of the capital markets, and inflation all affect the business and economic environment
+and, ultimately, the amount and profitability of our business. In an economic downturn characterized by higher unemployment, lower
+family income, lower corporate earnings, lower business investment and lower consumer spending, the demand for our SVC products
+and services could be adversely affected. Adverse changes in the economy could affect our results negatively and could have a material
+adverse effect on our business and financial condition. The current mortgage crisis and economic slowdown has also raised the possibility
+of future legislative and regulatory actions that could further impact our business. We cannot predict whether or when such actions
+may occur, or what impact, if any, such actions could have on our business, results of operations and financial condition. The soundness of other institutions and companies could
+adversely affect us. Our ability to engage in loading and
+purchasing transactions could be adversely affected by the actions and failure of other institutions and companies, our card issuing
+banks and distributors that carry our SVCs. As such, we have exposure to many different industries and counterparties.
+As a result, defaults by, or even questions or rumors about, one or more of these institutions or companies could lead to losses
+or defaults by us or other institutions. Losses related to these defaults or failures could materially and adversely affect our
+results of operations. A prolonged economic downturn could
+reduce our customer base and demand for our products. We are in uncertain economic times,
+including uncertainty with respect to financial markets that have been volatile as a result of sub-prime mortgage related and other
+matters. Our success significantly depends upon the growth of demand of our products from a growing customer base. If the communities
+in which we operate do not grow, or if prevailing economic conditions locally, nationally or internationally are unfavorable, our
+business may not succeed. A prolonged economic downturn would likely contribute to the deterioration of the demand for SVC’s
+and our products and services, which in turn would hurt our business. A prolonged economic downturn could, therefore, result in
+losses that could materially and adversely affect our business. 22 Risks Related to Our Common Stock There Is A Limited Market For Our Common Stock. The trading market for our common stock
+is limited. Our common stock is dual listed on the OTCQB and OTC Bulletin Board under the symbol “TPNL” and is not
+eligible for trading on any national or regional securities exchange or the NASDAQ National Market. A more active trading market
+for our common stock may never develop, or if such a market develops, it may not be sustained. Our Common Stock is Subject to the
+"Penny Stock" Rules of the SEC and the Trading Market in Our Securities is Limited, Which Makes Transactions in Our Stock
+Cumbersome and May Reduce the Value of an Investment in Our Stock. The Securities and Exchange Commission
+has adopted Rule 15g-9 which establishes the definition of a "penny stock," for the purposes relevant to us, as any equity
+security that has a market price of less than $5.00 per share or with an exercise price of less than $5.00 per share, subject to
+certain exceptions. For any transaction involving a penny stock, unless exempt, the rules require: · that a broker or dealer approve a person's
+account for transactions in penny stocks; and · the broker or dealer receive from the
+investor a written agreement to the transaction, setting forth the identity and quantity of the penny stock to be purchased. In order to approve a person's account
+for transactions in penny stocks, the broker or dealer must: · obtain financial information and investment
+experience objectives of the person; and · make a reasonable determination that the
+transactions in penny stocks are suitable for that person and the person has sufficient knowledge and experience in financial matters
+to be capable of evaluating the risks of transactions in penny stocks. The broker or dealer must also deliver,
+prior to any transaction in a penny stock, a disclosure schedule prescribed by the Commission relating to the penny stock market,
+which, in highlight form: · sets forth the basis on which the broker
+or dealer made the suitability determination; and · that the broker or dealer received a signed,
+written agreement from the investor prior to the transaction. Generally, brokers may be less
+willing to execute transactions in securities subject to the "penny stock" rules. This may make it more difficult for
+investors to dispose of our common stock and cause a decline in the market value of our stock. Disclosure also has to be made about
+the risks of investing in penny stocks in both public offerings and in secondary trading and about the commissions payable to both
+the broker-dealer and the registered representative, current quotations for the securities and the rights and remedies available
+to an investor in cases of fraud in penny stock transactions. Finally, monthly statements have to be sent disclosing recent price
+information for the penny stock held in the account and information on the limited market in penny stocks. 23 Concentration of ownership among
+our existing directors, executive officers and principal stockholders may prevent new investors from influencing significant corporate
+decisions. Our current directors, executive
+officers, holders of more than 5% of our total shares of common stock outstanding and their respective affiliates will, in
+the aggregate, beneficially own approximately 71.8% of our outstanding common stock. As a result, these stockholders will be
+able to exercise a controlling influence over matters requiring stockholder approval, including the election of directors and
+approval of significant corporate transactions, and will have significant influence over our management and policies for the
+foreseeable future. Some of these persons or entities may have interests that are different from yours. For example, these
+stockholders may support proposals and actions with which you may disagree or which are not in your interests. The
+concentration of ownership could delay or prevent a change in control of our company or otherwise discourage a potential
+acquirer from attempting to obtain control of our company, which in turn could reduce the price of our common stock. In
+addition, these stockholders, some of which have representatives sitting on our board of directors, could use their voting
+control to maintain our existing management and directors in office, delay or prevent changes of control of our company, or
+support or reject other management and board of director proposals that are subject to stockholder approval, such as
+amendments to our employee stock plans and approvals of significant financing transactions. Our stock price could decline due
+to the large number of outstanding shares of our common stock eligible for future sale. We have outstanding 36,931,606 shares
+of our common stock, assuming no exercise of outstanding options or warrants. None of the shares are subject to any lock-up agreements,
+and all are eligible for sale, subject in some cases to volume and other restrictions imposed by Rule 144. Sales of substantial
+amounts of our common stock in the public market, or even the perception that these sales could occur, could cause the trading
+price of our common stock to decline. These sales could also make it more difficult for us to sell equity or equity-related securities
+in the future at a time and price that we deem appropriate. We Will Incur Significant Costs As
+A Result Of Operating As A Public Company. We May Not Have Sufficient Personnel For Our Financial Reporting Responsibilities, Which
+May Result In The Untimely Close Of Our Books And Record And Delays In The Preparation Of Financial Statements And Related Disclosures. As a registered public company, we will
+experience an increase in legal, accounting and other expenses. In addition, the Sarbanes-Oxley Act of 2002 (the “Sarbanes-Oxley
+Act”), as well as new rules subsequently implemented by the SEC, has imposed various requirements on public companies, including
+requiring changes in corporate governance practices. Our management and other personnel need to devote a substantial amount of
+time to these compliance initiatives. Moreover, these rules and regulations will increase our legal and financial compliance costs
+and make some activities more time-consuming and costly. If we are not able to comply with the requirements of Sarbanes-Oxley
+Act, or if we or our independent registered public accounting firm identifies additional deficiencies in our internal control over
+financial reporting that are deemed to be material weaknesses, the market price of our stock could decline and we could be subject
+to sanctions or investigations by the SEC and other regulatory authorities. 24 Our operating results may fluctuate
+in the future, which could cause our stock price to decline. Our quarterly and annual results of
+operations may fluctuate in the future as a result of a variety of factors, many of which are outside of our control. If our results
+of operations fall below the expectations of investors or any securities analysts who follow our common stock, the trading price
+of our common stock could decline substantially. Fluctuations in our quarterly or annual results of operations may be due to a
+number of factors, including, but not limited to: · the timing and volume of purchases, use
+and reloads of our prepaid cards and related products and services; · the timing and success of new product
+or service introductions by us or our competitors; · seasonality in the purchase or use of
+our products and services; · reductions in the level of interchange
+rates that can be charged; · fluctuations in customer retention rates; · changes in the mix of products and services
+that we sell; · changes in the mix of retail distributors
+through which we sell our products and services; · the timing of commencement, renegotiation
+or termination of relationships with significant our third party service providers; · changes in our or our competitors' pricing
+policies or sales terms; · the timing of commencement and termination
+of major advertising campaigns; · the timing of costs related to the development
+or acquisition of complementary businesses; · the timing of costs of any major litigation
+to which we are a party; · the amount and timing of operating costs
+related to the maintenance and expansion of our business, operations and infrastructure; · our ability to control costs, including
+third-party service provider costs; · volatility in the trading price of our
+common stock, which may lead to higher stock-based compensation expenses or fluctuations in the valuations of vesting equity; and · changes in the regulatory environment
+affecting the banking or electronic payments industries generally or prepaid financial services specifically. 25 Our revenues from our pharmaceutical
+marketing cards fluctuate widely and are difficult to forecast. At present we have two primary lines
+of business, corporate reward cards and pharmaceutical marketing cards. Revenues and costs associated with our pharmaceutical marketing
+cards fluctuate more widely, and are more difficult to forecast, than other debit card lines of business. Even though a pharmaceutical
+card program is created at the direction of a pharmaceutical company, the pharmaceutical company often does not distribute the
+cards via their pharmaceutical sales representatives to various end points for distribution until days, weeks or months after
+it creates a program, often with little advance warning to the Company. We also experience dramatic usage swings based on collateral
+marketing efforts by the pharmaceutical companies, such as print, web, radio and television advertising campaigns that run
+in association with one of our card programs. Constant variations in program start and stop dates, variations in program timelines
+which range anywhere between six and thirty six months, and variations in program characteristics such as the monetary
+value of the load, all contribute to provide dramatic swings in the revenue generated from the programs. As
+a result, our revenues and cost of revenues do no correlate neatly to the number of cards in circulation or even the number of
+pharmaceutical card programs that are active at any given time. Consequently, it is not the composition of our revenue that causes
+the significant swing in revenues from period to period rather; rather, the start, usage and expiration of the pharmaceutical card
+program is solely dependent on the timing of marketing programs by the pharmaceutical companies. The growth in our corporate incentive
+card programs has partially mitigated this uncertainty, although we do expect to see continued fluctuation in our revenue from
+period to period. Over time, we intend to continue to mitigate this uncertainty by offering additional prepaid card products, such
+as general spend reloadable, payroll and other types that will help to stabilize and minimize the changes for each period, and
+make our results more predictable. The price of our common stock may
+be volatile, and you could lose all or part of your investment. In the recent past, stocks generally,
+and financial services company stocks in particular, have experienced high levels of volatility. The trading price of our common
+stock may fluctuate substantially. The trading price of our common stock will depend on a number of factors, including those described
+in this "Risk Factors" section, many of which are beyond our control and may not be related to our operating performance.
+These fluctuations could cause you to lose all or part of your investment in our common stock as you may be unable to sell your
+shares at or above the price you paid. Factors that could cause fluctuations in the trading price of our common stock include the
+following: · price and volume fluctuations in the overall
+stock market from time to time; · significant volatility in the market prices
+and trading volumes of financial services company stocks; · actual or anticipated changes in our results
+of operations or fluctuations in our operating results; · actual or anticipated changes in the expectations
+of investors or the recommendations of any securities analysts who follow our common stock; · actual or anticipated developments in
+our business or our competitors' businesses or the competitive landscape generally; · the public's reaction to our press releases,
+other public announcements and filings with the SEC; · litigation involving us, our industry
+or both or investigations by regulators into our operations or those of our competitors; · new laws or regulations or new interpretations
+of existing laws or regulations applicable to our business; · changes in accounting standards, policies,
+guidelines, interpretations or principles; · general economic conditions; and · sales of shares of our common stock by
+us or our stockholders. 26 In the past, many companies that have
+experienced volatility in the market price of their stock have become subject to securities class action litigation. We may be
+the target of this type of litigation in the future. Securities litigation against us could result in substantial costs and divert
+our management's attention from other business concerns, which could seriously harm our business. If securities analysts do not publish
+research or reports about our business or if they publish negative evaluations of our common stock, the trading price of our common
+stock could decline. We expect that the trading price for
+our common stock will be affected by any research or reports that securities analysts publish about us or our business. If one
+or more of the analysts who may elect to cover us or our business downgrade their evaluations of our common stock, the price of
+our common stock would likely decline. If one or more of these analysts cease coverage of our company, we could lose visibility
+in the market for our common stock, which in turn could cause our stock price to decline. We do not intend to pay dividends
+for the foreseeable future. We have never declared or paid any cash
+dividends on our capital stock. We intend to retain any earnings to finance the operation and expansion of our business, and we
+do not anticipate paying any cash dividends in the foreseeable future. As a result, you will likely receive a return on your investment
+in our common stock only if the market price of our common stock increases. ITEM 1B

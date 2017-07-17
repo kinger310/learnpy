@@ -1,0 +1,667 @@
+" in this Form 10-K, as well as other risks identified from time to time in other U.S. Securities and Exchange Commission ("SEC") reports. You
+should not place undue reliance on our forward-looking statements, as they are not guarantees of future results, levels of activity or performance and represent our expectations only as of the date
+they are made. Unless
+expressly stated or the context otherwise requires, the terms "we", "our", "us", the "Company" and "Advent" refer to Advent Software, Inc. and its subsidiaries. PART I Item 1. Business Overview Advent Software, Inc. was founded and incorporated in 1983 in California and reincorporated in Delaware in November 1995. We
+offer software products and services for automating and integrating data and work flows across the investment management organization, as well as between the investment management organization and
+external parties. Our products are intended to increase operational efficiency, improve the accuracy of client information and enable better decision-making. Each solution focuses on specific
+mission-critical functions of the investment management organization (portfolio accounting and reporting; trade order management and post-trade processing; research management; account management; and
+custodial reconciliation) and is tailored to meet the needs of a particular market segment of the investment management industry, as determined by size, assets under management and complexity of the
+investment process. Our
+business derives revenues from the development, marketing and sale of software products, Software-as-a-Service ("SaaS") hosting services, data interfaces and related maintenance and
+services
+that automate, integrate and support certain mission-critical functions of investment management organizations around the world. We completed the sale of our MicroEdge subsidiary in October 2009. The
+results of MicroEdge have been reclassified as a discontinued operation for all periods presented. Unless otherwise noted, discussion in this document pertains to our continuing operations. 3 Table of Contents Our
+principal executive offices are located at 600 Townsend Street, San Francisco, California 94103, and our telephone number is (415) 543-7696. Our internet address is www.advent.com . On our
+Investor Relations web site, which is accessible through www.advent.com , we post
+the following filings as soon as reasonably practicable after they are electronically filed with or furnished to the U.S. Securities and Exchange Commission ("SEC"): our annual reports on
+Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K and any amendments to those reports. All such filings on our Investor Relations web site are
+available free of charge. Information contained or referenced on our website is not incorporated by reference in and does not form a part of this Annual Report on Form 10-K. The SEC
+maintains an internet site at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file
+electronically with the SEC. The public may also read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington DC, 20549. The public may
+obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Advent's
+common stock (ticker symbol: ADVS) has traded on the NASDAQ Stock Market since its initial public offering on November 15, 1995. Our fiscal year ends on
+December 31 st . Recent Developments On February 2, 2015, we entered into an Agreement and Plan of Merger (the "Merger Agreement") with SS&C Technologies
+Holdings, Inc. ("Parent" or "SS&C") and Arbor Acquisition Company, Inc., a wholly owned subsidiary of Parent ("Merger Sub"), pursuant to which, subject to the satisfaction or waiver of
+certain conditions therein, Merger Sub will merge with and into Advent. As a result of the merger, Merger Sub will cease to exist, and Advent will survive as a wholly owned subsidiary of SS&C. Upon
+the consummation of the merger, subject to the terms of the Merger Agreement, which has been unanimously approved by our Board of Directors, each share of Advent common stock
+outstanding
+immediately prior to the effective time of the merger (the "Effective Time"), subject to certain exceptions, will be converted into the right to receive $44.25 in cash, without interest. The
+completion of the merger is subject to customary conditions, including without limitation, approval of the merger by our stockholders and expiration or termination of the applicable
+waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended. The
+Merger Agreement contains certain termination rights for both Advent and Parent, and provides that, upon termination of the Merger Agreement under specified circumstances, including,
+but not limited to, if we accept a superior acquisition proposal, we may be required to pay Parent a termination fee of $80.0 million. We may also be required to reimburse Parent for up to
+$12.5 million of its out-of-pocket expenses in connection with the transaction under certain circumstances. A
+description of the Merger Agreement is contained in our Current Report on Form 8-K filed with the SEC on February 3, 2015, and a copy of the Merger Agreement is attached
+thereto as Exhibit 2.1. See also Note 17, "Subsequent Events" to our consolidated financial statement in Item 8 of this Annual Report on Form 10-K for further information. Clients Advent's clients are investment management and advisory firms and service providers that manage, advise and perform recordkeeping
+functions on financial assets. These firms have clear needs that translate into demand for Advent solutions: portfolio accounting and reporting; trade order management and post-trade processing;
+research management; account management; and custodial reconciliation. Examples of these institutions include global and U.S.-based asset managers, wealth managers, registered investment advisors,
+prime brokers, fund administrators, hedge funds, family 4 Table of Contents offices,
+broker dealers, foundations, pension funds, endowments, and funds of funds. We have a diverse client base ranging from small firms to some of the largest institutional investment firms in the
+world. In fiscal 2014, 2013 and 2012, no single customer accounted for more than 10% of our total net revenues. Geographically, the U.S. continues to represent our primary market, with international
+sales representing 19%, 18% and 17% of total net revenues in fiscal 2014, 2013 and 2012, respectively. Market Trends The demand for our products and services comes from: new firm formation, new business lines and combinations of business lines created
+in existing client firms, replacement of legacy and competitor systems, and expansion of our existing client relationships. Supporting these demand drivers are the underlying trends we see in the
+industry including:  Globalization and growth of
+wealth. Many firms we work with have chosen to grow by investing overseas, or by taking on clients from different countries as developed nations
+and developing nations build wealth that needs to be managed professionally. Global expansion creates operational, regulatory and cultural challenges that we are uniquely positioned to support given
+our domain expertise, the scale of our client base, and our global reach.  Increased demands for transparency, efficiency and risk
+management. Firms continue to focus on operational risk, resulting from discoveries of fraud and mismanagement during the 2008-2012 U.S.
+financial crisis and concerns regarding transparency and counterparty exposure. This continued focus leads investment management firms to "shadow" their custodian's books to ensure their accuracy,
+drives investor demand for institutional-grade operations, and has led many firms to automate the documentation of their investment process through research management software. On the wealth
+management and advisory sides of our business, we see this change manifest in the evolving relationship between the end client and a firm, with investors demanding greater transparency and a more
+customized client experience. Wealth managers will need to become familiar with their clients' preferences for account access and communication and cater to them, whether that means client portals,
+mobile devices or other digital platforms, and Advent offers tools to facilitate that. Finally, institutional and individual investors alike, faced with an increasingly competitive low-fee, automated
+options, are pushing investment managers across the spectrum for greater efficiencies and lower fees.  Regulatory changes. Our
+clients must comply with rules, regulations, directives, and standards from governmental and self-regulating organizations, among others. Well after the passage of Dodd-Frank, EMIR, AIFMD, FATCA,
+UCITS V and a host of more localized reforms, many of the rules are still being defined and sorted out. In an international survey of wealth management operations managers commissioned by Advent,
+fulfilling current and anticipated compliance and regulatory requirements was deemed the biggest operations and technology challenge wealth managers currently face. We develop, configure, and market
+products and services to assist customers in meeting those requirements. We expect these types of changes to increase the number of firms in our addressable market and motivate more firms to develop
+their systems infrastructure and research management processes to mitigate exposure.  Technological paradigm
+shift. Our clients experience increased demand for software delivery options including cloud-based services, social collaboration, and
+information access through mobile devices. Cloud solutions allow firms to use a broader range of capabilities without incurring implementation or maintenance costs, and software can be upgraded with
+virtually no disruption to cloud-based solutions. Accessibility and demands for collaboration (or "social") is also a key driver of cloud adoption. For an increasingly mobile profession, anytime,
+anywhere access to portfolio and client data as well as the ability to communicate and collaborate within 5 Table of Contents the
+firm and with clients has broad appeal, allowing managers to work from the road, and access the most current performance information in the middle of a client meeting.  Outsourcing. The market
+trends described above are creating margin and fee pressure on the investment managers we serve, and, as a result, we expect to see a rising number of investment firms look to outsource their
+operations. As these market pressures increase, investment managers will need to focus on their core businessdeveloping new products, growing assets and providing quality service to
+retain clientsand outsourcing the lower margin and often commoditized work of back- and middle-office operations will be an increasingly attractive option. In
+this climate, our clients need to operate more efficiently, enhance investor confidence and ensure compliance. As a result, our clients leverage Advent to automate and integrate their
+mission-critical and labor-intensive functions, including:  Portfolio accounting, performance measurement and report generation;  Investment decision support;  Trade order management and compliance;  Client relationship management;  Straight-through-processing that includes connectivity and data integration;  Margin and finance management; and  Research management. Seasonality We experience seasonality in our bookings. We believe that this seasonality in our bookings results from customer budgeting cycles and
+expect this seasonality to continue in the future. We typically have our strongest bookings in the fourth quarter of the year, followed by lower bookings in the first quarter of the following year;
+however, this was not the case in 2013. We
+also experience seasonality in our operating cash flows and expect this seasonality to continue in the future. We experience lower operating cash flows in the first quarter of the
+year as we make payments on our year-end liabilities including payables, bonuses, commissions and payroll taxes. Conversely, we experience relatively stronger operating cash flows in the fourth
+quarter of the year because we traditionally experience higher licensing and renewal activity in that quarter which we bill typically annually in advance. This results in higher collections activity
+during the fourth quarter. Strategy Purpose We exist to help our clients, employees and investors thrive and transform the investment management industry. Today,
+we are focused on eliminating the borders between systems, information and people. To realize our purpose, we must be the best at what our clients expect from us. We expect to
+maintain and extend our leadership by innovating the design and delivery of our solutions to make them easier to implement, adopt and own, and by being attentive and responsive to our clients' varied
+lines of business, user profiles, geographies and size. 6 Table of Contents Customer Focus At December 31, 2014, we served over 4,300 customers in more than 50 countries. The needs of our customers, and the investment
+management industry as a whole, continue to evolve. We are committed to making the required investments in product development, client services and support to continue delivering mission-critical
+solutions to our customers as their needs change. We believe our strategy and customer focus are driving increasing market acceptance for our products. Business Model We offer a wide variety of products and services to a large number of financially sophisticated customers. Under our term license model
+which we instituted in 2005, customers purchase a license to use our software for a fixed period of time and we recognize the license revenue ratably over the length of the contract. We believe that a
+term license business model ultimately results in a long-term customer relationship and provides more predictable revenue streams. We
+continue to focus on growing our recurring revenues. Effective with the first quarter of 2011, we changed our presentation of the components of net revenues to recurring and
+non-recurring to reflect the nature of our sources of revenue. Recurring revenues are comprised of term license, maintenance from perpetual license arrangements, and other recurring revenues.
+Non-recurring revenues are comprised of professional services and other revenues which include perpetual license fees. Total
+recurring revenues have become our predominant source of revenues, comprising 92%, 91% and 90%, of total net revenues in 2014, 2013 and 2012, respectively, and we expect to
+continue to derive a significant portion of our revenues from new business, client renewals of term license, perpetual maintenance and other recurring revenue contracts. These recurring revenue
+sources provide us with an increased ability to make strategic decisions to invest in our business while remaining confident that our operating results will be reasonably predictable. We
+are organized and operate in a single segment. See Note 15, "Segment, Significant Customer and Geographic Information" to our consolidated financial Statements in Item 8
+of this Annual Report on Form 10-K. Products and Services Advent products are intended to automate those mission-critical functions in the investment management process that will increase
+operational efficiency, improve client relationships, facilitate timely regulatory compliance, enhance client reporting and enable better decision-making. For the most part, pricing is determined by
+the products purchased, the size of the implementation, and the customer's assets under management. These
+solutions are comprised of various combinations of Advent software products delivered on premise and, more recently, also through the cloud in a Software-as-a-Service (SaaS) model,
+data integration tools, and professional services. Our product revenues are derived principally from products delivered on premise. Our SaaS-based product offerings currently include Advent OnDemand,
+which includes our product offerings delivered over the web and hosted either by Advent or by a third party, and Black Diamond, which is web-based and hosted by Advent. Additionally, in late 2013, we
+introduced Advent Direct, a new cloud platform on which we deliver new, workflow-based solutions tailored to different users within a firm. Advent Direct solutions complement and augment the value of
+our traditional products, and the first solution, Advent Direct Investment Management, was delivered to a limited number of firms through our charter client program (on a beta release program) in
+2014.  Geneva® is a global portfolio management platform designed to meet the
+real-time needs of global asset managers, hedge funds, prime brokers, fund administrators, private equity firms and 7 Table of Contents family
+offices worldwide. Geneva integrates all phases of the investment management processportfolio management, accounting and reporting, client investor management, reconciliation and
+light trade capture and risk capabilities. Its "main memory" database offers more accurate and flexible reporting, and eliminates batch processing and time-consuming error corrections. Geneva enables
+firms to grow into new markets, deliver greater operational efficiencies, enhance investor service, process high trade volumes across multiple securities, improve compliance and security, and lower
+operating costs and risks.  Advent Portfolio Exchange ® (APX) is a
+comprehensive portfolio management solution for asset managers and wealth managers worldwide which integrates the front-office functions of prospecting, marketing, customer relationship management and
+internal business management with the back-office operations of portfolio accounting, performance measurement and reporting. It allows firms to manage both high-net-worth and institutional clients
+through a comprehensive range of capabilities, including customized reporting, automated report packaging, and performance analytics. APX provides easy access to critical data and enables firms to
+grow their business, retain assets and deliver superior client service. APX can be deployed locally as well as in the cloud.  Black Diamond® offers independent advisors and wealth managers an
+innovative and dynamic portfolio management and reporting solution delivered through an easy-to-use, feature-rich web-based application. As a cloud-based product offering, advisors can access Black
+Diamond's customizable portfolio management and reporting online from anywhere, anytime without the need to maintain costly technology infrastructures. Black Diamond also provides outsourced daily
+reconciliation and data management services so firms can focus their efforts on servicing clients and growing their business rather than managing complex back office functions.  Axys ® is a turnkey portfolio management and
+reporting system for small to mid-size investment management organizations. Axys provides investment professionals with broad portfolio accounting functionality on a variety of investment instruments,
+including equities, fixed income, mutual funds and cash. By using Axys, clients have a timely decision support tool with immediate access to portfolio holdings, asset allocation, realized and
+unrealized gains and losses, actual and projected income and other valuable data including sophisticated performance measurement and flexible reporting.  Moxy® automates and streamlines the portfolio construction, trading and
+order management process for the investment management community. Moxy also provides internet-ready electronic order routing based on the industry standard FIX messaging protocol so that users can
+route trades electronically to any FIX-compliant broker, crossing networks, and various dark pools of liquidity that supports the internet or other TCP/IP connections. Trades are executed, processed,
+settled and accounted for without manual intervention. Through its streamlined integration with Advent's industry-leading portfolio management platforms, Moxy enables true internal and external
+straight-through-processing through various post trade interfaces and brings together mission-critical functions across investment management organizations.  Advent Rules Manager® is a tightly integrated solution that meets
+investment management firms' increasingly complex trading compliance and portfolio monitoring requirements. Advent Rules Manager is a rules-based system that enables firms to define their trading and
+portfolio policies easily and accurately, and automates their control and review. Firms can efficiently manage portfolios, trading, compliance workflow, and safeguard their client commitments. Advent
+Rules Manager helps firms to record, test and compare their compliance practices against their policies, to help them demonstrate that their compliance programs are managed proactively.  Advent Revenue Center ® provides asset managers
+with a solution that automates complex billing processes, from fee creation to accounts-receivable management. This solution integrates 8 Table of Contents seamlessly
+with Advent's proven suite and not only reduces billing errors, but improves management's insight into the firm's revenue base.  Advent OnDemand® describes the SaaS delivery of Advent's suite of asset
+management solutions, which are hosted either by Advent or by a third party and are offered with or without fully outsourced data management services. Data management services include full account
+aggregation, daily portfolio reconciliation, corporate actions processing and reference data management.  Tamale RMS® (Research Management Solution) is a software solution that
+helps portfolio managers and analysts easily capture, access and share their research in order to manage investment ideas more effectively and document a firm's investment process. Tamale RMS creates
+a research workspace with all of the portfolio managers' and analysts' research-related information, such as notes, reports, financial models, contacts, calendar appointments and essential Web sites
+at their fingertips. It features an open, enabling platform that allows firms to build custom workflows to integrate both quantitative and qualitative information easily. Tamale RMS is highly
+configurable and organizes information around the workflow of each investment professional and provides features that optimize the research process.  Geneva® World Investor (or Advent Partner® Featuring World
+Investor) is a single source solution for onshore and offshore investor accounting and servicing. This product is specifically designed for investment management firms that
+face the complex and time-consuming task of consistently and accurately accounting for and reporting on investor contributions and redemptions, capital gain/loss and income allocations, and management
+incentive fees. In addition, the product provides comprehensive economic and tax allocation reporting and streamlines the production of U.S. K-1 partnership tax returns. The Advent Partner Featuring
+World Investor offering integrates with Axys and APX; Geneva World Investor integrates with Geneva.  Syncova® Margin, Syncova® Financing and Syncova®
+Essentials are a family of automated and highly configurable calculation solutions that facilitate the management and transparency of margin, financing and stock borrowing
+terms and fees. The Syncova solutions include Syncova Margin, Syncova Financing and Syncova Essentials and are designed specifically to address the increasingly complex relationships between hedge
+funds and prime brokers. Syncova solutions enable customizable rule definition, analysis, reconciliation, replication, optimization, alerting and reporting. In addition, Syncova's solutions respond to
+the growing demands of investors for better controls, reporting and transparency; and helps clients meet evolving regulatory compliance requirements. Syncova Margin and Syncova Financing are available
+on a locally installed basis, and Syncova Essentials is available as a hosted solution.  Tradex is ideal for organizations seeking a reliable solution for managing and
+distributing funds. With Tradex, an unlimited amount of funds and their associated order types are made available to client advisors, branches, agents and the end clients. The order flow from
+initiation to back-office and through to the funds' administrators becomes highly automateda process which otherwise is very labor intensive and error prone. In addition to subscriptions
+and redemptions, Tradex handles fund switches, model orders, savings/pension plans, currency dealing, and fund and cash transfers. Tradex also manages fees and sales commissions.  Advent® General Ledger Exchange (Advent® GLX) is an
+easy-to-use general ledger ("GL") interface, which enables clients to gain efficiencies through eliminating duplicate data entry. With Advent GLX, clients can import portfolio
+transactions and unrealized gains and losses from APX and Axys, translate portfolio data into GL journal entries, and export directly into their ledger systems. 9 Table of Contents Data and Data Integration Services  Advent Custodial Data® (ACD) enables firms to retrieve and reconcile
+accounts efficiently through a single, standard, Advent-supported solution. ACD uses hundreds of direct-feed interfaces to consolidate account level information from more than 1,000 custodial sources.
+The data can then be used for reconciliation and posting into Advent's portfolio management, accounting and reporting systems, APX, Geneva and Axys. With efficient reconciliation, firms can maintain
+accurate cash and securities balances, reduce settlement risk, produce client statements earlier and ensure compliant trading. In addition, the flexibility of ACD makes it easy to add new accounts
+and/or to establish relationships with new custodians, allowing firms to grow their business more cost effectively.  Advent Corporate Actions® (ACA) is a straight-through-processing service
+that delivers customized, position-level corporate action reports for a broad range of action and security types, along with market effective transactions for mandatory U.S. and Canadian equity and
+ADR events, including tax compliant details. Using ACA, firms can track actions from announcement through effective date, receive alerts containing revisions and processing tips and gain access to a
+dedicated team of corporate action specialists who assist advisory staff with processing details and the interpretation and confirmation of complex tax opinions.  Advent® Index Data is our subscription-based and transaction-based service
+and allows clients to download pricing, corporate actions and other data from third party vendors such as Financial Times/Interactive Data ("FTID"). Maintenance and Support Services Term license customers receive support and maintenance services as part of the term license offering. Existing and new perpetual
+license customers purchase maintenance and support services, which entitle them to technical support and product upgrades as they become available. We frequently upgrade and enhance our products to
+respond to changing market needs, evolving regulatory requirements and new technologies. Professional Services Professional services consist of consulting, project management, implementation and integration services, custom report writing, and
+training. Many of Advent's clients purchase professional services from us to support their implementations, assist in the conversion of their historical data and provide ongoing training and
+education. Professional services may be required for as little as a few days or up to several months for large implementations. We believe that these services facilitate a client's early success with
+our products, strengthen the client relationship and generate valuable feedback for our product development group. Alliance Program Our Alliance Program is designed to benefit our clients and participants in the program. The program provides a means by which
+participants can develop, promote, and sell their products, services, and solutions in conjunction with our solutions. Advent's Alliance Program was created to further extend our product and service
+offerings by integrating, with, and offering, others' complementary services and products as well as making our offerings available through others. Sales and Marketing Our sales group includes a direct sales organization (comprised of both field sales and tele-sales representatives) as well as product
+management groups, which are responsible for assessing market 10 Table of Contents opportunities
+and collaborating with our solutions development organization on product planning and management. We have sales and support offices throughout the world, including San Francisco, New
+York, Boston, Jacksonville, Toronto, London, Oslo, Copenhagen, Stockholm, Amsterdam, Zurich, Dubai, Hong Kong and Singapore. Our
+marketing organization is responsible for providing support to the Company through lead generation activities, brand awareness and support, the creation of sales tools and marketing
+materials, and the execution of marketing events, such as conferences and seminars. Product Development In fiscal 2014, 2013 and 2012, our product development expenses were $69.5 million, $69.7 million and
+$67.0 million, respectively. We also capitalized $7.2 million, $3.7 million and $2.2 million of software development costs in 2014, 2013 and 2012, respectively. Our product
+development organization builds product enhancements and new products, incorporates new technologies into existing products and sustains the quality of our current products. Our product development
+activities include the identification and validation of product specifications as well as engineering, quality assurance and documentation. Our
+new products and product upgrades require varying degrees of development time, depending upon the complexity of the accounting requirements and securities regulations which they are
+intended to address, as well as the number and type of features incorporated. To date, we have primarily relied upon internal development and, to a lesser extent, acquisitions for our products. We
+have in the past acquired, and may in the future acquire, additional technologies or products from third parties. For example, during 2011, we acquired Syncova, a UK-based company that provides margin
+management and financing software to hedge funds and prime brokers, and Black Diamond Performance Reporting, a provider of web-based, outsourced portfolio management and reporting platforms for
+independent advisors. We intend to continue to support industry standard operating environments, architectures and network protocols. Deferred Revenues and Backlog Total deferred revenue includes term license, maintenance, outsourcing, data services, professional services and deferred perpetual
+license. Deferred term license revenue is generally recognized over the contract length. Deferred maintenance revenue is generally recognized over the service period, which is typically twelve months.
+Deferred professional services revenue is either recognized over the period the specific services are rendered, or over the related contract period once completed, when sold in conjunction with a
+multi-year term license. Deferred perpetual license
+revenue is recognized when a contingency, such as a future product deliverable committed in the contract, is removed. We
+generally recognize revenue from term licenses ratably over the period of the contract term which varies from one to five years but is typically three years. For these term contracts,
+we invoice the customer annually in advance. As a result, the first year's contract value is included in deferred revenue while subsequent years of the contracted value are not (unless the subsequent
+years are prepaid by the client, which is typically not the case). During the subsequent years, annual term billing results in an increase in deferred revenues at the commencement of each annual
+billing period. Total deferred revenues were $204.1 million and $193.9 million at December 31, 2014 and 2013, respectively. The increase during 2014 is primarily due to the
+increase in deferred revenues from term licenses and to a lesser degree ongoing term implementations. We
+define backlog as the value of multi-year term license, outsourcing and data service contracts which contain a binding commitment for the full contract term, less any amounts from
+those contracts already invoiced. We exclude annual contracts from the backlog calculation since they contain annual renewal options (for example, annual term licenses, annual maintenance or data
+reconciliation contracts). Our total backlog was approximately $157.4 million and $165.4 million as of December 31, 2014 and 2013, respectively. 11 Table of Contents For additional information regarding factors that affect the timing of the recognition of software license revenue, see "Management's Discussion and Analysis of
+Financial Condition and Results of OperationsCritical Accounting Policies and EstimatesRevenue Recognition and Deferred Revenues." Competition The market for investment management software is characterized by the relative size of the organizations that manage and advise on
+investment portfolios. The market is competitive and highly fragmented. It is subject to rapid change and is sensitive to new product introductions and marketing efforts by industry participants. We
+face competition from providers of software and related services as well as providers of outsourced services. Competitive
+firms can vary in size and scope of offering, platforms supported, and, in general, tend to be more narrowly focused by segment or workflow while Advent, in contrast, offers
+solutions and services that meet a broad and diverse spectrum of investment management firms and their needs. Our competitors include Addepar, Backstop, BlackRock Solutions, Broadridge Financial
+Solutions, Charles
+River Development, Code Red, DST International, the Eagle Investment Systems subsidiary of Bank of New York/Mellon Financial Corporation, Enfusion, Envestnet, Eze Software Group, FactSet Research
+Systems, FiTek, FT Interactive Data, INDATA, the LatentZero division of Fidessa group plc, Linedata Services, the Macgregor division of Investment Technology Group, MackeyRMS, Markit,
+Morningstar, Multifonds, Orion, Schwab Performance Technologies, SEI Investments Company, SimCorp A/S, SS&C Technologies Inc., State Street Corporation, SunGard, and TKS Solutions, among
+others. An additional source of competition is from proprietary systems used by our existing and potential clients, some of whom develop their own software for their particular needs and therefore may
+be reluctant to license software products offered by third party vendors such as Advent. Some
+of our largest competitors have longer operating histories and greater financial, technical, sales and marketing resources, due in part to the on-going consolidation in our markets.
+Since 2005, many of our competitors have been acquired by larger enterprises, and it is possible that even larger competitors will be created through additional acquisitions of companies and
+technologies. We
+believe that Advent competes effectively in terms of the most predominant competitive differentiators, which include product performance and functionality, ease of use, scalability,
+ability to integrate external data sources, product and company reputation, client service and price. Intellectual Property and Other Proprietary Rights Our success depends significantly upon our proprietary technology. We currently rely on a combination of copyright, trademark, patent
+and trade secret law, as well as confidentiality procedures and contractual provisions to protect our proprietary rights. We have registered trademarks and copyrights for many of our products and
+services and will continue to evaluate the registration of additional trademarks and copyrights as appropriate. We generally enter into confidentiality agreements with our employees, customers,
+resellers, vendors and others. We seek to protect our software, documentation and other written materials under trade secret and copyright laws. We also have six issued patents. While we do not
+believe we are dependent on any one of our intellectual property rights, we do rely on the combination of intellectual property rights and other measures to protect our proprietary rights. Despite
+these efforts, existing intellectual property laws may afford only limited protection. In addition, it may be possible for unauthorized third parties to copy certain portions of our products or to
+reverse engineer or otherwise obtain and use our proprietary information. In addition, we cannot be certain that others will not develop or acquire substantially equivalent or superseding proprietary
+technology, equivalent or better products will not be marketed in competition with our products, or others may not design around any patent that we have or that may be issued to us or 12 Table of Contents other
+intellectual property rights of ours, thereby substantially reducing the value of our proprietary rights. We cannot be sure that we will develop proprietary products or technologies that are
+patentable, that any patent, if issued, would provide us with any competitive advantages or would not be challenged by third parties, or that the patents of others will not adversely affect our
+ability to do business. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as
+proprietary. In addition, the laws of some countries do not protect proprietary rights to as great an extent as do the laws of the United States. Litigation may be necessary to protect our proprietary
+technology which may be time-consuming and expensive, with no assurance of success. As a result, we cannot be sure that our means of protecting our proprietary rights will be adequate. Employees As of December 31, 2014, we had 1,209 employees, including approximately 457 in client services and support, 178 in sales and
+marketing, 386 in product development and 188 in general and administration. Of these employees, 906 were located in the United States and 303 were based outside the United States. We endeavor to
+maintain competitive compensation, benefits, equity participation and work environment policies in order to attract and retain qualified personnel. None of our employees are subject to a union
+collective bargaining agreement. We have not experienced any work stoppages and we believe our employee relations are good. Executive Officers of Registrant The following sets forth certain information regarding the executive officers of the Company as of January 31, 2015: Name Age Position David Peter F. Hess Jr. 44 Chief Executive Officer, President and Director James S. Cox 43 Executive Vice President and Chief Financial Officer Todd J. Gottula 41 Executive Vice President, Global Solutions Development and Chief Technology Officer Chris J. Momsen 44 Executive Vice President, Global Sales and Solutions Anthony E. Sperling 46 Executive Vice President, Global Client Experience Mr. Hess
+joined Advent in 1994 and currently serves as Chief Executive Officer and President of Advent. Mr. Hess is responsible for defining Advent's vision, setting
+strategy and overseeing execution across the global business. Mr. Hess has served as Chief Executive Officer of Advent since June 2012, and as President of Advent since December 2008. From
+February 2007 to December 2008, Mr. Hess served as Executive Vice President and General Manager of Advent's Investment Management Group. From May 2004 to February 2007, Mr. Hess served
+as Executive Vice President and General Manager of our Global Accounts group. In this role, Mr. Hess had global responsibility for strategy, product marketing, sales, services, and support of
+Advent solutions for the asset management industry's largest firms. Mr. Hess has held a variety of other positions in the company including Vice President of Sales and Vice President of
+Marketing. Mr. Hess holds a B.A. from Princeton University. Mr. Cox
+joined Advent in June 2006 and currently serves as Executive Vice President and Chief Financial Officer. Mr. Cox is responsible for the oversight of the Company's
+financial functions. Mr. Cox has served as Executive Vice President and Chief Financial Officer since November 2012. From September 2009 to November 2012, Mr. Cox served as Senior Vice
+President and Chief Financial Officer of Advent. From July 2008 to September 2009, Mr. Cox served as Vice President and Principal Accounting Officer, and served as Corporate Controller from
+June 2006 to July 2008. Prior to joining Advent, Mr. Cox served as Assistant Controller of UTStarcom from 2004 to 2006. From 1994 to 2004, 13 Table of Contents Mr. Cox
+held various positions at PricewaterhouseCoopers, LLP. Mr. Cox holds a B.A. in Economics from Ohio University. Mr. Gottula
+joined Advent in January 2002 and currently serves as Executive Vice President and Chief Technology Officer of Global Solutions Development. Mr. Gottula is
+responsible for global solutions delivery and the Company's information technology infrastructure. From 2007 to 2012, Mr. Gottula served as Co-Head of Advent's Global Accounts, and beginning in
+2011 the Tamale group, where he held global responsibility for product design, delivery, implementation and support of Advent's solutions for the alternative asset management industry, including the
+Geneva platform. From 2002 to 2007, Mr. Gottula held a variety of other positions in the Company including leadership roles in product development and client services. Prior to joining Advent,
+from 1997 to 2001, Mr. Gottula held development and services leadership positions with TenFold Corporation, an enterprise solution and technology provider, and from 1995 to 1997
+Mr. Gottula held process engineering and design positions at Ultramar Diamond Shamrock (now Valero) Refining and Technology. Mr. Gottula holds a B.S. in Chemical Engineering from the
+California Institute of Technology. Mr. Momsen
+joined Advent in September 1997 and currently serves as Executive Vice President of Global Sales and Solutions. Mr. Momsen is responsible the Company's global
+solutions strategy and sales efforts. From 2007 to 2012, Mr. Momsen served as Co-Head of Advent's Global Accounts, and beginning in 2011 the Tamale group, where he had global responsibility for
+strategy, product marketing and sales of Advent's solutions for the alternative asset management industry, including the Geneva platform. From 2005 to 2007, Mr. Momsen served as Vice President
+of Sales, Global Accounts and directed global strategy and sales and marketing for Advent's Tamale research management solution. Mr. Momsen has held a variety of other positions in the Company
+including Senior Sales Executive and Marketing Manager. Prior to joining Advent, from 1996 to 1997, Mr. Momsen held positions at Wells Fargo in its Real Estate Capital Markets division and in
+1995 as an options trader on the floor of the Pacific Exchange. Mr. Momsen holds a B.A. in History with a Business Minor from the University of California at Los Angeles, and an MBA from New
+York University. Mr. Sperling
+joined Advent in June 1993 and currently serves as Executive Vice President of Global Client Experience. Mr. Sperling is responsible for ensuring client
+success through our global services, support, account management and renewals organization. From 2009 to 2012, Mr. Sperling served as Senior Vice President, Co-Head and General Manager of
+Advent's Asset Management Group, where he was responsible for strategy, product marketing, sales, services, and support of Advent's solutions for the asset management industry. Mr. Sperling has
+held a variety of other positions in the Company including Senior Vice President of Services and Vice President of Client Sales, and Director of Product Marketing. He has also had sales and services
+responsibilities in Advent's European operations. Prior to joining Advent, from 1990 to 1993, Mr. Sperling held positions at Lawrence Johnson & Associates and Harris Bretall
+Sullivan & Smith. Mr. Sperling holds a B.S. in Business Administration from the University of Wisconsin at River Falls. 14 Table of Contents Item 1A. Risk Factors Investors should carefully consider the risks described below before making an investment decision. The trading
+price of our common stock could decline due to any of, but are not limited to, these risks. In assessing these risks, investors should also refer to the other information contained or incorporated by
+reference in this Annual Report on Form 10-K filed with the SEC, including our consolidated financial statements and related notes thereto. The pendency of our agreement to be acquired by SS&C or our failure to complete the merger could
+have an adverse effect on our business. Completion of the Merger is subject to the satisfaction of various conditions, including the receipt of approvals from our stockholders
+and from government or regulatory agencies. There is no assurance that all of the various conditions will be satisfied, or that the Merger will be completed on the proposed terms, within the expected
+timeframe, or at all. The
+Merger gives rise to inherent risks that include:  The inability to complete the Merger due to the failure to obtain stockholder approval or failure to satisfy the other conditions to
+the completion of the Merger, including receipt of the required regulatory approval;  Pending and potential future stockholder litigation that could prevent or delay the Merger or otherwise negatively impact our business
+and operations;  If the Merger is not completed, the price of our common stock will change to the extent that the current market price of our stock
+reflects an assumption that the Merger will be completed;  The amount of cash to be paid under the agreement governing the Merger is fixed and will not be adjusted for changes in our business,
+assets, liabilities, prospects, outlook, financial condition or results of operations, including any potential long-term value of the successful execution of our current strategy as an independent
+company or in the event of any change in the market price of, analyst estimates of, or projections relating to, our common stock;  Legal or regulatory proceedings, including regulatory approvals from various domestic and foreign governmental entities (including any
+conditions, limitations or restrictions placed on these approvals) and the risk that one or more governmental entities may delay or deny approval, or other matters that affect the timing or ability to
+complete the transaction as contemplated;  The ability of SS&C Technologies Holdings, Inc. to obtain the necessary funds to complete the Merger;  The possibility of disruption to our business, including increased costs and diversion of management time and resources;  Difficulties maintaining business and operational relationships, including relationships with customers, suppliers, and other business
+partners;  The possibility of slowing new license sales and renewals by clients;  The inability to attract and retain key personnel pending consummation of the Merger;  The inability to pursue alternative business opportunities, including acquisitions, or make changes to our business pending the
+completion of the Merger, and other restrictions on our ability to conduct our business, including restrictions on our ability to declare dividends; 15 Table of Contents  The requirement to pay a termination fee of $80 million or reimburse expenses of up to $12.5 million if the agreement
+governing the Merger is terminated under certain circumstances;  The fact that under the terms of the Merger Agreement, we are unable to solicit other acquisitions proposals during the pendency of
+the Merger;  The amount of the costs, fees, expenses and charges related to the Merger Agreement or the merger;  Developments beyond our control including, but not limited to, changes in domestic or global economic conditions that may affect the
+timing or success of the Merger; and  The risk that if the Merger is not completed, the market price of our common stock could decline, investor confidence could decline,
+shareholder litigation could be brought against us, relationships with customers, suppliers and other business partners may be adversely impacted, we may be unable to retain key personnel, and
+profitability may be adversely impacted due to costs incurred in connection with the proposed Merger. If our existing customers do not renew their term license, other recurring or perpetual maintenance
+contracts, our business will suffer. Total recurring revenues, which we define as term license, other recurring revenue, maintenance from perpetual arrangements and Asset
+Under Administration (AUA) fees for certain perpetual arrangements, represented 92%, 91% and 90% of total net revenues during 2014, 2013 and 2012, respectively. We expect to continue to derive a
+significant portion of our revenue from our clients' renewal of term license, other recurring and perpetual maintenance contracts and such renewals are critical to our future success, although we
+expect revenues from perpetual maintenance arrangements to continue their downward trend. Some factors that may affect the renewal rate of our contracts
+include:  The impact of the economic environment and market volatility on our clients and prospects;  The impact of customers consolidating or going out of business;  The price, performance and functionality of our solutions;  The availability, price, performance and functionality of competing products and services;  The effectiveness of our maintenance and support services;  The legacy nature of our perpetual maintenance revenues;  Our ability to develop complementary products and services;  Our ability to offer the diversity of business process outsourcing services demanded by our clients and prospects; and  Potential client reaction to the pending acquisition by SS&C. We
+have experience with renewals of our term license contracts only since approximately 2008 and we have even less experience with renewals of certain other recurring contracts, such as
+our SaaS-based offerings, Advent OnDemand and Black Diamond. Our customers have no obligation to renew their term license or other recurring contracts and given the relatively limited number of years
+in which we have experience renewing term license and other recurring contracts and fluctuations in term license renewal rates, it is difficult to predict expected renewal rates. Additionally, we
+cannot predict whether
+the renewals will be less advantageous to us than the original term or other recurring contract. For example, the renewal periods for our term license contracts are typically shorter than our original
+term license contract and customers may request a reduction in the number of users or products licensed, 16 Table of Contents resulting
+in lower annual term license fees. Further, customers may elect to not renew their term license or other recurring contracts at all. We may incur significantly more costs in securing our
+term license or other recurring contract renewals than we incur for our perpetual maintenance renewals. If our term license or other recurring contract customers renew under terms less favorable to us
+or choose not to renew their contracts, or if it costs significantly more to secure a renewal for us, our operating results may be harmed. Most
+of our base of perpetual license customers have historically renewed their annual maintenance although our customers have no obligation to renew such maintenance after the first
+year of their license agreements. Our perpetual license maintenance revenues have been trending downward and decreased 2%, 2% and 5% during fiscal 2014, 2013 and 2012, respectively. In addition,
+market downturns, such as the downturn beginning in the fall of 2008 and subsequent market fluctuations, and other factors have caused, and may in the future cause, some clients not to renew their
+maintenance; reduce their level of maintenance; not renew their term license contracts; or renew such term licenses for fewer products or users, all of which adversely affects our renewal rates and
+revenue from these customers. Our renewal rates are based on cash collections and are disclosed one quarter in arrears. Our reported quarterly renewal rate for perpetual maintenance and term license
+renewals may fluctuate. Decreases in renewal rates reflect reduced maintenance expenditures, reduced term license renewals, customer attrition, and reductions in products licensed or number of users
+by clients, as well as from slower payments received from renewal clients. Our sales cycle is long and we have limited ability to forecast the timing and amount of specific
+sales and the timing of specific implementations. The licensing of our software products and services often requires prospective customers to provide significant executive-level
+sponsorship and to make major systems architecture decisions. As a result, we must generally engage in relatively lengthy sales and contracting efforts. Sales transactions may therefore be delayed
+during the customer decision process because we must provide a significant level of education to prospective customers regarding the use and benefit of our products. Our business and prospects are
+subject to uncertainties in the financial markets that can cause customers to remain cautious about capital and information technology expenditures, particularly in uncertain economic environments, or
+to decrease their information technology budgets as an expense reduction measure. The sales cycle associated with the purchase of our solutions is typically between two and twelve months depending
+upon the size of the client, and is subject to a number of significant
+risks that have impacted our sales and over which we have little or no control, including broader financial market volatility, adverse economic conditions, customers' budgeting constraints, internal
+selection procedures, competitive products, and changes in customer personnel, among others. As
+a result of a lengthy and unpredictable sales cycle, we have limited ability to forecast the timing and amount of specific perpetual license sales, as well as term license, Advent
+OnDemand and Black Diamond sales, which we report quarterly as annual contract value (ACV) bookings and also include as part of our Annualized Recurring Run Rate metric. The timing of large individual
+license sales is especially difficult to forecast, and we may not be successful in closing large license transactions on a timely basis or at all. Customers may postpone their purchases of our
+existing products or product enhancements in advance of the anticipated introduction of new products or product enhancements by us or our competitors, such as we have experienced with our recently
+introduced Advent Direct cloud platform that we have begun to make more broadly available to selected clients. Accordingly, our level of ACV bookings and Annualized Recurring Run Rate in any
+particular period is subject to significant fluctuation. For example, during 2014, 2013 and 2012, our ACV bookings decreased 4%, 5% and 3%, respectively, compared to previous periods, which is
+indicative of the competitive environment in which we sell, especially against competitors with more robust hosted and business process outsourcing offerings. ACV from 2012-2014 affected our
+Annualized Recurring Run Rate. Our Annualized 17 Table of Contents Recurring
+Run Rate, which is a broader metric than ACV that includes all of our contracted recurring revenue streams at the end of a particular quarter, increased 7% as of December 31, 2014
+compared to December 31, 2013. When
+a customer purchases a term license together with implementation services, we do not recognize any revenue under the contract until the implementation services are substantially
+complete. The timing of large implementations is difficult to forecast. Customers may delay or postpone the timing of their particular projects due to the availability of resources or other customer
+specific priorities. If we are not able to complete an implementation project for a term license in a quarter, it will cause us to defer all of the contract revenues to a subsequent quarter. Because
+our expenses are relatively fixed in the near term, any shortfall from anticipated revenues could result in a significant variation in our operating results from quarter to quarter. Our current operating results may not be reflective of our future financial performance. We derive most of our revenue from recurring sources. During 2014, 2013 and 2012, we recognized 92%, 91% and 90%, respectively, of
+total net revenues from recurring sources.
+We generally recognize revenue from these sources ratably over the terms of these agreements, which typically range from one to three years. As a result, almost all of our revenues in any quarter are
+generated from contracts entered into during previous periods. Consequently,
+a significant decline in new business generated in any quarter may not materially affect our results of operations in that quarter but will have an impact on our revenue
+growth rate in future quarters. We also experience fluctuations and seasonality in our new business generated each quarter. ACV for fiscal 2014 and 2013 decreased 4% and 5%, respectively, over the
+prior year; and ACV in 2012 decreased by 3% over 2011. Also, the type of recurring revenue may vary and our Annualized Recurring Run Rate, which includes all of our contracted recurring revenue
+streams, not just ACV, may fluctuate as well. For example, our Annualized Recurring Run Rate increased as of December 31, 2014, compared to December 31, 2013, but our
+September 30, 2013 Annualized Recurring Run Rate decreased 1% compared to June 30, 2013. Additionally,
+a decline in renewals of term agreements, maintenance or data and other subscription contracts during a quarter will not be fully reflected in our financial performance in
+that quarter. For example, because we recognize revenue ratably, the non-renewal of term agreements or maintenance contracts late in a quarter may have very little impact on revenue for that quarter,
+but will reduce revenue in future quarters. In addition, we may be unable to adjust our costs in response to reduced revenue. Further,
+because of the large percentage of revenue from recurring sources in our term license business model, our historical operating results on a U.S. generally accepted accounting
+principles (GAAP) basis will not necessarily be the sole or most relevant factor in predicting our future operating results. Accordingly, we report certain non-GAAP or operational information,
+including our quarterly bookings metrics (expressed as ACV), maintenance and term license renewal rates and Annualized Recurring Run Rate, that is intended to provide investors with certain of the
+information that management uses as a basis for planning and forecasting of future periods. However, we believe that undue reliance should not be placed upon non-GAAP or operating information because
+this information is neither standardized across companies nor subjected to the same control activities and audit procedures that produce our GAAP financial results. Uncertain economic and financial market conditions adversely affect our business. The market for investment management software systems has been and may in the future be negatively affected by a number of factors,
+including reductions in capital expenditures by customers and volatile performance of major financial markets. For example, U.S. and European economies 18 Table of Contents showed
+signs of weakening during periods in 2012 due to uncertainty about the fate of the eurozone and continued weakness in U.S. labor markets. With this volatile environment and general uncertainty
+as a backdrop, our customers became cautious and slowed buying decisions which elongated some sales and cash collection cycles. Also, our new contract bookings were lower than expected during 2013.
+Market conditions have also impacted our performance in the past. For example, macroeconomic concerns in 2011 and again in 2012, such as the European default risk and U.S. debt ceiling debate,
+resulted in a cautious buying environment and elongated sales cycles in some instances. Also, during the fall of 2008 through 2010, we experienced some clients and prospects delaying or cancelling
+additional license purchases, while others went out of business, reduced personnel, or were acquired. The target clients for our products include a range of financial services organizations that
+manage investment portfolios. The success of many of our clients is intrinsically linked to the health of the financial markets. The demand for our solutions has been and continues to be
+disproportionately affected by fluctuations, disruptions, instability and downturns in the economy and financial services industry, which may cause clients and potential clients to exit the industry
+or delay, cancel or reduce any planned expenditures for investment management systems and software products. In
+addition, the failure of existing investment firms or the slowdown in the formation of new investment firms could cause a decline in demand for our solutions. Consolidation of
+financial services firms and other clients will result in reduced technology expenditures or acquired customers using the acquirer's own proprietary software and services solutions or the solutions of
+another vendor. In some circumstances where both acquisition parties are customers of Advent, the combined entity may require fewer Advent products and services than each individually licensed prior
+to becoming a combined entity, thus reducing our revenue. Challenging economic conditions may also cause our customers to experience difficulty with gaining timely access to sufficient credit or our
+customers may become unable to pay for the products or services they have purchased, which could result in their inability to fulfill or make timely payments to us. If that were to occur, our ability
+to collect receivables would be negatively affected, and our reserves for doubtful accounts and write-offs of accounts receivable may increase. We
+have in the past experienced a number of market downturns in the financial services industry and resulting declines in information technology spending, which has caused longer sales
+and contracting cycles, deferral or delay of information technology projects and generally reduced expenditures for software and related services. The severity of market downturns and volatility and
+uncertainty in financial markets and the financial services sector that we have experienced in the past and may experience again also makes it difficult for us to forecast operating results and may
+result in a material adverse effect on our revenues and results of operations in the longer term. In addition, other events such as the federal government's struggles to reach agreement on the federal
+budget and debt ceiling have contributed, and may in the future contribute, to macroeconomic problems that result in a cautious buying environment with elongated sales cycles with our clients. Market
+downturns may cause clients not to renew their term licenses or perpetual license maintenance. Also, significant declines in market value of our clients affect their Assets Under
+Administration (AUA) or Assets Under Management (AUM). Consequently, we may also experience a decline in the ACV of bookings and Annualized Recurring Run Rate since the pricing of some of our products
+is based upon
+our client's AUA or AUM. Furthermore, we have some contracts for which clients pay us fees based on the greater of a negotiated annual minimum fee or a calculated fee that is determined by the
+client's AUA or AUM. If a client previously paid us based on the calculated fee, rather than the annual minimum fee, we would experience a decline in revenue as a result of any decline in those
+clients' AUA or AUM. 19 Table of Contents We operate in a highly competitive industry. The market for investment management software is competitive and highly fragmented, is subject to rapid change and is sensitive to new
+product introductions and marketing efforts by industry participants. Our largest single source of competition is from proprietary systems used by existing and potential clients, many of whom develop
+their own software for their particular needs and therefore may be reluctant to license software products offered by third party vendors such as Advent. We also face significant competition from other
+providers of software and related services as well as providers of outsourced services. Many of our competitors have longer operating histories and greater financial, technical, sales and marketing
+resources than we do. In addition, consolidation has occurred among some of the competitors in our markets. Competitors vary in size, scope of services offered and platforms supported. Many of our
+competitors have merged with each other or with other larger third parties, and it is possible that even larger companies will emerge through additional acquisitions of companies and technologies.
+Consolidation among our competitors may result in stronger competitors in our markets and may therefore either result in a loss of market share or harm our results of operations. In addition, we also
+face competition from potential new entrants into our markets that may develop innovative technologies or business models, particularly for SaaS businesses where barriers to entry are relatively
+lower. Furthermore, competitors may respond to weak market conditions by lowering prices, offering better contractual terms and attempting to lure
+away our customers and prospects with lower cost solutions. We cannot guarantee that we will be able to compete successfully against current and future competitors or that competitive pressure will
+not result in price reductions, reduced operating margins or loss of market share, any one of which could seriously harm our business. We may not be successful in introducing new and enhanced products. We also must continue to introduce new products and product enhancements. The market for our products is characterized by rapid
+technological change, changes in customer demands, evolving industry standards and new regulatory requirements. New products based on recent technologies or new industry standards can render existing
+products obsolete and unmarketable. As a result, our future success will continue to depend upon our ability to develop or acquire new products and product enhancements that address the needs of our
+target markets and respond to their changing standards and practices. We continue to release numerous products and product upgrades and we believe our future success depends on continuing such
+releases. In October 2008, we acquired Tamale Software which enabled us to offer a new product in the nascent research management field and in March 2010, Advent Norway AS acquired Goya AS to allow us
+to provide transfer agency-related solutions to mutual fund managers and mutual fund distributors. In February 2011, Advent Software, Inc. acquired Syncova Solutions, Ltd., a United
+Kingdom-based company that provides margin management and debt finance reconciliation and optimization software and in June 2011, we acquired Black Diamond, a Florida-based company that provides a
+web-based, outsourced portfolio management and reporting platforms for investment advisors. In late 2013, we introduced Advent Direct, our new cloud platform, on a beta release basis, and we have
+begun to make Advent Direct more broadly available to select clients. In order to ensure Advent Direct is successful in the mid- to long-term, we have slowed roll out to enable the addition of key new
+features. This slowdown means we will not be ramping up sales significantly in the first half of 2015 and now expect to ramp up sales in the first half of 2016. However, it may take longer than we
+expect to make Advent Direct broadly available or develop related solutions, and we cannot be certain whether new products and enhancements will meet anticipated sales projections or will be broadly
+accepted in the market, whether a market will develop as expected for new products and enhancements or whether we will be able to continue to introduce more products and enhancements. We
+may not be successful in developing, introducing, marketing and licensing our new products or product enhancements on a timely and cost effective basis, or at all, and our new
+products and product enhancements may not adequately meet the requirements of the marketplace or achieve market 20 Table of Contents acceptance.
+Delays in the availability of new products or enhancements or delays in client implementations or migrations may result in client dissatisfaction and delay or loss of product revenues.
+Additionally, existing clients have shown some reluctance to go through the process of migrating from our Axys product to our Advent Portfolio Exchange (APX) or Geneva products, or our Black Diamond
+platform, which has slowed the migration of our customer base to APX. In addition, clients may delay purchases in anticipation of new products or product enhancements, such as we have experienced and
+continue to experience with our recently introduced, but not yet broadly available, Advent Direct cloud platform. Our ability to develop new products and product enhancements is also dependent upon
+the products of other software and service vendors, including certain system software vendors, such as Microsoft Corporation, database vendors, Software-as-a-Service ("SaaS") providers, hosting and
+authentication services, and development tool vendors. If the products of such vendors have design defects or flaws, are unexpectedly delayed in their introduction, are unavailable on acceptable
+terms, or the vendors exit the business, our business could be seriously harmed. Our stock price may fluctuate significantly. Like many other companies, our stock price has been subject to wide fluctuations in recent quarters as a result of market volatility.
+If ACV bookings, Annualized Recurring Run Rate net revenues or earnings in any quarter or our financial guidance for future periods fail to meet the investment community's expectations, our stock
+price is likely to decline. Even if our ACV bookings, Annualized Recurring Run Rate, revenues or earnings meet or exceed expectations, our stock price is subject to decline in periods of high market
+volatility because our stock price is affected by trends in the financial services sector and by broader market trends unrelated to our performance. Unfavorable or uncertain economic and market
+conditions, which can be caused by many factors, including declines in economic growth, business activity or investor or business confidence; limitation on the availability or increases in the cost of
+credit or capital; increases in inflation, interest rates, exchange rate volatility, default rates or the price of basic commodities; corporate, political or other scandals that reduce investor
+confidence in capital markets; outbreaks of hostilities or other geopolitical instability; natural disasters or pandemics; or a combination of these or other factors, have adversely affected, and may
+in the future adversely affect, our business, profitability and stock price. In
+addition, the Company initiated a quarterly dividend in April 2014 and periodically repurchases shares of its stock (each subject to authorization by its Board), but is under no
+obligation to continue either action or to do so in certain amounts. Also, our debt repayment and other financial obligations may limit or prevent our ability to issue dividends or repurchase shares
+of our common stock. In the Merger Agreement with SS&C signed on February 2, 2015, the Company is prohibited from declaring a dividend or repurchasing shares of its common stock during the
+pendency of the agreement. If the Company reduces the expected value of future dividends or ceases to issue dividends, which are subject to declaration by its Board of Directors, or fails to meet
+expectations related to future dividends or share repurchases, investors may lose confidence or we may not attract the same type of investors and our stock price may decline significantly. We depend heavily on our Geneva®, Advent Portfolio Exchange®,
+Axys® and Moxy® products, and our Black Diamond platform. We derive a majority of our net revenues from the license and maintenance revenues from our Geneva, Advent Portfolio Exchange (APX),
+Axys and Moxy products and our Black Diamond platform. In addition, Moxy and many of our applications, such as Partner and various data services, have been designed to provide an integrated solution
+with Geneva, APX and Axys. As a result, we believe that for the foreseeable future a majority of our net revenues will depend upon continued market acceptance of Geneva, APX, Axys, Moxy and Black
+Diamond, and related upgrades. 21 Table of Contents Our operating results may fluctuate significantly. Most of our revenue comes from recurring sources, which grew to 92% in 2014, from 91% in 2013 and 90% in 2012. During fiscal 2014, term
+license revenues comprised approximately 53% of recurring revenues as compared to approximately 52% and 49% in fiscal years 2013 and 2012, respectively. When
+a customer purchases a term license together with implementation services, we do not recognize any revenue under the contract until the implementation services are substantially
+completed and then we recognize revenue ratably over the remaining term of the contract. If the implementation services are still in progress as of quarter-end, we will defer all of the contract
+revenues to a subsequent quarter. At the point professional services are substantially completed, we recognize the professional services fees earned and related expenses, and a pro-rata amount of the
+term license revenue based on the elapsed time from the start of the term license to the substantial completion of professional services. For example, we deferred net revenues of $1.4 million
+in 2014. During 2013, the revenue deferred from projects in the process of being implemented exceeded revenue recognized from completed implementations, resulting in a net deferral of
+$3.9 million for fiscal 2013. In
+future periods, our revenues related to completed implementations may vary depending on the number of projects that reach substantial completion during the quarter. Term license
+revenue for the remaining contract years and the remaining deferred professional services revenue and related expenses are recognized ratably over the remaining contract term. The term license
+component of the deferred
+revenue balance will increase or decrease in the future depending on the amount of new term license bookings relative to the number of implementations that reach substantial completion in a particular
+quarter. Although our substantial revenue from recurring sources under our term license model provides us with longer term stability and more visibility in the short term, our quarterly net revenues
+and operating results may still fluctuate significantly depending on these and other factors. Our expense levels are relatively fixed in the short-term. Due to the fixed nature of these expenses,
+combined with the relatively high gross margin historically achieved on our products, an unanticipated decline in net revenues in any particular quarter may adversely affect our operating results. In
+addition, we experience seasonality in our licensing. We believe that this seasonality results primarily from customer budgeting cycles and expect this seasonality to continue in the
+future. The fourth quarter of the year typically has more licensing activity; however, this was not the case in the fourth quarter of 2013, although it was higher in the fourth quarter of 2014. That
+can result in ACV bookings and perpetual license fee revenue being the highest in the fourth quarter, followed by lower term license bookings and perpetual license revenue in the first quarter of the
+following year, and which also may result in larger quarterly increases in Annualized Recurring Run Rate for the fourth quarter than in other quarters, although changes in other recurring revenue
+sources during a quarter may decrease or increase such run rate as well. This seasonality has been, and may be in the future, adversely affected by market downturns and uncertain economic conditions.
+Also, term licenses entered into during a quarter may not result in recognition of associated revenue until later quarters, as we begin recognizing revenue for such licenses when the related
+implementation services are substantially complete. Because
+of the above factors, we believe that quarter-to-quarter comparisons of our operating results are not necessarily reliable indicators of future performance. Our increased emphasis on delivering our products as SaaS may give rise to risks that could harm our
+business. Currently, we offer our suite of products to our customers on premise and over the web on an Advent-hosted or third party-hosted basis.
+Advent OnDemand and Black Diamond are delivered over the web as our current SaaS product offerings. In addition, we introduced Advent Direct, our new cloud platform, on a beta release basis, and we
+have begun to make Advent Direct more broadly 22 Table of Contents available
+to selected customers. We plan to continue to expand our current and future SaaS product offerings, including availability on mobile devices, and we believe that over time our SaaS-based
+product offerings will comprise an increasing share of our total recurring revenues as more customers adopt SaaS as their preferred solution. Our SaaS-based delivery models may vary from the way we
+price and deliver our products to customers on premise under term licenses or amongst our various SaaS offerings. The SaaS-based model will require continued investment in product development and SaaS
+operations, and may give rise to a number of risks, including the following:  Increased competition from current or new SaaS-based solutions providers that offer lower priced or more advanced solutions;  Concerns among our installed, term license customer base about our increased focus on SaaS-based products;  Increased price competition with current or new competitors, resulting in eroding profit margins;  Customers postponing their purchases of our existing products or product enhancements in anticipation of the introduction of new
+SaaS-based offerings; and  Incurring higher operating costs and customer information security risks associated with hosting and processing large quantities of
+customer information. In
+addition, our reliance upon third-party service providers as part of our SaaS and data services may expose us to risks arising from disruptions to, or failures in, the facilities and
+systems operated by such third parties. We currently serve customers from third-party-operated data center facilities located in the United States and other countries. We do not control, or in some
+cases have limited control over, the operation of the data center facilities we use, and they are vulnerable to damage or interruption from earthquakes, floods, fires, power loss, telecommunications
+failures and similar events. They may also be subject to break-ins, sabotage, intentional acts of vandalism and similar misconduct, and to adverse events caused by operator error. We cannot rapidly
+switch to new data centers or move customers from one data center to another in the event of any adverse event. Despite precautions taken at these facilities, natural disasters, acts of terrorism or
+misconduct, closure of facilities without adequate notice or other unanticipated problems at these facilities could result in lengthy interruptions in our service and the loss of customer data. Our
+disaster recovery procedures may not be adequate and our service could be interrupted. Any
+damage to, or failure of, the systems in any data center (whether operated by us or by a third-party service provider) could result in impairment of, or interruptions in, our
+service. Impairment of or interruptions in our service may reduce our revenues, cause clients to request credits or penalties from us, subject us to claims and litigation, cause our customers to
+terminate their subscriptions and adversely affect our renewal rates and our ability to attract new customers and retain existing customers. Even with respect to data centers that are operated for us
+by third-party service providers, we may not be able to negotiate service contracts with these service providers that will fully protect us from these risks. Our business will also be harmed if our
+customers and potential customers believe our service is unreliable. Our outsourcing, data and other services are subject to risks that may harm our business. Our clients rely on our outsourcing data and other services to meet their operational needs, including account aggregation and
+reconciliation. Our services involve the storage and transmission of customer and other information. The amount and type of client-related data hosted by Advent is substantially increasing, and we are
+providing outsourcing, data and other services in more jurisdictions outside the U.S. Furthermore, our business is becoming increasingly reliant on providing outsourcing, data and other services. This
+exposes the Company to many risks. Our security measures and those of third parties upon whom we rely could be breached, whether as part of cyber-attacks or other attempts 23 Table of Contents at
+unauthorized access, resulting in unauthorized access to our information or our clients' information. Furthermore, due to the complexity of our services and because we also utilize third-party data
+and
+other vendors, our services and those of our third-party vendors may have previously-undetected errors or defects, service disruptions, delays, or incomplete or incorrect data that could result in
+unanticipated downtime for our customers, misrouted or unauthorized access to data, failure to meet service levels and service disruptions. Such potential errors, defects, delays, disruptions,
+performance problems and security breaches may damage our clients' business, harm our reputation, result in the loss of future sales, require us to undertake expensive remediation steps, cause clients
+to withhold payment or terminate or not renew their agreements with us, and subject us to litigation, regulatory fines and penalties, indemnity obligations, contractual obligations and liabilities and
+other possible liabilities. Security breaches, computer viruses and computer hacking attacks could harm our business and results
+of operations. We collect, store and transmit customer data and other proprietary information of, or on behalf of, our customers. We take steps to
+protect the security, integrity and confidentiality of the information we collect, store or transmit, including our own proprietary and confidential information and that of our customers, their end
+users, and other third parties, but there is no guarantee that inadvertent or unauthorized use or disclosure will not occur or that third parties will not gain unauthorized access to this information
+despite our efforts. Security breaches, computer malware and computer hacking attacks have become more prevalent in our industry and may occur on our systems or those of our information technology
+vendors in the future. Any security breach caused by hacking, which involves efforts to gain unauthorized access to information or systems, or to cause intentional malfunctions or loss or corruption
+of data, software, hardware or other computer equipment, or the inadvertent transmission of computer viruses, worms or other harmful software code could result in unauthorized disclosure, misuse, or
+loss of information, legal claims and litigation, indemnity obligations, regulatory fines and penalties, contractual obligations and liabilities, and other liabilities. In addition, if our security
+measures, or those of our vendors, are breached or unauthorized access to consumer data otherwise occurs, our solutions may be perceived as not being secure and our customers may reduce the use of or
+stop using our solutions. While
+we have security measures in place with respect to our systems, networks and SaaS solutions, these systems, networks and solutions are subject to ongoing threats and, therefore,
+these security measures may be breached as a result of employee error, failure to implement appropriate processes and procedures, malfeasance, third-party action, including cyber-attacks or other
+intentional misconduct by computer hackers or otherwise. This could result in one or more third parties obtaining unauthorized access to our customers' data or our data, including personally
+identifiable information or other end user data, intellectual property and other confidential business information. Third parties may also attempt to fraudulently induce employees into disclosing
+sensitive information such as user names, passwords or other information in order to gain access to our customers' data or our data, including intellectual property and other confidential business
+information. Because
+techniques used to obtain unauthorized access or sabotage systems change frequently and generally are not identified until they are launched against a target, we and our vendors
+may be unable to anticipate these techniques or to implement adequate preventative or mitigation measures. Though it is difficult to determine what harm may directly result from any specific
+interruption or breach, any
+failure to maintain performance, reliability, security and availability of our network infrastructure or otherwise to maintain the confidentiality, security, and integrity of data that we store or
+otherwise maintain may harm our reputation and our ability to retain existing clients and attract new clients. Additionally, we may be required to expend significant capital and other resources to
+protect against the threat of interruptions and security breaches or to alleviate problems they may cause. Any of these could harm our business, financial condition and results of operations. 24 Table of Contents Because our platform could be used to collect and store personal information of our customers'
+employees or customers, privacy concerns could result in additional cost and liability to us or inhibit use of our platform. Personal privacy has become a significant issue in the United States and in many other countries where we offer our solutions or may
+offer them in the future. The regulatory framework for privacy issues worldwide is currently evolving, is not uniform and is likely to remain uncertain for the foreseeable future. Many federal, state
+and foreign government bodies and agencies have adopted or are considering adopting laws and regulations regarding the collection, use, disclosure, control, security and deletion of personal
+information. In the United States, these include, without limitation, laws and regulations promulgated by states, as well as rules and regulations promulgated under the authority of the Federal Trade
+Commission and federal financial regulatory bodies. Internationally, most of the jurisdictions in which we operate have established their own data security and privacy legal frameworks, many of which
+are broader in scope, more restrictive and impose greater obligations on us and our customers. Many of these obligations are updated frequently and require ongoing monitoring. In addition to
+government regulation, privacy advocacy and industry groups may propose new and different self-regulatory standards that either legally or contractually apply to us. As
+a result of uncertainty regarding the interpretation and application of privacy and data protection-related laws, regulations, and self-regulatory requirements, it is possible that
+these laws, regulations, and requirements may be interpreted and applied in a manner that is inconsistent with our existing data handling practices or the technological features of our solutions. If
+so, in addition to the possibility of fines, lawsuits and other claims, we could be required to fundamentally change our business activities and practices or modify our solutions, which could have an
+adverse effect on our business. Any inability to adequately address privacy or data protection-related concerns, even if unfounded, or comply with applicable privacy or data protection-related laws,
+regulations and policies, could result in additional cost and liability to us, damage our reputation, inhibit sales and harm our business. Furthermore, the costs of compliance with, and other burdens
+imposed by, the laws, regulations, standards and policies that are applicable to the businesses of our customers may limit the use and adoption of, and reduce the overall demand for, our solutions.
+Also, privacy concerns, whether valid or not valid, may inhibit market adoption of our solutions, particularly in foreign countries. If our large subscription-based clients or if our revenue sharing relationships are terminated, our
+business may be harmed. In recent years, Advent has periodically entered into contracts relating to our subscription, data management revenue streams and
+outsourced services with contract values that are substantially larger than we have customarily entered into in the past. We do not know whether we will be able to continue to sign large recurring
+revenue contracts of this nature or if such clients will renew their contracts at similar rates and terms, if at all. For example, we renewed our agreement with TIAA-CREF in the second quarter of
+2013, but at lower annual fees than the original agreement, which has resulted in a decrease in revenues associated with that agreement. In addition, some of these types of agreements are subject to
+milestones, acceptance and penalties and there is no assurance that these agreements will be fully implemented. We also have revenue sharing agreements with other companies that provide revenue to
+Advent for our clients' use of those companies' services and products. Our operating results could be adversely impacted if these agreements are not fully implemented, terminated or not renewed, or if
+we are unable to continue to generate similar opportunities and enter similar or larger sized contracts in the future. If our relationship with Financial Times/Interactive Data is terminated, our business may be harmed. Many of our clients use our proprietary interface to retrieve pricing and other data electronically from Financial Times/Interactive
+Data ("FTID"). FTID pays us a royalty which we classify as other 25 Table of Contents recurring
+revenues. The royalty is based on FTID's revenues from providing this data to our clients. Our software products have been customized to be compatible with their system and our software
+would need to be redesigned to operate with additional alternative data vendors if FTID's services were unavailable for any reason. Non-renewal of our current agreement with FTID would require at
+least two years' prior notice by either party and the agreement may be terminated upon 90 days' advance notice for an uncured material breach of the other party. While we have contracts with
+other data vendors for substantially similar financial data with which our products can be used, if our relationship with FTID was terminated or their services were unavailable to clients for any
+reason, we cannot be certain that we could enter into contracts with additional alternative data providers, or that other relationships would provide similar commission rates to us or if the amount of
+data used by our clients would remain the same, and our operating results could suffer or our resources could be constrained from the costs of redesigning our software. We must recruit, retain and provide adequate facilities for key employees, including facilities in
+high cost areas such as our San Francisco-based corporate headquarters. We believe that our future success is dependent on the continued employment of our senior management and our ability to identify,
+attract, motivate and retain qualified technical, sales and other personnel. Members of our executive management team have acquired specialized knowledge and skills with respect to Advent. We need
+technical resources such as our product development engineers to develop new products and enhance existing products; we rely upon sales personnel to sell our products and services and maintain healthy
+business relationships; we must recruit professional service consultants to support our implementations; we must hire client services personnel to provide technical support to our growing installed
+base of customers; and we must attract and retain financial and accounting personnel to comply with our public company reporting requirements. We need to identify, attract, motivate and retain such
+employees with the requisite education, backgrounds and industry experience. However, experienced high quality personnel in the information technology industry continue to be in high demand and
+competition for their talents remains intense, especially in San Francisco where the largest number of our employees are located. In addition, from time to time, we may reorganize our business or
+reduce our workforce, as we did in late 2012, which may result in increased difficulty in hiring and retaining qualified personnel. Furthermore, the announcement of our pending acquisition by SS&C may
+affect employee retention and cause some employees to depart the company. Such reorganizations, reductions or other departures may distract our management and employees and may negatively impact our
+near-term financial results. We
+also have begun a strategy to move certain functions from high cost areas like San Francisco, New York City and Boston, to lower cost areas such as Jacksonville and Beijing to reduce
+our overall costs of operations. While we believe this strategy will have significant benefits, we may not be able to recruit and retain qualified personnel in such lower cost areas. Additionally,
+such a strategy may negatively impact our ability to retain and hire in our other office locations. Also, our operating results may be adversely impacted by changes in our lease commitments as a
+result of increasing real estate costs in certain markets in which we operate such as San Francisco where we intend to maintain our corporate headquarters. As a result, we may renew or enter into
+lease agreements at relatively higher cost, reduce our office space needs, or consolidate or exit some of our real estate locations, which in most cases require a modification of an existing lease
+agreement and could have a significant adverse effect on our financial results. For example, in January 2015 we renewed our San Francisco office lease for an additional 10 years at a
+significant increase in annual rent which will result in total operating lease payments and rent expense of approximately $71 million over the extension term. We
+have relied on our ability to grant equity compensation as one mechanism for recruiting and retaining such highly skilled personnel. In making employment decisions, particularly in
+the high-technology industries and San Francisco Bay Area, job candidates often consider the value of the 26 Table of Contents equity
+awards they are to receive in connection with their employment and market downturns may result in our equity incentives becoming less valuable. We
+may also choose to create additional performance and retention incentives in order to retain our employees, including the granting of additional stock options, restricted stock,
+restricted stock units, stock appreciation rights, performance shares or performance units to employees or issuing incentive cash bonuses. Such incentives may either dilute our existing stockholder
+base or result in unforeseen operating expenses, which may have a material adverse effect on our operating results, could result in our stock price falling or may not be valued as highly by our
+employees which may create retention issues. We face challenges in expanding our operations outside the United States. We market and sell our products in the United States and, to a growing extent, outside the U.S. Revenues derived from sales outside the
+U.S. comprised 19%, 18% and 17% of our total revenues in 2014 and fiscal years 2013 and 2012, respectively. We have international subsidiaries in Canada, China, Denmark, England, Hong Kong, Ireland,
+Netherlands, Norway, Singapore, Sweden, Switzerland and the United Arab Emirates. We
+cannot be certain that establishing businesses or seeking sales in other countries will produce the desired levels of revenues. If we are not successful in international market
+expansion, our overall future growth prospects may be limited. Also, worldwide and regional political instability and volatility in financial markets may disrupt our sales efforts in overseas markets.
+We have relatively limited experience in developing localized versions of our products and marketing and distributing our products outside the U.S. In other instances, we may rely on the efforts and
+abilities of business partners in such markets. For example, we previously outsourced certain engineering activities to a business partner located in China until we transitioned those contract
+developers to become employees of our Beijing office. In addition, our operations are subject to other inherent risks, including:  The impact of recessions and market fluctuations in economies both within and outside the United States;  Adverse changes in foreign currency exchange rates;  Greater difficulty in accounts receivable collection and longer collection periods;  Difficulty of enforcement of contractual provisions in local jurisdictions;  Compliance with multiple, conflicting and changing governmental laws and regulations, including employment, tax, privacy and data
+protection laws and regulations;  Trade and intellectual property protection measures and export and import requirements;  Difficulties in successfully adapting our products to language, regulatory and technology standards;  Cultural resistance to expansion into other countries and difficulties establishing local partnerships or engaging local resources;  Difficulties in and costs of staffing and managing geographically dispersed operations;  Different or lesser levels of intellectual property right protections;  Sovereign debt issues;  Tax structures and potentially adverse tax consequences; and  Political and economic instability. 27 Table of Contents The
+revenues, expenses, assets and liabilities of our subsidiaries outside the United States are primarily denominated in their respective local currencies. Future fluctuations in
+currency exchange rates may adversely affect revenues and accounts receivable recognized by these subsidiaries and the U.S. dollar value of related revenues, expenses, assets and liabilities reported
+by Advent. Our service revenues and certain license revenues from our European subsidiaries are generally denominated in their respective local currencies. Difficulties in integrating our acquisitions and expanding into new business areas have impacted and
+could continue to impact our business adversely and we face risks associated with potential acquisitions, investments, divestitures and expansion. Periodically we seek to grow through the acquisition of additional complementary businesses. For example, in February 2011, we acquired
+Syncova Solutions, Ltd., a
+United Kingdom-based company that provides margin management and debt finance reconciliation and optimization software and in June 2011, we acquired Black Diamond, a Florida-based company that
+provides web-based, outsourced portfolio management and reporting platforms for independent advisors. The
+process of integrating our acquisitions has required and will continue to require significant resources, particularly in light of our relative inexperience in integrating
+acquisitions, potential regulatory requirements and operational demands. In particular, our 2008 acquisition of Tamale Software, Inc. was an entry into the research management software market,
+where we had no prior experience. Integrating these acquisitions in the past has been time-consuming, expensive and disruptive to our business. We have faced difficulties in integrating new personnel
+and in maintaining relationships with customers and partners of acquired businesses, as well as in incorporating acquired technology and rights into our solutions and maintaining quality standards
+consistent with our brand. Integration also has required us to implement additional controls, policies, and procedures. This integration process has strained our managerial resources, resulting in the
+diversion of these resources from our core business objectives, and may do so in the future. Failure to achieve the anticipated benefits of these acquisitions or to integrate the operations of these
+entities successfully has harmed and could potentially harm our business, results of operations and cash flows in future periods. The assumptions we made in determining the value and relative risks of
+these acquisitions could be erroneous. In addition, as we have expanded into new business areas and built new offerings through strategic alliances and internal development, as well as acquisitions,
+some of this expansion has required significant management time and resources without generating required revenues. We have had difficulty and may continue to have difficulty creating demand for such
+offerings. Furthermore, we may face other unanticipated costs from our acquisitions, such as disputes involving earn-out and incentive compensation amounts. We
+may make additional acquisitions of complementary companies, products or technologies in the future. In addition, we periodically evaluate the performance of all our products and
+services and may sell or discontinue current products, product lines or services, particularly as we focus on ways to streamline our operations. Failure to achieve the anticipated benefits of any
+acquisition or divestiture could harm our business, results of operations and cash flows. Furthermore, we may have to incur debt, write-off investments, infrastructure costs or other assets, incur
+severance liabilities, write-off impaired goodwill or other intangible assets or issue equity securities to pay for any future acquisitions. Sufficient financing may not be available to us on
+sufficiently advantageous terms, or at all, and if our existing credit facility is inadequate to meet our needs, its existence may make it significantly more difficult to acquire any additional debt.
+The issuance of equity securities could dilute our existing stockholders' ownership. Finally, we may not identify suitable businesses to acquire or negotiate acceptable terms for future acquisitions. 28 Table of Contents If we are unable to protect our intellectual property, we may be subject to increased competition
+that could seriously harm our business. Our success depends significantly upon our proprietary technology. We currently rely on a combination of copyright, trademark, patent
+and trade secret law, as well as confidentiality procedures and contractual provisions to protect our proprietary rights. We have registered trademarks and copyrights for many of our products and
+services and will continue to evaluate the registration of additional trademarks and copyrights as appropriate. We generally enter into confidentiality agreements with our employees, customers,
+resellers, vendors and others. We seek to protect our software, documentation and other written materials under trade secret and copyright laws. We also have seven issued patents. Despite our efforts,
+existing intellectual property laws may afford only limited protection. It may be possible for unauthorized third parties to copy certain portions of our products or to reverse engineer or otherwise
+obtain and use our proprietary information. In addition, we cannot be certain that others will not develop or acquire substantially equivalent or superseding proprietary technology, equivalent or
+better products will not be marketed in competition with our products, or others may not design around any patent that we have or that may be issued to us or other intellectual property rights of
+ours, thereby substantially reducing the value of our proprietary rights. We cannot be sure that we will develop proprietary products or technologies that are patentable, that any patent, if issued,
+would operate to cover the differentiating features of our products and services, provide us with any competitive advantages or would not be challenged by third parties, or that the patents of others
+will not adversely affect our ability to do business. Despite our efforts to protect our proprietary rights, unauthorized parties may copy aspects of our products or to obtain and use information that
+we regard as proprietary and we may not have any effective practical remedy against such parties. In addition, the laws of some countries do not protect proprietary rights to as great an extent as do
+the laws of the United States and so our expansion into markets outside the U.S. may expose our proprietary rights to increased risks. Litigation may be necessary to protect our proprietary technology
+which may be time-consuming and expensive, with no assurance of success. As a result, we cannot be sure that our means of protecting our proprietary rights will be adequate. If we infringe the intellectual property rights of others, we may incur additional costs or be
+prevented from selling our products and services. We cannot be certain that our products or services do not infringe the intellectual property rights of others, and from time to time we
+receive notices alleging infringement or other intellectual property-related claims. As a result, we may be subject to litigation and claims, including claims of misappropriation of trade secrets or
+infringement of patents, copyrights and other intellectual property rights of third parties that would be time-consuming and costly to resolve and may lead to unfavorable judgments or settlements. If
+such infringement or misappropriation claims are made against our customers because of our products and services, we may also be contractually required to indemnify such customers from and against
+such claims and resulting liabilities. If we discovered that our products or services violated the intellectual property rights of third parties, we may have to make substantial changes to our
+products or services or obtain licenses from such third parties. We might not be able to obtain such licenses on favorable terms or at all, and we may be unable to change our products successfully or
+in a timely or cost-effective manner. Failure to resolve an
+infringement matter successfully or in a timely manner would damage our reputation and force us to incur significant costs, including payment of damages, redevelopment costs, diversion of management's
+attention and satisfaction of indemnification obligations that we have with our clients, as well as prevent us from selling certain products or services. Catastrophic events could adversely affect our business. We are a highly automated business and rely on our network infrastructure and enterprise applications, internal and outsourced
+technology systems and our website for our development, 29 Table of Contents marketing,
+operational, support, and sales activities. A disruption or failure of these systems in the event of major earthquake, fire, telecommunications failure, cyber-attack, terrorist attack,
+misconduct or other catastrophic event could cause system interruptions, reputational harm, delays in our product development and loss of critical data and could affect our ability to sell and deliver
+products and services and other critical functions of our business. Our corporate headquarters, a significant portion of our research and development activities, our data centers and certain other
+critical business operations are located in the San Francisco Bay Area, which is a region of seismic activity. We have developed certain disaster recovery plans and certain backup systems to reduce
+the potentially adverse effect of such events, but a catastrophic event that results in the destruction or disruption of any of our data centers or our critical business or information technology
+systems, or any data centers or systems of our vendors used to support our business, could severely affect our ability to conduct normal business operations and, as a result, our future operating
+results could be adversely affected. Further, such disruptions could cause further instability in the financial markets or the spending of our clients and prospects upon which we depend. In
+addition to the severe market conditions in recent years, other catastrophic events such as abrupt political change, terrorist acts, conflicts or wars may cause damage or disruption
+to the economy, financial markets and our customers. The potential for future attacks, the responses to attacks or perceived threats to national security and other actual or potential conflicts, wars
+or political unrest have created many economic and political uncertainties in various countries and regions in which we operate. Although it is impossible to predict the occurrences or consequences of
+any such events, they could unsettle the financial markets or result in a decline in information technology spending, which could have a material adverse effect on our revenues. Undetected errors or failures found in our products and services may result in loss of or delay in
+market acceptance of our products and services that could seriously harm our business. Our products and services may contain undetected errors or scalability limitations at any point in their lives, but particularly when
+first introduced or as new versions are released. We frequently release new versions of our products, such as during 2014, when we released new versions of APX, Axys, Geneva, Moxy, Syncova and Tamale
+RMS, Advent Direct Investor Management among others. We also recently introduced Advent Direct, our new cloud platform and different aspects of the platform and related solutions are in various stages
+of development. Despite testing by us and by current and potential customers, errors may not be found in new products and services until after commencement of commercial availability or use, resulting
+in a loss of or a delay in market acceptance, damage to our reputation, customer dissatisfaction and reductions in revenues and margins, any of which could seriously harm our business. Additionally,
+our agreements with customers that attempt to limit our exposure to liability claims may not be enforceable in jurisdictions where we operate, particularly as we expand into new markets outside the
+U.S. Borrowings under our credit agreement could limit our available working capital, adversely affect
+our financial results and ability to operate our business and must be repaid in full if we fail to comply with certain covenants. In June 2013, we entered into the Restated Credit Agreement which provides us (i) a $225 million term loan facility and
+(ii) a $200 million revolving credit facility, with a $25 million letter of credit sublimit and a $10 million swingline loan sublimit. We have in the past, and may in the
+future, borrow under the Restated Credit Agreement in order to fund working capital requirements, make share repurchases of our common stock, pay dividends or fund acquisitions. In addition, if our
+anticipated cash flow from our recurring sources of revenue is materially impaired due to customer defaults or failure to renew term licenses, other recurring agreements or maintenance contracts, our
+ability to meet our debt service payment obligations or continue to meet the contractual covenants may be impaired, and our ability to make further borrowings may be compromised. 30 Table of Contents In
+order to fund the special dividend paid in July 2013 and to repurchase Advent common stock, we incurred substantial debt and at December 31, 2013 we had total debt outstanding
+of $305 million and a stockholders' deficit of $(111.8) million. As of December 31, 2014, approximately $220 million of debt was outstanding and stockholders' deficit was $(64.8)
+million. As a result of our debt borrowing, we are obligated to make periodic principal and interest payments on the debt of approximately $26 million
+annually. This amount will fluctuate due to changes in interest rates, future borrowings and repayments. Our ability to make payments on our indebtedness and to fund planned working capital
+requirements will depend on our ability to generate cash flow in the future. In addition, the existence of this indebtedness could have adverse consequences. For example, it
+could:  Require us to dedicate a substantial portion of our cash flow from operations to payments on our indebtedness, thereby reducing the
+availability of our cash flow to fund acquisitions, working capital, capital expenditures, research and development efforts and other general corporate purposes;  Increase our vulnerability to and limit our flexibility in planning for, or reacting to, change in our business and the industry in
+which we operate;  Expose us to the risk of increased interest rates as borrowings under our Restated Credit Agreement are subject to variable rates of
+interest;  Place us at a competitive disadvantage compared to our competitors that have less debt; and  Limit our ability to borrow additional funds. Our
+continued ability to borrow under our credit agreement is subject to compliance with certain financial and non-financial covenants. The financial covenants require us to maintain
+compliance with a consolidated leverage ratio and a consolidated interest coverage ratio. Our failure to comply with such covenants could cause default under the agreement, and we may then be required
+to repay such debt with capital from other sources. Under those circumstances, other sources of capital may not be available to us, or be available only on unfavorable terms. In the event of a default
+which is not remedied within the prescribed timeframe, the assets of the Company (subject to the amount borrowed) may be attached or seized by the lender. Changes in securities laws and regulations may increase our costs or may harm demand. Most of our customers operate within a highly regulated environment. Congress and regulators have increased their focus on the
+regulation of the financial services industry in recent years. The information provided by, or resident in, the software or services we provide to our customers could be deemed relevant to a
+regulatory investigation or other governmental or private legal proceeding involving our customers, which could result in requests for information from us that could be expensive and time consuming
+for us. In addition, clients subject to investigations or legal proceedings may be adversely impacted, possibly leading to their liquidation, bankruptcy, receivership, reductions in Assets Under
+Management or Assets Under Administration, or diminished operations that would adversely affect our revenues and collection of receivables. Our
+customers must comply with governmental, self-regulatory organization and other rules, regulations, directives and standards. New legislation or changes in such rules, regulations,
+directives or standards may reduce demand for our services or increase our expenses. We develop, configure and market products and services to assist customers in meeting these requirements. New
+legislation, or a significant change in rules, regulations, directives or standards, could cause our services to become obsolete, reduce demand for our services or increase our expenses in order to
+continue providing services to clients. The
+Dodd-Frank Wall Street Reform and Protection Act of 2010 ("Dodd-Frank Act") represents a comprehensive overhaul of the financial services industry within the United States,
+established the new 31 Table of Contents federal
+Consumer Financial Protection Bureau (the "CFPB"), and required the CFPB and other federal agencies to implement many new rules. While the general framework of the reforms is set forth in the
+Dodd-Frank Act, it provides for numerous studies and reports and the adoption and implementation of rules and regulations by regulatory agencies, which are ongoing. We
+believe that it is too early to know the precise long-term impact on our business of the increased regulation of financial institutions. While it could lead to increased demand for
+Advent's products and services, demand could be negatively impacted by the deferral of purchase decisions by our customers until the new regulations have been fully adopted and the full impact and
+expense of the new regulatory environment is more clearly understood. The Dodd-Frank Act contains numerous other
+provisions affecting financial institutions of all types, many of which may have an impact on our operating environment in substantial and unpredictable ways. Additionally,
+as a publicly-traded company, we are subject to significant regulations including those under the Dodd-Frank Act and the Sarbanes-Oxley Act of 2002 ("the Sarbanes-Oxley
+Act"). These regulations increase our accounting, operating and legal compliance costs and could also expose us to additional liability if we fail to comply with these or other new rules and reporting
+requirements. There are also significant corporate governance and executive compensation-related provisions in the Dodd-Frank Act that require the SEC to adopt additional rules and regulations in
+these areas, which may further increase our costs. Changes in, or interpretations of, accounting principles could significantly impact our reported
+financial information and operational processes. We prepare our consolidated financial statements in conformity with accounting principles generally accepted in the United States of
+America ("GAAP"). These principles are subject to interpretation by us, the SEC and various bodies formed to interpret and create accounting principles and guidance. A change in these principles or a
+change in the interpretations of these principles can have a significant effect on our reported results and may even retroactively affect previously reported transactions. Additionally, proposed
+accounting standards could have a significant impact on our operational processes, revenues and expenses, and could cause unexpected financial reporting fluctuations. Some of our accounting principles
+that have been or may be affected include:  Software revenue recognition;  Accounting for stock-based compensation;  Accounting for income taxes; and  Accounting for business combinations and related goodwill. For
+example, the U.S.-based Financial Accounting Standards Board ("FASB") is currently working together with the International Accounting Standards Board ("IASB") on several projects
+intended to further align accounting principles and facilitate more comparable financial reporting between companies who are required to follow GAAP under SEC regulations and those who are required to
+follow International Financial Reporting Standards ("IFRS"). These efforts by the FASB and IASB may result in different accounting principles under GAAP that may result in different financial results
+for us in areas including, but not limited to, principles for recognizing revenue, lease accounting and financial statement presentation. A change in accounting principles may have a material impact
+on our financial statements and may retroactively adversely affect previously reported transactions. In
+May 2014, the FASB issued ASU No. 2014-09, "Revenue from Contracts with Customers (Topic 606)," which is a new revenue
+recognition model that requires additional disclosure about the nature, amount, timing and uncertainty of revenue and cash flows arising from customer contracts, including significant judgments and
+changes in judgments and assets recognized from costs incurred to obtain or fulfill a contract. ASU 2014-09 will replace most existing revenue recognition guidance in U.S. 32 Table of Contents Generally
+Accepted Accounting Principles when it becomes effective for Advent for our fiscal year beginning January 1, 2017, and early adoption of ASU 2014-09 is not permitted. Under
+ASU 2014-09, companies may use either a full retrospective or a modified retrospective approach to adopt ASU 2014-09. Advent is evaluating the impact of the adoption of ASU 2014-09 on
+its consolidated financial statements, which could materially change the timing of revenue recognition. Changes in, or interpretations of, tax rules and regulations may adversely affect our effective tax
+rates. We are a U.S.-based multinational company subject to tax in multiple U.S. and non-U.S. tax jurisdictions. Changes in our tax rates
+could adversely affect our future results of operations. Our future effective tax rates could be unfavorably affected by changes in, or interpretation of, tax rules and regulations in the
+jurisdictions in which we do business, by unanticipated decreases in the amount of revenue or earnings in countries with low statutory tax rates, by changes in state
+apportionment, by lapses of the availability of the U.S. research and development tax credit, or by changes in the valuation of our deferred tax assets and liabilities. In
+addition, we could be subject to examination of our income tax returns by state tax authorities, the U.S. Internal Revenue Service and other tax authorities outside the U.S. For
+example, we are currently undergoing a State of California franchise tax examination for the 2006 and 2007 tax years and a state of New York examination for 2011, 2012 and 2013 tax years. Examinations
+generally focus on areas where considerable judgment is exercised by the Company. We regularly assess the likelihood of outcomes resulting from an examination to determine the adequacy of our
+provision for income taxes and have reserved for potential adjustments that may result from an examination. We believe such estimates to be reasonable; however, there can be no assurance that the
+final determination of any of these examinations will not have an adverse effect on our operating results and financial position. If we fail to maintain an effective system of internal control, we may not be able to report our
+financial results accurately or our filings may not be timely. As a result, current and potential stockholders could lose confidence in our financial reporting, which would harm our business and the
+trading price of our stock. Effective internal control is necessary for us to provide reliable financial reports. If we cannot provide reliable financial reports,
+our business and operating results could be harmed. Although we have not historically discovered any material weaknesses, we have in the past discovered, and may in the future discover, areas of our
+internal control that need improvement including control deficiencies that may constitute material weaknesses. We
+do not expect that our internal control over financial reporting will prevent all errors or fraud. A control system, no matter how well designed and operated, can provide only
+reasonable, not absolute, assurance that the control system's objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints, and the
+benefits of controls must be considered relative to their costs. Controls can be circumvented by individual acts of some persons, by collusion of two or more people, or by management override of the
+controls. Over time, controls may become inadequate because changes in conditions or deterioration in the degree of compliance with policies or procedures may occur. Because of the inherent
+limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. Any
+failure to implement or maintain improvements in our internal control over financial reporting, or difficulties encountered in the implementation of these improvements in our
+controls, could cause significant deficiencies or material weaknesses in our internal controls and consequently cause us to fail to meet our reporting obligations. Any failure to implement or maintain
+required new or improved internal controls could also cause investors to lose confidence in our reported financial information, which could have a negative impact on the trading price of our stock. 33 Table of Contents 

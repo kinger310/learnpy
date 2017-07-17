@@ -1,0 +1,1469 @@
+ 31 Item 1B. Unresolved Staff Comments 42 Item 2. Properties 43 Item 3. Legal Proceedings 44 Item 4. Mine Safety Disclosures 44 PART II Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 45 Item 6. Selected Financial Data 49 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 52 • Cautionary Statement Regarding Forward-Looking Information 52 • Use of Non-GAAP Measures 54 • Executive Overview 56 • Results of Operations 69 • Investments 106 • Insurance Reserves 122 • Liquidity and Capital Resources 143 • Enterprise Risk Management 159 • Critical Accounting Estimates 176 • Glossary 204 • Acronyms 207 Item 7A. Quantitative and Qualitative Disclosures about Market Risk 208 Item 8. Financial Statements and Supplementary Data 209 Index to Financial Statements and Schedules 209 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 329 Item 9A. Controls and Procedures 329 Item 9B. Other Information 330 PART III Item 10. Directors, Executive Officers and Corporate Governance 331 Item 11. Executive Compensation 331 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 331 Item 13. Certain Relationships and Related Transactions, and Director Independence 331 Item 14. Principal Accounting Fees and Services 331 PART IV Item 15. Exhibits, Financial Statement Schedules 331 Signatures 331 Part I Item 1 / Business American International Group, Inc. (AIG) is a leading global insurance organization. Founded in 1919, today we provide a wide range of property casualty insurance, life insurance, retirement products, mortgage insurance and other financial services to customers in more than 100 countries and jurisdictions. Our diverse offerings include products and services that help businesses and individuals protect their assets, manage risks and provide for retirement security. AIG common stock is listed on the New York Stock Exchange and the Tokyo Stock Exchange. AIG’s key strengths include: World class insurance franchises that are leaders in their categories and are continuing to improve their operating performance; A diverse mix of businesses with a presence in most international markets; Effective capital management of the largest shareholders’ equity of any insurance company in the world * , supported by enhanced risk management; Execution of strategic objectives, such as our focus on growth of higher value lines of business to increase profitability and grow assets under management; Breadth of customers, serving over 89 percent of companies included in the Fortune Global 500; and Improved profitability, as demonstrated by growth in 2014 over 2013 of pre-tax operating income in our core insurance operations. * At June 30, 2014, the latest date for which information was
+available for certain foreign insurance companies. 3 TABLE OF CONTENTS Item 1 / BUSINESS / AIG In this Annual Report on Form 10-K, unless
+otherwise mentioned or unless the context indicates otherwise, we use the terms
+“AIG,” the “Company,” “we,” “us” and “our” to refer to American International Group,
+Inc., a Delaware corporation, and its consolidated subsidiaries. We use the
+term “AIG Parent” to refer solely to American International Group, Inc., and
+not to any of its consolidated subsidiaries. AIG’s Global Insurance Operations business management On September 1, 2014, in accordance with AIG’s previously disclosed succession plan, Peter D. Hancock assumed the role of President and Chief Executive Officer of AIG and joined AIG’s Board of Directors. He succeeded Robert H. Benmosche, who retired and currently serves as an advisor to AIG. With this transition, Mr. Hancock has announced a new leadership team and structure aimed at integrating the Company and positioning us to deliver the full capabilities of AIG to our approximately 90 million clients around the world as One AIG. We believe that by striving to provide the greatest value to our customers, we can deliver improved operating and financial performance and sustainable, profitable growth. Our strategy is focused on enhancing the value and competitive position of our insurance businesses and investing our capital where we can achieve attractive risk-adjusted returns, while maintaining strong levels of liquidity and capital. In the fourth quarter of 2014, we modified the presentation of our results to reflect our new operating structure. The new operating structure includes two reportable segments, Commercial Insurance and Consumer Insurance, and a Corporate and Other category. Commercial Insurance has three operating segments: Property Casualty, Mortgage Guaranty and Institutional Markets. Consumer Insurance also has three operating segments: Retirement, Life and Personal Insurance. The Corporate and Other category consists of businesses and items not allocated to our reportable segments. Prior to the fourth quarter of 2014, AIG reported its results through two reportable segments – AIG Property Casualty and AIG Life and Retirement. Certain of our management activities, such as investment management, enterprise risk management, liquidity management and capital management, and our balance sheet reporting, are conducted on a legal entity basis. We group our insurance-related legal entities into two categories: Non-Life Insurance Companies and Life Insurance Companies. Non-Life Insurance Companies include the following major property casualty and mortgage guaranty companies: National Union Fire Insurance Company of Pittsburgh, Pa.(National Union); American Home Assurance Company (American Home); Lexington Insurance Company (Lexington); Fuji Fire and Marine Insurance Company Limited (Fuji Fire); American Home Assurance Company, Ltd. (American Home Japan); AIG Asia Pacific Insurance, Pte, Ltd.; AIG Europe Limited and United Guaranty Residential Insurance Company (UGRIC). Life Insurance Companies include the following major operating companies: American General Life Insurance Company (American General Life); The Variable Annuity Life Insurance Company (VALIC); The United States Life Insurance Company in the City of New York (U.S. Life) and AIG Fuji Life Insurance Company Limited (Fuji Life). 4 TABLE OF CONTENTS Item 1 / BUSINESS / AIG (a) Consists of Commercial Insurance and
+Consumer Insurance pre-tax operating income. Pre-tax operating income and book
+value per share excluding AOCI are non-GAAP measures. See “Use of Non-GAAP
+Measures” for additional information. (b) Total
+consideration of approximately $7.6 billion, includes net cash proceeds of $2.4
+billion and 97.6 million newly issued AerCap common shares. Based in part on
+AerCap's closing price per share of $47.01 on May 13, 2014, the date the sale
+of ILFC to AerCap was completed. 5 TABLE OF CONTENTS Item 1 / BUSINESS / AIG How we
+Generate Revenues and Profitability We earn
+revenues primarily from insurance
+premiums, policy fees from universal life insurance and investment products, and
+income from investments and advisory fees. Our
+operating expenses consist of
+policyholder benefits and losses incurred, interest credited to policyholders,
+commissions and other costs of selling and servicing our products, and general
+business expenses. Our
+profitability is de pendent on
+our ability to properly price and manage risk on insurance and annuity
+products, to manage our portfolio of investments effectively, and to control
+costs through expense discipline. INVESTMENT
+ACTIVITIES OF Our Insurance OPERATIONS Our Non Life Insurance Companies and Life Insurance Companies generally receive premiums and deposits well in advance of paying covered claims or benefits. In the intervening periods, we invest these premiums and deposits to generate net investment income that, along with the invested funds, is available to pay claims or benefits. As a result, we generate significant revenues from insurance investment activities. We generate significant revenues in our insurance operations from investment activities. Our worldwide insurance investment policy places primary emphasis on investments in corporate bonds, municipal bonds and government bonds in all of our portfolios, and, to a lesser extent, investments in high yield bonds, common stock, real estate, hedge funds and other alternative investments. The majority of assets backing our insurance liabilities
+consist of intermediate and long duration fixed maturity securities. Non-Life Insurance Companies — F ixed maturity securities held by the insurance
+companies included in the Non-Life Insurance Companies’ domestic operations
+have historically consisted primarily of corporate bonds, municipal bonds and
+government bonds. These investments provided attractive returns and limited
+credit risk. To meet our domestic operations’ current risk return and business
+objectives, our domestic Non-Life Insurance Companies have been shifting
+investment allocations to a broader array of investments, including structured
+securities, mortgage loans, equity related opportunities and other investments
+that offer attractive risk-adjusted returns. Our fixed maturity securities must
+meet our liquidity, duration and quality objectives as well as current capital,
+risk return and business objectives. Fixed maturity securities held by the
+Non-Life Insurance Companies’ international operations consist primarily of
+intermediate duration high-grade securities, primarily in the markets being
+served. In addition, the Non-Life Insurance Companies have redeployed cash in
+excess of operating needs into investments consistent with the asset classes
+described above. Life Insurance Companies — The investment strategy for the portfolios of the
+Life Insurance Companies is largely to match the duration of our liabilities
+with assets of comparable duration, to the extent practicable. The Life
+Insurance Companies primarily invest in a diversified portfolio of fixed
+maturity securities, which include corporate bonds and structured securities.
+To further diversify the portfolio, investments are made in alternative
+investments, including private equity funds, hedge funds and affordable housing
+partnerships. Although these alternative investments are subject to periodic
+earnings fluctuations, they have achieved total returns in excess of the Life
+Insurance Companies’ fixed maturity security returns for each of the three
+years in the period ended December 31, 2014. 6 TABLE OF CONTENTS Item 1 / BUSINESS / AIG Commercial Insurance Consumer Insurance Commercial Insurance is a leading provider of insurance products and services for commercial and institutional customers. It includes one of the world’s most far-reaching property casualty networks, a leading mortgage guaranty insurer and an institutional retirement and savings business. Commercial Insurance offers a broad range of products to customers through a diversified, multichannel distribution network. Customers value Commercial Insurance’s strong capital position, extensive risk management and claims experience, and its ability to be a market leader in critical lines of insurance business. Consumer Insurance is a unique franchise that brings together a broad portfolio of retirement, life insurance and property casualty products offered through multiple distribution networks. It holds long-standing, leading market positions in many of its U.S. product lines, and its global footprint provides the opportunity to pursue international growth opportunities selectively in countries with attractive markets. With its strong capital position, customer-focused service, innovative product development capabilities and strong distribution relationships across multiple channels, Consumer Insurance is well positioned to provide clients with the products they need delivered through the channels they prefer. Corporate and Other Corporate and Other includes Direct Investment book, Global Capital Markets, and AIG Parent and Other as well as certain run-off insurance businesses. 7 TABLE OF CONTENTS Item 1 / BUSINESS / AIG Global Footprint Our Non-Life Insurance Companies net premiums written (NPW) of $34.5 billion in 2014 reflected our expansive global footprint. Based on NPW in 2013, we are the largest commercial insurer in the U.S., the largest U.S. based property casualty insurer in Europe, and the largest foreign property casualty insurer in China. In addition, AIG was first to market in many emerging markets and is well positioned to enhance its businesses in countries such as Brazil, China through strategic relationships with People’s Insurance Company (Group) of China Limited (PICC Group), and India with the Tata Group. Our Life Insurance Companies premiums and deposits (P&D) of $32.6 billion in 2014 demonstrate a substantial presence in the U.S. and a meaningful share of the Japan market. P&D is a non-GAAP financial measure that includes direct and assumed amounts received on traditional life insurance policies, group benefit policies and deposits on life‑contingent payout annuities, as well as deposits received on universal life, investment‑type annuity contracts and mutual funds. See Item 7. MD&A — Results of Operations for Institutional Markets, Retirement and Life for a reconciliation of P&D to premiums. We have a significant international presence in both
+developed markets and growth economy nations, specifically in Asia Pacific,
+Central Europe, the Middle East, Africa and Latin America. We distribute our
+products through three major geographic regions: • Americas: Includes the United States, Canada, Latin America, the Caribbean and Bermuda. • Asia Pacific: Includes Japan, China, Korea, Singapore, Malaysia, Thailand, Australia,
+Indonesia and other Asia Pacific nations. • EMEA (Europe,
+Middle East and Africa): Includes the United Kingdom, Continental Europe,
+the Russian Federation, India, the Middle East and Africa. In 2014, 6.3 percent of our property casualty direct premiums
+were written in the state of California and 15.7 percent and 7.5 percent were
+written in Japan and the United Kingdom, respectively. No other state or foreign
+jurisdiction accounted for more than five percent of such premiums. 8 TABLE OF CONTENTS Item 1 / BUSINESS / AIG Diversified Mix of Businesses* (dollars
+in millions) * Represents
+revenues from insurance operations. Revenues
+for Property Casualty, Mortgage Guaranty, and Personal Insurance include net
+premiums earned and net investment income. Revenues for Institutional Markets,
+Retirement and Life include premiums, policy fees, net investment income and
+advisory fees. 9 TABLE OF CONTENTS Item 1 / BUSINESS / commercial insurance Commercial Insurance Business Strategy Customer: Strive to be our customers’ most valued insurer by offering innovative products, superior service and access to an extensive global network. Strategic Growth: Grow our higher-value businesses while investing in transformative opportunities. Underwriting Excellence: Improve our business portfolio through better pricing and risk selection by using enhanced data, analytics and the application of science to deliver superior risk-adjusted returns. Claims Excellence: Improve claims processes, analytics and tools to deliver superior customer service and decrease our loss ratio. Operational Effectiveness: Continue initiatives to modernize our technology and infrastructure; implement best practices to improve speed and quality of service. Capital Efficiency: Increase capital fungibility and diversification, streamline our legal entity structure, optimize reinsurance and improve tax efficiency. Investment Strategy: Increase asset diversification and take advantage of yield‑enhancement opportunities to meet our capital, liquidity, risk and return objectives. 10 TABLE OF CONTENTS Item 1 / BUSINESS / commercial insurance Commercial Insurance
+Operating Segments Commercial Insurance’s
+operating segments consist of Property Casualty, Mortgage Guaranty and
+Institutional Markets. Property Casualty Product Lines Casualty: Products include general liability, commercial automobile liability, workers’ compensation, excess casualty and crisis management insurance products. Casualty also includes risk management and other customized structured programs for large corporate and multinational customers. Property: Products include commercial, industrial and energy-related property insurance products and services that cover exposures to man-made and natural disasters, including business interruption. Specialty: Products include aerospace, environmental, political risk, trade credit, surety and marine insurance products, and various small and medium sized enterprises insurance lines. Financial: Products include professional liability insurance for a range of businesses and risks, including directors and officers liability (D&O), fidelity, employment practices, fiduciary liability, cybersecurity risk, kidnap and ransom, and errors and omissions insurance (E&O). Mortgage Guaranty Product Lines Mortgage Guaranty: Mortgage insurance (MI) protects mortgage investors against the increased risk of borrower default related to high loan-to-value (LTV) mortgages. Institutional Markets Product Lines Institutional Markets: Products primarily include stable value wrap products, structured settlement and terminal funding annuities, high net worth products, corporate- and bank-owned life insurance and GICs. A Look at Commercial
+Insurance Property Casualty conducts its business primarily through
+our Non-Life Insurance Companies, which include National Union; American Home;
+Lexington; Fuji Fire; American Home Japan; AIG Asia Pacific Insurance, Pte,
+Ltd. and AIG Europe Limited. Mortgage Guaranty conducts its business primarily through
+UGRIC. Institutional Markets conducts its business primarily
+through our Life Insurance Companies, which include American General Life,
+VALIC and U.S. Life. 11 TABLE OF CONTENTS Item 1 / BUSINESS / commercial insurance Commercial Insurance Distribution Network Property
+Casualty Property Casualty products are primarily distributed through a network of independent retail and wholesale brokers, and through an independent agency network. Mortgage
+Guaranty Mortgage Guaranty products and services are distributed to a comprehensive range of mortgage originators including national mortgage, community and money center banks, as well as through builder-owned, regional mortgage and internet-sourced lender and credit unions. Institutional
+Markets Institutional Markets products are primarily distributed through specialized marketing and consulting firms and structured settlement brokers. Commercial Insurance Competition Operating in a highly competitive industry, Property
+Casualty competes against several hundred stock companies, specialty insurance
+organizations, mutual companies and other underwriting organizations in the
+U.S. In international markets, Property Casualty competes for business with the
+foreign insurance operations of large global insurance groups and local
+companies in specific market areas and product types. Mortgage Guaranty
+competes with several private providers of mortgage insurance, both
+well-established and new entrants to the industry, and the Federal Housing
+Administration, which is the largest provider of mortgage insurance in the
+United States. Institutional Markets competes with large domestic (both stock
+and mutual) life companies, as well as international life companies. Insurance companies compete through a combination of risk
+acceptance criteria, product pricing, service and terms and conditions.
+Commercial Insurance distinguishes itself in the insurance industry primarily
+based on its well-established brand, global franchise, financial and capital
+strength, innovative products, expertise in providing specialized coverages and
+customer service. We serve our business and
+individual customers on a global basis — from the largest multinational
+corporations to local businesses and individuals. Our clients benefit from our
+substantial underwriting expertise and long-term commitment to the markets we
+serve. 12 TABLE OF CONTENTS Item 1 / BUSINESS / commercial insurance Commercial Insurance Competitive Strengths and Challenges Our competitive strengths include: Financial strength and market leadership – a well capitalized, strong balance sheet highly valued by customers that allows us to be a market leader in certain lines of business Underwriting and claims expertise – a recognized, talented and deeply experienced team Global franchise – one of the largest operating footprints in the industry and deep history in developed and emerging markets Scale – size and scope of business facilitates risk diversification to optimize returns on capital Diversification – breadth of customers served, products underwritten and distribution channels Innovation – a culture of innovation driven by risk management expertise and a focus on customer needs Service – a culture of striving to be our customers’ most valued insurer Information and science capabilities – knowledge and information to improve a customer’s experience Our challenges include: Over capacity in certain lines of business can lead to downward pressure on market pricing Tort environment volatility in certain jurisdictions and lines of business Regulatory requirements increasing in volume and complexity due to heightened regulatory scrutiny and supervision of the insurance and financial services industries in recent years Volatility in the U.S. housing and mortgage markets and from natural and man-made catastrophes 13 TABLE OF CONTENTS Item 1 / BUSINESS / consumer insurance Consumer Insurance Business Strategy Customer: Strive to be our customers’ most valued insurer. Through our unique franchise, which brings together a broad portfolio of retirement, life insurance and personal insurance products offered through multiple distribution networks, Consumer Insurance aims to provide customers with the products they need, delivered through the channels they prefer. Information-Driven Strategy: Utilize customer insight, analytics and the application of science to optimize customer acquisition, product profitability, product mix, channel performance and risk management capabilities. Focused Growth: I nvest in areas where Consumer Insurance can grow profitably and sustainably. Target growth in select markets according to market size, growth potential, market maturity and customer demographics. Operational Effectiveness: Simplify processes, enhance operating environments, and leverage the best platforms and tools for multiple operating segments to increase competitiveness, improve service and product capabilities and facilitate delivery of our target customer experience. Investment Strategy: Maintain a diversified, high quality portfolio of fixed maturity securities that largely matches the duration characteristics of related insurance liabilities with assets of comparable duration, and pursue yield-enhancement opportunities that meet liquidity, risk and return objectives. Profitability and Capital Management: Deliver solid earnings through disciplined pricing, sustainable underwriting improvements and diversification of risk, and increase capital efficiency within insurance entities to enhance return on equity. 14 TABLE OF CONTENTS Item 1 / BUSINESS / consumer insurance Consumer Insurance Operating Segments Consumer Insurance’s operating segments consist of Retirement,
+Life, and Personal Insurance . Retirement Product Lines Fixed Annuities : Products include single and flexible premium fixed annuities and single premium immediate and deferred income annuities. The Fixed Annuities product line maintains its industry-leading position in the U.S. bank distribution channel by designing products collaboratively with banks and offering an efficient and flexible administration platform. Retirement Income Solutions: Primary products include variable and fixed index annuities that provide both asset accumulation and lifetime income benefits, as well as investment-focused variable annuities. Variable annuities are distributed through banks, wirehouses, and regional and independent broker‑dealers. Fixed index annuities are distributed through banks, broker dealers, independent marketing organizations and career and independent insurance agents. Group Retirement: Products are marketed under the VALIC brand and include fixed and variable annuities, mutual funds, and plan administrative and compliance services. VALIC career financial advisors and independent financial advisors provide retirement plan participants with enrollment support and comprehensive financial planning services. Retail Mutual Funds and Advisor Group: Includes our mutual fund and related administration and servicing operations as well as one of the largest networks of independent financial advisors in the U.S. Brands include Royal Alliance, SagePoint Financial, FSC Securities and Woodbury Financial. Life Product Lines Primary products in the U.S. include term life and universal life insurance. International products include term and whole life insurance, supplemental health, cancer and critical illness insurance. Life products are primarily distributed through independent marketing organizations, independent insurance agents, career agents and financial advisors and direct marketing. The Life operating segment also offers group products distributed through employers (both employer-paid and voluntary) and sponsored organizations, with the key products being basic and supplemental term life, universal life and disability insurance. Personal Insurance Product Lines Accident and Health : Products include voluntary and sponsor-paid personal accident and supplemental health products for individuals, employees, associations and other organizations. It also includes a broad range of travel insurance products and services for leisure and business travelers. Accident and Health products are distributed through various channels, including agents, brokers, affinity partners, airlines and travel agents. Personal Lines : Products include automobile and homeowners insurance, extended warranty, and consumer specialty products, such as identity theft and credit card protection. Products are distributed through various channels, including agents, brokers and direct marketing. Personal Insurance also provides insurance for high-net-worth individuals offered through AIG Private Client Group, including auto, homeowners, umbrella, yacht, fine art and collections insurance. 15 TABLE OF CONTENTS Item 1 / BUSINESS / consumer insurance A Look at Consumer Insurance The Retirement and Life operating segments conduct their
+business primarily through our Life Insurance Companies, which include American
+General Life, VALIC, U.S. Life, and Fuji Life. The Personal Insurance operating segment conducts its
+business primarily through our Non-Life Insurance Companies, which include Fuji
+Fire, AIU Insurance Company, Ltd., American Home, National Union, Lexington, American
+Home Japan, AIG Asia Pacific Insurance, Pte, Ltd. and AIG Europe Limited. Consumer Insurance Distribution
+Network Retirement Retirement products are distributed through affiliated channels that include over 1,200 VALIC career financial advisors and over 5,700 licensed financial advisors in the AIG Advisor Group and through non-affiliated channels, which include banks, wirehouses, regional and independent broker-dealers, independent marketing organizations and independent insurance agents. Life Life products are distributed in the U.S. through affiliated channels that include over 1,700 career agents and financial advisors in the AIG Financial Network and direct marketing. Non-affiliated channels in the U.S. include independent marketing organizations, independent agents and benefit brokers. International life products are sold through non-affiliated independent agents and direct marketing. Personal Insurance Personal Insurance products and services are distributed through various channels, including independent agents, career agents, brokers, affinity partners, airlines and travel agents, as well as direct marketing. Consumer
+Insurance Competition Consumer Insurance operates in the highly competitive
+insurance and financial services industry in the U.S. and select international
+markets and competes against various financial services companies, including
+mutual funds, banks and other life and property casualty insurance companies. Competition is primarily based on product pricing and design, distribution,
+financial strength, customer service and ease of doing business. Consumer Insurance competes based on its long‑standing
+market leading positions, innovative products, strong distribution
+relationships across multiple channels, customer-focused service and strong
+financial ratings. 16 TABLE OF CONTENTS Item 1 / BUSINESS / consumer insurance Consumer Insurance Competitive Strengths and Challenges Our competitive strengths include: Unique franchise – broad portfolio of retirement, life insurance and personal insurance products offered through multiple distribution networks Market leader – long-standing, leading positions in many of our product lines and key distribution channels Global footprint – ability to selectively pursue international growth opportunities in countries with attractive markets Strong distribution relationships across multiple channels – opportunity to expand on distribution relationships to effectively market diverse product offerings Information and science capabilities – used to build decision tools, transform processes and optimize performance Customer-focused service – investments in technology and operating platforms provide the foundation to deliver our target customer experience Risk diversification and scale – breadth of product offerings and scale advantage in key product lines Capital strength – capacity to drive growth in attractive markets and product lines Our challenges include: Highly competitive environment where products are differentiated by pricing, terms, customer service and ease of doing business and barriers to entry are significant in certain markets Regulatory requirements in recent years have created an increasingly complex environment that is affecting industry growth and profitability Low interest rate environment makes it more difficult to competitively price guaranteed return products and puts margin pressure on existing products due to the challenge of investing in a low rate environment Corporate and Other includes: Direct Investment book (DIB) consists of a portfolio of assets and
+liabilities held directly by AIG Parent in the Matched Investment Program (MIP)
+and certain non-derivative assets
+and liabilities of AIG Financial Products Corp. and related subsidiaries (collectively AIGFP) . The DIB portfolio
+is being wound down and is managed with the objective of ensuring that at all
+times it maintains the liquidity we believe is necessary to meet all of its
+liabilities as they come due, even under stress scenarios, and to maximize
+returns consistent with our risk management objectives. Global Capital Markets (GCM) consists of the operations of AIG Markets, Inc. ( AIG Markets) and the remaining derivatives
+portfolio of AIGFP. AIG Markets acts as the derivatives intermediary between
+our subsidiaries and third parties to provide hedging services. The AIGFP
+portfolio continues to be wound down and is managed consistently with our risk
+management objectives. Although the portfolio
+may experience periodic fair value volatility, it consists predominantly of
+transactions that we believe are of low complexity, low risk or currently not
+economically appropriate to unwind based on a cost versus benefit analysis. AIG Parent and Other consists primarily of interest expense, consolidation and
+eliminations, expenses of corporate staff not attributable to specific
+reportable segments, certain expenses related to internal controls and the
+financial and operating 17 TABLE OF CONTENTS Item 1 / BUSINESS / consumer insurance platforms, corporate initiatives,
+certain compensation plan expenses, corporate level net realized capital gains
+and losses, certain litigation‑related charges and credits, net gain
+(loss) on sale of divested businesses that did not meet the criteria for
+discontinued operations accounting treatment, and equity in the earnings of
+AerCap. Run-off Insurance Business consists primarily of run-off lines of
+business, including excess workers’ compensation, asbestos and legacy
+environmental (1986 and prior); certain environmental liability businesses
+written prior to 2004 and certain
+long-duration business, primarily in Japan and the U.S. Other Businesses include investments in life settlements, real estate
+investment operations, institutional asset management operations, equipment
+financing operations and our remaining consumer finance business. Aircraft Leasing consists of ILFC. On May 14, 2014, we completed the sale of 100 percent
+of the common stock of ILFC to AerCap Ireland Limited, a wholly owned
+subsidiary of AerCap, in exchange for total consideration of approximately
+$7.6 billion, including cash and 97.6 million newly issued AerCap common
+shares (the AerCap Transaction). As a result of the
+AerCap Transaction, we own approximately 46 percent of the outstanding common
+stock of AerCap. We account for our interest in AerCap using the equity method
+of accounting. See Note 4 to the Consolidated Financial Statements for
+additional information on the AerCap Transaction. Retained Interests includes fair value gains and losses on (i) AIA
+ordinary shares retained following the AIA initial public offering prior to
+their sale in 2012 and (ii) Maiden Lane III LLC (ML III) assets prior to
+their liquidation in 2012. OUR EMPLOYEES At
+December 31, 2014, we had approximately 65,000 employees. We believe that
+our relations with our employees are satisfactory. 18 TABLE OF CONTENTS Item 1 / BUSINESS A Review of Liability for
+Unpaid LOSSES and loss Adjustment Expenses The liability for unpaid losses and loss adjustment expenses
+(also referred to as loss reserves) represents the accumulation of estimates
+for unpaid reported losses (case reserves) and losses that have been incurred
+but not reported (IBNR) for the Non-Life Insurance Companies. We recognize as assets the portion of this liability that is
+expected to be recovered from reinsurers. Loss reserves are discounted, where
+permitted, in accordance with U.S. GAAP. The Loss Reserve Development
+Process The process of establishing the liability for unpaid losses
+and loss adjustment expenses is complex and imprecise because it must take into
+consideration many variables that are subject to the outcome of future events.
+As a result, informed subjective estimates and judgments about our ultimate
+exposure to losses are an integral component of our loss reserving process. We use a number of techniques to analyze the adequacy of the established net liability for unpaid losses and loss adjustment expenses (net loss reserves). Using these analytical techniques, we monitor the adequacy of our established reserves and determine appropriate assumptions for inflation and other factors influencing loss costs. Our analyses also take into account emerging specific development patterns, such as case reserve redundancies or deficiencies and IBNR emergence. We also consider specific factors that may impact losses, such as changing trends in medical costs, unemployment levels and other economic indicators, as well as changes in legislation and social attitudes that may affect decisions to file claims or the magnitude of court awards. See Item 7. MD&A — Critical Accounting Estimates for a description of our loss reserving process. Because reserve estimates are subject to the outcome of future events, changes in prior year estimates are unavoidable in the insurance industry. These changes in estimates are sometimes referred to as “prior year loss development” or “reserve development.” A significant portion of the Non-Life Insurance Companies’
+reserves are for the U.S. commercial casualty class, including excess casualty,
+asbestos and environmental, which tends to involve longer periods of time for
+the reporting and settlement of claims than other types of insurance and
+therefore may increase the inherent risk and uncertainty with respect to our loss
+reserve development. Analysis of Consolidated Loss
+Reserve Development The “Analysis of Consolidated Loss Reserve Development” table
+presents the development of prior year net loss reserves for calendar years
+2004 through 2014 for each balance sheet in that period. The information in the
+table is presented in accordance with reporting requirements of the Securities
+and Exchange Commission (SEC). This table should be interpreted with care by
+those not familiar with its format or those who are familiar with other loss
+development analyses arranged in an accident year or underwriting year basis
+rather than the balance sheet, as shown below. See Note 13 to the Consolidated
+Financial Statements. The top row of the table shows Net Reserves Held (the
+net liability for unpaid losses and loss adjustment expenses) at each balance
+sheet date, net of discount. This liability represents the estimated amount
+of losses and loss adjustment expenses for claims arising in all years prior to
+the balance sheet date that were unpaid as of that balance sheet date,
+including estimates for IBNR claims. The amount of loss reserve discount
+included in the net reserves at each date is shown immediately below the net
+reserves held. The undiscounted reserve at each date is equal to the sum of the
+discount and the net reserves held. For example, Net Reserves Held
+(Undiscounted) was $48.8 billion at December 31, 2004. The next section of the table shows the original Net
+Undiscounted Reserves re-estimated over 10 years. This re-estimation takes
+into consideration a number of factors, including changes in the estimated
+frequency of reported claims, effects of 19 TABLE OF CONTENTS Item 1 / BUSINESS significant
+judgments, the emergence of latent exposures, and changes in medical cost
+trends. For example, the original undiscounted reserve of
+$48.8 billion at December 31, 2004, was re-estimated to $66.2 billion
+at December 31, 2014. The amount of the development related to losses
+settled or re-estimated in 2014, but incurred in 2011, is included in the
+cumulative development amount for years 2011, 2012 and 2013. Any increase or
+decrease in the estimate is reflected in operating results in the period in
+which the estimate is changed. The middle of the table shows Net Deficiency. This
+is the aggregate change in estimates over the period of years covered by the
+table. For example, the net loss reserve deficiency of $17.4 billion
+for 2004 is the difference between the original undiscounted reserve of
+$48.8 billion at December 31, 2004 and the $66.2 billion of
+re-estimated reserves at December 31, 2014. The net deficiency amounts are
+cumulative; in other words, the amount shown in the 2013 column includes the
+amount shown in the 2012 column, and so on. Conditions and trends that have affected
+development of the liability in the past may not necessarily occur in the
+future. Accordingly, it generally is not appropriate to extrapolate future
+development based on this table. The bottom portion of the table shows the Paid
+(Cumulative) amounts during successive years related to the undiscounted
+loss reserves. For example, as of December 31, 2014, AIG had paid a total
+of $55.4 billion of the $66.2 billion in re-estimated reserves for
+2004, resulting in Remaining Reserves (Undiscounted) of $10.8 billion for
+2004. Also included in this section are the Remaining Reserves
+(Undiscounted) and the Remaining Discount for each year. As discussed
+in footnotes (a) and (b) below, the calendar year distribution of these Paid
+(Cumulative) amounts are estimates that are affected by certain transactions.
+These payment amounts may differ from the actual losses paid for a given
+accident year. The following table presents loss reserves and the
+related loss development for 2004 through 2014 and consolidated gross liability
+(before discount), reinsurance recoverable and net liability recorded for each
+calendar year, and the re‑estimation of these amounts as of
+December 31, 2014. (a) (in millions) 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 Net Reserves Held (b) $ 47,253 $ 57,476 $ 62,630 $ 69,288 $ 72,455 $ 67,899 $ 71,507 $ 70,825 $ 68,782 $ 64,316 $ 61,612 Discount (in Reserves Held) 1,553 2,110 2,264 2,429 2,574 2,655 3,217 3,183 3,246 3,555 3,077 Net Reserves Held (Undiscounted) 48,806 59,586 64,894 71,717 75,029 70,554 74,724 74,008 72,028 67,871 $ 64,689 Net undiscounted Reserve re-estimated as of: One year later 53,486 59,533 64,238 71,836 77,800 74,736 74,919 74,429 72,585 68,574 Two years later 55,009 60,126 64,764 74,318 82,043 74,529 75,502 75,167 73,571 Three years later 56,047 61,242 67,303 78,275 81,719 75,187 76,023 76,212 Four years later 57,618 63,872 70,733 78,245 82,422 76,058 77,031 Five years later 60,231 67,102 70,876 79,098 83,135 77,054 Six years later 63,348 67,518 71,572 79,813 84,100 Seven years later 63,928 68,233 72,286 80,770 Eight years later 64,532 69,023 73,356 Nine years later 65,261 70,029 Ten years later 66,162 Net Deficiency on net reserves held (17,356) (10,443) (8,462) (9,053) (9,071) (6,500) (2,307) (2,204) (1,543) (703) Net Deficiency related to asbestos and environmental (A&E) (3,157) (2,228) (2,019) (2,000) (1,951) (1,799) (297) (268) (192) (124) Net Deficiency excluding A&E (14,199) (8,215) (6,443) (7,053) (7,120) (4,701) (2,010) (1,936) (1,351) (579) Paid (Cumulative) as of: One year later 14,910 15,326 14,862 16,531 24,267 15,919 17,661 19,235 18,758 17,745 Two years later 24,377 25,152 24,388 31,791 36,164 28,428 30,620 31,766 31,265 Three years later 31,296 32,295 34,647 40,401 46,856 38,183 40,091 41,464 Four years later 36,804 40,380 40,447 48,520 53,616 45,382 47,379 Five years later 43,162 44,473 46,474 53,593 58,513 51,104 Six years later 46,330 49,552 50,391 57,686 62,734 Seven years later 50,462 52,243 53,545 61,221 Eight years later 52,214 54,332 56,424 Nine years later 53,693 56,516 Ten years later 55,375 20 TABLE OF CONTENTS Item 1 / BUSINESS Remaining Reserves (Undiscounted) 10,787 13,513 16,932 19,549 21,366 25,950 29,652 34,748 42,306 50,829 Remaining Discount 1,342 1,474 1,632 1,797 1,978 2,143 2,309 2,516 2,701 2,888 Remaining Reserves $ 9,445 $ 12,039 $ 15,300 $ 17,752 $ 19,388 $ 23,807 $ 27,343 $ 32,232 $ 39,605 $ 47,941 Net Liability, End of Year $ 48,806 $ 59,586 $ 64,894 $ 71,717 $ 75,030 $ 70,554 $ 74,724 $ 74,008 $ 72,028 $ 67,871 $ 64,689 Reinsurance Recoverable, End of Year 14,624 19,693 17,369 16,212 16,803 17,487 19,644 20,320 19,209 17,231 15,648 Gross Liability, End of Year 63,430 79,279 82,263 87,929 91,833 88,041 94,368 94,328 91,237 85,102 $ 80,337 Re-estimated Net Liability 66,162 70,029 73,356 80,770 84,100 77,054 77,031 76,212 73,571 68,574 Re-estimated Reinsurance Recoverable 21,765 24,548 20,819 19,317 18,793 18,634 16,709 18,456 19,065 17,221 Re-estimated Gross Liability 87,927 94,577 94,175 100,087 102,893 95,688 93,740 94,668 92,636 85,795 Cumulative Gross Redundancy (Deficiency) $ (24,497) $ (15,298) $ (11,912) $ (12,158) $ (11,060) $ (7,647) $ 628 $ (340) $ (1,399) $ (693) (a) During
+2009, we deconsolidated Transatlantic Holdings, Inc. and sold 21st Century
+Insurance Group and HSB Group, Inc. The sales and deconsolidation are reflected
+in the table above as a reduction in December 31, 2009 net reserves of $9.7
+billion and as an $8.6 billion increase in paid losses for the years 2000
+through 2008 to remove the reserves for these divested entities from the ending
+balance. (b) The
+increase in Net Reserves Held from 2009 to 2010 is partially due to the $1.7
+billion in Net Reserves Held by Fuji Fire, which was acquired in 2010. The
+decrease in 2011 is due to the cession of asbestos reserves described in Item
+7. MD&A — Insurance Reserves – Non-Life Insurance Companies— Asbestos
+and Environmental Reserves. The Liability for unpaid losses and loss adjustment expenses
+as reported in our Consolidated Balance Sheet at December 31, 2014 differs from
+the total reserves reported in the annual statements filed with state insurance
+departments and, when applicable, with foreign regulatory authorities primarily
+for the following reasons: • Reserves for certain foreign operations are not required or permitted to
+be reported in the United States for statutory reporting purposes, including
+contingency reserves for catastrophic events; • Statutory practices in the United States require reserves to be shown
+net of applicable reinsurance recoverable; and • Unlike statutory financial statements, our consolidated liability for
+unpaid losses and loss adjustment expenses excludes the effect of intercompany
+transactions. Gross loss reserves are calculated without reduction for
+reinsurance recoverable and represent the accumulation of estimates for
+reported losses and IBNR, net of estimated salvage and subrogation. We review
+the adequacy of established gross loss reserves in the manner previously
+described for net loss reserves. A reconciliation of activity in the Liability
+for unpaid losses and loss adjustment expenses is included in Note 13 to the
+Consolidated Financial Statements. For further discussion of asbestos and environmental
+reserves, see Item 7. MD&A — Insurance Reserves – Non-Life Insurance
+Companies— Asbestos and Environmental Reserves. Reinsurance
+Activities Reinsurance is used primarily to manage overall capital
+adequacy and mitigate the insurance loss exposure related to certain events
+such as natural and man-made catastrophes. Our subsidiaries operate worldwide primarily by underwriting
+and accepting risks for their direct account on a gross basis and reinsuring a
+portion of the exposure on either an individual risk or an aggregate basis to
+the extent those risks exceed the desired retention level. In
+addition, as a condition of certain direct underwriting transactions, we are
+required by clients, agents or regulation to cede all or a portion of risks to
+specified reinsurance entities, such as captives, other insurers, local
+reinsurers and compulsory pools. Over the last several years, the Non-Life Insurance Companies
+revised the ceded reinsurance framework and strategy to improve capital
+management and support our global product line risk and profitability
+objectives. As a result of adopting the revised framework and strategy,
+many individual reinsurance contracts were consolidated into more efficient
+global programs and reinsurance ceded to third parties in support of risk and
+capital management objectives has decreased for the full year 21 TABLE OF CONTENTS Item 1 / BUSINESS 2014 compared to 2013. We continually evaluate the
+relative attractiveness of different forms of reinsurance contracts and
+different markets that may be used to achieve our risk and profitability
+objectives. Reinsurance markets include: • Traditional local and global reinsurance markets including those in the
+United States, Bermuda, London and Europe, accessed directly and through
+reinsurance intermediaries; • Capital markets through insurance-linked securities and collateralized
+reinsurance transactions, such as catastrophe bonds, sidecars and similar
+vehicles; and • Other insurers that engage in both direct and assumed reinsurance. The form of reinsurance that we may choose from time to time
+will generally depend on whether we are seeking: • proportional
+reinsurance, whereby we cede a specified percentage of premium and losses to
+reinsurers; • non-proportional
+or excess of loss reinsurance, whereby we cede all or a specified portion of
+losses in excess of a specified amount on a per risk, per occurrence (including
+catastrophe reinsurance) or aggregate basis; or • facultative contracts that reinsure individual policies. Reinsurance contracts do not relieve our subsidiaries from
+their direct obligations to insureds. However, an effective reinsurance program
+substantially mitigates our exposure to potentially significant losses. In certain markets, we are required to participate on a
+proportional basis in reinsurance pools based on our relative share of direct
+writings in those markets. Such mandatory reinsurance generally covers
+higher-risk consumer exposures such as assigned-risk automobile and earthquake,
+as well as certain commercial exposures such as workers’ compensation. In 2014, we continued our strategy to take advantage of the
+pricing differential between traditional reinsurance markets and capital
+markets. In December 2014, we entered into capital markets reinsurance
+transactions, effective as of January 1, 2015, with Tradewynd Re Ltd., which
+will provide $500 million of indemnity reinsurance protection against U.S.,
+Caribbean, Canadian, Mexican and Gulf of Mexico named storms and U.S.,
+Caribbean, Mexican and Canadian earthquakes. To fund its potential
+obligations to AIG, Tradewynd Re Ltd. issued three tranches of notes, one with
+a one-year term and two with three-year terms. The transaction provides
+fully collateralized coverage against losses from the events described above on
+a per-occurrence basis through December 2015 (on the one-year tranche) and
+December 2017 (on the three-year tranches). As of January 2015, our outstanding
+catastrophe bond issuances result in us having $925 million of indemnity
+reinsurance protection outstanding in the capital markets. See Item 7. MD&A – Enterprise Risk
+Management – Insurance Operations Risks – Non-Life Insurance
+Companies Key Insurance Risks – Reinsurance Recoverable for a summary of
+significant reinsurers. REGULATion Our
+operations around the world are subject to regulation by many different types
+of regulatory authorities, including insurance, securities, derivatives,
+investment advisory and thrift regulators in the United States and abroad. Our insurance subsidiaries are subject to regulation and
+supervision by the states and jurisdictions in which they do business. The
+insurance and financial services industries generally have been subject to
+heightened regulatory scrutiny and supervision in recent years. 22 TABLE OF CONTENTS Item 1 / BUSINESS The following table provides a general
+overview of our primary regulators and related bodies and a brief description
+of their oversight with respect to us and our subsidiaries, including key
+regulations or initiatives that we are currently, or may in the future be,
+subject to. Such regulations and initiatives, both in the United States and
+abroad, are discussed in more detail following the table. U.S. Federal Regulation Board of Governors of the Federal Reserve System (FRB): Oversees and regulates financial institutions, including nonbank systemically important financial institutions (nonbank SIFIs). We are currently subject to the FRB’s examination, supervision and enforcement authority, and certain reporting requirements, as a nonbank SIFI. Office of the Comptroller of the Currency (OCC): Charters, regulates and supervises all national banks and federal savings associations. The OCC supervises and regulates AIG Federal Savings Bank, our trust-only federal thrift subsidiary. Securities and Exchange Commission (SEC): Oversees and regulates the U.S. securities and security-based swap markets, U.S. mutual funds, U.S. broker-dealers and U.S. investment advisors. Principal regulator of the mutual funds offered by our broker-dealer subsidiaries. The SEC is in the process of implementing rules and regulations governing reporting, execution and margin requirements for security-based swaps entered into within the U.S or by U.S. persons. Our security-based swap activities conducted by GCM are likely to be subject to certain of these rules and regulations . Commodities Futures Trading Commission (CFTC): Oversees and regulates the U.S. swap, commodities and futures markets. The CFTC has begun implementing and is continuing to implement rules and regulations governing reporting, execution, margin and other requirements for swaps entered into within the U.S. or involving U.S. persons. Our swap activities conducted by GCM are subject to certain of these rules and regulations. Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank): Dodd-Frank has effected comprehensive changes to financial services regulation and subjects us, or may subject us, as applicable, to additional federal regulation, including: • enhanced prudential standards for nonbank SIFIs (including minimum leverage and risk-based capital requirements, capital planning, stress tests, liquidity requirements, corporate governance requirements, contingent capital requirements, counterparty credit limits, an early remediation regime process and recovery and resolution planning); • limitations on proprietary trading or covered fund activities, if the FRB decides to impose certain elements of Section 619 of Dodd-Frank (referred to as the “Volcker Rule”) on nonbank SIFIs; • financial sector concentration limits; and • increased regulation and restrictions on derivatives markets and transactions. U.S. State Regulation State Insurance Regulators: Our insurance subsidiaries are subject to regulation and supervision by the states and other jurisdictions in which they do business. Regulation is generally derived from statutes that delegate supervisory and regulatory powers to a state insurance regulator, and primarily relates to the insurer’s financial condition, corporate conduct and market conduct activities. NAIC Standards: The National Association of Insurance Commissioners (NAIC) is a standard-setting and regulatory support organization created and governed by the chief insurance regulators from the 50 states, the District of Columbia and five U.S. territories. The NAIC itself is not a regulator, but through the NAIC, state insurance regulators establish standards and best practices, conduct peer review and coordinate regulatory oversight. Foreign Regulation Financial Stability Board (FSB): Consists of representatives of national financial authorities of the G20 nations. The FSB itself is not a regulator, but it coordinates the work of national financial authorities and international standard-setting bodies and develops and promotes implementation of regulatory, supervisory and other financial policies. International Association of Insurance Supervisors (IAIS): Represents insurance regulators and supervisors of more than 200 jurisdictions in nearly 140 countries and seeks to promote globally consistent insurance industry supervision. The IAIS itself is not a regulator, but the FSB has directed the IAIS to create standards on issues such as financial group supervision, capital and solvency standards, systemic economic risk and corporate governance and incorporate them into IAIS’ Insurance Core Principles (ICPs). The FSB also charged IAIS with developing a template for measuring systemic risks posed by insurer groups. Based on IAIS’ assessment template, the FSB identified AIG as a global systemically important insurer (G-SII), which may subject us to a policy framework that includes recovery and resolution planning requirements, enhanced group-wide supervision, enhanced liquidity and strategic risk management planning, basic capital requirements and higher loss absorbency capital requirements. The IAIS is also developing ComFrame, a Common Framework for the Supervision of Internationally Active Insurance Groups (IAIGs), which includes additional supervisory oversight based on its ICPs but also adds requirements and supervisory processes pertaining to the international business activities of IAIGs. In connection with ComFrame, the IAIS is in the process of developing a risk-based global insurance capital standard applicable to IAIGs. AIG currently meets the parameters set forth to define an IAIG. European Union (EU): Certain financial services firms with regulated entities in the EU, such as us, are subject to supplementary supervision, which seeks to enable supervisors to perform consolidated insurance group supervision at the level of the ultimate parent entity. The objective of supplementary supervision is to detect, monitor, manage and control group risks. The UK Prudential Regulatory Authority, the United Kingdom’s prudential regulator, is our EU supervisory coordinator. In addition, the Financial Conduct Authority has oversight of AIG’s European operations for consumer protection and competition matters. The EU has also established a set of regulatory requirements for EU derivatives activities under the European Market Infrastructure Regulation (EMIR) that include, among other things, risk mitigation, risk management and regulatory reporting, which are effective, and clearing requirements expected to become effective in 2015. The EU’s Solvency II Directive (2009/138/EEC) (Solvency II), which is expected to become effective in 2016, includes minimum capital and solvency requirements, governance requirements, risk management and public reporting standards. The impact on us will depend on whether the U.S. insurance regulatory regime is deemed “equivalent” to Solvency II; if the U.S. insurance regulatory regime is not equivalent, then we could be subjected to Solvency II standards. Regulation of Foreign Insurance Company Subsidiaries: Generally, our subsidiaries operating in foreign jurisdictions must satisfy local regulatory requirements. Our foreign operations are also regulated in various jurisdictions with respect to currency, policy language and terms, advertising, amount and type of security deposits, amount and type of reserves, amount and type of capital to be held, amount and type of local investment and the share of profits to be returned to policyholders on participating policies. Some foreign countries also regulate rates on various types of policies. 23 TABLE OF CONTENTS Item 1 / BUSINESS Federal Reserve
+Supervision Due to the determination of the Financial Stability
+Oversight Council (Council) that we should be regulated by the FRB as a nonbank
+SIFI pursuant to Section 113 of Dodd-Frank, we have been since July 2013
+subject to the FRB’s examination, supervision and enforcement authority, and
+certain reporting requirements as a nonbank SIFI. Dodd-Frank requires that the
+Council reevaluate its determination annually; however, the Council’s 2014
+annual reevaluation did not result in a change to our nonbank SIFI status, and
+we remain regulated by the FRB. Dodd-Frank has effected comprehensive changes to the
+regulation of financial services in the United States and subjects us to
+substantial additional federal regulation. Dodd-Frank directs existing and
+newly-created government agencies and oversight bodies to promulgate
+regulations implementing the law, an ongoing process that is under way and is
+anticipated to continue over the next few years. As required by Dodd-Frank, the FRB has adopted enhanced
+prudential standards (including minimum leverage and risk-based capital
+requirements, requirements to submit annual capital plans to the FRB
+demonstrating the ability to satisfy the required capital ratios under baseline
+and stressed conditions, and stress-testing requirements ) for
+bank holding companies with $50 billion (and in some cases, $10 billion) or
+more in total consolidated assets and certain foreign banking organizations . The FRB 24 TABLE OF CONTENTS Item 1 / BUSINESS has also adopted liquidity
+coverage ratio and supplemental leverage ratio requirements for a subset of
+large banking organizations. These requirements do not apply to nonbank
+SIFIs. Dodd-Frank authorizes the FRB to tailor its application of
+enhanced prudential standards to different companies on an individual basis or
+by category, and the FRB has indicated that it intends to assess the business
+model, capital structure and risk profile of nonbank SIFIs to determine how
+enhanced prudential standards should apply to them, and, if appropriate, to
+tailor the application of these standards for nonbank SIFIs by order or regulation.
+We cannot predict what enhanced prudential standards the FRB will promulgate
+for nonbank SIFIs, either generally or as applicable to insurance businesses. The
+FRB has exercised general examination, supervision and enforcement authority
+over us since we were determined to be a nonbank SIFI in July 2013. The FRB
+has focused its general supervisory authority over us in several areas,
+including financial and control related reporting, oversight of a capital
+planning and capital analysis and review process, model governance and
+validation, operational risk management, recovery planning and resolution
+planning. We cannot predict how the FRB’s continuing exercise of its general
+supervisory authority over us as a nonbank SIFI will develop, although the FRB
+could, as a prudential matter, for example, limit our ability to pay dividends,
+repurchase shares of AIG Common Stock or acquire or enter into other
+businesses. We cannot predict with certainty the requirements of the
+regulations ultimately adopted or how or whether Dodd-Frank and such
+regulations will affect the financial markets generally, impact our businesses,
+results of operations, cash flows or financial condition, or require us to
+raise additional capital or result in a downgrade of our credit ratings. In
+2014, the FRB conducted a quantitative impact study to evaluate the potential
+effects of a revised regulatory capital framework on nonbank SIFIs that are
+substantially engaged in insurance underwriting activity. The FRB has not
+released any results or conclusions related to this study. We also note
+that in December 2014, Congress adopted changes to Section 171 of Dodd-Frank in
+order to clarify that the FRB has the flexibility to tailor capital rules
+specifically for certain insurance activities and is not bound to impose
+capital standards and quantitative requirements generally applicable to insured
+depository institutions and bank holding companies. We cannot predict
+with any certainty, however, what capital rules, if any, the FRB may impose on
+insurers. As a nonbank SIFI, we anticipate we will be subject to: • stress tests to determine whether, on a consolidated basis, we have the
+capital necessary to absorb losses due to adverse economic conditions; • stricter prudential standards, including stricter requirements and
+limitations relating to risk-based capital, leverage, liquidity and credit
+exposure, as well as overall risk management requirements; • management interlock prohibitions and a requirement to maintain a plan
+for rapid and orderly resolution in the event of severe financial distress
+(requirements that we are already subject to); and • an early remediation regime process to be administered by the FRB. Furthermore, if the Council were to make an additional
+separate determination that AIG poses a “grave threat” to U.S. financial
+stability, we would be required to maintain a debt-to-equity ratio of no more
+than 15:1 and the FRB may: • limit our ability to merge with, acquire, consolidate with, or become
+affiliated with another company; • restrict our ability to offer specified financial products; • require us to terminate specified activities; • impose conditions on how we conduct our activities; and • with approval of the Council, and a determination that the foregoing
+actions are inadequate to mitigate a threat to U.S. financial stability,
+require us to sell or otherwise transfer assets or off-balance-sheet items to
+unaffiliated entities. As part of its general prudential supervisory powers, the FRB
+has the authority to limit our ability to conduct activities that would
+otherwise be permissible for us to engage in if we do not satisfy certain
+requirements. In addition, if we were to seek to acquire a stake in certain
+financial companies, Dodd-Frank would require us to obtain the prior
+authorization of the FRB. Other Effects
+of Dodd-Frank In addition, Dodd-Frank may also have the following effects
+on us: 25 TABLE OF CONTENTS Item 1 / BUSINESS • As a nonbank SIFI, we are currently required to provide on an annual
+basis (or more frequently, if required) to the FRB and FDIC a plan for our rapid
+and orderly resolution in the event of material financial distress or failure,
+which must, among other things, provide a detailed resolution strategy and
+analyses of our material entities, organizational structure, interconnections
+and interdependencies, and management information systems. We continue to
+update and refine our resolution plan, which was originally submitted to
+regulators on July 1, 2014. Our next resolution plan is required to be
+submitted to the FRB and FDIC on July 1, 2015. If the FRB and FDIC jointly
+determine, based on their review of the plan, that it is not credible or would
+not facilitate our orderly resolution under the bankruptcy code, they may
+require us to re-submit an amended plan. If the re-submitted plan also fails
+to meet regulatory expectations, the FRB and FDIC may exercise their authority
+under Dodd-Frank to impose more stringent capital, leverage, or liquidity
+requirements, restrict our growth, activities, or operations, require us to
+divest assets and operations, or otherwise increase their level of supervision
+of us. • The Council may recommend that state insurance regulators or other
+regulators apply new or heightened standards and safeguards for activities or
+practices that we and other insurers or other financial services companies
+engage in. • Title II of Dodd-Frank provides that a financial company whose largest
+United States subsidiary is an insurer (such as us) may be subject to a special
+resolution process outside the federal bankruptcy code. That process is to be administered
+by the FDIC upon a coordinated determination by the director of the Federal
+Insurance Office and the FRB, either at the request of the Secretary of the
+Treasury or on their own initiative, and in consultation with the FDIC, that
+such a financial company is in default or in danger of default and presents a
+systemic risk to U.S. financial stability. • Dodd-Frank provides for significantly increased regulation of and
+restrictions on derivatives markets and transactions that could affect various
+activities of AIG and its insurance and financial services subsidiaries,
+including (i) regulatory reporting for swaps (which are regulated by the CFTC)
+and security-based swaps (which are regulated by the SEC), (ii) mandated
+clearing through central counterparties and execution through regulated
+exchanges or electronic facilities for certain swaps and security-based swaps
+and (iii) margin and collateral requirements. Although the CFTC has not yet
+finalized certain requirements, many other requirements have taken effect, such
+as swap reporting, the mandatory clearing of certain interest rate swaps and
+credit default swaps, and the mandatory trading of certain swaps on swap
+execution facilities or exchanges. The SEC has proposed, but not yet finalized,
+rules with respect to certain of the regulations and restrictions noted above governing
+security-based swaps. These regulations have affected and may further affect
+various activities of AIG and its insurance and financial services subsidiaries
+as rules are finalized to implement additional elements of the regulatory
+regime. Similar regulations have been
+proposed or adopted outside the United States. For instance, the EU has also
+established a set of new regulatory requirements for EU derivatives activities
+under EMIR. These requirements include, among other things, various risk
+mitigation, risk management and regulatory reporting requirements that have
+already become effective and clearing requirements that are expected to become
+effective in 2015. These requirements could result in increased administrative
+costs with respect to our EU derivatives activities and overlapping or
+inconsistent regulation depending on the ultimate application of cross-border
+regulatory requirements between and among U.S. and non-U.S. jurisdictions. • Dodd-Frank mandated a study to determine whether stable value contracts
+should be included in the definition of "swap." If that study
+concludes that stable value contracts are swaps, Dodd-Frank authorizes certain
+federal regulators to determine whether an exemption from the definition of a
+swap for stable value contracts is appropriate and in the public interest.
+Certain of our affiliates participate in the stable value contract business. We
+cannot predict what regulations might emanate from the aforementioned study or
+be promulgated applicable to this business in the future. • Dodd-Frank established a Federal Insurance Office (FIO) within the
+United States Department of the Treasury (Department of the Treasury) headed by
+a director appointed by the Secretary of the Treasury. While not having a
+general supervisory or regulatory authority over the business of insurance, the
+director of this office performs various functions with respect to insurance
+(other than health insurance), including serving as a non-voting member of the
+Council. On December 12, 2013, the FIO released a Dodd-Frank mandated study on
+how to modernize and improve the system of insurance regulation in the United
+States. The report concluded that the uniformity and efficiency of the current
+state based regulatory system could be improved and highlighted areas in which
+Federal involvement is recommended. In the near-term, the FIO recommended that
+the states undertake reforms regarding capital adequacy, reform of insurer
+resolution practices, and marketplace regulation. • Dodd-Frank established the Consumer Financial Protection Bureau (CFPB)
+as an independent bureau within the FRB to regulate consumer financial products
+and services offered primarily for personal, family or household purposes.
+Insurance products and services are not within the CFPB's general jurisdiction,
+although the U.S. Department of Housing and Urban 26 TABLE OF CONTENTS Item 1 / BUSINESS Development
+has since transferred authority to the CFPB to investigate mortgage insurance
+practices. Broker-dealers and investment advisers are not subject to the CFPB's
+jurisdiction when acting in their registered capacity. • Title XIV of Dodd-Frank also restricts certain terms for mortgage loans,
+such as loan fees, prepayment fees and other charges, and imposes certain duties
+on a lender to ensure that a borrower can afford to repay the loan. Dodd-Frank imposes various assessments on financial
+companies, including, as applicable to us, fees for our supervision by the FRB
+and assessments to cover the costs of any special resolution of a financial
+company conducted under Title II (although the regulatory authority would have
+to take account of the amounts paid by us into state guaranty funds). We cannot predict whether these actions will become effective
+or the effect they may have on the financial markets or on our business,
+results of operations, cash flows, financial condition and credit ratings.
+However, it is possible that such effect could be materially adverse. See Item
+1A. Risk Factors — Regulation for additional information. Other
+Regulatory Developments As described
+below, AIG has been designated as a Global Systemically Important Insurer
+(G-SII). In addition to the adoption of
+Dodd-Frank in the United States, regulators and lawmakers around the world are continuing
+to review the causes of the financial crisis and taking steps to avoid similar
+problems in the future. The FSB, consisting of representatives of national
+financial authorities of the G20 nations, has issued a series of frameworks and
+recommendations intended to produce significant changes in how financial
+companies, particularly global systemically important financial institutions,
+should be regulated. These frameworks and recommendations address such issues
+as financial group supervision, capital and solvency standards, systemic
+economic risk, corporate governance including compensation, and a number of
+related issues associated with responses to the financial crisis. The FSB has
+directed the International Association of Insurance Supervisors (the IAIS,
+headquartered in Basel, Switzerland) to create standards relative to these
+areas and incorporate them within that body’s Insurance Core Principles (ICPs).
+IAIS’s ICPs form the baseline threshold against which countries’ financial
+services regulatory efforts in the insurance sector are measured. That
+measurement is made by periodic Financial Sector Assessment Program (FSAP)
+reviews conducted by the World Bank and the International Monetary Fund and the
+reports thereon spur the development of country-specific additional or amended
+regulatory changes. Lawmakers and regulatory authorities in a number of
+jurisdictions in which our subsidiaries conduct business have already begun
+implementing legislative and regulatory changes consistent with these recommendations,
+including proposals governing consolidated regulation of insurance holding
+companies by the Financial Services Agency in Japan, financial and banking
+regulation adopted in France and compensation regulations proposed or adopted
+by the financial regulators in Germany and the United Kingdom Prudential
+Regulation Authority. The FSB has also charged the IAIS with developing a
+template for measuring systemic risks posed by insurer groups. The IAIS has
+requested data from selected insurers around the world to determine which
+elements of the insurance sector, if any, could materially and adversely impact
+other parts of the global financial services sector (e.g., commercial and
+investment banking, securities trading, etc.). The IAIS has provided its assessment
+template to the FSB. Based on this assessment template, on July 18, 2013, the
+FSB, in consultation with the IAIS and national authorities, identified an
+initial list of G-SIIs, which includes AIG. G-SIIs will be designated on an
+annual basis, and AIG was redesignated as a G-SII by the FSB on November 6,
+2014. The IAIS intends G-SIIs to be subject to a policy framework that
+includes recovery and resolution planning requirements, enhanced group-wide
+supervision, enhanced liquidity and strategic risk management planning; basic
+capital requirements and higher loss absorbency (HLA) capital requirements. The
+IAIS finalized its basic capital requirement (BCR) in October 2014. The BCR
+covers all group activities and is required to be reported to national authorities
+on a confidential basis beginning in 2015. The BCR will serve as the initial
+foundation for the application of HLA capital requirements, which the IAIS
+intends to be calculated in part based on engagement in non-traditional and
+non-insurance activities. It is expected that the IAIS will develop HLA capital
+requirements by the end of 2015 and the G-SII policy framework will be fully
+implemented by 2019. The IAIS is also developing ComFrame, a Common Framework
+for the Supervision of Internationally Active Insurance Groups (IAIGs), which
+includes additional supervisory oversight based on its ICPs but also adds
+requirements and supervisory processes pertaining to the international business
+activities of IAIGs. In connection with ComFrame, the IAIS is in the
+process of developing a risk-based global insurance capital standard (ICS)
+applicable to IAIGs. As currently delineated under ComFrame, AIG meets the
+parameters set forth to define an IAIG. ComFrame requirements are
+expected to be finalized in 27 TABLE OF CONTENTS Item 1 / BUSINESS 2018, and the IAIS is
+conducting a field testing of ComFrame, including the ICS, ahead of that
+deadline. It is expected that implementation of ComFrame and the ICS
+would begin in 2019. Legislation in the European
+Union could also affect our international insurance operations. The Solvency II
+Directive (2009/138/EEC) (Solvency II), which was adopted on November 25, 2009
+and is expected to become effective on January 1, 2016, reforms the insurance
+industry’s solvency framework, including minimum capital and solvency
+requirements, governance requirements, risk management and public reporting
+standards. Solvency II is expected to be accompanied by Omnibus II, an EU
+proposal for a directive that also contains provisions for the capital
+treatment of products with long-term guarantees. Additionally, the European
+Insurance and Occupational Pensions Authority recently introduced interim
+guidelines effective January 1, 2014 that provide regulators in EU Member
+States with a framework to ensure that insurers make demonstrable progress
+towards meeting Solvency II requirements in 2016. The impact on us will depend
+on whether the U.S. insurance regulatory regime is deemed “equivalent” to
+Solvency II; if the U.S. insurance regulatory regime is not equivalent, then
+we, along with other U.S.-based insurance companies, could be required to be
+supervised under Solvency II standards. Whether the U.S. insurance regulatory
+regime will be deemed “equivalent” is still under consideration by European
+authorities and remains uncertain, so we are not currently able to predict the
+impact of Solvency II. We expect that the regulations
+applicable to us and our regulated entities will continue to evolve for the
+foreseeable future. Regulation of
+Insurance Subsidiaries Certain states and other jurisdictions require registration
+and periodic reporting by insurance companies that are licensed in such
+jurisdictions and are controlled by other entities. Applicable legislation
+typically requires periodic disclosure concerning the entity that controls the
+registered insurer and the other companies in the holding company system and
+prior approval of intercompany services and transfers of assets, including in
+some instances payment of dividends by the insurance subsidiary, within the
+holding company system. Our subsidiaries are registered under such legislation
+in those jurisdictions that have such requirements. Our insurance subsidiaries are subject to regulation and
+supervision by the states and by other jurisdictions in which they do business.
+Within the United States, the method of such regulation varies but generally
+has its source in statutes that delegate regulatory and supervisory powers to
+an insurance official. The regulation and supervision relate primarily to the
+financial condition of the insurers and their corporate conduct and market
+conduct activities. This includes approval of policy forms and rates, the
+standards of solvency that must be met and maintained, including with respect
+to risk-based capital, the licensing of insurers and their agents, the nature
+of and limitations on investments, restrictions on the size of risks that may
+be insured under a single policy, deposits of securities for the benefit of
+policyholders, requirements for acceptability of reinsurers, periodic examinations
+of the affairs of insurance companies, the form and content of reports of
+financial condition required to be filed, reserves for unearned premiums,
+losses and other purposes and enterprise risk management and corporate
+governance requirements. In general, such regulation is for the protection of
+policyholders rather than the equity owners of these companies. In the U.S., the Risk-Based Capital (RBC) formula is designed
+to measure the adequacy of an insurer's statutory surplus in relation to the
+risks inherent in its business. Virtually every state has adopted, in
+substantial part, the RBC Model Law promulgated by the NAIC, which allows
+states to act upon the results of RBC calculations, and provides for four
+incremental levels of regulatory action regarding insurers whose RBC
+calculations fall below specific thresholds. Those levels of action range from
+the requirement to submit a plan describing how an insurer would regain a
+specified RBC ratio to a mandatory regulatory takeover of the company. The RBC
+formula computes a risk-adjusted surplus level by applying discrete factors to
+various asset, premium and reserve items. These factors are developed to be
+risk-sensitive so that higher factors are applied to items exposed to greater
+risk. The statutory surplus of each of our U.S.-based Non-Life Insurance
+Companies and Life Insurance Companies exceeded RBC minimum required levels as
+of December 31, 2014. If any of our insurance entities fell below prescribed levels
+of statutory surplus, it would be our intention to provide appropriate capital
+or other types of support to that entity. For additional information, see Item
+7. MD&A — Liquidity and Capital Resources — Liquidity and Capital Resources
+of AIG Parent and Subsidiaries — Non-Life Insurance Companies and — Life
+Insurance Companies. 28 TABLE OF CONTENTS Item 1 / BUSINESS The NAIC’s Model Regulation
+“Valuation of Life Insurance Policies” (Regulation XXX) requires insurers to
+establish additional statutory reserves for term life insurance policies with
+long-term premium guarantees and universal life policies with secondary
+guarantees (ULSGs). NAIC Actuarial Guideline 38 (Guideline AXXX) clarifies the
+application of Regulation XXX as to these guarantees, including certain ULSGs.
+See Item 1A – Risk Factors and Note 20 to the Consolidated Financial Statements
+for risks and additional information related to these statutory reserving
+requirements. The NAIC has undertaken the Solvency Modernization Initiative
+(SMI) which focuses on a review of insurance solvency regulations throughout
+the U.S. financial regulatory system and is expected to lead to a set of
+long-term solvency modernization goals. SMI is broad in scope, but the NAIC has
+stated that its focus will include the U.S. solvency framework, group solvency
+issues, capital requirements, international accounting and regulatory
+standards, reinsurance and corporate governance. A substantial portion of our business is conducted in foreign
+countries. The degree of regulation and supervision in foreign jurisdictions
+varies. Generally, our subsidiaries operating in foreign jurisdictions must
+satisfy local regulatory requirements, licenses issued by foreign authorities
+to our subsidiaries are subject to modification or revocation by such
+authorities, and therefore these subsidiaries could be prevented from
+conducting business in certain of the jurisdictions where they currently
+operate. In addition to licensing requirements, our foreign operations
+are also regulated in various jurisdictions with respect to currency, policy
+language and terms, advertising, amount and type of security deposits, amount
+and type of reserves, amount and type of capital to be held, amount and type of
+local investment and the share of profits to be returned to policyholders on
+participating policies. Some foreign countries regulate rates on various types
+of policies. Certain countries have established reinsurance institutions,
+wholly or partially owned by the local government, to which admitted insurers
+are obligated to cede a portion of their business on terms that may not always
+allow foreign insurers, including our subsidiaries, full compensation. In some
+countries, regulations governing constitution of technical reserves and
+remittance balances may hinder remittance of profits and repatriation of
+assets. See Item 7. MD&A — Liquidity and Capital Resources —
+Regulation and Supervision and Note 20 to the Consolidated Financial
+Statements. 29 TABLE OF CONTENTS Item 1 / BUSINESS AVAILABLE
+INFORMATION ABOUT AIG Our
+corporate website is www.aig.com . We make available free of charge, through the Investor Information section
+of our corporate website, the following reports (and related amendments as
+filed with the SEC) as soon as reasonably practicable after such materials are
+electronically filed with, or furnished to, the SEC: • Annual Reports on Form 10-K • Quarterly Reports on Form 10-Q • Current Reports on Form 8-K • Proxy Statements on Schedule 14A, as well as other filings with
+the SEC Also available on our corporate website: • Charters for Board Committees: Audit, Nominating and Corporate
+Governance, Compensation and Management Resources, Risk and Capital,
+Regulatory, Compliance and Public Policy, and Technology Committees • Corporate Governance Guidelines ( which include Director
+Independence Standards ) • Director, Executive Officer and Senior Financial Officer Code of
+Business Conduct and Ethics (we will post on our website any amendment or
+waiver to this Code within the time period required by the SEC) • Employee Code of Conduct • Related‑Party Transactions Approval Policy Except for the documents
+specifically incorporated by reference into this Annual Report on Form 10-K,
+information contained on our website or that can be accessed through our
+website is not incorporated by reference into this Annual Report on
+Form 10-K. Reference to our website is made as an inactive textual
+reference. 30 TABLE OF CONTENTS Item 1A / risk factors ITEM 1A / RISK FACTORs Investing in
+AIG involves risk. In deciding whether to invest in AIG, you should carefully
+consider the following risk factors. Any of these risk factors could have a
+significant or material adverse effect on our businesses, results of
+operations, financial condition or liquidity. They could also cause significant
+fluctuations and volatility in the trading price of our securities. Readers
+should not consider any descriptions of these factors to be a complete set of
+all potential risks that could affect AIG. These factors should be considered
+carefully together with the other information contained in this report and the
+other reports and materials filed by us with the Securities and Exchange
+Commission (SEC). Further, many of these risks are interrelated and could
+occur under similar business and economic conditions, and the occurrence of
+certain of them may in turn cause the emergence or exacerbate the effect of
+others. Such a combination could materially increase the severity of the impact
+of these risks on our businesses, results of operations, financial condition
+and liquidity. MARKET
+CONDITIONS Difficult conditions in the
+global capital markets and the economy may materially and adversely affect our
+businesses, results of operations, financial condition and liquidity. Our businesses are highly dependent on the economic environment, both in the
+U.S. and around the world. Extreme market events, such as the global financial
+crisis during 2008 and 2009, have at times led, and could in the future lead,
+to a lack of liquidity, highly volatile markets, a steep depreciation in asset
+values across all classes, an erosion of investor and public confidence, and a
+widening of credit spreads. Concerns and events beyond our control, such as
+uncertainty as to the U.S. debt ceiling, the continued funding of the U.S.
+government, U.S. fiscal and monetary policy, the U.S. housing market, oil
+prices and concerns about European sovereign debt risk and the European banking
+industry, have in the past, and may in the future, adversely affect liquidity,
+increase volatility, decrease asset prices, erode confidence and lead to wider
+credit spreads. Difficult economic conditions could also result in increased
+unemployment and a severe decline in business across a wide range of industries
+and regions. These market and economic factors could have a material adverse
+effect on our businesses, results of operations, financial condition and
+liquidity. Under difficult economic or market conditions, we could
+experience reduced demand for our products and an elevated incidence of claims
+and lapses or surrenders of policies. Contract holders may choose to defer or
+cease paying insurance premiums. Other ways in which we could be negatively
+affected by economic conditions include, but are not limited to: • declines in the valuation and performance of our investment portfolio,
+including declines attributable to rapid increases in interest rates; • increased credit losses; • declines in the value of other assets; • impairments of goodwill and other long-lived assets; • additional statutory capital requirements; • limitations on our ability to recover deferred tax assets; • a decline in new business levels and renewals; • a decline in insured values caused by a decrease in activity at client
+organizations; • an increase in liability for future policy benefits due to loss
+recognition on certain long-duration insurance contracts; • higher borrowing costs and more limited availability of credit; • an increase in policy surrenders and cancellations; and • a write-off of deferred policy acquisition costs (DAC). Sustained
+low interest rates may materially and adversely affect our profitability. Recent periods have been
+characterized by low interest rates relative to historical levels. Sustained
+low interest rates can negatively affect the performance of our investment
+securities and reduce the level of investment income earned on our investment
+portfolios. If a low interest rate environment persists, we may experience
+slower investment income growth. Due to practical and capital markets
+limitations, we may not be able to fully mitigate our interest rate risk by
+matching exposure of our assets relative to our liabilities. Continued low
+interest rates could also impair our ability to earn the returns assumed in the
+pricing and the reserving 31 TABLE OF CONTENTS Item 1A / risk factors for our products at the time
+they were sold and issued. Changes in interest rates may be correlated with
+inflation trends, which would impact our loss trends. Investment
+Portfolio, Concentration of Investments, Insurance and other Exposures The performance and value of our
+investment portfolio are
+subject to a number of risks and uncertainties, including changes in interest
+rates . Our investment
+securities are subject to market risks and uncertainties. In particular,
+interest rates are highly sensitive to many factors, including monetary
+policies, domestic and international economic and political issues and other
+factors beyond our control. Changes in monetary policy or other factors may
+cause interest rates to rise, which would adversely affect the value of the
+fixed income securities that we hold and could adversely affect our ability to
+sell these securities. In addition, the evaluation of available-for-sale
+securities for other-than-temporary impairments, which may occur if interest
+rates rise, is a quantitative and qualitative process that is subject to
+significant management judgment. For a sensitivity analysis of our exposure to
+certain market risk factors, see Item 7. MD&A – Enterprise Risk Management
+– Market Risk Management. Furthermore, our alternative investment portfolio
+includes investments for which changes in fair value are reported through
+operating income and are therefore subject to significant volatility. In an
+economic downturn or declining market, the reduction in our investment income
+due to decreases in the fair value of alternative investments could have a
+material adverse effect on operating income. Our investment
+portfolio is concentrated in certain segments of the economy. Our
+results of operations and financial condition have in the past been, and may in
+the future be, adversely affected by the degree of concentration in our
+investment portfolio. We have concentrations in real estate and real
+estate-related securities, including residential mortgage-backed, commercial
+mortgage-backed and other asset-backed securities and commercial mortgage
+loans. We also have significant exposures to financial institutions and, in
+particular, to money center and global banks; certain industries, such as
+energy and utilities; U.S. state and local government issuers and authorities;
+PICC Group, PICC P&C and AerCap, as a result of our strategic investments;
+and Euro Zone financial institutions, governments and corporations. Events or
+developments that have a negative effect on any particular industry, asset
+class, group of related industries or geographic region may adversely affect
+our investments to the extent they are concentrated in such segments. Our
+ability to sell assets concentrated in such areas may be limited. Concentration
+of our insurance and other risk exposures may have adverse effects. We may be exposed to risks as a result of concentrations in our insurance policies,
+derivatives and other obligations that we undertake for customers and
+counterparties. We manage these concentration risks by monitoring the
+accumulation of our exposures by factors such as exposure type, industry,
+geographic region, counterparty and other factors. We also seek to use
+reinsurance, hedging and other arrangements to limit or offset exposures that
+exceed the limits we wish to retain. In certain circumstances, however, these
+risk management arrangements may not be available on acceptable terms or may
+prove to be ineffective for certain exposures. Also, our exposure may be so
+large that even a slightly adverse experience compared to our expectations may
+have a material adverse effect on our consolidated results of operations or
+financial condition, or result in additional statutory capital requirements for
+our subsidiaries. Our valuation of investment
+securities may include methodologies, estimations and assumptions that are
+subject to differing interpretations and could result in changes to investment
+valuations that may materially adversely affect our results of operations,
+financial condition and liquidity. During
+periods of market disruption, it may be difficult to value certain of our
+investment securities if trading becomes less frequent and/or market data
+becomes less observable. There may be cases where certain assets in normally
+active markets with significant observable data become inactive with
+insufficient observable data due to the financial environment or market
+conditions in effect at that time. As a result, valuations may include inputs
+and assumptions that are less observable or require greater estimation and
+judgment as well as valuation methods that are more complex. These values may
+not be realized in a market transaction, may not reflect the value of the asset
+and may change very rapidly as market conditions change and valuation
+assumptions are modified. Decreases in value and/or an inability to realize
+that value in a market transaction or secured lending transaction may have a
+material adverse effect on our results of operations, financial condition and
+liquidity. 32 TABLE OF CONTENTS Item 1A / risk factors Reserves and Exposures Our consolidated results of
+operations, liquidity, financial condition and ratings are subject to the
+effects of natural and man-made catastrophic events. Events such
+as hurricanes, windstorms, flooding, earthquakes, acts of terrorism, explosions
+and fires, cyber-crimes, product defects, pandemic and other highly contagious
+diseases, mass torts and other catastrophes have adversely affected our
+business in the past and could do so in the future. In addition, we recognize
+the scientific consensus that climate change is a reality of increasing
+concern, indicated by higher concentrations of greenhouse gases, a warming
+atmosphere and ocean, diminished snow and ice, and sea level rise. We
+understand that climate change potentially poses a serious financial threat to
+society as a whole, with implications for the insurance industry in areas such
+as catastrophe risk perception, pricing and modeling assumptions. Because there
+is significant variability associated with the impacts of climate change, we
+cannot predict how physical, legal, regulatory and social responses may impact
+our business. Such catastrophic events, and any relevant regulations, could
+expose us to: • widespread claim costs associated with property, workers’ compensation,
+A&H, business interruption and mortality and morbidity claims; • loss resulting from a decline in the value of our invested assets; • limitations on our ability to recover deferred tax assets; • loss resulting from actual policy experience that is adverse compared to
+the assumptions made in product pricing; • declines in value and/or losses with respect to companies and other
+entities whose securities we hold and counterparties we transact business with
+and have credit exposure to, including reinsurers, and declines in the value of
+investments; and • significant interruptions to our systems and operations. Catastrophic events are generally unpredictable. Our
+exposure to catastrophes depends on various factors, including the frequency
+and severity of the catastrophes, the rate of inflation and the value and
+geographic concentration of insured property and people. Vendor models and
+proprietary assumptions and processes that we use to manage catastrophe
+exposure may prove to be ineffective due to incorrect assumptions or
+estimates. In addition, legislative and regulatory initiatives and
+court decisions following major catastrophes could require us to pay the
+insured beyond the provisions of the original insurance policy and may prohibit
+the application of a deductible, resulting in inflated catastrophe claims. For further details on potential catastrophic events,
+including a sensitivity analysis of our exposure to certain catastrophes, see
+Item 7. MD&A — Enterprise Risk Management —Insurance
+Operations Risks. Insurance
+liabilities are difficult to predict and may exceed the related reserves for
+losses and loss expenses. We regularly review the adequacy of the
+established liability for unpaid losses and loss adjustment expenses and
+conduct extensive analyses of our reserves during the year. Our loss reserves,
+however, may develop adversely. Estimation of ultimate net losses, loss
+expenses and loss reserves is a complex process, particularly for long-tail
+casualty lines of business. These include, but are not limited to, general
+liability, commercial automobile liability, environmental, workers'
+compensation, excess casualty and crisis management coverages, insurance and
+risk management programs for large corporate customers and other customized
+structured insurance products, as well as excess and umbrella liability,
+Directors and Officers and products liability. While we use a number of analytical reserve development
+techniques to project future loss development, reserves may be significantly
+affected by changes in loss cost trends or loss development factors that were
+relied upon in setting the reserves. These changes in loss cost trends or loss development
+factors could be due to difficulties in predicting changes, such as changes in
+inflation, unemployment duration, or other social or economic factors affecting
+claims, including the judicial environment. Any deviation in loss cost trends
+or in loss development factors might not be identified for an extended period
+of time after we record the initial loss reserve estimates for any accident
+year or number of years. For a further discussion of our loss reserves, see
+Item 7. MD&A — Insurance Reserves —Non-Life Insurance
+Companies and Critical Accounting Estimates — Insurance Liabilities —
+Liability for Unpaid Losses and Loss Adjustment Expenses (Non-Life Insurance
+Companies). 33 TABLE OF CONTENTS Item 1A / risk factors Reinsurance may not be available or affordable and may not
+be adequate to protect us against losses. Our subsidiaries are
+major purchasers of reinsurance and we use reinsurance as part of our overall
+risk management strategy to optimize the allocation of our reinsurance between
+traditional reinsurance markets and the capital markets, such as through the
+utilization of catastrophe bonds, to manage risks more efficiently. While
+reinsurance does not discharge our subsidiaries from their obligation to pay
+claims for losses insured under our policies, it does make the reinsurer liable
+to them for the reinsured portion of the risk. For this reason, reinsurance is
+an important tool to manage transaction and insurance line risk retention and
+to mitigate losses from catastrophes. Market conditions beyond our control
+determine the availability and cost of reinsurance. For example, reinsurance
+may be more difficult or costly to obtain after a year with a large number of
+major catastrophes. As a result, we may, at certain times, be forced to incur
+additional expenses for reinsurance or may be unable to obtain sufficient
+reinsurance on acceptable terms. In that case, we would have to accept an
+increase in exposure risk, reduce the amount of business written by our
+subsidiaries or seek alternatives in line with our risk limits. Additionally,
+we are exposed to credit risk with respect to our subsidiaries’ reinsurers to
+the extent the reinsurance receivable is not secured by collateral or does not
+benefit from other credit enhancements. We also bear the risk that a reinsurer
+may be unwilling to pay amounts we have recorded as reinsurance recoverable for
+any reason, including that (i) the terms of the reinsurance contract do not
+reflect the intent of the parties of the contract, (ii) the terms of the
+contract cannot be legally enforced, (iii) the terms of the contract are
+interpreted by a court or arbitration panel differently than intended, (iv) the
+reinsurance transaction performs differently than we anticipated due to a
+flawed design of the reinsurance structure, terms or conditions, or (v) a
+change in laws and regulations, or in the interpretation of the laws and
+regulations, materially impacts a reinsurance transaction. The insolvency
+of one or more of our reinsurers, or inability or unwillingness to make timely
+payments under the terms of our contracts, could have a material adverse effect
+on our results of operations and liquidity. Additionally, the use of
+catastrophe bonds may not provide the same levels of protection as traditional
+reinsurance transactions and any disruption, volatility and uncertainty in the
+catastrophe bond market, such as following a major catastrophe event, may limit
+our ability to access such market on terms favorable to us or at all. Also, to
+the extent that we intend to utilize catastrophe bond transactions based on an
+industry loss index rather than on actual losses incurred by us, this would
+result in residual risk. Our inability to obtain adequate reinsurance or other
+protection could
+have a material adverse effect on our business, results of operations and
+financial condition. We currently have limited reinsurance coverage for terrorist
+attacks. Further, the availability of private sector reinsurance for terrorism
+is limited. As a result, we rely heavily on the Terrorism Risk Insurance Act
+(TRIA), which provides U.S. government risk assistance to the insurance
+industry to manage the exposure to terrorism incidents in the United States.
+TRIA was reauthorized in January 2015 and is scheduled to expire on December
+31, 2020. Under TRIA, once our losses for certain acts of terrorism exceed a
+deductible equal to 20 percent of our commercial property and casualty
+insurance premiums for covered lines for the prior calendar year, the federal
+government will reimburse us for losses in excess of our deductible, starting
+at 85 percent of losses in 2015, and reducing by one percentage point each
+year, ending at 80 percent in 2020, up to a total industry program limit of
+$100 billion. TRIA does not cover losses in certain lines of business such as
+consumer property and consumer casualty. For additional information on our reinsurance recoverable,
+see Item 7. MD&A — Enterprise Risk Management — Insurance
+Operations Risks — Reinsurance Recoverable. LIQUIDITY, CAPITAL AND CREDIT AIG
+Parent’s ability to access funds from our subsidiaries is limited. As a holding company, AIG Parent depends on dividends, distributions and other
+payments from its subsidiaries to fund dividends on AIG Common Stock and to
+make payments due on its obligations, including its outstanding debt. The
+majority of our investments are held by our regulated subsidiaries. Our
+subsidiaries may be limited in their ability to make dividend payments or
+advance funds to AIG Parent in the future because of the need to support their
+own capital levels or because of regulatory limits. The inability of our
+subsidiaries to make payments, dividends or distributions in an amount
+sufficient to enable AIG Parent to meet its cash requirements could have an
+adverse effect on our operations, our ability to pay dividends or our ability
+to meet our debt service obligations. Our internal sources of liquidity
+may be insufficient to meet our needs. We need liquidity to pay
+our operating expenses, interest on our debt, maturing debt obligations and to
+meet any statutory capital requirements of our subsidiaries. If our liquidity
+is insufficient to meet our needs, we may at the time need to have recourse to
+third-party financing, external capital markets or other sources of liquidity,
+which may not be available or could be prohibitively expensive. The
+availability and cost of any additional financing at any given time depends on
+a variety of factors, including general market conditions, the volume of
+trading activities, the overall availability of credit, regulatory actions and
+our credit ratings and credit capacity. It is also possible 34 TABLE OF CONTENTS Item 1A / risk factors that,
+as a result of such recourse to external financing, customers, lenders or
+investors could develop a negative perception of our long- or short-term
+financial prospects. Disruptions, volatility and uncertainty in the financial
+markets, and downgrades in our credit ratings, may limit our ability to access
+external capital markets at times and on terms favorable to us to meet our
+capital and liquidity needs or prevent our accessing the external capital
+markets or other financing sources. For a further discussion of our liquidity,
+see Item 7. MD&A — Liquidity and Capital Resources. AIG
+Parent’s ability to support our subsidiaries is limited. AIG Parent has in the past and expects to continue
+to provide capital to our subsidiaries as necessary to maintain regulatory
+capital ratios, comply with rating agency requirements and meet unexpected cash
+flow obligations. If AIG Parent is unable to satisfy a capital need of a
+subsidiary, the subsidiary could become insolvent or, in certain cases, could
+be seized by its regulator. Our
+subsidiaries may not be able to generate cash to meet their needs due to the
+illiquidity of some of their investments. Our subsidiaries have
+investments in certain securities that may be illiquid, including certain fixed
+income securities and certain structured securities, private company
+securities, investments in private equity funds and hedge funds, mortgage
+loans, finance receivables and real estate. Collectively, investments in these
+assets had a fair value of $60 billion at December 31, 2014. Adverse
+real estate and capital markets, and tighter credit spreads, have in the past,
+and may in the future, materially adversely affect the liquidity of our other
+securities portfolios, including our residential and commercial mortgage‑related
+securities portfolios. In the event additional liquidity is required by one or
+more of our subsidiaries and AIG Parent is unable to provide it, it may be
+difficult for these subsidiaries to generate additional liquidity by selling,
+pledging or otherwise monetizing these less liquid investments. A
+downgrade in the Insurer Financial Strength ratings of our insurance companies
+could prevent them from writing new business and retaining customers and
+business. Insurer Financial Strength (IFS) ratings are an
+important factor in establishing the competitive position of insurance
+companies. IFS ratings measure an insurance company’s ability to meet its
+obligations to contract holders and policyholders. High ratings help maintain public
+confidence in a company’s products, facilitate marketing of products and
+enhance its competitive position. Downgrades of the IFS ratings of our
+insurance companies could prevent these companies from selling, or make it more
+difficult for them to succeed in selling, products and services, or result in
+increased policy cancellations, termination of assumed reinsurance contracts,
+or return of premiums. Under credit rating agency policies concerning the
+relationship between parent and subsidiary ratings, a downgrade in AIG Parent’s
+credit ratings could result in a downgrade of the IFS ratings of our insurance
+subsidiaries. A
+downgrade in our credit ratings could require us to post additional collateral
+and result in the termination of derivative transactions. Credit
+ratings estimate a company’s ability to meet its obligations and may directly
+affect the cost and availability of financing. A downgrade of our long-term
+debt ratings by the major rating agencies would require us to post additional
+collateral payments related to derivative transactions to which we are a party,
+and could permit the termination of these derivative transactions. This could
+adversely affect our business, our consolidated results of operations in a
+reporting period or our liquidity. In the event of further downgrades of two
+notches to our long-term senior debt ratings, AIG would be required to post
+additional collateral of $153 million, and certain of our counterparties would
+be permitted to elect early termination of contracts. Business and operations Interest
+rate fluctuations, increased surrenders, declining investment returns and other
+events may require our subsidiaries to accelerate the amortization of DAC and
+record additional liabilities for future policy benefits. We incur significant
+costs in connection with acquiring new and renewal insurance business. DAC
+represents deferred costs that are incremental and directly related to the
+successful acquisition of new business or renewal of existing business. The
+recovery of DAC is generally dependent upon the future profitability of the
+related business, but DAC amortization varies based on the type of contract.
+For long-duration traditional business, DAC is generally amortized in
+proportion to premium revenue and varies with lapse experience. Actual lapses
+in excess of expectations can result in an acceleration of DAC amortization. DAC for investment-oriented products is generally amortized
+in proportion to estimated gross profits. Estimated gross profits are affected
+by a number of assumptions, including current and expected interest rates, net
+investment income and spreads, net realized gains and losses, fees, surrender
+rates, mortality experience and equity market returns and volatility. If
+actual and/or future estimated gross profits are less than originally expected,
+then the amortization of DAC would be accelerated in the period the actual
+experience is known and would result in a charge to income. For example, if
+interest rates rise rapidly 35 TABLE OF CONTENTS Item 1A / risk factors and significantly,
+customers with policies that have interest crediting rates below the current
+market may seek competing products with higher returns and we may experience an
+increase in surrenders and withdrawals of life and annuity contracts, resulting
+in a decrease in future profitability and an acceleration of the amortization
+of DAC. We also periodically review products for potential loss
+recognition events, principally insurance-oriented products. This review
+involves estimating the future profitability of in-force business and requires
+significant management judgment about assumptions including mortality,
+morbidity, persistency, maintenance expenses, and investment returns, including
+net realized capital gains (losses). If actual experience or estimates result
+in projected future losses, we may be required to amortize any remaining DAC
+and record additional liabilities through a charge to policyholder benefit
+expense, which could negatively affect our results of operations. For example,
+realized gains on investment sales in 2013 and 2012 reduced future investment
+margins and required the recognition of additional liabilities for certain
+payout annuities. For further discussion of DAC and future policy benefits,
+see Item 7. MD&A — Critical Accounting Estimates and Notes 9 and 13 to the
+Consolidated Financial Statements. Certain of our products have guarantees that may increase
+the volatility of our results. We have annuity and life insurance products
+that guarantee a certain level of benefits, including guaranteed minimum death
+benefits (GMDB), guaranteed minimum income benefits (GMIB), guaranteed minimum
+withdrawal benefits (GMWB), guaranteed minimum account value benefits (GMAV),
+and products with guaranteed interest crediting rates tied to an index. For
+GMDB, our most widely offered guaranteed benefit feature, the liabilities
+included in Future policyholder benefits were $401 million and $355 million at
+December 31, 2014 and 2013, respectively. Our economic hedging program utilizes
+derivative instruments, including equity options, futures contracts and
+interest rate swap contracts, as well as other hedging instruments, and is
+designed so that changes in value of those instruments move in the opposite
+direction of changes in the GMWB and GMAV embedded derivative liabilities. The
+fair value of GMWB and GMAV embedded derivatives included in Policyholder
+contract deposits was a net liability of $957 million at December 31, 2014 and
+a net asset of $37 million at December 31, 2013. Differences between the change
+in fair value of GMWB and GMAV embedded derivatives and the hedging instruments
+can be caused by extreme and unanticipated movements in the equity markets,
+interest rates and market volatility, policyholder behavior and our inability
+to purchase hedging instruments at prices consistent with the desired risk and
+return trade-off. While we believe that our actions have reduced the
+risks related to guaranteed benefits and guaranteed interest crediting, our
+exposure may not be fully hedged, and we may be liable if counterparties are
+unable or unwilling to pay. We remain exposed to the risk that policyholder
+behavior and mortality may differ from our assumptions. Finally, while we
+believe the impact of downturns in equity markets, increased equity volatility
+or reduced interest rates is offset by our economic hedging program, the
+occurrence of one or more of these events could result in an increase in the
+liabilities associated with the guaranteed benefits, reducing our net income
+and shareholders’ equity. See Notes 5 and 14 to the Consolidated Financial
+Statements and Item 7. MD&A – Critical Accounting Estimates for more
+information regarding these products. Indemnity
+claims could be made against us in connection with divested businesses. We have provided financial guarantees and indemnities in connection with the
+businesses we have sold, as described in greater detail in Note 16 to the
+Consolidated Financial Statements. While we do not currently believe the claims
+under these indemnities will be material, it is possible that significant
+indemnity claims could be made against us. If such a claim or claims were
+successful, it could have a material adverse effect on our results of
+operations, cash flows and liquidity. See Note 16 to the Consolidated Financial
+Statements for more information on these financial guarantees and indemnities. Our
+foreign operations expose us to risks that may affect our operations. We provide insurance, investment and other financial products and services to
+both businesses and individuals in more than 100 countries and jurisdictions. A
+substantial portion of our business is conducted outside the United States, and
+we intend to continue to grow this business. Operations outside the United
+States may be affected by regional economic downturns, changes in foreign
+currency exchange rates, political upheaval, nationalization and other
+restrictive government actions, which could also affect our other operations. The degree of regulation and supervision in foreign
+jurisdictions varies. AIG subsidiaries operating in foreign jurisdictions must
+satisfy local regulatory requirements and it is possible that local licenses
+may require AIG Parent to meet certain conditions. Licenses issued by foreign
+authorities to our subsidiaries are subject to modification and revocation.
+Consequently, our insurance subsidiaries could be prevented from conducting
+future business in some of the jurisdictions where they currently operate.
+Adverse actions from any single country could adversely affect our results of
+operations, depending on the magnitude of the event and our financial exposure
+at that time in that country. 36 TABLE OF CONTENTS Item 1A / risk factors We may experience difficulty in marketing and
+distributing products through our current and future distribution channels. Although we distribute our products through a wide variety of distribution
+channels, we maintain relationships with certain key distributors. Distributors
+have in the past, and may in the future, elect to renegotiate the terms of existing
+relationships, or reduce or terminate their distribution relationships with us,
+including for such reasons as industry consolidation of distributors or other
+industry changes that increase the competition for access to distributors,
+adverse developments in our business, adverse rating agency actions or concerns
+about market-related risks. An interruption in certain key relationships could
+materially affect our ability to market our products and could have a material
+adverse effect on our businesses, operating results and financial condition. In addition, when our products are distributed through
+unaffiliated firms, we may not be able to monitor or control the manner of
+their distribution, despite our training and compliance programs. If our
+products are distributed to customers for whom they are unsuitable or
+distributed in any other inappropriate manner, we may suffer reputational and
+other harm to our business. Our ownership of a material amount of the common stock
+of, and our obligations to, AerCap exposes us to risks. As a result of the
+AerCap Transaction, we hold approximately 46 percent of the outstanding common
+stock of AerCap. As a result, declines in the value of AerCap’s common stock,
+and the other effects of our accounting for this investment under the equity
+method of accounting, could have a material adverse effect on our results of
+operations in a reporting period. In addition, in connection with the AerCap Transaction, AIG,
+AerCap, AerCap Ireland Limited, AerCap Ireland Capital Limited (AerCap Ireland)
+and certain subsidiaries of AerCap, as guarantors, entered into a credit
+agreement for a senior unsecured revolving credit facility between AerCap
+Ireland, as borrower, and AIG, as lender and administrative agent (the AerCap
+Credit Facility). The AerCap Credit Facility provides for an aggregate
+commitment of $1.0 billion and permits loans for general corporate purposes.
+Depending on the amount of outstanding borrowings under the AerCap Credit
+Facility, an event of default under the AerCap Credit Facility could have a
+material adverse effect on our results of operations and financial condition. Significant
+legal proceedings may adversely affect our results of operations or financial
+condition. We are party to numerous legal proceedings, including
+securities class actions and regulatory and governmental investigations. Due to
+the nature of these proceedings, the lack of precise damage claims and the type
+of claims we are subject to, we cannot currently quantify our ultimate or
+maximum liability for these actions. Developments in these unresolved matters
+could have a material adverse effect on our consolidated financial condition or
+consolidated results of operations for an individual reporting period. Starr
+International Company, Inc. (SICO) has brought suit against the United States
+challenging the government’s assistance of AIG, pursuant to which (i) AIG
+entered into a credit facility with the Federal Reserve Bank of New York and
+(ii) the United States received an approximately 80 percent ownership interest
+in AIG. The United States has alleged that AIG is obligated to indemnify
+the United States for any recoveries in these lawsuits. A determination
+that the United States is liable for damages in such suits, together with a
+determination that AIG is obligated to indemnify the United States for any such
+damages, could have a material adverse effect on our business, consolidated
+financial condition and results of operations. For
+a discussion of the SICO litigation and other unresolved matters, see Note 16
+to the Consolidated Financial Statements. If we are unable to maintain
+the availability of our electronic data systems and safeguard the security of
+our data, our ability to conduct business may be compromised, which could
+adversely affect our consolidated financial condition or results of operations . We
+use computer systems to store, retrieve, evaluate and utilize customer,
+employee, and company data and information. Some of these systems in turn, rely
+upon third-party systems. Our business is highly dependent on our ability to
+access these systems to perform necessary business functions, including
+providing insurance quotes, processing premium payments, making changes to
+existing policies, filing and paying claims, administering variable annuity
+products and mutual funds, providing customer support and managing our
+investment portfolios. Systems failures or outages could compromise our ability
+to perform these functions in a timely manner, which could harm our ability to
+conduct business and hurt our relationships with our business partners and
+customers. In the event of a natural disaster, a computer virus, unauthorized
+access, a terrorist attack or other disruption inside or outside the U.S., our
+systems may be inaccessible to our employees, customers or business partners
+for an extended period of time, and our employees may be unable to perform
+their duties for an extended period of time if our data or systems are disabled
+or destroyed. Our systems have in the past been, and may in the future be,
+subject to unauthorized access, such as physical or electronic break-ins or
+unauthorized tampering. Like other global companies, we have, from time to
+time, experienced threats to our data and systems, including malware and
+computer virus attacks, unauthorized access, systems failures and disruptions.
+There is no assurance that our security measures will provide fully effective
+security from such events. AIG maintains cyber risk insurance, but this insurance
+may not cover all costs associated with the consequences of personal,
+confidential or proprietary information being compromised. In 37 TABLE OF CONTENTS Item 1A / risk factors some cases, such unauthorized access may not be
+immediately detected. This may impede or interrupt our business operations and
+could adversely affect our consolidated financial condition or results of
+operations. In addition, we routinely transmit, receive
+and store personal, confidential and proprietary information by email and other
+electronic means. Although we attempt to keep such information confidential, we
+may be unable to do so in all events, especially with clients, vendors, service
+providers, counterparties and other third parties who may not have
+or use appropriate controls to protect confidential information. Furthermore,
+certain of our businesses are subject to compliance with laws and regulations
+enacted by U.S. federal and state governments, the European Union or other
+jurisdictions or enacted by various regulatory organizations or exchanges
+relating to the privacy and security of the information of clients, employees
+or others. The compromise of personal, confidential or proprietary information
+could result in remediation costs, legal liability, regulatory action and
+reputational harm. The integration of companies we may acquire
+from time to time may not be as successful as we anticipate. Acquisitions involve a number of risks, including
+operational, strategic, financial, accounting, legal and tax. Difficulties in
+integrating an acquired company may result in the acquired company performing
+differently than we expected or in our failure to realize anticipated
+expense-related efficiencies. Our existing businesses could also be negatively
+impacted by acquisitions. Risks resulting from future acquisitions may have a
+material adverse effect on our results of operations and financial condition. REGULATION Our businesses are heavily
+regulated and changes in regulation may affect our operations, increase our
+insurance subsidiary capital requirements or reduce our profitability. Our operations generally, and our insurance subsidiaries, in particular, are
+subject to extensive and potentially conflicting supervision and regulation by
+national authorities and by the various jurisdictions in which we do business.
+Supervision and regulation relate to numerous aspects of our business and
+financial condition. State and foreign regulators also periodically review and
+investigate our insurance businesses, including AIG-specific and industry-wide
+practices. The primary purpose of insurance regulation is the protection of our
+insurance contract holders, and not our investors. The extent of domestic
+regulation varies, but generally is governed by state statutes. These statutes
+delegate regulatory, supervisory and administrative authority to state
+insurance departments. We strive to maintain all required licenses and approvals.
+However, our businesses may not fully comply with the wide variety of
+applicable laws and regulations. The relevant authority’s interpretation of the
+laws and regulations also may change from time to time. Regulatory authorities
+have relatively broad discretion to grant, renew or revoke licenses and
+approvals. If we do not have the required licenses and approvals or do not
+comply with applicable regulatory requirements, these authorities could
+preclude or temporarily suspend us from carrying on some or all of our
+activities or impose substantial fines. Further, insurance regulatory
+authorities have relatively broad discretion to issue orders of supervision,
+which permit them to supervise the business and operations of an insurance
+company. In the U.S., the RBC formula is designed to measure the
+adequacy of an insurer’s statutory surplus in relation to the risks inherent in
+its business. Virtually every state has adopted, in substantial part, the RBC
+Model Law promulgated by the NAIC, which specifies the regulatory actions the
+insurance regulator may take if an insurer’s RBC calculations fall below
+specific thresholds. Those actions range from requiring an insurer to submit a
+plan describing how it would regain a specified RBC ratio to a mandatory
+regulatory takeover of the company. Regulators at the federal and international
+levels are also considering the imposition of additional capital requirements on
+certain insurance companies, which may include us, that may augment or even
+displace state-law RBC standards that apply at the legal entity level, and such
+capital calculations may be made on bases other than the statutory statements
+of our insurance subsidiaries. See “Our status as a nonbank systemically
+important financial institution, as well as the enactment of Dodd-Frank, will
+subject us to substantial additional federal regulation, which may materially
+and adversely affect our businesses, results of operations and cash flows” and
+“Actions by foreign governments and regulators could subject us to substantial
+additional regulation” below for additional information on increased capital
+requirements that may be imposed on us. We cannot predict the effect these
+initiatives may have on our business, results of operations, cash flows and
+financial condition. The degree of regulation and supervision in foreign
+jurisdictions varies. AIG subsidiaries operating in foreign jurisdictions must
+satisfy local regulatory requirements and it is possible that local licenses
+may require AIG Parent to meet certain conditions. Licenses issued by foreign
+authorities to our subsidiaries are subject to modification and revocation.
+Accordingly, our insurance 38 TABLE OF CONTENTS Item 1A / risk factors subsidiaries could be
+prevented from conducting future business in certain of the jurisdictions where
+they currently operate. Adverse actions from any single country could adversely
+affect our results of operations, liquidity and financial condition, depending
+on the magnitude of the event and our financial exposure at that time in that
+country. See Item 1. Business – Regulation for further discussion of
+our regulatory environment. Our
+status as a nonbank systemically important financial institution, as well as
+the enactment of Dodd-Frank, will subject us to substantial additional federal
+regulation, which may materially and adversely affect our businesses, results
+of operations and cash flows. On July 21, 2010,
+Dodd-Frank, which effects comprehensive changes to the regulation of financial
+services in the United States, was signed into law. Dodd-Frank directs existing
+and newly created government agencies and bodies to promulgate regulations
+implementing the law, an ongoing process anticipated to continue over the next
+few years. We cannot predict the requirements of the regulations
+ultimately adopted, the level and magnitude of supervision we may become
+subject to, or how Dodd-Frank and such regulations will affect the financial
+markets generally or our businesses, results of operations or cash flows. It is
+possible that the regulations adopted under Dodd-Frank and our regulation by
+the FRB as a nonbank SIFI could significantly alter our business practices,
+limit our ability to engage in capital or liability management, require us to
+raise additional capital, and impose burdensome and costly requirements and
+additional costs. Some of the regulations may also affect the perceptions of
+regulators, customers, counterparties, creditors or investors about our
+financial strength and could potentially affect our financing costs. See Item 1. Business – Regulation for further discussion of
+the details of the aforementioned regulations to which AIG and its businesses
+are subject. Actions by foreign governments and regulators could
+subject us to substantial additional regulation. We
+cannot predict the impact laws and regulations adopted in foreign jurisdictions
+may have on the financial markets generally or our businesses, results of
+operations or cash flows. It is possible such laws and regulations, the impact
+of our designation as a global systemically important insurer (G-SII) and
+certain initiatives by the FSB and the IAIS, including development of Basic
+Capital Requirements, Higher Loss Absorbency Capacity Requirements and an Insurance
+Capital Standard, and implementation of Solvency II in the European Union, may
+significantly alter our business practices, limit our ability to engage in
+capital or liability management, require us to raise additional capital, and
+impose burdensome requirements and additional costs. It is possible that the
+laws and regulations adopted in foreign jurisdictions will differ from one
+another and that they could be inconsistent with the laws and regulations of
+other jurisdictions including the United States. For further details on these international regulations and
+their potential impact on AIG and its businesses, see Item 1. Business –
+Regulation—Other Regulatory Developments. The USA
+PATRIOT Act, the Office of Foreign Assets Control and similar laws that apply
+to us may expose us to significant penalties. The operations of
+our subsidiaries are subject to laws and regulations, including, in some cases,
+the USA PATRIOT Act of 2001, which require companies to know certain
+information about their clients and to monitor their transactions for
+suspicious activities. Also, the Department of the Treasury’s Office of Foreign
+Assets Control administers regulations requiring U.S. persons to refrain from
+doing business, or allowing their clients to do business through them, with
+certain organizations or individuals on a prohibited list maintained by the
+U.S. government or with certain countries. The United Kingdom, the European
+Union and other jurisdictions maintain similar laws and regulations. Although
+we have instituted compliance programs to address these requirements, there are
+inherent risks in global transactions. Attempts
+to efficiently manage the impact of Regulation XXX and Actuarial Guideline
+AXXX may fail in whole or in part resulting in an adverse effect on our
+financial condition and results of operations. The NAIC Model Regulation “Valuation of Life Insurance
+Policies” (Regulation XXX) requires insurers to establish additional statutory
+reserves for term life insurance policies with long-term premium guarantees and
+universal life policies with secondary guarantees. In addition, NAIC Actuarial Guideline 38 (AXXX) (Guideline AXXX) clarifies the application of
+Regulation XXX as to certain universal life insurance policies with secondary
+guarantees. Our domestic Life Insurance Companies manage the capital
+impact of statutory reserve requirements under Regulation XXX and Guideline
+AXXX through affiliated reinsurance transactions, to maintain their ability to
+offer competitive pricing and successfully market such products. See Note 20 to
+the Consolidated Financial Statements for additional information on 39 TABLE OF CONTENTS Item 1A / risk factors statutory reserving requirements under Regulation XXX and
+Guideline AXXX and our use of affiliated reinsurance. The NAIC, the New York
+State Department of Financial Services and other regulators have increased
+their focus on life insurers’ affiliated reinsurance transactions used to
+satisfy certain reserve requirements or to manage the capital impact of certain
+statutory reserve requirements, particularly transactions using captive
+insurance companies or special purpose vehicles. While our domestic Life
+Insurance Companies do not use captive or special purpose vehicle structures
+for this purpose, we cannot predict whether any applicable insurance laws will
+be changed in a way that prohibits or adversely impacts the use of affiliated
+reinsurance. If regulations change, we could be required to increase statutory
+reserves, increase prices on our products or incur higher expenses to obtain
+reinsurance, which could adversely affect our competitive position, financial
+condition or results of operations. If our actions to efficiently manage the
+impact of Regulation XXX or Guideline AXXX on future sales of term and
+universal life insurance products are not successful, we may incur higher
+operating costs or our sales of these products may be affected. New
+regulations promulgated from time to time may affect our businesses, results of
+operations, financial condition and ability to compete effectively. Legislators and regulators may periodically consider various proposals that may
+affect the profitability of certain of our businesses. New regulations may even
+affect our ability to conduct certain businesses at all, including proposals
+relating to restrictions on the type of activities in which financial
+institutions are permitted to engage and the size of financial institutions.
+These proposals could also impose additional taxes on a limited subset of
+financial institutions and insurance companies (either based on size,
+activities, geography, government support or other criteria). It is uncertain
+whether and how these and other such proposals would apply to us or our
+competitors or how they could impact our consolidated results of operations,
+financial condition and ability to compete effectively. An
+“ownership change” could limit our ability to utilize tax loss and credit
+carryforwards to offset future taxable income. As of December 31,
+2014, we had a U.S. federal net operating loss carryforward of approximately
+$33.0 billion and $7.1 billion in foreign tax credits (tax loss and credit
+carryforwards). Our ability to use such tax attributes to offset future taxable
+income may be significantly limited if we experience an “ownership change” as
+defined in Section 382 of the Internal Revenue Code of 1986, as amended (the
+Code). In general, an ownership change will occur when the percentage of AIG
+Parent's ownership (by value) of one or more “5-percent shareholders” (as
+defined in the Code) has increased by more than 50 percent over the lowest
+percentage owned by such shareholders at any time during the prior three years
+(calculated on a rolling basis). An entity that experiences an ownership change
+generally will be subject to an annual limitation on its pre-ownership change
+tax loss and credit carryforwards equal to the equity value of the corporation
+immediately before the ownership change, multiplied by the long-term,
+tax-exempt rate posted monthly by the IRS (subject to certain adjustments). The
+annual limitation would be increased each year to the extent that there is an
+unused limitation in a prior year. The limitation on our ability to utilize tax
+loss and credit carryforwards arising from an ownership change under Section
+382 would depend on the value of our equity at the time of any ownership
+change. If we were to experience an “ownership change”, it is possible that a
+significant portion of our tax loss and credit carryforwards could expire
+before we would be able to use them to offset future taxable income. On March 9, 2011, our Board adopted our Tax Asset Protection
+Plan (the Plan) to help protect these tax loss and credit carryforwards, and on
+January 8, 2014, the Board adopted an amendment to the Plan, extending its
+expiration date to January 8, 2017. The amendment of the Plan was ratified by
+our shareholders at our 2014 Annual Meeting of Shareholders. At our 2011
+Annual Meeting of Shareholders, shareholders adopted a protective amendment to
+our Restated Certificate of Incorporation (Protective Amendment), which is
+designed to prevent certain transfers of AIG Common Stock that could result in
+an “ownership change.” At our 2014 Annual Meeting of Shareholders, our
+shareholders approved an amendment to our Restated Certificate of Incorporation
+to adopt a successor to the Protective Amendment that contains substantially
+the same terms as the Protective Amendment and that expires on May 12, 2017,
+the third anniversary of the date of our 2014 Annual Meeting of Shareholders. The Plan is designed to reduce the likelihood of an
+“ownership change” by (i) discouraging any person or group from becoming a 4.99
+percent shareholder and (ii) discouraging any existing 4.99 percent shareholder
+from acquiring additional shares of AIG Common Stock. The Protective Amendment
+generally restricts any transfer of AIG Common Stock that would (i) increase
+the ownership by any person to 4.99 percent or more of AIG stock then
+outstanding or (ii) increase the percentage of AIG stock owned by a Five
+Percent Stockholder (as defined in the Plan). Despite the intentions of the
+Plan and the Protective Amendment to deter and prevent an “ownership change”,
+such an event may still occur. In addition, the Plan and the Protective
+Amendment may make it more difficult and more expensive to acquire us, and may
+discourage open market purchases of AIG Common Stock or a non-negotiated tender
+or exchange offer for AIG Common Stock. Accordingly, the Plan 40 TABLE OF CONTENTS Item 1A / risk factors and the Protective Amendment may limit a shareholder’s
+ability to realize a premium over the market price of AIG Common Stock in
+connection with any stock transaction. Changes
+in tax laws could increase our corporate taxes, reduce our deferred tax assets
+or make some of our products less attractive to consumers. Changes
+in tax laws or their interpretation could negatively impact our business or
+results. Some proposed changes could have the effect of increasing our
+effective tax rate by reducing deductions or increasing income inclusions, such
+as by limiting rules allowing deferral of tax on certain foreign insurance
+income. Conversely, other changes, such as lowering the U.S. federal corporate
+tax rate discussed recently in the context of tax reform, could reduce the
+value of our deferred tax assets. In addition, changes in the way foreign taxes
+can be credited against U.S. taxes, methods for allocating interest expense,
+the ways insurance companies calculate and deduct reserves for tax purposes,
+and impositions of new or changed premium, value added and other indirect taxes
+could increase our tax expense, thereby reducing earnings. In addition to proposing to change the taxation of
+corporations in general and insurance companies in particular, the Executive
+Branch of the U.S. Government and Congress have considered proposals that could
+increase taxes on owners of insurance products. For example, there have been
+proposals that would have limited the deferral of tax on income from life and
+annuity contracts relative to other investment products. These changes could
+reduce demand in the U.S. for life insurance and annuity contracts, or cause
+consumers to shift from these contracts to other investments, which would
+reduce our income due to lower sales of these products or potential increased
+surrenders of in-force business. The need for governments to seek
+additional revenue makes it likely that there will be continued proposals to
+change tax rules in ways that would reduce our earnings. However, it remains
+difficult to predict whether or when there will be any tax law changes having a
+material adverse effect on our financial condition or results of operations. COMPETITION and employees We face intense competition in
+each of our businesses. Our businesses operate in highly
+competitive environments, both domestically and overseas. Our principal competitors
+are other large multinational insurance organizations, as well as banks,
+investment banks and other nonbank financial institutions. The insurance
+industry in particular is highly competitive. Within the U.S., our Non-Life
+Insurance Companies compete with other stock companies, specialty insurance
+organizations, mutual insurance companies and other underwriting organizations.
+Our Life Insurance Companies compete in the U.S. with life insurance companies
+and other participants in related financial services fields. Overseas, our
+subsidiaries compete for business with the foreign insurance operations of
+large U.S. insurers and with global insurance groups and local companies. The past reduction of our credit ratings and past negative
+publicity have made, and may continue to make, it more difficult to compete to
+retain existing customers and to maintain our historical levels of business
+with existing customers and counterparties. General insurance and life
+insurance companies compete through a combination of risk acceptance criteria,
+product pricing, and terms and conditions. Retirement services companies
+compete through crediting rates and the issuance of guaranteed benefits. A
+decline in our position as to any one or more of these factors could adversely
+affect our profitability. Competition
+for employees in our industry is intense, and we may not be able to attract and
+retain the highly skilled people we need to support our business. Our success depends, in large part, on our ability to attract and retain key
+people. Due to the intense competition in our industry for key employees with
+demonstrated ability, we may be unable to hire or retain such employees. Losing
+any of our key people also could have a material adverse effect on our
+operations given their skills, knowledge of our business, years of industry
+experience and the potential difficulty of promptly finding qualified
+replacement employees. Our results of operations and financial condition could
+be materially adversely affected if we are unsuccessful in attracting and
+retaining key employees. Managing
+key employee succession and retention is critical to our success. We would be adversely affected if we fail to adequately plan for the succession
+of our senior management and other key employees. While we have succession
+plans and long-term compensation plans designed to retain our employees, our
+succession plans may not operate effectively and our compensation plans cannot
+guarantee that the services of these employees will continue to be available to
+us. Employee error and misconduct may be difficult to detect
+and prevent and may result in significant losses. There have been a number of cases involving
+fraud or other misconduct by employees in the financial services industry in
+recent years and 41 TABLE OF CONTENTS Item 1A / risk factors we run the risk that employee
+misconduct could occur. Instances of fraud, illegal acts, errors, failure to
+document transactions properly or to obtain proper internal authorization,
+misuse of customer or proprietary information, or failure to comply with regulatory
+requirements or our internal policies may result in losses. It is not always
+possible to deter or prevent employee misconduct, and the controls that we have
+in place to prevent and detect this activity may not be effective in all cases. ESTIMATES AND ASSUMPTIONS Estimates used in the preparation
+of financial statements and modeled results used in various areas of our
+business may differ materially from actual experience. Our
+financial statements are prepared in conformity with U.S. Generally Accepted
+Accounting Principles (U.S. GAAP), which requires the application of accounting
+policies that often involve a significant degree of judgment. The accounting
+policies that we consider most dependent on the application of estimates and
+assumptions, and therefore may be viewed as critical accounting estimates, are
+described in Item 7. MD&A — Critical Accounting Estimates. These accounting
+estimates require the use of assumptions, some of which are highly uncertain at
+the time of estimation. These estimates are based on judgment, current facts
+and circumstances, and, when applicable, internally developed models.
+Therefore, actual results could differ from these estimates, possibly in the
+near term, and could have a material effect on our consolidated financial
+statements. In addition,
+we employ models to price products, calculate reserves and value assets, as
+well as evaluate risk and determine capital requirements, among other uses.
+These models rely on estimates and projections that are inherently uncertain,
+may use incomplete, outdated or incorrect data or assumptions and may not
+operate properly. As our businesses continue to expand and evolve, the number
+and complexity of models we employ has grown, increasing our exposure to error
+in the design, implementation or use of models, including the associated input
+data, controls and assumptions and the controls we have in place to mitigate
+their risk may not be effective in all cases. Changes in accounting
+principles and financial reporting requirements could impact our reported
+results of operations and our reported financial position. Our financial statements are subject to the
+application of U.S. GAAP, which is periodically revised. Accordingly, from
+time to time, we are required to adopt new or revised accounting standards
+issued by recognized authoritative bodies, including the Financial Accounting
+Standards Board (FASB). The impact of accounting pronouncements that have been
+issued but are not yet required to be implemented is disclosed in Note 2 to the
+Consolidated Financial Statements. The FASB and International Accounting Standards Board (IASB)
+have ongoing projects to revise accounting standards for insurance contracts. The
+FASB has focused on disclosures for short-duration insurance contracts, which
+primarily relate to our property casualty products, and on targeted
+improvements to accounting measurements and disclosures for long-duration
+insurance contracts, which primarily relate to our life and annuity products. The IASB continues to contemplate significant changes to accounting
+measurements for both short and long-duration insurance contracts. While the
+final resolution of changes to U.S. GAAP and International Financial Reporting
+Standards pursuant to these projects remains unclear, changes to the manner in
+which we account for insurance products could have a significant impact on our
+future financial reports, operations, capital management and business. Further, the adoption of a new insurance contracts standard as well as other
+future accounting standards could have a material effect on our reported
+results of operations and reported financial condition. Changes in our assumptions
+regarding the discount rate, expected rate of return, and expected compensation
+for our pension and other postretirement benefit plans may result in increased
+expenses and reduce our profitability. We
+determine our pension and other postretirement benefit plan costs based on
+assumed discount rates, expected rates of return on plan assets, expected increases in compensation levels and trends in health care costs. Changes in these
+assumptions, including from the impact of a sustained low interest rate
+environment, may result in increased expenses and reduce our profitability. See
+Note 22 to the Consolidated Financial Statements for further details on our
+pension and postretirement benefit plans. 

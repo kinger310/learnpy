@@ -1,0 +1,869 @@
+" in this Annual Report on Form 10-K. Our business is both highly competitive and subject to various risks. These
+risks include, without limitation:  our ability to service our debt obligations or implement our business plan, including financing internal or external growth
+opportunities or generate sufficient cash flow to pay dividends, if and when declared by our board of directors;  the impact of recent management changes on our ability to execute our business plan;  the outcome or impact of our business plan, and our ability to evaluate and/or implement potential options, including asset sales or
+the contribution of assets to a joint venture in order to raise additional capital for growth or potential debt reduction, and the outcome or impact of any such potential options;  our ability to access liquidity for the ongoing operation of our business and the execution of our business plan or any potential
+options, which may involve one or more of the use of cash on hand, the issuance of additional corporate debt or equity securities and the incurrence of privately-placed bank or institutional
+non-recourse operating level debt;  the impact of our failure to meet the fixed charge coverage ratio test in the restricted payments covenants of the indenture governing
+our 9.0% Notes;  our indebtedness and financing arrangements and the terms, covenants and restrictions included in our Senior Secured Credit
+Facilities;  exchange rate fluctuations;  the impact of downgrades in our credit rating or the credit rating of our outstanding debt securities, and changes in our
+creditworthiness;  unstable capital and credit markets;  the outcome of certain shareholder class action lawsuits;  the expiration or termination of power purchase agreements and our ability to renew or enter into new power purchase agreements on
+favorable terms or at all;  the dependence of our projects on their electricity and thermal energy customers;  exposure of certain of our projects to fluctuations in the price of electricity or natural gas;  the dependence of our projects on third-party suppliers;  projects not operating according to plan;  the effects of weather, which affects demand for electricity and fuel as well as operating conditions;  the dependence of our wind power projects on suitable wind and associated conditions and of our hydropower projects on suitable
+precipitation and associated weather conditions;  U.S., Canadian and/or global economic conditions and uncertainty; 2 Table of Contents  risks beyond our control, including but not limited to geopolitical crisis, acts of terrorism or related acts of war, natural
+disasters or other catastrophic events;  the adequacy of our insurance coverage;  the impact of significant energy, environmental and other regulations on our projects;  the impact of impairment of goodwill or long-lived assets;  increased competition, including for acquisitions;  our limited control over the operation of certain minority-owned projects;  transfer restrictions on our equity interests in certain projects;  risks inherent in the use of derivative instruments;  labor disruptions;  the impact of hostile cyber intrusions;  the impact of our failure to comply with the U.S. Foreign Corrupt Practices Act and/or Canadian Corruption of Foreign Public Officials
+Act; and  our ability to retain, motivate and recruit executives and other key employees. Material
+factors or assumptions that were applied in drawing a conclusion or making an estimate set out in the forward-looking information include, without limitation, third-party
+projections of regional fuel and electric capacity and energy prices based on assumptions about future economic conditions and courses of action, the general conditions of the markets in which the
+Company operates, revenues, internal and external growth opportunities, the Company's ability to sell assets at favorable prices or at all and general financial market and interest rate conditions.
+Although the forward-looking statements contained in this Annual Report on Form 10-K are based upon what are believed to be reasonable assumptions, investors cannot be assured that actual
+results will be consistent with these forward-looking statements, and the differences may be material. Certain statements included in this Annual Report on Form 10-K may be considered
+"financial outlook" for the purposes of applicable securities laws, and such financial outlook may not be appropriate for purposes other than this Annual Report on Form 10-K. These
+forward-looking statements are made as of the date of this Annual Report on Form 10-K and, except as expressly required by applicable law, we assume no obligation to update or revise them to
+reflect new events or circumstances. ITEM 1. BUSINESS OVERVIEW Atlantic Power owns and operates a diverse fleet of power generation assets in the United States and Canada. Our power generation
+projects sell electricity to utilities and other large commercial customers largely under long-term power purchase agreements ("PPAs"), which
+seek to minimize exposure to changes in commodity prices. As of December 31, 2014, our power generation projects in operation had an aggregate gross electric generation capacity of
+approximately 2,945 megawatts ("MW") in which our aggregate ownership interest is approximately 2,024 MW. Our current portfolio consists of interests in twenty-eight operational power generation
+projects across eleven states in the United States and two provinces in Canada. Twenty of our projects are majority-owned subsidiaries. 3 Table of Contents The
+following charts show, based on generation capacity in MW, the diversification of our portfolio by geography, segment and fuel type: We
+sell the majority of the capacity and energy from our power generation projects under PPAs to a variety of utilities and other parties. Under the PPAs, which have expiration dates
+ranging from December 31, 2017 to December 31, 2037, we receive payments for electric energy sold to our customers (known as energy payments), in addition to payments for electric
+generation capacity (known as capacity payments). We also sell steam from a number of our projects to industrial purchasers under steam sales agreements. Sales of electricity are generally higher
+during the summer and winter months, when temperature extremes create demand for either summer cooling or winter heating. The
+majority of our natural gas, coal and biomass power generation projects have long-term fuel supply agreements, typically accompanied by fuel transportation arrangements. In most
+cases, the term of the fuel supply and transportation arrangements correspond to the term of the relevant PPAs and many of the PPAs and steam sales agreements provide for the indexing or pass-through
+of fuel costs to our customers. In cases where there is no pass-through of fuel costs, we often attempt to mitigate the market price risk of changing commodity costs through the use of hedging
+strategies. We
+directly operate and maintain the majority of our power generation projects. We also partner with recognized leaders in the independent power industry to operate and maintain our
+other projects, including Colorado Energy Management ("CEM") and Power Plant Management Services ("PPMS").
+Under these operation, maintenance and management agreements, the operator is typically responsible for operations, maintenance and repair services. HISTORY OF OUR COMPANY Atlantic Power Corporation is a corporation continued under the laws of British Columbia, Canada, which was incorporated in 2004. We
+used the proceeds from our initial public offering on the Toronto Stock Exchange ("TSX") in November 2004 to acquire a 58% interest in Atlantic Power Holdings, LLC (now Atlantic Power
+Holdings, Inc., which we refer to herein as "Atlantic Holdings") from two private equity funds managed by ArcLight Capital Partners, LLC ("ArcLight") and from Caithness
+Energy, LLC ("Caithness"). Until December 31, 2009, we were externally managed under an agreement with Atlantic Power Management, LLC, an affiliate of ArcLight, when we agreed to
+pay ArcLight an aggregate of $15 million to terminate its management agreement with us. In connection with the termination of the management agreement, we hired all of the then-current
+employees of Atlantic Power Management and entered into employment agreements with its three officers. At
+the time of our initial public offering, our publicly traded security was an Income Participating Security ("IPS"), which was comprised of one common share and a subordinated note. In
+November 2009, our shareholders approved a conversion from the IPS structure to a traditional common share structure in which each IPS was exchanged for one new common share and each old common share 4 Table of Contents that
+did not form a part of an IPS was exchanged for approximately 0.44 of a new common share. Our common shares trade on the TSX under the symbol "ATP". On July 23, 2010, we also began
+trading on the New York Stock Exchange ("NYSE") under the symbol "AT". On
+November 5, 2011, we directly and indirectly acquired all of the issued and outstanding limited partnership units of Capital Power Income L.P., which was renamed
+Atlantic Power Limited Partnership on February 1, 2012 (the "Partnership"). The Partnership's portfolio consisted of 19 wholly-owned power generation assets located in both Canada and the
+United States, a 50.15% interest in a power generation asset in the state of Washington, and a 14.3% common ownership interest in Primary Energy Recycling Holdings, LLC ("PERH") which was later
+sold in 2012. At the acquisition date, the transaction increased the net generating capacity of our projects by 143% from 871 MW to approximately 2,116 MW. On
+December 31, 2012, we acquired Ridgeline, a wind and solar development company, which added interests in three operating wind projects totaling 150 net MW and strengthened our
+ability to execute development and construction stage projects. OUR BUSINESS STRATEGY Our corporate strategy is to increase the value of the company through both organic growth and potential acquisitions in North America.
+We focus on generating stable operating margins via contracted cash flows from our existing assets. We use our depth of asset management experience to enhance the operating, contractual and financial
+performance of our current portfolio of projects. We also have the experience to finish development, build and/or acquire projects in the electric power industry. Our objectives include enhancing the
+value of existing assets, delevering our balance sheet to improve both our cost of capital and ability to compete for new investments, and providing a current return to our shareholders. Recently,
+we have been focused on initiatives aimed at, among other things, improving our financial flexibility and addressing our near-term debt maturities. Our first step towards
+meeting this goal was the execution of the Term Loan Facility during the first quarter of 2014 and the use of the funds therefrom to address debt maturities in 2015, 2016 and 2017 and to reduce the
+balance of our 2018 debt maturities. The 50% cash sweep and amortization features of the Term Loan Facility are expected to reduce leverage over time. The additional flexibility, liquidity and
+maturity extension associated with the Revolving Credit Facility is also a meaningful achievement with respect to these goals. We
+have also undertaken efforts to de-lever our balance sheet by buying back certain of our outstanding debt in the open market when we believe it is trading in a range that may not
+fully reflect its value or it is otherwise desirable to do so based on trading prices. During the fourth quarter of 2014, we announced a Normal Course Issuer Bid ("NCIB") for our convertible
+debentures. Under the NCIB, we entered into a pre-defined automatic securities purchase plan with our broker in order to facilitate purchases of our convertible debentures. The NCIB commenced on
+November 11, 2014 and will expire on November 10, 2015 or such earlier date as we complete our purchases pursuant to the NCIB. The actual amount of convertible debentures that may be
+purchased under the NCIB cannot exceed approximately $31 million and is further limited based on the outstanding principal of the individual outstanding tranches. As of December 31, 2014
+we have repurchased and cancelled $3.1 million par value of convertible debentures with $2.4 million in cash on-hand. In January and February 2015, we also repurchased an additional
+$6.1 million par value of convertible debentures with $4.9 million of cash on-hand and $9.0 million of our senior unsecured notes due 2018. Additionally,
+during the third quarter of 2014, our Board of Directors, together with our management, assessed the best uses of currently anticipated Free Cash Flow in order to further
+meet our objectives. After taking into consideration all of these objectives, our Board of Directors 5 Table of Contents determined
+to set a dividend level of Cdn$0.12 per share on an annual basis, equivalent to approximately $13 million annually. Dividends to shareholders are paid, if and when declared by, and
+subject to the discretion of, the Board of Directors. As we execute our business strategy, and consistent with our objectives, our Board of Directors, together with our management, will regularly
+evaluate what the optimal dividend policy is for the Company going forward. We
+continue to focus on executing our business plan, including the objectives of enhancing the value of our existing assets through discretionary capital investments and commercial
+activities, delevering our balance sheet to improve our cost of capital and ability to compete for new investments, utilizing our core competencies to create proprietary investment opportunities,
+improving our cost structure and reducing overhead. In addition, we continue to assess other potential options, including selected asset sales or the contribution of assets to a joint venture if the
+valuation of a particular asset or assets is compelling, in order to raise additional capital for growth and/or debt reduction. No guarantee can be given as to how such objectives or other potential
+options may evolve. Extending PPAs following their expiration PPAs in our portfolio have expiration dates ranging from December 31, 2017 to December 31, 2037. We plan for PPA
+expirations by evaluating various options in the market. New arrangements may involve responses to utility solicitations for capacity and energy, direct negotiations with the original purchasing
+utility for PPA extensions, "reverse" request for proposals by the projects to likely bilateral counterparties, including traditional PPAs, tolling agreements with creditworthy energy trading firms or
+the use of derivatives to lock in value. When a PPA expires or is terminated, it is possible that the price received by the project for power under subsequent arrangements may be reduced and in some
+cases, significantly. Our projects may not be able to secure a new agreement and could be exposed to selling power at spot market prices. It is possible that subsequent PPAs or the spot markets may
+not be available at prices that permit the operation of the project on a profitable basis. See Item 1A. "Risk FactorsRisk Related to Our Business and Our ProjectsThe
+expiration or termination of our power purchase agreements could have a material adverse impact on our business, results of operations and financial condition." We do not assume that revenues or
+operating margins under existing PPAs will necessarily be sustained after PPA expirations, since most original PPAs included capacity payments related to return of and return on original capital
+invested, and counterparties or evolving regional electricity markets may or may not provide similar payments under new or extended PPAs. Organic growth We intend to look for opportunities to enhance the operational and financial performance of our projects
+through:  achievement of improved operating efficiencies, output, reliability and operation and maintenance costs through the upgrade or
+enhancement of existing equipment or plant configurations;  optimization of commercial arrangements such as PPAs, fuel supply and transportation contracts, steam sales agreements, operations and
+maintenance agreements and hedging arrangements; and  to the extent we have sufficient cash flow or are able to obtain financing, the expansion or redevelopment of existing projects and
+the acquisition of other partners' interests in our existing portfolio. Acquisition and investment strategy We believe that new electricity generation projects will continue to be required in selective markets in the United States and Canada
+as a result of lower projected reserve margins and the retirement of 6 Table of Contents older
+generation projects due to obsolescence or environmental concerns. In addition, renewable portfolio standards in more than 31 U.S. states as well as renewables initiatives in several Canadian
+provinces have greatly facilitated attractive PPAs and financial returns for renewable project opportunities. To the extent we pursue acquisitions, we intend to expand our operations by making
+accretive acquisitions with a focus on power generation facilities in the United States and Canada. We may also work with experienced development companies to acquire additional late stage development
+projects and there is also a very active secondary market for the purchase and sale of existing projects. Development and construction We have invested and may invest in the future in energy-related projects primarily in the electric power industry, including
+investments in late stage development projects or companies where the prospects for creating long-term predictable cash flows are attractive. For example, in 2012, Canadian Hills became our first
+wholly-owned construction project to achieve commercial operations. Canadian Hills is a 300 MW wind farm in the state of Oklahoma that was purchased as a late stage development project from Apex Wind
+Energy Holdings, LLC ("Apex"). Meadow Creek is a 120 MW wind project in Idaho that our Ridgeline team successfully brought to commercial operations in 2012 and Piedmont, our constructed 53 MW
+biomass project in Georgia, achieved commercial operations in April 2013. OUR COMPETITIVE STRENGTHS We believe we distinguish ourselves from other independent power producers through the following competitive
+strengths:  Diversified
+projects. Our power generation projects have an aggregate gross electric generation capacity of approximately 2,945 MW, and our net
+ownership interest in these projects is approximately 2,024 MW. These projects are diversified by fuel type, electricity and steam customers, technologies, project operators and geography. The
+majority are located in California, the U.S. Mid-Atlantic, New York and the provinces of Ontario and British Columbia.  Experienced management
+team. Our management team has a depth of experience in commercial power operations and maintenance, project development, asset
+management, mergers and acquisitions, capital raising and financial controls.  Stability of project cash
+flow. Many of our power generation projects currently in operation have been in operation for over ten years. Cash flows from each
+project are generally supported by PPAs with investment-grade utilities and other creditworthy counterparties. We aim to stabilize operating margins through a combination of a project's PPAs, fuel
+supply agreements and/or commodity hedges.  Strong in-house operations and asset management
+teams. We manage the operations of twenty-one of our power generation projects, which represent 70% of our portfolio's generating
+capacity. The remaining seven generation projects are operated by third-parties, which are recognized leaders in the independent power business. ASSET MANAGEMENT Our asset management strategy is to optimally manage our physical assets and commercial relationships to increase shareholder value.
+Our preference is to own the majority of, and operate all of our businesses. We proactively seek scale opportunities and to establish best practices that result in EBITDA and cash flow growth across
+all of our twenty-eight operating plants. Our asset management group works to ensure that our projects receive appropriate preventative and corrective maintenance and incur capital expenditures, if
+justified, to provide for their safety, efficiency, availability, flexibility, longevity, and growth in EBITDA contribution. We also proactively look for opportunities to optimize 7 Table of Contents power
+purchase, fuel supply, long-term service and other agreements to deliver strong and predictable financial performance. The teams at each of the businesses have extensive experience in managing,
+operating and maintaining the assets. For
+operations and maintenance services at the seven projects in our portfolio which we do not operate, we partner with recognized leaders in the independent power business. Examples of
+our third-party operators include CEM and PPMS, which are experienced, well regarded energy infrastructure management services companies. In addition, employees of Atlantic Power with significant
+experience managing similar assets are involved in all significant decisions with the objective of proactively identifying value-creating opportunities such as contract renewals or restructurings,
+asset-level refinancings, add-on acquisitions, divestitures and participation at partnership meetings and calls. OUR ORGANIZATION AND SEGMENTS The following tables outline by segment our portfolio of power generating assets in operation as of February 26, 2015, including
+our interest in each facility. We believe our portfolio is well diversified in terms of electricity and steam buyers, fuel type, regulatory jurisdictions and regional power pools, thereby partially
+mitigating exposure to market, regulatory or environmental conditions specific to any single region. We
+have four reportable segments: East, West, Wind and Un-allocated Corporate. We revised our reportable business segments in the fourth quarter of 2013 as a result of significant asset
+sales and in order to align with changes in management's structure, resource allocation and performance assessment in making decisions regarding our operations. Our financial results for the year
+ended December 31, 2012 have been presented to reflect these changes in operating segments. These changes reflect our current operating focus. The segment classified as Un-allocated Corporate
+includes activities that support the executive and administrative offices, capital structure and costs of being a public registrant. These costs are not allocated to the operating segments when
+determining segment profit or loss. The
+sections below provide descriptions of our projects as they are aligned in our segment reporting structure for financial reporting purposes. See
+Note 22 to the consolidated financial statements for information on revenue from external customers, Project Adjusted EBITDA (a non-GAAP measure), total assets by segment and
+revenue and total assets by geography. East Segment Our East segment accounted for 55.1%, 55.0% and 62.2% of consolidated revenue in 2014, 2013 and 2012, respectively, and total net
+generation capacity of 787 MW at December 31, 2014. Independent Electricity System Operator ("IESO") accounted for 25.8% of total consolidated revenues and 46.8% of total revenues from the East
+segment for the year ended December 31, 2014. The
+table below provides the revenue and project income (loss) for the East segment. See Item 7. Management's Discussion and Analysis of Financial Condition and Results of
+OperationsProject Income (Loss) by Segment for additional details on our project income (loss). On
+April 12, 2013 we completed the sale of our Auburndale Power Partners, L.P. ("Auburndale"), Lake CoGen, Ltd. ("Lake") and Pasco CoGen, Ltd. ("Pasco")
+projects (collectively, the "Florida Projects") and have therefore excluded their revenue and project income (loss) from the table as they are recorded in income (loss) from discontinued operations in
+the consolidated statements of operations for the years ended December 31, 2013 and 2012. Revenue for the Florida Projects was $62.1 million and $188.0 million for the years ended
+December 31, 2013 and 2012, respectively. Project 8 Table of Contents income
+(loss) for the Florida Projects was ($1.1) million and $31.8 million for the years ended December 31, 2013 and 2012, respectively. East Segment Revenue ($ in millions) Project income (loss) ($ in millions) 2014 $ 313.8 $ 21.8 2013 299.1 25.8 2012 267.5 (18.1 ) Set
+forth below is a list of our East projects in operation: Project Location Fuel Gross MW Economic Interest Net MW Primary Electric Purchasers Power Contract Expiry Customer Credit Rating (S&P) (3) Orlando (1) Florida Natural Gas 129 50.00% 65 Progress Energy Florida December 2023 BBB+ Piedmont Georgia Biomass 53 100.00% 53 Georgia Power December 2032 A Morris Illinois Natural Gas 177 100.00% 120 Merchant N/A NR 57 Equistar Chemicals, LP November 2023 BBB+ Cadillac Michigan Biomass 40 100.00% 40 Consumers Energy December 2028 BBB Chambers (1) New Jersey Coal 262 40.00% 89 Atlantic City Electric (2) December 2024 BBB+ 16 DuPont December 2024 A Kenilworth New Jersey Natural Gas 25 100.00% 25 Merck, & Co., Inc. September 2018 AA Curtis Palmer (3) New York Hydro 60 100.00% 60 Niagara Mohawk Power Corperation December 2027 A- Selkirk (1) New York Natural Gas 345 18.50% 64 Merchant N/A NR Calstock Ontario Biomass 35 100.00% 35 Independent Electricity System Operator June 2020 AA- Kapuskasing Ontario Natural Gas 40 100.00% 40 Independent Electricity System Operator December 2017 AA- Nipigon Ontario Natural Gas 40 100.00% 40 Independent Electricity System Operator December 2022 AA- North Bay Ontario Natural Gas 40 100.00% 40 Independent Electricity System Operator December 2017 AA- Tunis (4) Ontario Natural Gas 43 100.00% 43 Independent Electricity System Operator November 2032 AA- (1) Unconsolidated
+entities for which the results of operations are reflected in equity earnings of unconsolidated affiliates. (2) The
+base PPA with Atlantic City Electric ("ACE") makes up the majority of the 89 net MW. For sales of energy and capacity not purchased by
+ACE under the base PPA and sold to the spot market, profits are shared with ACE under a separate power sales agreement. (3) The
+Curtis Palmer PPA expires at the earlier of December 2027 or the provision of 10,000 GWh of generation. From January 6, 1995
+through December 31, 2014, the facility has generated 6,404 GWh under its PPA. (4) On
+January 20, 2015, we entered into an agreement with the Ontario Power Authority and its successor, the Independent Electricity
+System Operator ("IESO"), for the future operations of the Tunis facility. Subject to meeting certain technical modifications to the plant, gas delivery and other requirements, Tunis will operate
+under a 15-year agreement with the IESO commencing between November 2017 and June 2019. The new contract will require the plant to become fully dispatchable as opposed to its current baseload
+configuration. As such, Tunis will only provide electricity to the Ontario grid when required, thereby assisting to reduce the incidents of surplus baseload generation in the market. The new agreement
+provides the Tunis project with a fixed monthly payment which escalates annually according to a pre-defined formula while allowing it to earn additional energy revenues for those periods during which
+it is called upon to operate. 9 Table of Contents West Segment Our West segment accounted for 30.8%, 32.1% and 37.0% of consolidated revenue in 2014, 2013 and 2012, respectively and total net
+generation capacity of 716 MW at December 31, 2014. San Diego Gas & Electric and British Columbia Hydro and Power Authority ("BC Hydro") provided for 15.1% and 9.1% of total consolidated
+revenues, respectively, and 49.1% and 29.5%, respectively, of total revenues from the West segment for the year ended December 31, 2014. The
+table below provides the revenue and project income for the West segment. See Item 7 Management's Discussion and Analysis of Financial Condition and Results of
+OperationsProject Income (Loss) by Segment for additional details on our project income (loss). West Segment Revenue ($ in millions) Project (loss) income ($ in millions) 2014 $ 175.2 $ (51.3 ) 2013 174.7 35.8 2012 159.0 5.5 On
+April 30, 2013 we completed the sale of our interest in the Path 15 Transmission Line ("Path 15") and have therefore excluded its revenue and project income from the
+table as they are recorded in income (loss) from discontinued operations in the consolidated statements of operations for the years ended December 31, 2013 and 2012. Revenue for Path 15 was
+$9.5 million and $28.7 million for the years ended December 31, 2013 and 2012, respectively. Project income for Path 15 was $2.1 million and $5.1 for the years ended
+December 31, 2013 and 2012, respectively. In
+March 2014 we completed the sale of our interest in the Greeley project and have therefore excluded its revenue and project income from the table as they are recorded in income (loss)
+from discontinued operations in the consolidated statements of operations for the years ended December 31, 2014, 2013 and 2012. Revenue for Greeley was $0.0 million, $7.6 million
+and $10.6 million for the years ended December 31, 2014, 2013 and 2012, respectively. Project (loss) income for Greeley was ($0.1) million, $0.6 million and $1.8 million
+for the years ended December 31, 2014, 2013 and 2012, respectively. 10 Table of Contents Set
+forth below is a list of our West projects in operation: Project Location Fuel Gross MW Economic Interest Net MW Primary Electric Purchasers Power Contract Expiry Customer Credit Rating (S&P) (2) Naval Station California Natural Gas 47 100.00% 47 San Diego Gas & Electric December 2019 A Naval Training Center California Natural Gas 25 100.00% 25 San Diego Gas & Electric December 2019 A North Island California Natural Gas 42 100.00% 42 San Diego Gas & Electric December 2019 A Oxnard California Natural Gas 49 100.00% 49 Southern California Edison May 2020 BBB+ Manchief Colorado Natural Gas 300 100.00% 300 Public Service Company of Colorado October 2022 A- Frederickson (1) Washington Natural Gas 250 50.15% 50 Benton Co. PUD August 2022 A+ 45 Grays Harbor PUD August 2022 A 30 Franklin Co. PUD August 2022 A Koma Kulshan (1) Washington Hydro 13 49.80% 6 Puget Sound Energy December 2037 BBB Mamquam British Columbia Hydro 50 100.00% 50 British Columbia Hydro and Power Authority September 2027 AAA Moresby Lake British Columbia Hydro 6 100.00% 6 British Columbia Hydro and Power Authority August 2022 AAA Williams Lake British Columbia Biomass 66 100.00% 66 British Columbia Hydro and Power Authority March 2018 AAA (1) Unconsolidated
+entities for which the results of operations are reflected in equity earnings of unconsolidated affiliates. Wind Segment Our Wind segment accounted for 13.9% and 13.0% of consolidated revenue in 2014 and 2013, respectively and total net generation capacity
+of 521 MW from continuing operations at December 31, 2014. Revenue from the Wind segment was immaterial for 2012. No customer from the Wind segment accounted for greater than 10% of total
+consolidated revenues in the year ended December 31, 2014, 2013, or 2012. The
+table below provides the revenue and project income (loss) for the Wind segment. See Item 7 Management's Discussion and Analysis of Financial Condition and Results of
+OperationsProject Income (Loss) by Segment for additional details on our project income (loss). Wind Segment Revenue ($ in millions) Project (loss) income ($ in millions) 2014 $ 79.3 $ (11.5 ) 2013 70.8 18.6 2012 1.9 (7.4 ) 11 Table of Contents Set
+forth below is a list of our Wind projects in operation: Project Location Type MW Economic Interest Net MW Primary Electric Purchasers Power Contract Expiry Customer Credit Rating (S&P) (5) Goshen North (1) Idaho Wind 125 12.50% 16 Southern California Edison November 2030 BBB+ Idaho Wind (1) Idaho Wind 183 27.56% 50 Idaho Power Co. December 2030 BBB Meadow Creek Idaho Wind 120 100.00% 120 PacifiCorp December 2032 A- Rockland Wind Farm Idaho Wind 80 50.00% 40 Idaho Power Co. December 2036 BBB Canadian Hills Oklahoma Wind 300 99.0% 199 Southwestern Electric Power Company December 2037 BBB 48 Oklahoma Municipal Power Authority December 2037 A 48 Grand River Dam Authority December 2032 A+ (1) Unconsolidated
+entities for which the results of operations are reflected in equity earnings of unconsolidated affiliates. POWER INDUSTRY OVERVIEW Historically, the North American electricity industry was characterized by vertically integrated monopolies. During the late 1980s,
+several jurisdictions began a process of restructuring by moving away from vertically integrated monopolies toward more competitive market models. Rapid growth in electricity demand, environmental
+concerns, increasing electricity rates, technological advances and other concerns prompted government policies to encourage the supply of electricity from independent power producers. More recently,
+the North American electricity industry has become more diversified but faces the challenges of declining reserve margins and uncertainty resulting from environmental regulations. According
+to the North American Electric Reliability Corporation's ("NERC") Long-Term Reliability Assessment, published in November 2014, summer peak demand in the ten-year period from
+2015 through 2024 is projected to increase at a compound annual growth rate of approximately 1.1%, while winter peak demand is projected to increase approximately 1.0%, which are the lowest growth
+rates on record for both seasons. The stagnant demand growth can be attributed to the ongoing instability in projected economic indicators such as employment levels or gross domestic product in the
+residential, commercial, and industrial sectors. Additionally, energy efficiency and conservation programs in many areas continue to drive lower energy growth. Despite
+low projected demand growth, reserve margins are trending down. According to NERC's assessment, only 99.6 GW of Tier 1 capacity additions are projected over the next
+decade while 44.6 GW of retirements are projected by 2024. According to NERC, these retirements are largely driven by environmental regulations and incentives at the federal, state and provincial
+levels and by the impacts of declining fuel prices, particularly for natural gas. The non-utility power generation industry In the independent power generation sector, electricity is generated from a number of energy sources, including natural gas, coal,
+water, waste products such as biomass (e.g., wood, wood waste, agricultural waste), landfill gas, geothermal, solar and wind. Our 28 power generation projects are non-utility electric
+generating facilities that operate in the North American electric power generation industry. The electric power industry is one of the largest industries in the United States, generating retail
+electricity sales of approximately $363 billion in 2012, based on information published by the Energy Information Administration in November 2013, the most recent study available. A growing
+portion of the power produced in the United States and Canada is generated by non-utility generators. 12 Table of Contents According
+to the Energy Information Administration, independent power producers represented approximately 38% of total net generation in 2013. Independent power producers sell the electricity that
+they generate to electric utilities and other load-serving entities (such as municipalities and electric cooperatives) by way of bilateral contracts or open power exchanges. The electric utilities and
+other load-serving entities, in turn, generally sell this electricity to industrial, commercial and residential customers. COMPETITION The power generation industry is characterized by intense competition, and we compete with utilities, industrial companies and other
+independent power producers. Supply has surpassed short-term demand plus appropriate reserve margins in numerous U.S. and Canadian markets, contributing to reduced capacity and energy prices and
+increasing competition among generators to obtain power sales agreements. We also compete for acquisition and joint-venture opportunities with numerous private equity, infrastructure and pension
+funds, Canadian and U.S. independent power firms, utility non-regulated subsidiaries and other strategic and financial players. INDUSTRY REGULATION Overview Our facilities and operations are subject to laws and regulations that govern, among other things, transactions by and with purchasers
+of power, including utility companies, the development and construction of generation facilities, the ownership and operations of generation facilities, access to transmission, and the geographical
+location, zoning, land use and operation aspects of our facilities and properties, including environmental matters. In
+the United States, the power generation and sale aspects of our projects are primarily regulated by the Federal Energy Regulation Commission ("FERC"), although most of our projects
+benefit from the special provisions accorded to Qualifying Facilities ("QFs") or Exempt Wholesale Generators ("EWGs"). In
+Canada, electricity generation is subject primarily to provincial regulation. Our projects in British Columbia are therefore subject to different regulatory regimes from our projects
+in Ontario. Regulationgenerating projects (i) United
+States Eighteen
+of our power generating projects are QFs under the Public Utility Regulatory Policies Act of 1978, as amended ("PURPA"), and FERC regulations. A QF falls into one or both of two
+primary
+classes, both of which would facilitate one of PURPA's goals to more efficiently use fossil fuels to generate electricity than typical utility plants. The first class of QFs includes energy producers
+that generate power using renewable energy sources such as wind, solar, geothermal, hydro, biomass or waste fuels. The second class of QFs includes cogeneration facilities, which must meet specific
+fossil fuel efficiency requirements by producing both electricity and steam versus electricity only. The
+generating projects with QF status and which are currently party to a PPA with a utility or have been granted authority to charge market-based rates are exempt from FERC rate-making
+authority. The FERC has granted seven of the projects the authority to charge market-based rates based primarily on a finding that the projects lack market power. The projects with QF status are also
+exempt from state regulation respecting the rates of electric utilities and the financial or organizational regulation of electric utilities. However, state regulators review the prudency of utilities
+entering into PPAs entered into by QFs and the siting of the generation facilities. The majority of our generation is sold by QFs under PPAs that required approval by state authorities. 13 Table of Contents PURPA,
+as initially implemented by the FERC, generally required that vertically integrated electric utilities purchase power from QFs at their avoided costs. The Energy Policy Act of
+2005 (the "EP Act of 2005"), however, established new limits on PURPA's requirement that electric utilities buy electricity from QFs to certain markets that lack competitive characteristics. The
+projects with EWG status are also exempt from state regulation respecting the rates of electric utilities, and the projects with EWG and QF status are exempt from regulations under PUHCA. Notwithstanding
+their status as QFs and EWGs, our projects remain subject to various aspects of FERC regulation, including those relating to power marketer status and to oversight of
+mergers, acquisitions and investments relating to utilities under the Federal Power Act, as amended by the EP Act of 2005. All of our projects are also subject to reliability standards developed and
+enforced by NERC. NERC is a self-regulatory non-governmental organization which has statutory responsibility to regulate bulk power system users, generation and transmission owners and operators
+through the adoption and enforcement of standards for fair, ethical and efficient practices. Pursuant
+to its authority, NERC has issued, and the FERC has approved, a series of mandatory reliability standards. Users, owners and operators of the bulk power system can be penalized
+significantly for failing to comply with the FERC-approved reliability standards. We have designated our Manager of Operational and Regulatory Compliance to oversee compliance with liability standards
+and an outside law firm specializing in this area advises us on FERC and NERC compliance, including annual compliance training for relevant employees. (ii) British
+Columbia, Canada The
+vast majority of British Columbia's power is generated or procured by BC Hydro. BC Hydro is one of the largest electric utilities in Canada. BC Hydro is owned by the Province of
+British Columbia and is regulated by the British Columbia Utilities Commission (the "BCUC"), which is governed by the Utilities Commission Act (British Columbia) and is responsible for the regulation
+of British Columbia's public energy utilities including publicly owned and investor-owned utilities (i.e., independent power producers). BC
+Hydro is generally required to acquire all new power (beyond what it already generates from existing BC Hydro plants) from independent power producers. All
+contracts for electricity supply, including those between independent power producers and BC Hydro, must be filed with and approved by the BCUC as being "in the public interest." The
+BCUC may hold a hearing in this regard. Furthermore, the BCUC may impose conditions to be contained in agreements entered into by public utilities for electricity. The
+BCUC has adopted the NERC standards as being applicable to, among others, all generators of electricity in British Columbia, including independent power producers. In addition, the
+BCUC has adopted a number of other standards, including the Western Electricity Coordinating Council ("WECC") standards. As a practical matter, WECC typically administers standards compliance on the
+BCUC's behalf. The Clean Energy Act, which became law in British Columbia in 2010, sets out British Columbia's energy objectives. This Act states, among
+other things, that British Columbia aims to accelerate and expand the development of clean and renewable energy sources in British Columbia to, among other things, achieve energy self-sufficiency by
+2016, promote economic development and job creation and continue to work toward the reduction of greenhouse gas emissions. This Act also explicitly states that British Columbia will encourage the use
+of waste heat, biogas and biomass to reduce waste. This Act is consistent with the British Columbia Government Energy Plan, introduced in 2009, which favors clean and renewable energy sources such as
+hydroelectric, wind and wood waste electricity generation. BC Hydro is required to meet these objectives and submit reports to the BCUC updating on its progress. 14 Table of Contents Other
+provincial regulators in British Columbia having authority over independent power producers include the British Columbia Safety Authority, the Ministry of Environment and the
+Integrated Land Management Bureau. (iii) Ontario,
+Canada In
+Ontario, the Ontario Energy Board ("OEB") is an administrative tribunal with overall responsibility for the regulation and supervision of the natural gas and electricity industries in
+Ontario and with the authority to grant or renew, and set the terms for, licenses with respect to electricity generation facilities, including our projects. No
+person is permitted to own or operate large or medium-scale electricity generation facilities in Ontario without a license from the OEB. The
+OEB's general functions include:  Determination of the rates charged for regulated services in the electricity sector;  Licensing of market participants;  Inspections, particularly with respect to compelling production of records and information;  Market monitoring and reporting, including on anti-competitive practice;  Consumer advocacy; and  Enforcement and compliance. The
+OEB has the authority effectively to modify licenses by adopting "codes" that are deemed to form part of the licenses. Furthermore, any violations of the license or other
+irregularities in the relationship with the OEB can result in fines. While the OEB provides reports to the Ontario Minister of Energy, it generally operates independently from the government. However,
+the Minister may issue policy directives (with Cabinet approval) concerning general policy and the objectives to be pursued by the OEB, and the OEB is required to implement such policy directives. A
+number of other regulators and quasi-governmental entities play a role in electricity regulation in Ontario, including the IESO, Hydro One, the Electrical Safety Authority ("ESA") and
+OEFC. The
+IESO is responsible for administering the wholesale electricity market and controlling Ontario's transmission grid. The IESO is a non-profit corporation whose directors are appointed
+by the government of Ontario. The IESO's "Market Rules" form the regulatory framework for the operation of Ontario's transmission grid and electricity market. The Market Rules require, among other
+things, that generators meet certain equipment and performance standards and certain system reliability obligations. The IESO may enforce the Market Rules by imposing financial penalties. The IESO may
+also terminate, suspend or restrict participatory rights. In
+November 2006, the IESO entered into a memorandum of understanding with NERC, in which it recognized NERC as the "electricity reliability organization" in Ontario. In addition, the
+IESO has also entered into a similar MOU with both the Northeast Power Coordinating Council (the "NPCC") and NERC. IESO is accountable to NERC and NPCC for compliance with NERC and NPCC reliability
+standards. While IESO may impose Ontario-specific reliability standards, such standards must be consistent with, and at least as stringent as, NERC's and NPCC's standards. As
+of January 1, 2015, the IESO is responsible for procuring new electricity generation. As a result, the IESO enters into electricity generation contracts with electricity
+generators in Ontario from time to time. Although we are not presently party to any such contracts, we may seek to enter into such contracts if and when the opportunity arises. 15 Table of Contents Most
+of the operating assets of the entity formerly known as Ontario Hydro were transferred, in or around 1998, to Hydro One, IESO and a third company called Ontario Power
+Generation Inc. The remaining assets and liabilities, including power contracts, were kept in OEFC. Once all of OEFC's debts (approximately $26.9 billion as of March 2012) have been
+retired, it will be wound up and its assets and liabilities will be transferred directly to the Government of Ontario. The Green Energy Act became law in Ontario in 2009 for renewable electricity generation technologies, including via a feed-in tariff
+program. This Act states that the Government of Ontario is, among other things, committed to fostering the growth of renewable energy projects, to removing barriers to and promoting opportunities for
+renewable energy projects and to promoting a green economy. From 2009 to 2013, power purchase contracts in respect of large-scale energy projects were awarded under a feed-in-tariff program. The
+Government of Ontario has announced that going forward, power purchase contracts for large-scale projects will be awarded through a request for qualifications (RFQ)/request for proposals (RFP)
+process. No such contracts have been awarded in the past 12 months. Carbon emissions In the United States, during the past several years government action addressing carbon emissions has been focused on the regional and
+state level. Beginning in 2009, the Regional Greenhouse Gas Initiative ("RGGI") was established by certain Northeast and Mid-Atlantic states as the first cap-and-trade program in the United States for
+CO 2 emissions. CO 2 allowances are now a tradable commodity in the RGGI states. The nine states currently participating in RGGI have varied implementation plans and schedules.
+In February 2013, RGGI released an updated model rule that reduced the regional CO 2 budget beginning in 2014, with further reductions each year from 2015 to 2020. The one RGGI state where
+we have project interests, New York, also provides cost mitigation for independent power projects with certain types of power contracts. California's cap-and-trade program governing greenhouse gas
+emissions became effective for the electricity sector on January 1, 2013. California, along with British Columbia and Ontario, is part of the Western Climate Initiative, which supports the
+implementation of state and provincial greenhouse gas emissions trading programs. Other states and regions in the United States have considered similar regulations, and it is possible that federal
+climate legislation will be established in the future. In
+2006, the State of California passed legislation initiating two programs to control/reduce the creation of greenhouse gases. The two laws are more commonly known as AB 32 and SB 1368.
+Under AB 32 (the Global Warming Solutions Act), the California Air Resources Board (the "CARB") is required to
+adopt a greenhouse gas emissions cap on all major sources (not limited to the electric sector) to reduce state-wide emissions of greenhouse gases to 1990 levels by 2020. Under the CARB regulations
+that took effect on January 1, 2013, electricity generators and certain other facilities are now subject to an allowance for greenhouse gas emissions, with allowances allocated by both formulas
+set by the CARB and auctions. SB
+1368 added the requirement that the California Energy Commission, in consultation with the California Public Utilities Commission (the "CPUC") and the CARB, establish greenhouse gas
+emission performance standards and implement regulations for PPAs for a term of five or more years entered into prospectively by publicly-owned electric utilities. The legislation directs the
+California Energy Commission to establish the performance standard as one not exceeding the rate of greenhouse gas emitted per megawatt-hour ("MWh") associated with combined-cycle, gas turbine
+baseload generation, such as our North Island project. At
+the federal level, President Obama has identified climate change as a major priority. The U.S. Environmental Protection Agency (the "EPA") has taken several recent actions respecting
+CO 2 emissions. The EPA's actions include its December 2009 finding of "endangerment" to public health 16 Table of Contents and
+welfare from greenhouse gases, its issuance in September 2009 of the Final Mandatory Reporting of Greenhouse Gases Rule which required large sources, including power plants, to monitor and report
+greenhouse gas emissions to the EPA annually, which was required beginning in 2011, and its issuance in May 2010 of its final Prevention of Significant Deterioration and Title V Greenhouse Gas
+Tailoring Rule, which under a phased-in approach requires large industrial facilities, including power plants, to obtain permits to emit, and to use best available control technology to curb emissions
+of, greenhouse gases. In addition, in September 2013, the EPA issued a new proposed rule regulating carbon emissions from new electric generating units, and in June 2014, the EPA issued a proposed
+rule regulating carbon emissions from existing electric generating units, which is referred to as the Clean Power Plan. The EPA is scheduled to issue final rules governing existing, new, modified and
+reconstructed power plants in summer 2015, with implementation (subject to extension) beginning in summer 2016 with submission of state implementation plans. In
+Canada, British Columbia and Ontario have implemented greenhouse gas reporting regulations and are developing additional programs to address greenhouse gas emissions. The
+Government of British Columbia has enacted a number of significant pieces of climate-action legislation that frame British Columbia's approach to reducing greenhouse gas emissions
+with the goal of supporting the Province's participation in the emerging low-carbon economy. One
+key piece of legislation is the Greenhouse Gas Reduction Targets Act (British Columbia) ("GGRTA"), which came into force in 2008 and sets legislated targets for the reduction of
+greenhouse gas emissions in the Province. Using 2007 as a base year, GGRTA (along with related Ministerial Orders) requires that emissions must be reduced by a minimum of 18% by 2016, 33% by 2020 and
+80% by 2050. Also required in connection with GGRTA are annual (from 2010 onward) British Columbia Greenhouse Gas Inventory Reports, Community Energy and Emissions Inventory Reports and Carbon Neutral
+Action Reports, all of which are designed to provide scientific, comparable and consistent reporting of greenhouse gas sources. Other
+related, key pieces of legislation include the Carbon Tax Act (British Columbia) ("CTA") and the Greenhouse Gas Reduction (Cap and Trade) Act ("GGRCTA"). CTA operates to put a
+price on greenhouse gas emissions, providing an incentive for sustainable choices and practices by producers of greenhouse gases. GGRCTA authorizes the imposition of hard caps on greenhouse gas
+emissions by providing a statutory basis for establishing a market-based cap and trade framework to reduce greenhouse gas emissions from large emitters operating in the Province. GGRCTA is currently
+in the process of being brought into full force. British Columbia is the first Canadian province to introduce such legislation. Additionally,
+more than half of the U.S. states and most Canadian provinces have set mandates requiring certain levels of renewable energy production and/or energy efficiency during
+target timeframes. This includes generation from wind, solar and biomass. In order to meet CO 2 reduction goals, changes in the generation fuel mix are forecasted to include a reduction in
+existing coal resources, higher reliance on natural gas and renewable energy resources and an increase in demand-side resources. Investments in new or upgraded transmission lines will be required to
+move increasing renewable generation from more remote locations to load centers. Regulatory and legislative tax incentives The U.S. regulatory environment has undergone significant changes in the last several years due to the creation of incentives for the
+addition of large amounts of new renewable energy generation and, in some cases, transmission. Certain U.S. and Canadian government policies support renewable power generation and other clean
+infrastructure technologies and enhance the economic feasibility of developing and operating energy projects in the regions in which we operate. The viability of potential future renewable energy
+projects is largely contingent on public policy mechanisms and favorable 17 Table of Contents regulatory
+incentives, including production and investment tax credits, loan guarantees, accelerated depreciation tax benefits, state renewable portfolio standards, and regional carbon trading plans.
+For example, the U.S. Tax Increase Prevention Act of 2014 extended production tax credits and investment tax credits for certain projects that start construction prior to January 1, 2015 and
+extended bonus depreciation for projects that are placed in service prior to January 1, 2015. However, the tax credits have not been extended past these dates. The EP Act of 2005 also provides
+incentives for various forms of electric generation technologies. Governments from time to time may renew their policies that support renewable energy and consider actions to make the policies less
+conducive to the development and operation of renewable energy facilities. EMPLOYEES As of February 21, 2015, we had 316 employees, 212 in the United States and 104 in Canada. Of our Canadian employees, 64 are
+covered by two collective bargaining agreements. During 2014, we did not experience any labor stoppages or labor disputes at any of our facilities. AVAILABLE INFORMATION We make available, free of charge, on our website, www.atlanticpower.com, our Annual Report on Form 10-K, Quarterly Reports on
+Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended
+(the "Exchange Act") as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Additionally, we make available on our website, our Canadian
+securities filings. The public may read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain
+information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other
+information regarding issuers that file electronically with the SEC at www.sec.gov. We are not a foreign private issuer, as defined in Rule 3b-4 under the Exchange Act. Information
+contained on our website or that can be accessed through our website is not incorporated into and does not constitute a part of this Annual Report on Form 10-K. We
+have included our website
+address only as an inactive textual reference and do not intend it to be an active link to our website. ITEM 1A. RISK FACTORS This section highlights specific risks that could affect our Company. You should carefully consider each of the following risks and all of the other information
+set forth in this Annual Report on Form 10-K. Based on the information currently known to us, we believe the following information identifies the most significant risk factors affecting our
+Company. However, the risks and uncertainties described below are not the only ones related to our business and are not necessarily listed in the order of their importance. Additional risks and
+uncertainties not presently known to us or that we currently believe to be immaterial may also adversely affect our business. If any of the following risks and uncertainties develops into actual events or if the circumstances described in the risks and uncertainties occur or continue to
+occur, these events or circumstances could have a material adverse effect on our business, results of operations or financial condition. These events could also have a negative effect on the trading
+price of our securities. 18 Table of Contents Risks Related to Our Structure We may not generate sufficient cash flow to service our debt obligations or implement our business
+plan, including financing internal or external growth opportunities, or to pay dividends, if and when declared by our board of directors We continue to focus on executing our business plan, including the objectives of enhancing the value of our existing assets through
+discretionary capital investments and commercial activities, delevering our balance sheet to improve our cost of capital and ability to compete for new investments, utilizing our core competencies to
+create proprietary investment opportunities, improving our cost structure and reducing overhead. In addition, we continue to assess other potential options, including selected asset sales or the
+contribution of assets to a joint venture if the valuation of such assets is compelling, in order to raise additional capital for growth and/or debt reduction. However, we may not generate sufficient
+cash flow to service our debt obligations or implement our business plan, including financing internal or external growth opportunities, or to pay dividends, if and when declared by our board of
+directors. Our
+ability to make required payments under our outstanding indebtedness, including pursuant to the mandatory amortization feature of the Senior Secured Credit Facilities (as defined
+herein), as well as the 50% cash sweep, or to prepay or redeem any such indebtedness, will depend on our financial and operating performance, including our ability to generate cash flow from
+operations in the future. As a result, we may be required to refinance such indebtedness and/or obtain third-party financing in order to repay, redeem or refinance such indebtedness when it comes due.
+In particular, the Cdn$67.3 million aggregate principal amount of our 6.25% convertible debentures is due March 2017, the Cdn$79.7 million aggregate principal amount of our 5.60%
+convertible unsecured subordinated debentures is due June 2017, the $310.9 million aggregate principal amount of our 9.0% notes (the "9.0% Notes") is due November 2018, the
+$128.2 million aggregate principal amount of our 5.75% convertible unsecured subordinated debentures is due March 2019 and the Cdn$99.4 million aggregate principal amount of our 6.00%
+convertible unsecured subordinated debentures is due December 2019. There can be no assurance that our business will generate sufficient cash flow from operations or that future borrowings or
+refinancing opportunities will be available to us at an acceptable cost, in amounts sufficient, or at all, to enable us to service our debt obligations or to repay or redeem any such indebtedness at
+maturity, particularly because of our high levels of debt and the debt incurrence restrictions imposed by the various agreements governing our indebtedness. Steps taken to refinance our indebtedness
+or obtain other third-party financing, if any, may not be successful and may not permit us to meet our scheduled debt service obligations, which could have a material adverse effect on our liquidity
+and financial condition. In
+addition, a payout of a significant portion of our cash flow to service our debt, including pursuant to the mandatory amortization feature of the Senior Secured Credit Facilities, as
+well as the 50% cash sweep, or through any dividends, may result in us not retaining a sufficient amount of cash to finance growth and reinvestment opportunities, including through the acquisition of
+additional projects, to the extent any such acquisitions are otherwise available to us. As a result, we may have to forego growth and reinvestment opportunities that would otherwise be desirable, if
+we do not find alternative sources of financing for such opportunities or modify our dividend policy to make cash available to us. In addition, even if we are able to find alternative sources of
+financing for such opportunities, we may be precluded from pursuing an otherwise attractive acquisition or investment if the projected short- term cash flow from the acquisition or investment is not
+adequate to service the capital raised to fund such
+acquisition or investment. This could also limit our flexibility in planning for, or reacting to, changes in our business and industry, placing us at a competitive disadvantage compared to our
+competitors. We cannot provide any assurance that we will be able to identify, finance or close any transactions associated with any such growth or reinvestment opportunities on acceptable terms or
+timing, or at all. 19 Table of Contents Further, if we are unable to generate sufficient cash flow from operations, our ability to support our liquidity needs, including, but not limited to the payment
+of any dividends, servicing our debt obligations, including pursuant to the mandatory amortization feature of the Senior Secured Credit Facilities, as well as the 50% cash sweep, or financing internal
+or external growth opportunities, will depend on our ability to access the credit and capital markets, neither of which may be available to us on acceptable terms, or at all. Currently, because we no
+longer qualify as a "well-known seasoned issuer," which previously enabled us to, among other things, file automatically effective shelf registration statements, even if we were able to access the
+capital markets, any attempt to do so could be more expensive or subject to significant delays. Further, access to the credit and capital markets and the cost and availability of credit may be
+adversely affected by factors beyond our control, including turmoil in the financial services industry, volatility in securities trading markets and general economic conditions. We cannot provide any
+assurance that we will be able to access the credit or capital markets on acceptable terms or timing, or at all. We cannot provide any assurance regarding the outcome or impact on our business of any potential
+options we are considering We are continuing to execute our business plan, including the objectives of enhancing the value of our existing assets through
+discretionary capital investments and commercial
+activities, delevering our balance sheet to improve our cost of capital and ability to compete for new investments, utilizing our core competencies to create proprietary investment opportunities,
+improving our cost structure and reducing overhead. In addition, we continue to assess other potential options, including selected asset sales or the contribution of assets to a joint venture if the
+valuation of a particular asset or assets is compelling in order to raise additional capital for growth and/or debt reduction. No assurance can be given as to how such objectives or other potential
+options may evolve. The process of reviewing, and potentially executing, any such potential option, may be very costly and time-consuming and may distract our management and otherwise disrupt our
+operations, or be unsuccessful or yield unexpected results. Some or all of such options could be limited due to transfer restrictions at certain of our projects, potentially trigger change of control
+provisions, or impose limitations on our ability to use our net operating losses. See "Risks Related to Our Business and Our ProjectsOur equity interests in certain projects
+may be subject to transfer restrictions." Furthermore, the operation of our business and the execution of our business plan or any potential options (to the extent we decide to implement any such
+potential options) requires liquidity, which may involve one or more of the use of cash on hand, the issuance of additional corporate debt or equity securities and the incurrence of privately-placed
+bank or institutional non-recourse operating level debt, although we can provide no assurances regarding the availability of such public or private financing on acceptable terms or at all. Our recent management changes may impact our business plan We have recently undergone significant leadership and executive management changes, including the appointment of a new President and
+Chief Executive Officer and the departure of our Executive Vice PresidentChief Operating Officer. These significant leadership and executive management changes will require transitions in
+the responsibilities of our existing management team and integration of new management into our existing management team, which could divert the attention of management and our board of directors and
+result in delay or disruption in the implementation of our business plan. See "Risks Related to Our Business and Our ProjectsOur success depends in part on our ability to
+retain, motivate and recruit executives and other key employees, and failure to do so could negatively affect us." 20 Table of Contents Future dividends are not guaranteed Dividends to shareholders are paid at the discretion of our board of directors. Future dividends, if any, will depend on, among other
+things, the availability of cash flow for
+dividend payments rather than allocations of cash, the results of operations, working capital requirements, financial condition, restrictive covenants and our ability to satisfy such covenants,
+business opportunities, provisions of applicable law and other factors that our board of directors may deem relevant. See "We may not generate sufficient cash flow to pay dividends, if
+and when declared by our board of directors, service our debt obligations or implement our business plan, including financing internal or external growth opportunities" and "Our
+indebtedness and financing arrangements and any failure to comply with the covenants contained therein, could negatively impact our business and our projects and could render us unable to make
+dividend payments, acquisitions or investments or additional indebtedness, we would otherwise seek to do." Our board of directors may decrease the level of or entirely discontinue payment of
+dividends. In addition, if and for as long as we are in arrears on the declaration or payment of dividends on the 4.85% Cumulative Redeemable Preferred Shares, Series 1 (the "Series 1
+Shares"), the 7.0% Cumulative Rate Reset Preferred Shares, Series 2 (the "Series 2 Shares"), or the Cumulative Floating Rate Preferred Shares, Series 3 (the "Series 3
+Shares") of the Partnership, the Partnership will not be permitted to make any distributions on its limited partnership units and we will not pay any dividends on our common shares. Our Senior Secured Credit Facilities contain certain terms, covenants and restrictions that could
+impact our available cash flow and restrict our ability to make dividend payments, acquisitions or investments or issue additional indebtedness Our Senior Secured Credit Facilities contain certain terms, covenants and restrictions, including a mandatory amortization feature and
+customary prepayment provisions, including, among others, using 50% of the cash flow of the Partnership and its subsidiaries that remains after the application of funds, in accordance with customary
+priority, to certain items, including, but not limited to, the operations and maintenance expenses of the Partnership and its subsidiaries, debt service on the Senior Secured Credit Facilities and
+other specified indebtedness and funding of a debt service reserve account. Such terms, covenants and restrictions may impact our available cash flow and limit our ability to retain sufficient amounts
+of cash to pay dividends, service our debt obligations or finance internal or external growth opportunities. Our Senior Secured Credit Facilities are a primary source of our liquidity. See
+"Management's Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and Capital Resources". The
+covenants under the Senior Secured Credit Facilities include a requirement that the Partnership and its subsidiaries, maintain certain leverage and interest coverage ratios (each, as
+defined in the credit agreement governing the Senior Secured Credit Facilities). The Senior Secured Credit Facilities also contain customary restrictions and limitations on the Partnership's and its
+subsidiaries' ability to (i) incur additional indebtedness, (ii) grant liens on any of their assets, (iii) change their conduct of business or enter into mergers, consolidations,
+reorganizations, or certain other corporate transactions, (iv) dispose of assets, (v) modify material contractual obligations, (vi) enter into affiliate transactions,
+(vii) incur capital expenditures, and (viii) make dividend payments or other distributions, in each case subject to customary carve-outs and exceptions and various thresholds. Any such
+limitations could restrict our ability to, among other things, make dividend payments, acquisitions or investments or issue additional indebtedness. 21 Table of Contents Our indebtedness and financing arrangements, and any failure to comply with the covenants contained
+therein, could negatively impact our business and our projects and could render us unable to make dividend payments, acquisitions or investments or issue additional indebtedness we otherwise would
+seek to do The degree to which we are leveraged on a consolidated basis could have important consequences for our shareholders and other
+stakeholders, including:  our ability to maintain our dividend payments at the current level if and when declared by our board of directors;  our ability in the future to obtain additional financing for, among other things, the repayment or redemption of indebtedness and
+other debt service obligations and investment in internal and external growth opportunities, including the acquisition of additional projects, to the extent any such acquisitions are otherwise
+available to us, or other purposes;  our ability to refinance indebtedness on terms acceptable to us or at all;  our ability to satisfy debt service and other obligations;  our vulnerability to general adverse industry conditions and economic conditions, including but not limited to adverse changes in
+foreign exchange rates and commodity prices;  the availability of cash flow to fund other corporate purposes and grow our business;  our flexibility in planning for, or reacting to, changes in our business and the industry; and  placing us at a competitive disadvantage to our competitors that are not as highly leveraged. As
+of December 31, 2014, our consolidated long-term debt represented approximately 68% of our total capitalization, comprised of debt and balance sheet equity. The
+agreements governing our indebtedness limit, but do not prohibit, the incurrence of additional indebtedness. Our current or future borrowings could increase the level of financial
+risk to us and, to the extent that the interest rates are not fixed and rise, or that borrowings are refinanced at higher rates, our available cash flow and results of operations could be adversely
+affected. Changes in interest rates do not have a significant impact on cash payments that are required on our debt instruments as approximately 77% of our debt, including our share of the
+project-level debt associated with equity investments in affiliates, either bears interest at fixed rates or is financially hedged through the use of interest rate swaps. As
+of December 31, 2014, we had (i) no amount outstanding and $105.7 million issued in letters of credit under our revolving credit facility,
+(ii) $340.6 million of outstanding convertible debentures, (iii) $319.9 million of unsecured debt, and (iv) $1.1 billion of outstanding senior secured term
+loan and non-recourse project-level debt. As
+previously disclosed in our Current Report on Form 8-K filed on January 30, 2014 and in our Annual Report on Form 10-K for the year ended December 31,
+2013, due to the aggregate impact of the up-front costs resulting from the prepayments on certain of our indebtedness using the proceeds of
+Term Loan Facility, including certain make-whole payment and charges for unamortized debt discount and fee expenses (which we refer to herein as Prepayment Charges), which were reflected as interest
+expense in our 2014 first quarter results, we are no longer in compliance with the fixed charge coverage ratio test included in the restricted payments covenant of the indenture governing our 9.0%
+Notes. The fixed charge coverage ratio must be at least 1.75 to 1.00 and is measured on a rolling four quarter basis, including after giving effect to certain pro forma adjustments. As a consequence,
+further dividend payments, which are declared and paid at the discretion of our board of directors, in the aggregate cannot exceed the covenant's "basket" provision of the greater of
+$50 million and 2% of consolidated net assets (as defined in the indenture governing our 9.0% Notes) (approximately $55.8 million at 22 Table of Contents December 31,
+2014) until such time that we are in compliance with the fixed charge coverage ratio. For the year ended December 31, 2014, dividend payments to our shareholders totaled
+approximately $32.5 million. The Prepayment Charges would no longer be reflected in the calculation of the fixed charge coverage ratio test after the passage of four additional successive
+quarters following the quarter in which the Prepayment Charges are incurred (the second quarter of 2015). In addition, any similar prepayment charges incurred in connection with any further debt
+reduction would also be reflected in the calculation of the fixed charge coverage ratio test on a rolling four quarter basis, beginning with the quarter in which such charges are incurred, as would
+any associated reduction in interest expense. In
+addition, some of our projects currently have non-recourse term loans or other financing arrangements in place with various lenders. These financing arrangements are typically secured
+by all of the project assets and contracts as well as our equity interests in the project. The terms of these financing arrangements generally impose many covenants and obligations on the part of the
+borrower. For example, some of these agreements contain requirements to maintain specified historical, and in some cases prospective debt service coverage ratios before cash may be distributed from
+the relevant project to us, which would adversely affect our available cash flow. We have, in the past, failed to meet the cash flow coverage ratio tests at certain of our projects, which restricted
+those projects from making cash distributions. Although all of our projects, with the exception of Piedmont, with non-recourse loans are currently meeting their debt service requirements, we cannot
+provide any assurances that our projects will generate enough future cash flow to meet any applicable ratio tests in order to be able to make distributions to us. Currently we do not expect our
+Piedmont project to meet its debt service coverage ratio covenants or to make distributions before 2017 at the earliest, due to continued operational issues that have resulted in higher forecasted
+maintenance and fuel expenses than initially expected. In
+many cases, an uncured default by any party under key project agreements (such as a PPA or a fuel supply agreement) will also constitute a default under the project's term loan or
+other financing arrangement. Failure to comply with the terms of these term loans or other financing arrangements, or events of default thereunder, may prevent cash distributions by the particular
+project(s) to us and may entitle the lenders to demand repayment and/or enforce their security interests, which could have a material adverse effect on our business, results of operations and
+financial condition. In addition, failure to comply with the terms, restrictions or obligations of any of our revolving credit facility,
+convertible debentures or unsecured notes, or the preferred shares of the Partnership, or any other financing arrangements, borrowings or indebtedness, or events of default thereunder, may entitle the
+lenders to demand repayment, accelerate related debt as well as any other debt to which a cross-default or cross-acceleration provision applies and/or enforce their security interests, which could
+have a material adverse effect on our business, results of operations and financial condition. In addition, if and for as long as we are in arrears on the declaration or payment of dividends on the
+Series 1 Shares, the Series 2 Shares or the Series 3 Shares, the Partnership will not make any distributions on its limited partnership units and we will not pay any dividends on
+our common shares. Additionally, if our lenders under our indebtedness demand payment, we may not, at that time, have sufficient cash and cash flows from operating activities to repay such
+indebtedness. Our
+failure to refinance or repay any indebtedness when due could constitute a default under such indebtedness and restrict our ability to take certain actions, including paying
+dividends. In addition, any covenant breach or event of default could harm our credit rating and our ability to obtain additional financing on acceptable terms or at all. The occurrence of any of
+these events could have a material adverse effect on our business, results of operations, financial condition and liquidity. Exchange rate volatility may affect our available cash flow and results of operations Our payments to shareholders, some of our corporate-level long-term debt and convertible debenture holders are denominated in Canadian
+dollars. Conversely, some of our projects' revenues 23 Table of Contents and
+expenses are denominated in U.S. dollars. Our debt instruments are revalued at each balance sheet date based on the U.S. dollar to Canadian dollar foreign exchange rate at the balance sheet date,
+with changes in the value of the debt recorded in the consolidated statements of operations. The U.S. dollar to Canadian dollar foreign exchange rate has been volatile in recent years, which in turn
+creates volatility in our results due to the revaluation of our Canadian dollar-denominated debt. Although we currently generate revenues in Canadian dollars that exceed our Canadian dollar
+obligations, future exchange rate volatility or changes to our Canadian dollar revenues could expose us to currency exchange rate risks, against which we do not typically hedge. Any arrangements to
+mitigate this exchange rate risk may not be sufficient to fully protect against this risk. If hedging transactions do not fully protect against this risk, changes in the currency exchange rate between
+U.S. and Canadian dollars could adversely affect our available cash flow and results of operations. A downgrade in our credit rating or in the credit rating of our outstanding debt securities, or any
+deterioration in credit quality could negatively affect our ability to access capital and our ability to hedge, and could trigger termination rights under certain contracts A downgrade in our credit rating, a downgrade in the credit rating of our outstanding debt securities, or any deterioration in credit
+quality could adversely affect our ability to renew existing, or obtain access to new, credit facilities and could increase the cost of such facilities, restrict access to our revolving credit
+facility and/or trigger termination rights or enhanced disclosure requirements under certain contracts to which we are a party. Any downgrade of our corporate credit rating could also cause
+counterparties to require us to post letters of credit or other additional collateral, make cash prepayments, or obtain a guarantee agreement, all of which would expose us to additional costs and/or
+could adversely affect our ability to comply with covenants or other obligations under any of our revolving credit facility, convertible debentures or unsecured notes or any other financing
+arrangements, borrowings or indebtedness (or could constitute an event of default under any such financing arrangements, borrowings or indebtedness that we may be unable to cure), any of which could
+have a material adverse effect on our business, results of operations and financial condition. Changes in our creditworthiness may affect the value of our common shares Changes to our perceived creditworthiness and ability to meet our required covenants on an on-going basis may affect the market price
+or value and the liquidity of our common shares. The future issuance of additional common shares could dilute existing shareholders From time to time, we may decide to issue additional common shares, redeem outstanding debt for common shares, or repay outstanding
+principal amounts under existing debt by issuing common shares. We may also, from time to time, decide to issue common shares to meet strategic objectives or in connection with acquiring assets or
+pursuing broader strategic options. The issuance of additional common shares may have a dilutive effect on shareholders and may adversely impact the price of our common shares. Volatile capital and credit markets may adversely affect our ability to raise capital on favorable
+terms and may adversely affect our business, results of operations, financial condition and cash flows Disruptions in the capital and credit markets in the United States, Canada or abroad can adversely affect our ability to access the
+capital markets. Our access to funds under our credit facility is dependent on the ability of the banks that are parties to the facility to meet their funding commitments. Those banks may not be able
+to meet their funding commitments if they experience shortages of capital and liquidity or if they experience excessive volumes of borrowing requests within a short period of time. Longer-term
+disruptions in the capital and credit markets as a result of turmoil in the financial services industry, volatility in securities trading markets and general economic conditions 24 Table of Contents could
+result in an inability to support our liquidity needs, including, but not limited to, the payment of any dividends, service of our debt obligations or financing of internal or external growth
+opportunities. Currently, because we no longer qualify as a "well-known seasoned issuer," which previously enabled us to, among other things, file automatically effective shelf registration
+statements, even if we were able to access the capital markets, any attempt to do so could be more expensive or subject to significant delays. See "We may not generate sufficient cash
+flow to pay dividends, if and when declared by our board of directors, service our debt obligations or implement our business plan, including financing internal or external growth opportunities." Our
+ability to arrange for financing on a recourse or non-recourse basis and the costs of such capital are dependent on numerous factors, some of which are beyond our control,
+including:  general industry, economic and capital market conditions;  the availability of bank credit;  investor confidence;  our financial condition, performance and prospects as well as companies in our industry or similar financial circumstances; and  changes in tax and securities laws which are conducive to raising capital. Should
+future access to capital not be available to us, either as a result of market conditions or our financial condition, we may not be able to pay dividends, service our debt
+obligations or finance internal or external growth opportunities, any of which would adversely affect our business, results of operations and financial condition. We have guaranteed the performance of some of our subsidiaries, which may result in substantial
+costs in the event of non-performance We have issued certain guarantees of the performance of some of our subsidiaries in certain situations, which obligates us to perform
+in the event that the subsidiaries do not perform. In the event of non-performance by the subsidiaries, we could incur substantial cost to fulfill our obligations under these guarantees. Such
+performance guarantees could have a material impact on our business, results of operations, financial condition and cash flows. See Notes 11 and 25 to the consolidated financial statements for
+information on our guarantee obligations. We have anti-takeover protections that may discourage, delay or prevent a change in control that
+could benefit our shareholders. The BCBCA and our Articles of Continuance contain provisions that could make it more difficult for a third party to acquire us without
+the consent of our Board of Directors ("Board"). These provisions include:  As a notice of meeting is required to include certain particulars in the case where a shareholder meeting is being requisitioned by
+shareholders, our Board must be given advance notice regarding special business that is to be brought by such requisitioning shareholders before the shareholder meeting. For special business, advance
+notice describing the special business to be discussed at the meeting must be provided and that notice must include any documents to be approved or ratified as an addendum or state that such document
+will be available for inspection at our records office or other reasonably accessible location;  Under the BCBCA, shareholders may make proposals for matters to be considered at the annual general meeting of shareholders, provided
+that such shareholders represent at least 1% of the voting shares of a company or such shares have a fair market value of at least Cdn$2,000. 25 Table of Contents Such
+proposals must be sent to us in advance of any proposed meeting by delivering a timely written notice in proper form to our registered office. The notice must include information on the business
+the shareholder intends to bring before the meeting. These provisions could have the effect of delaying until the next shareholder meeting shareholder actions that are favored by the holders of a
+majority of our outstanding voting securities; and  Casual vacancies on our Board can be approved prior to the next annual meeting of shareholders by the directors of our Board of
+Directors. If
+we experience a change of control, unless we elect to make a voluntary prepayment of the term loan under the Senior Secured Credit Facilities, the Partnership will be required to
+offer each electing lender to prepay such lender's term loans under the Senior Secured Credit Facilities at a price equal to 101% of par. Additionally, a change in control will permit holders of our
+convertible debentures to require that we purchase the debentures upon the conditions set forth in the respective indenture governing the debentures, which may discourage, delay or prevent a change of
+control or the acquisition of a substantial block of our common shares. In addition, some of our PPAs or other commercial agreements may contain change of control provisions. We
+have also adopted a shareholder rights plan that may delay or prevent a change of control or the acquisition of a substantial block of our common shares and may make any future
+unsolicited acquisition attempt more difficult. Under the rights plan:  The rights will generally become exercisable if a person or group acquires 20% or more of Atlantic Power's outstanding common shares
+(unless such transaction is a "permitted bid" or a transaction to which the application of the shareholders rights plan has been waived pursuant to the terms of the plan) and thus becomes an
+"acquiring person." A "permitted bid" is an offer pursuant to which, among other things, such person or group agrees to hold the offer open to all shareholders for a period longer than the statutorily
+required period;  Each right, when exercisable, will entitle the holder, other than the "acquiring person," to acquire shares of Atlantic Power's common
+shares at a significant discount to the then-prevailing market price; and  As a result, the rights plan may cause substantial dilution to a person or group that becomes an "acquiring person" and may discourage
+or delay a merger or acquisition that shareholders may consider favorable, including transactions in which shareholders might otherwise receive a premium for their shares. Our common shares may not continue to be qualified investments under Canadian tax laws There can be no assurance that our common shares will continue to be qualified investments under relevant Canadian tax laws for trusts
+governed by registered retirement savings plans, registered retirement income funds, deferred profit sharing plans, registered education savings plans, registered disability savings plans and tax-free
+savings accounts. Canadian tax laws impose penalties for the acquisition or holding of non-qualified or ineligible investments. We are subject to Canadian tax As a Canadian corporation, we are generally subject to Canadian federal, provincial and other taxes, and dividends paid by us are
+generally subject to Canadian withholding tax if paid to a shareholder that is not a resident of Canada. We hold promissory notes from our U.S. holding companies (the "Intercompany Notes") and are
+required to include, in computing our taxable income, interest on the Intercompany Notes. 26 Table of Contents Canadian federal income tax laws and policies could be changed in a manner which adversely affects
+holders of our common shares There can be no assurance that Canadian federal income tax laws and Canada Revenue Agency administrative policies respecting the
+Canadian federal income tax consequences generally applicable to us, to our subsidiaries, or to a U.S. or Canadian holder of common shares will not be changed in a manner which adversely affects
+holders of our common shares. Our current structure may be subject to additional U.S. federal income tax liability Under our current structure, our subsidiaries that are incorporated in the United States are subject to U.S. federal income tax on
+their income at regular corporate rates (currently as high as 35%, plus state and local taxes), and two of our U.S. holding companies will claim interest deductions with respect to the Intercompany
+Notes in computing its income for U.S. federal income tax purposes. To the extent any interest expense under the Intercompany Notes is disallowed or is otherwise not deductible, the U.S. federal
+income tax liability of our U.S. holding companies will increase, which could materially affect the after-tax cash available to distribute to us. We
+received advice from our U.S. tax counsel at the time of the issuance, based on certain representations by us and our U.S. holding companies and determinations made by our independent
+advisors, as applicable, that the Intercompany Notes should be treated as debt for U.S. federal income tax purposes. However, it is possible that the Internal Revenue Service (the "IRS") could
+successfully challenge these positions and assert that any of these arrangements should be treated as equity rather than debt for U.S. federal income tax purposes or that the interest on such
+arrangements is otherwise not deductible. In this case, the otherwise deductible interest would be treated as non-deductible distributions and, in the case of the Intercompany Notes, may be subject to
+U.S. withholding tax to the extent our respective U.S. holding company had current or accumulated earnings and profits. The determination of debt or equity treatment for U.S. federal income tax
+purposes is based on an analysis of the facts and circumstances. There is no clear statutory definition of debt for U.S. federal income tax purposes, and its characterization is governed by principles
+developed in case law, which analyzes numerous factors that are intended to identify the nature of the purported creditor's interest in the borrower. Not
+all courts have applied this analysis in the same manner, and some courts have placed more emphasis on certain factors than other courts have. To the extent it were ultimately
+determined that our interest expense on the Intercompany Notes were disallowed, our U.S. federal income tax liability for the applicable open tax years would materially increase, which could
+materially affect the after-tax cash available to us to distribute. Alternatively, the IRS could argue that the interest on the Intercompany Notes exceeded or exceeds an arm's length rate, in which
+case only the portion of the interest expense that does not exceed an arm's length rate may be deductible and the remainder may be subject to U.S. withholding tax to the extent our U.S. holding
+companies had current or accumulated earnings and profits. We have received advice from independent advisors that the interest rate on these debt instruments was and is, as applicable, commercially
+reasonable under the circumstances, but the advice is not binding on the IRS. Furthermore,
+our U.S. holding companies' deductions attributable to the interest expense on the Intercompany Notes may be limited by the amount by which each U.S. holding company's net
+interest expense (the interest paid by each U.S. holding company on all debt, including the Intercompany Notes, less its interest income) exceeds 50% of its adjusted taxable income (generally, U.S.
+federal taxable income before net interest expense, net operating loss carryovers, depreciation and amortization). Any disallowed interest expense may currently be carried forward to future years. In
+addition, if our U.S. holding companies do not make regular interest payments as required under these debt agreements, other limitations on the deductibility of interest under U.S. federal income tax
+laws 27 Table of Contents could
+apply to defer and/or eliminate all or a portion of the interest deduction that our U.S. holding companies would otherwise be entitled to. Our
+U.S. holding companies have existing net operating loss carryforwards that we can utilize to offset future taxable income. Some of these loss carryforwards are subject to an annual
+limitation on their use. While we expect these losses will be available to us as a future benefit, in the event that they are successfully challenged by the IRS or subject to additional future
+limitations, including as a result of implementation of any of the potential options we are considering, our ability to realize these benefits may be limited. A reduction in our net operating losses,
+or additional limitations on our ability to use such losses, may result in a material increase in our future income tax liability. Atlantic Power Preferred Equity Ltd. is subject to Canadian tax, as is Atlantic Power's
+income from the Partnership As a Canadian corporation, we are generally subject to Canadian federal, provincial and other taxes. See "Risks Related to Our
+StructureWe are subject to Canadian tax." We are required to include in computing our taxable income any income earned by the Partnership. In addition, Atlantic Power Preferred
+Equity Ltd., a subsidiary of the Partnership, is also a Canadian corporation and is generally subject to Canadian federal, provincial and other taxes. Atlantic Power Preferred
+Equity Ltd. is liable to pay its applicable Canadian taxes. We are subject to significant pending civil litigation, which if decided against us, could require
+us to pay substantial judgments or settlements and incur expenses that could have a material adverse effect on our business, results of operations, financial condition and liquidity. In addition to being subject to litigation in the ordinary course of business, we are party to numerous legal proceedings, including
+securities class actions, from time to time. On March 8, 14, 15 and 25, 2013 and April 23, 2013, five purported securities fraud class action complaints related to, among other things,
+claims that we made materially false and misleading statements and omissions regarding the sustainability of our common share dividend that artificially
+inflated the price of our common shares were filed in the United States District Court for the District of Massachusetts against us and certain of our current and former executive officers. On
+March 19, 2013 and April 2, 2013, two notices of action relating to purported Canadian securities class action claims were also issued by alleged investors in Atlantic Power common
+shares, and in one of the actions, holders of Atlantic Power convertible debentures, in the Ontario Superior Court of Justice in the Province of Ontario and on April 8, 2013, a similar claim,
+issued by alleged investors in Atlantic Power common shares, seeking to initiate a purported class action was filed in the Superior Court of Quebec in the Province of Quebec against us and certain of
+our current and former executive officers. On May 2, 2013, a statement of claim relating to the April 2, 2013 notice of action was filed with the Ontario Superior Court of Justice in the
+Province of Ontario. The allegations of these purported class actions are essentially the same as those asserted in the United States. These
+litigations may be time consuming, expensive and distracting from the conduct of our daily business. Due to the nature of these proceedings, the lack of precise damage claims
+(other than in certain Canadian Actions, as defined in "Item 3. Legal Proceedings") and the type of claims we are subject to, we are unable to determine the ultimate or maximum amount of
+monetary liability or financial impact, if any, to us in these legal matters, which unless otherwise described in "Item 3. Legal Proceedings", seek damages from the defendants of material or
+indeterminate amounts. As a result, we are also unable to reasonably estimate the possible loss or range of losses, if any, arising from these litigations. Although we are unable at this time to
+estimate what our ultimate liability in these matters may be, it is possible that we will be required to pay substantial judgments or settlements and incur expenses that could have a material adverse
+effect on our business, results of operations, financial condition and liquidity. We intend to defend vigorously against these actions. For additional information with respect to these unresolved
+matters, see "Item 3. Legal Proceedings". 28 Table of Contents Risks Related to Our Business and Our Projects The expiration or termination of our power purchase agreements could have a material adverse impact
+on our business, results of operations and financial condition Power generated by our projects, in most cases, is sold under PPAs that expire at various times. Currently, our PPAs are scheduled to
+expire between December 31, 2017 and December 31, 2037. See Item 1. BusinessOur Organization and Segments for details about our projects' PPAs and related expiration
+dates. In addition, these PPAs may be subject to termination prior to expiration in certain circumstances, including default by the project. When a PPA expires or is terminated, it may be difficult
+for us to secure a new PPA on acceptable terms or timing, if at all, the price received by the project for power under subsequent arrangements may be reduced significantly, or there may be a delay in
+securing a new PPA until a significant time after the expiration
+of the original PPA at the project. It is possible that subsequent PPAs may not be available at prices that permit the operation of the project on a profitable basis. If this occurs, the affected
+project may temporarily or permanently cease operations and the value of the project may be impaired such that we would be required to record an impairment loss under applicable accounting rules. See
+"Impairment of goodwill or long-lived assets could have a material adverse effect on our business, results of operations and financial condition". The
+loss of significant PPAs, our inability to secure new PPAs on favorable terms or at all, or the breach by the other parties to such contracts that prevents us from fulfilling our
+obligations thereunder, could have a material adverse impact on our business, results of operations and financial condition. Our projects depend on their electricity and thermal energy customers and there is no assurance that
+these customers will perform their obligations or make required payments Each of our projects relies on one or more PPAs, steam sales agreements or other agreements with one or more utilities or other
+customers for a substantial portion of its revenue. At times, we rely on a single customer or a limited number of customers to purchase all or a significant portion of a project's output. In 2014, the
+largest customers of our power generation projects, including projects recorded under the equity method of accounting, are IESO, San Diego Gas & Electric, and BC Hydro which purchase
+approximately 9.8%, 5.6% and 6.0%, respectively, of the net electric generation capacity of our projects. If a customer stops purchasing output from our power generation projects or purchases less
+power than anticipated, such customer may be difficult to replace, if at all. Further concentration of our customers would increase our dependence on any one customer. Our cash flows and results of
+operations, including the amount of cash available to make payments on our indebtedness, are highly dependent upon customers under such agreements fulfilling their contractual obligations. There is no
+assurance that these customers will perform their contractual obligations or make required payments. Further,
+our customers generally have investment-grade credit ratings, as measured by Standard & Poor's. Customers that have assigned ratings at the top end of the range have, in
+the opinion of the rating agency, the strongest capability for payment of debt or payment of claims, while customers at the bottom end of the range have the weakest capacity. Agency ratings are
+subject to change, and there can be no assurance that a ratings agency will continue to rate the customers, and/or maintain their current ratings. A security rating may be subject to revision or
+withdrawal at any time by the rating agency, and each rating should be evaluated independently of any other rating. We cannot predict the effect that a change in the ratings of the customers will have
+on their liquidity or their ability to pay their debts or other obligations. 29 Table of Contents Certain of our projects are exposed to fluctuations in the price of electricity, which may have a
+material adverse effect on the operating margin of these projects and on our business, results of operations and financial condition Those of our projects operating without a PPA or with PPAs based on spot market pricing for some or all of their output will be exposed
+to fluctuations in the wholesale price of electricity. In addition, should any of the long-term PPAs expire or terminate, the relevant project will be required to either negotiate a new PPA or sell
+into the electricity wholesale market, in which case the prices for electricity will depend on market conditions at the time, which may not be favorable. The open market wholesale prices for
+electricity are very volatile. Long and short-term power prices may fluctuate substantially due to other factors outside of our control, including:  changes in generation capacity in the electricity markets, including the addition of new supplies of power from existing competitors
+or new market entrants as a result of the development of new generation facilities, expansion or retirement of existing facilities or additional transmission capacity;  electric supply disruptions, including plant outages and transmission disruptions;  fuel transportation capacity constraints;  weather conditions;  changes in the demand for power or in patterns of power usage;  development of new fuels and new technologies for the production or storage of power;  development of new technologies for the production of natural gas;  availability of competitively priced renewable fuel sources;  available supplies of natural gas, crude oil and refined products, and coal;  interest rate and foreign exchange rate fluctuation;  availability and price of emission credits;  geopolitical concerns affecting global supply of oil and natural gas;  general economic conditions which impact energy consumption in areas where we operate; and  power market, fuel market and environmental regulation and legislation. The
+market price for electricity is affected by changes in demand for electricity. Factors such as economic slowdown, worse than expected economic conditions, milder than normal weather,
+the growth of energy efficiency and efforts aimed at energy conservation, among others, could reduce energy demand or significantly slow the growth in demand for electricity, thereby reducing the
+market price for electricity. A reduction in demand could contribute to conditions that no longer support the continued operation of certain power generation projects, which could adversely affect our
+results of operations through increased depreciation rates, impairment charges and accelerated future decommissioning costs, among others. We
+are also exposed to market power prices at the Selkirk, Morris and Chambers projects. At Chambers, our utility customer has the right to sell a portion of the plant's output into the
+spot power market if it is economical to do so, and the Chambers project shares in the profits from these sales. In addition, during periods of low spot electricity prices the utility takes less
+generation, which negatively affects the project's operating margin. At Morris, approximately 68% of the facility's capacity is currently not contracted. The facility can generate and sell this excess
+capacity into the grid at market prices. If market prices do not justify the increased generation, the project has no requirement to sell 30 Table of Contents any
+excess capacity. At Selkirk, none of the capacity of the facility is contracted and is therefore sold at market prices or not sold at all if market prices do not support the profitable operation
+of that portion of the facility. As a result, fluctuations in the price of electricity may have a material adverse effect on the operating margins of these facilities and on our business, results of
+operations and financial condition. Our projects depend on third-party suppliers under fuel supply agreements, and increases in fuel
+costs may adversely affect the profitability of the projects The amount of energy generated at the projects is highly dependent on suppliers under certain fuel supply agreements fulfilling their
+contractual obligations. The loss of significant fuel supply agreements or an inability or failure by any supplier to meet its contractual commitments may adversely affect our results. Upon
+the expiration or termination of existing fuel supply agreements, we or our project operators will have to renegotiate these agreements or may need to source fuel from other
+suppliers. We may not be able to renegotiate these agreements or enter into new agreements on similar terms. There can be no assurance as to availability of the supply or pricing of fuel under new
+arrangements, and it can be very difficult to accurately predict the future prices of fuel. If our suppliers are unable to perform their contractual obligations or we are unable to renegotiate our
+fuel supply agreements, we may seek to meet our fuel requirements by purchasing fuel at market prices, exposing us to market price volatility and the risk that fuel and transportation may not be
+available during certain periods at any price. Changes in market prices for natural gas, biomass, coal and oil may result from the following:  weather conditions;  seasonality;  demand for energy commodities and general economic conditions;  additional generating capacity;  disruption or other constraints or inefficiencies of electricity, gas or coal transmission or transportation;  availability and levels of storage and inventory for fuel stocks;  natural gas, crude oil, refined products and coal production levels;  changes in market liquidity;  governmental regulation and legislation; and  our creditworthiness and liquidity, and the willingness of fuel suppliers/transporters to do business with us. Revenues
+earned by our projects may be affected by the availability, or lack of availability, of a stable supply of fuel at reasonable or predictable prices. The price we can obtain for
+the sale of energy may not rise at the same rate, or may not rise at all, to match a rise in fuel or delivery costs. To the extent possible, our projects attempt to match fuel cost setting mechanisms
+in supply agreements to energy payment formulas in the PPA and to provide for indexing or pass-through of fuel costs to customers. In cases where there is no pass-through of fuel costs, we often
+attempt to mitigate the market price risk of changing commodity costs through the use of hedging strategies. To the extent that costs are not matched well to PPA energy payments, pass through of fuel
+costs is not allowed or hedging strategies are unsuccessful, increases in fuel costs may adversely affect our results of operation. This may have a material adverse effect on our business, results of
+operations and financial condition. Our energy payments at our Orlando project are subject to fluctuations as the energy payments are 31 Table of Contents comprised
+of a fuel component based on the cost of coal consumed at a nearby coal-fired generating station. Our projects may not operate as planned The ability of our projects to meet availability requirements and generate the required amount of power to be sold to customers under
+the PPAs are primary determinants of the amount of cash that will be distributed from the projects to us, and that will in turn be available for any dividends paid to our shareholders, as debt service
+obligations, investments in internal or external growth opportunities or funding of our operations. There is a risk of equipment failure due to wear and tear, more frequent and/or larger than
+forecasted downtimes for equipment maintenance and repair, unexpected construction delays, latent defect, design error or operator error, or force majeure events, among other things, which could
+adversely affect revenues and cash flow. Additionally, older equipment, even if maintained in accordance with good practices, is subject to operational failure, including events that are beyond our
+control, and may require unplanned expenditures to operate efficiently. Unplanned outages of generation facilities, including extensions of scheduled outages due to mechanical failures or other
+problems occur from time to time and are an inherent risk of our business. Unplanned outages typically increase our operation and maintenance expenses and may reduce our revenues or require us to
+incur significant costs as a result of obtaining replacement power from third parties in the open market to satisfy our obligations. In
+general, our power generation projects transmit electric power to the transmission grid for purchase under the PPAs through a single step up transformer. As a result, the transformer
+represents a single point of vulnerability and may exhibit no abnormal behavior in advance of a catastrophic failure that could cause a temporary shutdown of the facility until a replacement
+transformer can be found or manufactured. To the extent that we suffer disruptions of plant availability and power generation due to transformer failures or for any other reason, there could be a
+material adverse effect on our business, results of operations and financial condition and the amount of available cash flow may be adversely affected. We
+provide letters of credit under our $210 million Revolving Credit Facility for contractual credit support at some of our projects. If the projects fail to perform under the
+related project-level agreements, the letters of credit could be drawn and we would be required to reimburse our senior lenders for the amounts drawn. The effects of weather and climate change may adversely impact our business, results of operations
+and financial condition Our operations are affected by weather conditions, which directly influence the demand for electricity and natural gas and affect the
+price of energy commodities. Temperatures above normal levels in the summer tend to increase summer cooling electricity demand and revenues, and temperatures below normal levels in the winter tend to
+increase winter heating electricity and gas demand and revenues. Moderate temperatures adversely affect the usage of energy and resulting revenues. To the extent that weather is warmer in the summer
+or colder in the winter than assumed, we may require greater resources to meet our contractual commitments. These conditions, which cannot be accurately predicted, may have an adverse effect on our
+business, results of operations and financial condition by causing us to seek additional capacity at a time when wholesale markets are tight or to seek to sell excess capacity at a time when markets
+are weak. To
+the extent climate change contributes to the frequency or intensity of weather related events, our operations and planning process could be impacted, which may adversely impact our
+business, results of operations and financial condition. 32 Table of Contents Revenues from windpower projects are highly dependent on suitable wind and associated weather
+conditions and in the absence of such suitable conditions, our wind energy projects may not meet anticipated production levels, which could adversely affect our forecasted revenues We own interests in five windpower projects, which are subject to substantial risks. The energy and revenues generated at a wind energy
+project are highly dependent on climatic conditions, particularly wind conditions, which are variable and difficult to predict. Turbines will only operate within certain wind speed ranges that vary by
+turbine model and manufacturer, and there is no assurance that the wind resources at any given project site will fall within such specifications. We
+base our investment decisions with respect to each wind energy project on the findings of wind studies conducted on-site before acquiring or before starting construction. However,
+actual climatic conditions at a project site, particularly wind conditions, may not conform to the findings of these wind
+studies, and, therefore, our wind energy projects may not meet anticipated production levels, which could adversely affect our forecasted revenues. Revenues from hydropower projects are highly dependent on suitable precipitation and associated
+weather conditions and in the absence of such suitable conditions, our hydropower projects may not meet anticipated production levels, which could adversely affect our forecasted revenues. We own interests in four hydropower projects, which are subject to substantial resource risks. The energy and revenues generated at a
+hydro energy project are highly dependent on climatic conditions, particularly precipitation patterns, which are variable and difficult to predict for any given year. We base our investment decisions
+with respect to each hydro energy project on the historical stream flow records for the area. However, actual climatic conditions in any given year may not meet the historical averages which would
+impair our ability to meet anticipated production levels, which could adversely affect our forecasted revenues. U.S., Canadian and/or global economic conditions and uncertainty could adversely affect our
+business, results of operations and financial condition Our business may be affected by changes in U.S., Canadian and/or global economic conditions, including inflation, deflation, interest
+rates, availability of capital, consumer spending rates and the effects of governmental initiatives to manage economic conditions. Uncertainty about global economic conditions may cause consumers to
+alter behaviors that may directly or indirectly reduce energy spending, which could have a material adverse effect on demand for our product. Volatility in the financial markets and the deterioration
+of national and global economic conditions may have a material adverse effect on our business, results of operations and financial condition. Financial
+markets can also be, and have been in the past, affected by concerns over U.S. fiscal policy, federal deficit and related budget and tax issues. These concerns continue to
+raise discussions relating to the stability of the long-term sovereign credit rating of the United States. Any actions taken by the U.S. federal government regarding the federal deficit or any action
+taken or threatened by ratings agencies, could significantly impact the global and U.S. economies and financial markets. Any such economic downturn could have a material adverse effect on our
+business, results of operations and financial condition. Risks that are beyond our control, including but not limited to geopolitical crisis, acts of
+terrorism or related acts of war, natural disasters or other catastrophic events could have a material adverse effect on our business, results of operations, ability to raise capital and financial
+condition Man-made events, such as acts of terror and governmental responses to acts of terror, could adversely affect general economic
+conditions, which could have a material impact on our business, results of operations and financial condition. Strategic targets, such as energy-related facilities, may be 33 Table of Contents at
+greater risk of future terrorist activities than other domestic targets. Our projects may be targets of terrorist activities, as well as events occurring in response to or in connection with them,
+that could cause environmental repercussions and/or result in full or partial disruption of the ability of the projects to generate and/or transmit electricity. Any such environmental repercussions or
+other disruption could result in a decline in energy consumption and significant decrease in revenues or significant reconstruction or remediation costs, which could have a material adverse effect on
+our business, results of operations and financial condition. Our
+projects could also be impacted by natural disasters, such as earthquakes, floods, lightning activity, hurricanes, tropical storms, winter storms, tornadoes, wind, seismic activity,
+more frequent and more extreme weather events, changes in temperature and precipitation patterns, changes to ground and surface water availability, sea level rise and other related phenomena. Severe
+weather or other natural disasters could be destructive or otherwise disrupt our operations or compromise the physical or cyber security of our facilities, which could result in increased costs and
+could adversely affect our ability to manage our business effectively. We maintain standard insurance against catastrophic losses, which are subject to deductibles, limits and exclusions; however, our
+insurance coverage may not be sufficient to cover all of our losses. Additionally, future significant weather-related events, natural disasters and other similar events that have an adverse effect on
+the economy could have a material adverse effect on our business, results of operations, ability to raise capital and financial condition. Our business faces significant operating hazards, natural disaster risks and other hazards such as
+fire and explosions and insurance may not be sufficient to cover all losses Our business involves significant operating hazards related to the generation of electricity, including hazards related to acquiring,
+transporting and unloading fuel,
+operating large pieces of rotating equipment, structural collapse, machinery failure, and delivering electricity to transmission and distribution systems. In addition, we are exposed to natural
+disaster risks and other hazards such as fire and explosions. These and other hazards can cause significant personal injury or loss of life, severe damage to and destruction of property, plant and
+equipment, disruption of communication systems and technology, contamination of, or damage to, the environment and suspension of operations. The occurrence of any one of these events may result in our
+being subject to various litigation matters, including regulatory and administrative proceedings, asserting claims for substantial damages, including for environmental cleanup costs, personal injury
+and property damage and fines and/or penalties. While we believe that the projects maintain an amount of insurance coverage that is adequate and similar to what would be maintained by a prudent
+owner/operator of similar facilities, and are subject to deductibles, limits and exclusions which are customary or reasonable given the cost of procuring insurance, current operating conditions and
+insurance market conditions, there can be no assurance that such insurance will continue to be offered on an economically feasible basis, nor that all events that could give rise to a loss or
+liability are insurable or insured, nor that the amounts of insurance will at all times be sufficient to cover each and every loss or claim that may occur involving our assets or operations of our
+projects. Any losses in excess of those covered by insurance, which may include a significant judgment against any project or project operator, the loss of a significant permit or other approval or
+the imposition of a significant fine or penalty, could have a material adverse effect on our business, results of operations, financial condition and future prospects. Our operations are subject to the provisions of various energy laws and regulations Our business is subject to extensive Canadian and U.S. federal, state, provincial and local laws and regulations. Compliance with the
+requirements under these various regimes may cause us to incur significant additional costs, and failure to comply with such requirements could result in the shutdown of the non-complying facility,
+the imposition of liens, fines and/or civil or criminal liability. 34 Table of Contents Generally,
+in the United States, our projects are subject to regulation by the FERC regarding the terms and conditions of wholesale service and rates, as well as by state regulators
+regarding the prudency of utilities entering into PPAs entered into by QF projects and the siting of the generation facilities. The majority of our generation is sold by QF projects under PPAs that
+required approval by state authorities. The
+EP Act of 2005 also limited the requirement that electric utilities buy electricity from QFs in certain markets that have certain competitive characteristics, potentially making it
+more difficult for our current and future projects to negotiate favorable PPAs with these utilities. If
+any project were to lose its status as a QF, it would lose its ability to make sales to utilities on favorable terms. Such project may no longer be entitled to exemption from
+provisions of PUHCA of 2005 or from certain provisions of the Federal Power Act and state law and regulations. Loss of QF status could also trigger defaults under covenants to maintain that status in
+the PPAs and project-level debt agreements, and if not cured within allowed cure periods, could result in termination of agreements, penalties or acceleration of indebtedness under such agreements. In
+such event, our business, results of operations and financial condition could be negatively impacted. Notwithstanding
+their status as QFs and EWGs, our facilities remain subject to numerous FERC regulations, including those relating to power marketer status, approval of mergers,
+acquisitions and investments relating to utilities, and mandatory reliability rules and regulations delegated to NERC. Any violation of these rules and regulations could subject us to significant
+fines and penalties and negatively impact our business, results of operations and financial condition. The
+EP Act of 2005 and other federal and state programs also may provide incentives for various forms of electric generation technologies, which may subsidize our competitors. The U.S.
+regulatory environment has undergone significant changes in the last several years due to state and federal policies affecting wholesale competition and the creation of incentives for the addition of
+large amounts of new renewable energy generation and, in some cases, transmission. These changes are ongoing and we cannot predict the future design of the wholesale power markets or the ultimate
+effect that the changing regulatory environment will have on our business. In addition, in some of these markets, interested parties have proposed material market design changes, including the
+elimination of a single clearing price mechanism as well as proposals to re-regulate the markets. Other proposals to re-regulate may be made and legislative or other attention to the electric power
+market restructuring process may delay or reverse the deregulation process. If competitive restructuring of the electric power markets is reversed, discontinued, or delayed, or new law or other future
+regulatory developments are introduced, our business, results of operations and financial condition could be negatively impacted. Generally,
+in Canada, our projects are subject to energy regulation primarily by the relevant provincial authorities. In addition, our projects are subject to Canada's corporate,
+commercial and other laws of general application to businesses. Our projects require licenses, permits and approvals which can be in addition to any required environmental permits. No assurance can be
+provided that we will be able to obtain, comply with and renew, as required, all necessary licenses, permits and approvals for these facilities. If we cannot comply with and renew as required all
+applicable licenses, permits and approvals, our business, results of operations and financial condition could be adversely affected. Additionally,
+public policy mechanisms and favorable regulatory incentives in the United States and Canada, including production and investment tax credits, cash grants, loan guarantees,
+accelerated depreciation tax benefits, renewable portfolio standards, and carbon trading plans, impact the viability of our renewable energy projects. As a result of budgetary constraints, political
+factors or otherwise, governments from time to time may review their policies that support renewable energy and consider actions to make the policies less conducive to the development and operation of
+renewable energy facilities. In the U.S., the federal production and investment tax credits were allowed to expire at the end of 2013, and although partially extended in December 2014 to projects that
+are under construction 35 Table of Contents prior
+to January 1, 2015, their continued availability is uncertain. Any reductions to, or the elimination of, governmental incentives that support renewable energy, or the imposition of
+additional taxes or other assessments on renewable energy, could result in a material adverse effect on our business, results of operations and financial condition. The
+introductions of new laws, or other future regulatory developments, may have a material adverse impact on our business, operations or financial condition. Risks
+with respect to the two Canadian provinces where we currently have projects are addressed further below. (i) British Columbia The
+Government of British Columbia has a number of specific statutes and regulations that govern the generation, transmission and distribution of electricity
+within British Columbia. Our projects in that province are subject to these laws. These statutes can be changed by act of the provincial legislature and the regulations may be changed by the
+provincial cabinet. Such changes could have a material effect on our projects. The Clean Energy Act , which became law in British Columbia in 2010, sets out British Columbia's energy objectives, one of which is the
+generation of at least 94% of the electricity in British Columbia from clean or renewable resources. BC Hydro is required to submit resource plans outlining how it will meet these objectives and
+requires the province to be energy self-sufficient by 2016. BC Hydro is generally required to acquire all new power (beyond what it already generates from existing BC Hydro plants) from independent
+power producers. Two of our three British Columbia projects currently sell all of their electricity to BC Hydro, and the third project sells substantially all of its electricity to BC Hydro.
+Therefore, changes to BC Hydro's energy procurement policies and financial difficulties of or regulatory intervention in respect of BC Hydro and/or the province's energy objectives could impact the
+market for electricity generated by our British Columbia projects although BC Hydro is currently limited by regulation to undertaking efficiency improvements at its existing facilities and only
+undertaking development of new generation facilities/projects with BCUC approval. There is a risk that the regulatory regime could adversely affect the amount of power that BC Hydro purchases from our
+projects and the competitive environment or the price at which BC Hydro is willing to purchase power from our British Columbia projects The Utilities Commission Act governs the BCUC, which is responsible for the regulation of British Columbia's public energy utilities,
+which include publicly owned and investor-owned utilities ( i.e., independent power producers). All contracts for electricity supply, including
+those between independent power producers and BC Hydro, must be filed with and approved by the BCUC as being "in the public interest." The BCUC may hold a hearing in this regard. Furthermore, the BCUC
+may impose conditions to be contained in agreements entered into by public utilities for electricity. Consequently, power procurement is controlled by the BCUC and, as a result, our potential
+contracts with BC Hydro may be subject to terms that adversely affect us. (ii) Ontario The
+government of Ontario has a number of specific statutes and regulations that govern our projects in that province. The statutes can be changed by act of
+the provincial legislature and the regulations may be changed by the provincial cabinet. Such changes could have a material effect on our projects. 36 Table of Contents In Ontario, the OEB is an administrative tribunal with authority to grant or renew, and set the terms for, licenses with respect to electricity generation
+facilities, including our projects. No person is permitted to own or operate a large or medium-scale electricity generation facility in Ontario without a license from the OEB. While all of our Ontario
+projects are currently licensed, the OEB has the authority to effectively modify the licenses by adopting "codes" that are deemed to form part of the licenses. Furthermore, any violations of the
+license or other irregularities in the relationship with the OEB can result in fines. While
+the OEB provides reports to the Ontario Minister of Energy, it generally operates independently from the government. However, the Minister may issue policy directives (with Cabinet
+approval) concerning general policy and the objectives to be pursued by the OEB, and the OEB is required to implement such policy directives. Thus, the OEB's regulation of our projects is subject to
+potential political interference, to a degree. A
+number of other regulators and quasi-governmental entities play a role, including the IESO, Hydro One, the ESA and OEFC. All these agencies may affect our projects. Noncompliance with federal reliability standards may subject us and our projects to penalties Many of our operations are subject to the regulations of NERC, a self-regulatory non-governmental organization which has statutory
+responsibility to regulate bulk power system users and generation and transmission owners and operators. NERC groups the users, owners, and operators of the bulk power system into 17 categories, known
+as functional entitiese.g., Generator Owner, Generator Operator, Purchasing-Selling Entity, etc.according to the tasks they perform. The NERC Compliance Registry lists
+the entities responsible for complying with federal mandatory reliability standards and the FERC, NERC, or a regional reliability organization may assess penalties against any responsible entity found
+to be in noncompliance. Violations may be discovered or identified through self-certification, compliance audits, spot checking, self-reporting, compliance investigations by NERC (or a regional
+reliability organization) and the FERC, periodic data submissions, exception reporting, and complaints. The penalty that could be imposed for violating the requirements of the standards is a function
+of the Violation Risk Factor. Penalties for the most severe violations can reach as high as $1 million per violation, per day, and our projects could be exposed to these penalties if violations
+occur, which could have a material adverse effect on our business, results of operations and financial condition. Our projects are subject to significant environmental and other regulations Our projects are subject to numerous and significant federal, state, provincial and local laws, including statutes, regulations,
+by-laws, guidelines, policies, directives and other requirements governing or relating to, among other things: air emissions; discharges into water; ash disposal; the storage, handling, use,
+transportation and distribution of dangerous goods and hazardous, residual and other regulated materials, such as chemicals; the prevention of releases of hazardous materials into the environment; the
+prevention, presence and remediation of hazardous materials in soil and groundwater, both on and off site; land use and zoning matters; and workers' health and safety matters. Our facilities could
+experience incidents, malfunctions or other unplanned events that could result in spills or emissions in excess of permitted levels and result in personal injury, penalties and property damage. As
+such, the operation of our projects carries an inherent risk of environmental, health and safety liabilities (including potential civil actions, compliance or remediation orders, fines and other
+penalties), and may result in the projects being involved from time to time in administrative and judicial proceedings relating to such matters. We have implemented environmental, health and safety
+management programs designed to regularly improve environmental, health and safety performance, but there is no guarantee that such programs will fully and effectively eliminate the inherent risk of
+environmental, health and safety liabilities related to the operation of our projects. 37 Table of Contents Environmental
+laws and regulations have generally become more stringent over time, and this trend may continue. In the United States, the Clean Air Act and related regulations and
+programs of the Environmental Protection Agency (the "EPA") extensively regulate the air emissions of sulfur dioxide, nitrogen oxides, mercury and other compounds by power plants. In July 2011, the
+EPA issued its final Cross-State Air Pollution Rule ("CSAPR"), which replaces its prior Clean Air Interstate Rule and requires 27 states and the District of Columbia to curb emissions of sulfur
+dioxide and nitrogen oxides from power plants through participation in a cap and trade system or more aggressive state-by-state emissions limits. In November 2014, the EPA issued a ministerial rule
+setting a schedule for implementation of the CSAPR beginning in 2015. Other more stringent EPA air emission regulations currently being implemented include the more stringent national ambient air
+quality standards for sulfur dioxide, issued in June 2010, and for fine particulate matter, issued in December 2012, and the new mercury and air toxics emissions standards for power plants, issued in
+December 2011. Meeting these new standards, when implemented, may have a material adverse impact on our business, results of operations and financial condition. In
+December 2014, the EPA issued its final regulations governing disposal of coal ash in landfills and impoundments. The final rule affirmed the historic treatment of coal ash as
+non-hazardous solid waste but establishes new requirements governing structural integrity, groundwater protection, operating criteria, recordkeeping and reporting, and closure for such landfills and
+impoundments. We are currently assessing the increased compliance obligations and associated costs to our 40% owned coal-fired facility. Similar
+increasingly stringent environmental regulations also apply to our projects in British Columbia and Ontario. Significant
+costs may be incurred for either capital expenditures or the purchase of allowances under any or all of these programs to keep the projects compliant with environmental laws
+and regulations. Some of our projects' PPAs do not allow for the pass through of emissions allowance or emission reduction capital expenditure costs. If it is not economical to make those
+expenditures, it may be necessary to retire or mothball facilities, or restrict or modify our operations to comply with more stringent standards. Our
+projects have obtained environmental permits and other approvals that are required for their operations. Compliance with applicable environmental laws, regulations, permits and
+approvals and material future changes to them could materially impact our businesses. Although we believe the operations of the projects are currently in material compliance with applicable
+environmental laws, licenses, permits and other authorizations required for the operation of the projects, and although there are environmental monitoring and reporting systems in place with respect
+to all the projects, there is no guarantee that more stringent laws will not be imposed, that there will not be more stringent enforcement of applicable laws or that such systems may not fail, which
+may result in material expenditures. Failure by the projects to comply with any environmental, health or safety requirements, or increases in the cost of such compliance, including as a result of
+unanticipated liabilities or expenditures for investigation, assessment, remediation or prevention, could result in additional expense, capital expenditures, restrictions and delays in the projects'
+activities, the extent of which
+cannot be predicted and which could have a material adverse effect on our business, results of operations and financial condition. If additional regulatory requirements are imposed on energy companies mandating limitations on
+greenhouse gas emissions or requiring efficiency improvements, such requirements may result in compliance costs that alone or in combination could make some of our projects uneconomical to maintain or
+operate The EPA, other regulatory agencies, environmental advocacy groups and other organizations are focusing considerable attention on
+greenhouse gas emissions from power generation facilities and their 38 Table of Contents potential
+role in climate change. In the United States, President Obama has declared action addressing climate change to be a major priority, and the EPA has taken several recent actions for the
+regulation of greenhouse gas emissions. See "Item 1. BusinessIndustry RegulationCarbon Emissions." We expect that additional EPA regulations, and possibly additional
+legislation and/or regulation by other regulatory authorities, may be issued, resulting in the imposition of additional limitations on greenhouse gas emissions or requiring efficiency improvements
+from fossil fuel-fired electric generating units. There
+are also potential impacts on our natural gas businesses as greenhouse gas legislation or regulations may require greenhouse gas emission reductions from the natural gas sector and
+could affect demand for natural gas. Additionally, greenhouse gas requirements could result in increased demand for energy conservation and renewable products, as well as increase competition
+surrounding such innovation. Additionally, our reputation could be damaged due to public perception surrounding greenhouse gas emissions at our power generation projects. Any such negative public
+perception could ultimately result in a decreased demand for electric power generation or distribution. Several regions of the United States and Canada have moved forward with greenhouse gas emission
+regulation. Concerning
+our projects in British Columbia, regulatory restrictions stemming from the GGRTA and the GGRCTA, and financial commitments arising in connection with the requirements under
+the CTA, could affect our ability to operate our projects in British Columbia and affect our profitability. All
+of our subject generating facilities have complied on a timely basis with the new EPA and Ontario greenhouse gas reporting requirements. Compliance with greenhouse gas emission
+reduction
+requirements may require increasing the energy efficiency of equipment at our natural gas projects, committing significant capital toward carbon capture and storage technology, purchase of allowances
+and/or offsets, fuel switching, and/or retirement of high-emitting projects and potential replacement with lower emitting projects. The cost of compliance with greenhouse gas emission legislation
+and/or regulation is subject to significant uncertainties due to the outcome of several interrelated assumptions and variables, including timing of the implementation of rules, required levels of
+reductions, allocation requirements of the new rules, the maturation and commercialization of carbon capture and storage technology, and the selected compliance alternatives. We cannot estimate the
+aggregate effect of such requirements on our business, results of operations, financial condition or our customers. However, such expenditures, if material, could make our generation facilities
+uneconomical to operate, result in the impairment of assets, or otherwise adversely affect our business, results of operations and financial condition. Impairment of goodwill or long-lived assets could have a material adverse effect on our results of
+operations and financial condition As of December 31, 2014, we had $197.2 million of goodwill, which represented approximately 7% of our total assets on our
+consolidated balance sheets. Goodwill is not amortized, but is evaluated for impairment at least annually or more frequently if an event or change in circumstance occurs that would more likely than
+not reduce the fair value of a reporting unit below its carrying value. We could be required to, and have in the past, evaluated the potential impairment of goodwill outside of the required annual
+evaluation process if we experience situations, including but not limited to, sustained declines in market capitalization, deterioration in general economic conditions or our operating or regulatory
+environment, increased competitive environment, an increase in fuel costs (particularly when we are unable to pass through the impact to customers), negative or declining cash flows, loss of a key
+contract or customer (particularly when we are unable to replace it on equally favorable terms), divestiture of a significant component of our business or adverse actions or assessments by a
+regulator. These types of events and the resulting analyses could result in goodwill impairment expense, which could substantially affect our results of operations for those periods. Additionally,
+goodwill may be 39 Table of Contents impaired
+if any acquisitions we make do not perform as expected. See Note 8 to the consolidated financial statements included in this Annual Report on Form 10-K. Long-lived
+assets are initially recorded at acquisition cost and are amortized or depreciated over their estimated useful lives. Long-lived assets are evaluated for impairment only when
+impairment indicators are present whereas goodwill is evaluated for impairment on an annual basis or more frequently if potential impairment indicators are present. Otherwise, the recoverability
+assessment of long-lived
+assets is similar to the potential impairment evaluation of goodwill particularly as it relates to the identification of potential impairment indicators, and making estimates and assumptions to
+determine fair value, as described above. Increasing competition could adversely affect our performance and the performance of our projects The power generation industry is characterized by intense competition and our projects encounter competition from utilities, industrial
+companies and other independent power producers, in particular with respect to uncontracted output. In recent years, there has been increasing competition among generators for PPAs, and this has
+contributed to a reduction in electricity prices in certain markets where supply has surpassed demand plus appropriate reserve margins. Further,
+changes and developments in technology, including fuel cells, microturbines, solar cells and other emerging technologies related to energy generation, distribution and
+consumption, may facilitate the entrance of new competitors, increase the supply of electricity, reduce the cost of methods of producing power that we do not currently use or lower the price of or
+demand for energy. If these technologies became cost competitive, we could face increasing competition and the value of our generating facilities could be reduced. In
+addition, we continue to confront significant competition for acquisition and investment opportunities and, to the extent that any opportunities are identified, we may be unable to
+effect acquisitions or investments on attractive terms, if at all. Increasing competition among participants in the power generation industry may adversely affect our performance and the performance
+of our projects. Further, a payout of a significant portion of our cash flow through dividends, and/or to service our debt, may result in us not retaining a sufficient amount of cash to finance
+acquisition or investment opportunities and make other capital and operating expenditures. See "Risk Related to Our StructureWe may not generate sufficient cash flow to pay
+dividends, if and when declared by our board of directors, service our debt obligations or implement our business plan, including financing internal or external growth opportunities." We have limited control over management decisions at certain projects Approximately one third of our projects are not wholly-owned by us or we have contracted for their operations and maintenance, and in
+some cases we have limited control over the operation of the projects. Although we generally prefer to acquire projects where we have control, we may make acquisitions in non-control situations to the
+extent that we consider it advantageous to do so and consistent with regulatory requirements and restrictions, including the Investment Company Act of 1940. Third-party operators (such as CEM and
+PPMS) operate seven of our projects. As such, we
+must rely on the technical and management expertise of these third-party operators although typically we negotiate to obtain positions on a management or operating committee if we do not own 100% of a
+project. To the extent that such third-party operators do not fulfill their obligations to manage the operations of the projects or are not effective in doing so, our cash flow may be adversely
+affected. The approval of third-party operators also may be required for us to receive distributions of funds from projects or to transfer our interest in projects. Our inability to control fully
+certain projects could have an adverse effect on our business, results of operations and financial condition. 40 Table of Contents We may face significant competition for acquisitions and may not be able to finance or otherwise
+pursue, execute or successfully integrate acquisitions or new business initiatives To the extent identification of and pursuit of acquisition opportunities forms a part of our strategy, we may be unable to
+identify attractive acquisition candidates in the power industry in the future, and we may not be able to make acquisitions on an accretive basis or at all, or be sure that such acquisitions, if any,
+will be successfully integrated into our existing operations. In addition, a payout of a significant portion of our cash flow through dividends, and/or to service our debt obligations, may result in
+us not retaining a sufficient amount of cash to finance any acquisition or other growth opportunities, to the extent any such acquisition or other opportunities are available to us. As a result, we
+may have to forego such opportunities, even if they would otherwise be necessary or desirable, if we do not find alternative sources of financing for such opportunities or modify our dividend policy
+to make cash available to us. In addition, even if we are able to find alternative sources of financing for such opportunities, we may be precluded from pursuing an otherwise attractive acquisition or
+investment if the projected short-term cash flow from the acquisition or investment is not adequate to service the capital raised to fund such acquisition or investment. This could limit our
+flexibility in planning for, or reacting to, changes in our business and industry, placing us at a competitive disadvantage compared to our competitors. Although
+electricity demand is expected to grow, creating the need for more generation, such growth is expected to occur at a slower rate. The U.S. power industry is continuing to
+undergo consolidation and may present attractive acquisition opportunities but we are likely to confront significant competition for those opportunities and, to the extent that any opportunities are
+identified, we may be unable to effect acquisitions or investments. Any
+acquisition, investment or new business initiative may involve potential risks, including an increase in indebtedness, the inability to successfully integrate operations, the
+potential disruption of our ongoing business, the diversion of management's attention from other business concerns, inadequate return on capital and the possibility that we pay more than the acquired
+company or interest is worth.
+There may also be liabilities that we fail to discover, or are unable to discover, in our due diligence prior to the consummation of an acquisition or prior to launching an initiative or entering a
+market. We may not be indemnified for some or all of these liabilities in an acquisition transaction. In addition, our funding requirements associated with acquisitions, integration and implementation
+costs may reduce the funds available to us to make any dividend payments. Our equity interests in certain projects may be subject to transfer restrictions The partnership or other agreements governing some of the projects may limit a partner's ability to sell its interest. Specifically,
+these agreements may prohibit any sale, pledge, transfer, assignment or other conveyance of the interest in a project without the consent of the other partners. In some cases, other partners may have
+rights of first offer or rights of first refusal in the event of a proposed sale or transfer of our interest. These restrictions may limit or prevent us from managing our interests in these projects
+in the manner we see fit, and may have an adverse effect on our ability to sell our interests in these projects at the prices we desire. See "Risks Related to Our StructureWe
+cannot provide any assurance regarding the outcome or impact on our business of any potential options we are considering." Our projects are exposed to risks inherent in the use of derivative instruments We and our projects may use derivative instruments, including futures, forwards, options and swaps, to manage commodity and financial
+market risks. These activities, though intended to mitigate price volatility, expose us to other risks. In the future, the project operators could recognize financial losses on these arrangements,
+including as a result of volatility in the market values of the underlying 41 Table of Contents commodities,
+if a counterparty fails to perform under a contract or upon the failure or insolvency of a financial intermediary, exchange or clearinghouse used to enter, execute or clear the
+transactions. If actively quoted market prices and pricing information from external sources are not available, the valuation of these contracts would involve judgment or use of estimates. As a
+result, changes in the underlying assumptions or use of alternative valuation methods could affect the reported fair value of these contracts. Most
+of these contracts are recorded at fair value with changes in fair value recorded currently in the statement of operations, resulting in significant volatility in our income (loss)
+(as calculated in accordance with GAAP) that does not significantly affect current period cash flows or the underlying risk management purpose of the derivative instruments. As a result, we may be
+unable to accurately predict the impact that our risk management decisions may have on our quarterly and annual income (loss) (as calculated in accordance with GAAP). If
+the values of these financial contracts change in a manner that we do not anticipate, or if a counterparty fails to perform under a contract, it could harm our business, results of
+operations, financial condition and cash flows. We have executed natural gas swaps to reduce our risks to changes in the market price of natural gas, which is the fuel consumed at many of our
+projects. Due to increases in natural gas prices, we have incurred income on these natural gas swaps. We execute these swaps only for the purpose of managing risks and not for speculative trading. We
+do not typically hedge the entire exposure of our operations against commodity price volatility. To the extent we do not hedge against commodity price volatility, our business,
+results of operations and financial condition may be improved or diminished based upon movement in commodity prices. Certain employees are subject to collective bargaining A number of our plant employees, from one plant in British Columbia and four plants in Ontario are subject to collective bargaining
+agreements. These agreements expire periodically and we may not be able to renew them without a labor disruption or without agreeing to significant increases in labor costs. Strikes, work stoppages or
+the inability to negotiate future collective bargaining agreements on favorable terms could have a material adverse effect on our business, results of operations and financial condition. Our Pension Plan may require additional future contributions Certain of our employees in Canada are participants in a legacy defined benefit pension plan that we sponsor. As of December 31,
+2014, our pension plan was at a surplus on a going concern basis which measures its funded status on the basis that the plan will continue to operate indefinitely. The additional amount of future
+contributions to our defined benefit plan will depend upon asset returns and a number of other factors and, as a result, the amounts we will be required to contribute in the future may vary. Cash
+contributions to the plan will reduce the cash available for our business. Hostile cyber intrusions could severely impair our operations, lead to the disclosure of
+confidential information, damage our reputation and otherwise have an adverse effect on our business, results of operations and financial condition A cyber intrusion is considered to be any adverse event that threatens the confidentiality, integrity or availability of our
+information resources. More specifically, a cyber intrusion is an intentional attack or an unintentional event that can include gaining unauthorized access to systems to disrupt operations, corrupt
+data, steal confidential information, and impact our ability to make collections or otherwise impact our operations. We are dependent on various information technologies throughout our company and our
+projects to carry out multiple business activities. Further, the computer systems that run our facilities are not completely isolated from external networks. Parties that wish to disrupt the U.S. 42 Table of Contents and/or
+Canadian bulk power system or our operations could view our computer systems, software or networks as attractive targets for cyber attack. In addition, our business requires that we collect and
+maintain confidential employee and shareholder information, which is subject to the risk of electronic theft or loss. A
+successful cyber attack, such as unauthorized access, malicious software or other violations on the systems that control generation and transmission at our projects could severely
+disrupt business operations, diminish competitive advantages through reputation damages and increase operational costs. The breach of certain business systems could affect our ability to correctly
+record, process and report financial information. A major cyber incident could result in significant expenses to investigate and repair security breaches or system damage and could lead to litigation,
+fines, other remedial action, heightened regulatory scrutiny and damage to our reputation. For these reasons, a significant cyber incident could materially and adversely affect our business, results
+of operations and financial condition. Failure to comply with the U.S. Foreign Corrupt Practices Act and/or the Canadian Corruption of
+Foreign Public Officials Act could subject us to, among other things, penalties and legal expenses that could harm our reputation and have a material adverse effect on our business, results of
+operations and financial condition We are subject to anti-corruption laws and regulations including the U.S. Foreign Corrupt Practices Act ("FCPA") and the Canadian
+Corruption of Foreign Public Officials Act (the "CFPOA"), which generally prohibit companies and their intermediaries from making improper payments to foreign officials for the purpose of obtaining or
+keeping business and/or other benefits. In addition, the FCPA imposes accounting standards and requirements on U.S. publicly traded corporations and their foreign affiliates, which are intended to
+prevent the diversion of corporate funds to the payment of bribes and other improper payments, and to prevent the establishment of "off books" slush funds from which improper payments can be made
+(similar provisions have been proposed to be added to the CFPOA). The Securities and Exchange Commission (the "SEC") has increased its enforcement of the FCPA during the past several years. In recent
+years, enforcement of the CFPOA in Canada has also increased and can be attributed, in part, to the establishment of the Royal Canadian Mounted Police's International Anti-Corruption Unit in 2008.
+Although we have implemented policies and procedures designed to ensure that we, our employees and other intermediaries comply with the FCPA and/or the CFPOA, there is no assurance that such policies
+or procedures will work effectively all of the time or protect us against liability under the FCPA and/or the CFPOA for actions taken by our employees and other intermediaries with respect to our
+business or any businesses that we may acquire. If we are not in compliance with the FCPA and/or the CFPOA, we may be subject to criminal penalties pursuant to the CFPOA and/or criminal and civil
+penalties and other remedial measures pursuant to the FCPA, including changes or enhancements to our procedures, policies and control, as well as potential personnel change and disciplinary actions,
+which could have an adverse impact on our business, results of operations and financial condition. Our success depends in part on our ability to retain, motivate and recruit executives and other key
+employees, and failure to do so could negatively affect us Our success depends in part on our ability to retain, recruit and motivate key employees who have experience in our industry.
+Experienced employees in the power industry are in high demand and competition for their talents can be intense. Further, an aging work force in the power industry necessitates recruiting, retaining
+and developing the next generation of leadership. A failure to attract and retain executives and other key employees with specialized knowledge in power generation could have an adverse impact on our
+business, results of operations and financial condition because of the difficulty of promptly finding qualified replacements. See "Risks Related to our StructureOur recent
+management changes may impact our business plan." 43 Table of Contents 

@@ -1,0 +1,857 @@
+ Discussion and Analysis of Financial Condition and Results of Operations," our audited consolidated financial statements and the accompanying notes included 57 Table of Contents elsewhere
+in this Annual Report on Form 10-K, and other financial information included in this Annual Report on Form 10-K. (in thousands): Year ended December 31, 2010 Year ended December 31, 2011 Year ended December 31, 2012 Year ended December 31, 2013 Year ended December 31, 2014 Consolidated Statements of Operations and Comprehensive Loss Data: Net patient service revenue $ 535,913 $ 638,690 $ 686,216 $ 715,999 $ 946,897 Management fees    11,139 67,012 Other revenue 8,050 6,027 7,735 9,378 12,513 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total revenues 543,963 644,717 693,951 736,516 1,026,422 Salaries and benefits 282,302 326,782 372,656 409,352 545,025 Medical supplies 43,027 51,838 61,589 64,640 97,367 Facility rent expenses 27,885 33,375 39,802 45,565 63,048 Other operating expenses 27,103 33,992 38,988 45,629 61,735 General and administrative expenses 65,798 81,688 82,236 106,887 135,257 Depreciation and amortization 46,346 54,084 64,893 65,195 86,701 Provision for doubtful accounts 8,831 16,117 16,916 12,146 18,713 Interest expense, net 58,505 60,656 77,494 86,747 113,279 Electronic health records incentive income   (2,256 ) (1,698 ) (2,783 ) Fair value adjustment of earn-out liability   1,219 130 1,627 Loss on sale of assets of a radiation treatment center 1,903     Gain on the sale of an interest in a joint venture    (1,460 )  Loss on sale leaseback transaction    313 135 Loss on investments  250    Gain on fair value adjustment of previously held equity interest  (234 )    Loss on foreign currency transactions  106 339 1,283 557 Loss (gain) on foreign currency derivative contracts  672 1,165 467 (4 ) Early extinguishment of debt 10,947  4,473  8,558 Impairment loss 97,916 360,639 81,021  229,526 Equity initial public offering expenses     4,905 Fair value adjustment of embedded derivative     837 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total expenses 670,563 1,019,965 840,535 835,196 1,364,483 Loss before income taxes (126,600 ) (375,248 ) (146,584 ) (98,680 ) (338,061 ) Income tax (benefit) expense (12,810 ) (25,365 ) 4,545 (20,432 ) 5,159 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Net loss (113,790 ) (349,883 ) (151,129 ) (78,248 ) (343,220 ) Net income attributable to noncontrolling interests (1,698 ) (3,558 ) (3,079 ) (1,966 ) (6,030 ) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Net loss attributable to 21st Century Oncology Holdings, Inc. shareholder $ (115,488 ) $ (353,441 ) $ (154,208 ) $ (80,214 ) $ (349,250 ) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Balance Sheet Data (at end of period): Cash and cash equivalents 13,977 10,177 15,410 17,462 99,167 Working capital(1) 19,076 19,929 24,262 9,057 76,135 Total assets 1,236,330 998,592 922,301 1,128,191 1,146,724 Finance obligations 8,568 14,266 17,192 20,650 24,043 Total debt 598,831 679,033 762,368 991,666 967,121 Total equity (deficit) 508,208 177,294 18,467 (79,218 ) (456,610 ) Other Financial Data: Ratio of earnings to fixed charges(2)      Deficiency to cover fixed charges(3) 128,292 377,137 148,837 100,171 368,889 (1) Working
+capital is calculated as current assets minus current liabilities. 58 Table of Contents (2) For
+purposes of calculating the ratio of earnings to fixed charges, (i) earnings is defined as pretax income (loss) from continuing operations before
+adjustment for noncontrolling interests in consolidated subsidiaries plus/minus income or loss from equity investees plus fixed charges, imputed dividends and accretion of Series A convertible
+redeemable preferred stock and (ii) fixed charges is defined as interest expense (including capitalized interest, of which we have none, and any amortization of debt issuance costs) and the
+estimated portion of operating lease expense deemed by management to represent the interest component of rent expense. (3) Coverage
+deficiency represents the amount by which earnings were insufficient to cover fixed charges. 59 Table of Contents Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations The following discussion and analysis should be read in conjunction with the "Selected Financial Data" and the
+consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This section of this Annual Report on Form 10-K contains forward-looking
+statements that involve substantial risks and uncertainties, such as statements about our plans, objectives, expectations and intentions. We use words such as "expect", "anticipate", "plan",
+"believe", "seek", "estimate", "intend", "future" and similar expressions to identify forward-looking statements. In particular, statements that we make in this section relating to the sufficiency of
+anticipated sources of capital to meet our cash requirements are forward-looking statements. Our actual results could differ materially from those anticipated in these forward-looking statements for
+many reasons, including as a result of some of the factors described below and in the section titled "Risk Factors". You are cautioned not to place undue reliance on these forward-looking statements,
+which speak only as of the date of this Annual Report on Form 10-K. Overview We are the leading global, physician-led provider of ICC services. Our physicians provide comprehensive, academic quality,
+cost-effective coordinated care for cancer patients in personal and convenient community settings. We believe we offer a powerful value proposition to patients, hospital systems, payers and
+risk-taking physician groups by delivering high quality care and good clinical outcomes at lower overall costs through outpatient settings, clinical excellence, physician coordination and scaled
+efficiency. We
+operate the largest integrated network of cancer treatment centers and affiliated physicians in the world which, as of December 31, 2014, was comprised of approximately 794
+community-based physicians in the fields of radiation oncology, medical oncology, breast, gynecological and general surgery, and urology. Our physicians provide medical services at approximately 391
+locations, including our 180 radiation therapy centers. Of the 180 treatment centers, 34 treatment centers were internally developed and 135 were acquired (including three which were transitioned from
+professional and other arrangements to freestanding). 50 radiation therapy centers operate in partnership with health systems and other clinics and community-based sites. Our 144 cancer treatment
+centers in the United States are operated predominantly under the 21 st Century Oncology brand and are strategically clustered in 31
+local markets in 16 states: Alabama, Arizona, California, Florida, Indiana, Kentucky, Maryland, Massachusetts, Michigan, Nevada, New Jersey, New York, North Carolina, South Carolina, Rhode Island, and
+West Virginia. Our 36 international treatment centers in Latin America are operated under the 21 st Century Oncology brand or a
+local brand and, in many cases, are operated with local minority partners, including hospitals. We hold market leading positions in the majority of our local markets and continue to expand our
+affiliation with physician specialties in closely related areas including gynecological, breast and surgical oncology, medical oncology and urology in a number of our local markets to strengthen our
+clinical working relationships and to evolve from a freestanding radiation oncology centric model to an ICC model. We
+use a number of metrics to assist management in evaluating financial condition and operating performance, and the most important
+follow:  the number of RVUs (a standard measure of value used in the U.S. Medicare reimbursement formula for physician services) delivered per
+day in our freestanding centers;  the percentage change in RVUs per day in our freestanding centers;  the number of treatments delivered per day in our freestanding centers;  the average revenue per treatment in our freestanding centers; 60 Table of Contents  the number and type of radiation oncology cases completed;  the number of treatments per radiation oncology case completed;  the revenue per radiation oncology case;  the ratio of funded debt to pro-forma adjusted earnings before interest, taxes, depreciation and amortization (leverage ratio); and  facility gross profit. Revenue Drivers Our revenue growth is primarily driven by expanding the number of our centers, optimizing the utilization of advanced technologies at
+our existing centers and benefiting from demographic and population trends in most of our local markets and by providing value added services to other healthcare and provider organizations. New
+centers are added or acquired based on capacity, demographics and competitive considerations. The
+average revenue per treatment is sensitive to the mix of services used in treating a patient's tumor. The reimbursement rates set by Medicare and commercial payers tend to be higher
+for more advanced treatment technologies, reflecting their higher complexity. A key part of our business strategy is to make advanced technologies available once supporting economics exist. For
+example, we have been utilizing image guided radiation therapy ("IGRT") and Gamma Function, a proprietary capability to enable measurement of the actual amount of radiation delivered during a
+treatment and to provide immediate feedback for adaption of future treatments, where appropriate, now that reimbursement codes are in place for these services. Operating Costs The principal costs of operating a treatment center are (1) the salary and benefits of the physician and technical staff, and
+(2) equipment and facility costs. The capacity of each physician and technical position is limited to a number of delivered treatments, while equipment and facility costs for a treatment center
+are generally fixed. These capacity factors cause profitability to be very sensitive to treatment volume. Profitability will tend to increase as resources from fixed costs including equipment and
+facility costs are utilized. Sources of Revenue By Payer We receive payments for our services rendered to patients from the government Medicare and Medicaid programs, commercial insurers,
+managed care organizations and
+our patients directly. Generally, our revenue is determined by a number of factors, including the payer mix, the number and nature of procedures performed and the rate of payment for the procedures.
+The following table sets forth the percentage of our U.S. domestic net patient service revenue we earned based upon the patients' primary insurance by category of payer in our last three fiscal years. Year Ended December 31, U.S. Domestic 2012 2013 2014 Payer Medicare 42.6 % 41.9 % 39.8 % Commercial 53.6 54.3 57.1 Medicaid 2.7 2.7 2.2 Self pay 1.1 1.1 0.9 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total U.S. domestic net patient service revenue 100.0 % 100.0 % 100.0 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 61 Table of Contents Medicare and Medicaid Medicare is a major funding source for the services we provide and government reimbursement developments can have a material effect on
+operating performance. These developments include the reimbursement amount for each Current Procedural Terminology ("CPT") service that we provide and the specific CPT services covered by Medicare.
+CMS, the government agency responsible for administering the Medicare program, administers an annual process for considering changes in reimbursement rates and covered services. We have played, and
+will continue to play, a role in that process both directly and through the radiation oncology professional societies. Since
+cancer disproportionately affects elderly people, a significant portion of our U.S. net patient service revenue is derived from the Medicare program, as well as related
+co-payments. Medicare reimbursement rates are determined by CMS and are lower than our normal charges. Medicaid reimbursement rates are typically lower than Medicare rates; Medicaid payments represent
+approximately 2.2% of our U.S. net patient service revenue for the year ended December 31, 2014. In
+the final Medicare 2013 Physician Fee Schedule, CMS reduced payments for radiation oncology by 7%. Total gross reductions in the final rule were offset by a 2% increase due to certain
+other revised radiation oncology codes, which resulted in a total net reduction to radiation oncology of 7%. In
+the final Medicare 2014 Physician Fee Schedule, CMS did finalize its proposal to revise the MEI [2% impact], CMS also incorporated updated
+RVUs for new and existing codes [+3% impact] resulting in a net impact of +1% for radiation oncology overall. Because the MEI policy only applies to freestanding settings, the
+impact to freestanding centers is approximately flat, while hospital-based radiation oncologists would receive an increase in payment under the final rule. In
+the proposed Medicare 2015 Physician Fee Schedule, CMS proposed to reduce payments for radiation oncology by 4% overall. This reduction related primarily to a proposal to remove the
+radiation treatment vault as a direct cost input for radiation treatment delivery codes. Because the proposal only applied to freestanding settings, the cut to freestanding centers would likely have
+been closer to 5%, while hospital based radiation oncologists would have received an increase in payment under the proposal. In the final Medicare 2015 Physician Fee Schedule, CMS did not finalize its
+proposal to remove the radiation treatment vault as a direct cost input for radiation treatment delivery codes. As a result, the net impact of the Final Rule to radiation oncology and freestanding
+radiation therapy centers is approximately neutral overall. In the Final rule, CMS also indicated it would review the family of radiation treatment delivery codes in the FY 2016 Physician Fee Schedule
+Proposed Rule. Medicare
+reimbursement rates for all procedures under Medicare ultimately are determined by a formula which takes into account a CF which is updated on an annual basis based on the SGR.
+For the last several years, the SGR policy has threatened significant cuts to the CF, although Congress has consistently delayed those cuts. On April 1, 2014, the President signed H.R. 4302,
+the Protecting Access to Medicare Act of 2014 which extended the $35.8228 conversion factor through 2014 and also provided for a zero percent update through March 31, 2015. If future SGR
+reductions are not suspended, and if a permanent "doc fix" is not signed into law, the currently scheduled SGR reimbursement decrease (estimated at more than 20%) will take effect on April 1,
+2015. Due to budget neutrality requirements from certain policies in the final Medicare 2015 Physician Fee Schedule, the 2015 conversion factor has been slightly adjusted to $35.7547, assuming no SGR
+cuts. In
+addition, under the Budget Control Act of 2011, Medicare providers are cut under a sequestration process by 2% each year relative to baseline spending through 2021. This policy was
+subsequently extended through 2024. In the Protecting Access to Medicare Act, the sequestration policy was frontloaded for the year 2024 such that Medicare providers would be cut 4% in the first half
+of 2024 and 0% in the second half of 2024. 62 Table of Contents Commercial Commercial sources include private health insurance as well as related payments for co-insurance and co-payments. We enter into
+contracts with private health insurance and other health benefit groups by granting discounts to such organizations in return for the patient volume they provide. Most
+of our commercial revenue is from managed care business and is attributable to contracts where a set fee is negotiated relative to services provided by our treatment centers. We do
+not have any contracts that individually represent over 10% of our total U.S. net patient service revenue. We receive our managed care contracted revenue under two primary arrangements. Approximately
+97% of our managed care business is attributable to contracts where a fee schedule is negotiated for services provided at our treatment centers. For the year ended December 31, 2014
+approximately 3% of our U.S. net patient service revenue is attributable to contracts where we bear utilization risk. Although the terms and conditions of our managed care contracts vary considerably,
+they are typically for a one-year term and provide for automatic renewals. If payments by managed care organizations and other private third-party payers decrease, then our total revenues and net
+income would decrease. Self-Pay Self-pay consists of payments for treatments by patients not otherwise covered by third-party payers, such as government or commercial
+sources. Because the incidence of cancer is much higher in those over the age of 65, most of our patients have access to Medicare or other insurance and therefore the self-pay portion of our business
+is less than it would be in other circumstances. However, we are seeing a general increase in the patient responsibility portion of our claims and revenue. We
+grant a discount on gross charges to self-pay patients not covered under other third party payer arrangements. The discount amounts are excluded from patient service revenue. To the
+extent that we realize additional losses resulting from nonpayment of the discounted charges, such additional losses are included in the provision for doubtful accounts. Other Material Factors Other material factors that we believe will also impact our future financial performance
+include:  our substantial indebtedness;  patient volume and census;  continued advances in technology and the related capital requirements;  continued affiliation with physician specialties other than radiation oncology;  our ability to develop and conduct business with hospitals and other large healthcare organizations in a manner that adequately and
+attractively compensates us for our services;  accounting for business combinations requiring that all acquisition-related costs be expensed as incurred;  our ability to achieve identified cost savings and operational efficiencies;  increased costs associated with development and optimization of our internal infrastructure; and  healthcare reform. Results of Operations The following summary results of operations data are qualified in their entirety by reference to, and should be read in conjunction
+with, our audited consolidated financial statements and the 63 Table of Contents accompanying
+notes, included in this Annual Report on Form 10-K, and other financial information included in this Annual Report on Form 10-K. Years Ended December 31, 2012, 2013 and 2014 For the year ended December 31, 2014, our total revenues grew by approximately 39.4%, over the prior year, while our total
+revenues for the year ended December 31, 2013 grew by approximately 6.1% over the prior year. For the years ended December 31, 2014, 2013, and 2012, we had total revenues of
+$1,026.4 million, $736.5 million and $694.0 million, respectively. For
+the years ended December 31, 2014, 2013, and 2012, net patient service revenue comprised 92.3%, 97.2% and 98.9%, respectively, of our total revenues. In states where we employ
+radiation oncologists, we derive our net patient service revenue through fees earned from the provision of the professional and technical component fees of radiation therapy services. In states where
+we do not employ radiation oncologists, we derive our administrative services fees principally from administrative services agreements with professional corporations. In accordance with Financial
+Accounting Standards Board ("FASB") Accounting Standards Codification ("ASC") 810, "Consolidiation" ("ASC 810"), we consolidate the operating results of certain of the professional corporations for
+which we provide administrative services into our own operating results. In 2014, 2013 and 2012, 14.7%, 18.4% and 19.4%, respectively, of our net patient service revenue was generated by professional
+corporations with which we have administrative services agreements. In
+our net patient service revenue for the years ended December 31, 2014, 2013, and 2012, revenue from the professional-only component of radiation therapy and revenue from our
+ICC physician practices, comprised approximately 31.0%, 29.8%, and 28.7%, respectively, of our total revenues. Management
+fees are recorded at the amount earned by us under the management services agreements. Services rendered by the respective physician groups are billed by us, as the exclusive
+billing agent of the physician groups, to patients, third-party payors, and others. For the years ended December 31, 2014 and 2013, management fees comprised 6.5% and 1.5%, respectively of our
+total revenues. These management fees are as a result of the OnCure transaction, which closed on October 25, 2013. For
+the years ended December 31, 2014, 2013, and 2012, other revenue comprised approximately 1.2%, 1.3% and 1.1%, respectively, of our total revenues. Other revenue is primarily
+derived from management services provided to hospital radiation therapy departments, technical services provided to hospital radiation therapy departments, billing services provided to non-affiliated
+physicians, gain and losses from sale/disposal of medical equipment, equity interest in net earnings/losses of unconsolidated joint ventures and income for equipment leased by joint venture entities. 64 Table of Contents The
+following table summarizes key operating statistics of our results of operations for the periods presented: Years Ended December 31, Years Ended December 31, United States 2012 2013 % Change 2013 2014 % Change Number of treatment days 255 255 0.0 % 255 255 0.0 % Total RVUsfreestanding centers 11,483,600 11,615,189 1.1 % 11,615,189 15,919,121 37.1 % RVUs per dayfreestanding centers 45,034 45,550 1.1 % 45,550 62,428 37.1 % Percentage change in RVUs per dayfreestanding centerssame store basis (6.3 )% (3.5 )% (3.5 )% (0.4 )% Total treatmentsfreestanding centers 493,330 546,951 10.9 % 546,951 796,067 45.5 % Treatments per dayfreestanding centers 1,935 2,145 10.9 % 2,145 3,122 45.5 % Percentage change in revenue per treatment freestanding centerssame store basis (3.9 )% (6.2 )% (6.2 )% 2.5 % Percentage change in treatments per day freestanding centerssame store basis 2.0 % 4.3 % 4.3 % 2.6 % Percentage change in freestanding revenues same store basis (2.1 )% (2.2 )% (2.2 )% 5.1 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total radiation oncology cases completed* 19,885 21,928 10.3 % 21,928 31,440 43.4 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenue per radiation oncology case $ 19,921 $ 19,058 $ 19,058 $ 18,749 Treatment centersfreestanding (global) 121 155 28.1 % 155 169 9.0 % Treatment centershospital / other groups (global) 5 8 60.0 % 8 11 37.5 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total treatment centers 126 163 29.4 % 163 180 10.4 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Days sales outstanding at quarter end 34 31 31 37 United States Net patient service revenue (global)professional services only (in thousands) $ 199,097 $ 219,721 $ 219,721 $ 318,047 Net patient service revenue (global)excluding physician practice expense (in thousands) $ 686,216 $ 731,171 $ 731,171 $ 1,035,822 * Total
+cases completed represents a count of patients that have completed their course of treatment. Total case counts are based on legacy and acquired
+clinical systems. 65 Table of Contents The
+following table summarizes key operating statistics of our results of operations for our international operations for the periods presented: Years Ended December 31, Years Ended December 31, International 2012 2013 % Change 2013 2014 % Change Total number of new cases 15,229 16,090 5.7 % 16,090 17,756 10.4 % ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Revenue per radiation oncology case $ 5,382 $ 5,659 $ 5,659 $ 5,588 International Comparison of the Years Ended December 31, 2013 and 2014. MDLLC's total revenues increased $8.5 million, or 9.4%, from
+$90.9 million to $99.4 million for the year ended December 31, 2014 as compared to the year ended December 31, 2013. Total revenue was positively impacted by
+$2.2 million of revenue from the acquisition of a center in Guatemala City, Guatemala in January 2014, growth in cases and an improvement in treatment mix, and less depreciation in the
+Argentine Peso as compared to the same period in 2013. Case growth increased by 1,666 or 10.4% during the period. The trend toward more clinically-advanced treatments, which require more time to
+complete, continued during the period with an increase in the number of higher-revenue IMRT/IGRT treatments and 3D treatments versus 2D treatments as compared to the same period in 2013. Facility
+gross profit increased $5.7 million, or 11.6% from $49.5 million to $55.2 million for the year ended December 31, 2014 as compared to the year ended
+December 31, 2013. Facility-level gross profit as a percentage of total revenues increased to 55.5% from 54.4%. Increases in facility rent, and incremental depreciation expense relating to our
+continued growth and investment in Latin America,
+expenses incurred related to construction of two new centers, one which opened in October 2014 in the Dominican Republic and one which is anticipated to open in the first half of 2015 in Mexico, as
+well as local inflation was offset by flat physician compensation and modest growth in salaries and benefits and medical supplies. Comparison of the Years Ended December 31, 2012 and 2013. MDLLC's total revenues increased $9.7 million, or 11.9%,
+from
+$81.2 million to $90.9 million for the year ended December 31, 2013 as compared to the year ended December 31, 2012. Total revenue was positively impacted by
+$0.6 million of revenue from the start-up of a new Center in Argentina in August 2012, growth in treatments and an improvement in treatment mix from our November, 2011 acquisition in Argentina,
+growth in treatments and overall service mix improvements at our Argentina, El Salvador, and our centers in the Dominican Republic, and improved capitated pricing in Argentina, offset by the impact of
+a greater depreciation in the Argentine Peso versus the same period in 2012. Case growth increased by 861 or 5.7% during the period. The trend toward more clinically-advanced treatments which require
+more time to complete continued during the period with an increase in the number of higher-revenue IMRT/IGRT treatments and 3D treatments vs. 2D treatments as compared to the same period in 2012. Facility
+gross profit increased $6.0 million, or 13.8% from $43.5 million to $49.5 million for the year ended December 31, 2013 as compared to the year ended
+December 31, 2012. Facility-level gross profit as a percentage of total revenues increased to 54.4% from 53.5%. Margin growth resulted from growth in IMRT and 3-D cases, and improved pricing
+for capitated cases in Argentina, offset by higher depreciation and amortization relating to our continued growth and investment in Latin America, local inflation in Argentina, and higher facility
+rent expense. 66 Table of Contents The following table presents summaries of results of operations for the years ended December 31, 2012, 2013 and 2014 (dollars in thousands). This
+information has been derived from the consolidated statements of operations and comprehensive loss included elsewhere in this Annual Report on Form 10-K. Years ended December 31, 2012 2013 2014 Revenues: Net patient service revenue $ 686,216 98.9 % $ 715,999 97.2 % $ 946,897 92.3 % Management fees   11,139 1.5 67,012 6.5 Other revenue 7,735 1.1 9,378 1.3 12,513 1.2 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total revenues 693,951 100.0 736,516 100.0 1,026,422 100.0 Expenses: Salaries and benefits 372,656 53.7 409,352 55.6 545,025 53.1 Medical supplies 61,589 8.9 64,640 8.8 97,367 9.5 Facility rent expenses 39,802 5.7 45,565 6.2 63,048 6.1 Other operating expenses 38,988 5.6 45,629 6.2 61,735 6.0 General and administrative expenses 82,236 11.9 106,887 14.5 135,257 13.2 Depreciation and amortization 64,893 9.4 65,195 8.9 86,701 8.4 Provision for doubtful accounts 16,916 2.4 12,146 1.6 18,713 1.8 Interest expense, net 77,494 11.2 86,747 11.8 113,279 11.0 Electronic health records incentive income (2,256 ) (0.3 ) (1,698 ) (0.2 ) (2,783 ) (0.3 ) Impairment loss 81,021 11.7   229,526 22.4 Early extinguishment of debt 4,473 0.6   8,558 0.8 Equity initial public offering expenses     4,905 0.5 Loss on sale leaseback transaction   313  135  Fair value adjustment of earn-out liability 1,219 0.2 130  1,627 0.2 Fair value adjustment of embedded derivative     837 0.1 Gain on the sale of an interest in a joint venture   (1,460 ) (0.2 )   Loss on foreign currency transactions 339  1,283 0.2 557 0.1 Loss (gain) on foreign currency derivative contracts 1,165 0.2 467 0.1 (4 )  ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total expenses 840,535 121.2 835,196 113.5 1,364,483 132.9 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Loss before income taxes (146,584 ) (21.2 ) (98,680 ) (13.5 ) (338,061 ) (32.9 ) Income tax expense (benefit) 4,545 0.7 (20,432 ) (2.8 ) 5,159 0.5 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Net loss (151,129 ) (21.9 ) (78,248 ) (10.7 ) (343,220 ) (33.4 ) Net income attributable to noncontrolling interestsredeemable and non-redeemable (3,079 ) (0.4 ) (1,966 ) (0.3 ) (6,030 ) (0.6 ) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Net loss attributable to 21st Century Oncology Holdings, Inc. shareholder $ (154,208 ) (22.3 )% $ (80,214 ) (11.0 )% $ (349,250 ) (34.0 )% ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 67 Table of Contents Comparison of the Years Ended December 31, 2013 and 2014 Revenues Total revenues. Total revenues increased by $289.9 million, or 39.4%, from $736.5 million in 2013 to
+$1,026.4 million in 2014.
+Total revenue was positively impacted by $275.6 million due to our expansion into new practices and treatments centers in existing local markets and new local markets during 2013 and 2014
+through the acquisition of several urology, medical oncology and surgery practices in Arizona, Florida, Nevada, New Jersey, New York, North Carolina, and Rhode Island and the acquisition of physician
+radiation practices in Argentina, California, Guatemala, Florida, Indiana, North Carolina, Mexico and the opening of three de novo centers as follows: Date Sites Location Market Type May 2013 3 Cape Coral / Ft. Myers / Bonita SpringsFlorida Lee CountyFlorida Acquisition May 2013 2 NaplesFlorida Collier CountyFlorida Acquisition June 2013 1 Casa GrandeArizona Central Arizona Joint Venture Acquisition July 2013 1 Latin America International (Mexico) Acquisition September 2013 1 Latin America International (Argentina) De Novo (Hospital Campus) October 2013 30 California / Indiana / Florida California / Indiana / Florida AcquisitionOnCure Freestanding October 2013 3 Indiana Indiana AcquisitionOnCure professional / other October 2013 1 Roanoke Rapids, North Carolina Eastern North Carolina Acquisition January 2014 1 Guatemala International (Guatemala) Acquisition February 2014 17 Miami/Dade/Palm Beach/Broward countiesFlorida Miami/Dade/Palm Beach/Broward countiesFlorida AcquisitionSFRO Freestanding February 2014 4 Miami/Dade/Palm Beach/Broward countiesFlorida Miami/Dade/Palm Beach/Broward countiesFlorida AcquisitionSFRO professional / other February 2014 1 Westchester/Bronx/Long IslandNew York Westchester/Bronx/Long IslandNew York De Novo March 2014 1 Latin America International (Argentina) Acquisition October 2014 1 MiamiFlorida Miami/Dade County Acquisition October 2014 1 Dominican Republic International (Dominican Republic) De Novo Revenue
+from CMS for the 2014 Physician Quality Reporting System ("PQRS") program increased approximately $0.1 million and revenues in our existing local markets and practices
+increased by approximately $14.2 million. Expenses Salaries and benefits. Salaries and benefits increased by $135.6 million, or 33.1%, from $409.4 million in 2013 to
+$545.0 million in 2014. Salaries and benefits as a percentage of total revenues decreased from 55.6% in 2013 to 53.1% in 2014. Additional staffing of personnel and physicians due to our
+development and expansion in several urology, medical oncology and surgery practices in Arizona, Florida, Nevada, New Jersey, New York, North Carolina and Rhode Island and the acquisitions of
+treatment centers in new and existing local markets during the latter part of 2013 and 2014 contributed $130.0 million to our salaries and benefits. In December 2013, we implemented a new
+equity-incentive plan, which decreased stock compensation by approximately $0.5 million in 2014. For existing practices and centers within our local markets, salaries and benefits increased
+$6.1 million due to increased 68 Table of Contents salaries
+related to our physician liaison program and the expansion of our senior management team and increases in severance payments for terminated employees due to a reduction in workforce and
+incurred severance payments to certain executives offset by decreases in our compensation arrangements with certain radiation oncologists. Medical supplies. Medical supplies increased by $32.8 million, or 50.6%, from $64.6 million in 2013 to
+$97.4 million in 2014.
+Medical supplies as a percentage of total revenues increased from 8.8% in 2013 to 9.5% in 2014. Medical supplies consist of patient positioning devices, radioactive seed supplies, supplies used for
+other brachytherapy services, pharmaceuticals used in the delivery of radiation therapy treatments and chemotherapy-related drugs and other medical supplies. Approximately $27.4 million of the
+increase was related to our development and expansion in several urology, medical oncology and surgery practices in Arizona, Florida, Nevada, New Jersey, New York, North Carolina and Rhode Island and
+the acquisitions of treatment centers in new and existing local markets during the latter part of 2013 and 2014. In our remaining practices and centers in existing local markets, medical supplies
+increased by approximately $5.4 million. These pharmaceuticals and chemotherapy medical supplies are principally reimbursable by third-party payers. Facility rent expenses. Facility rent expenses increased by $17.4 million, or 38.4%, from $45.6 million in 2013 to
+$63.0 million
+in 2014. Facility rent expenses as a percentage of total revenues decreased from 6.2% in 2013 to 6.1% in 2014. Facility rent expenses consist of rent expense associated with our treatment center
+locations. Approximately $17.7 million of the increase was related to our development and expansion in several urology, medical oncology and surgery practices in Arizona, Florida, Nevada, New
+Jersey, New York, North Carolina and Rhode Island and the acquisitions of treatment centers in new and existing local markets during the latter part of 2013 and 2014. Facility rent expense in our
+remaining practices and centers in existing local markets decreased by approximately $0.3 million. Other operating expenses. Other operating expenses increased by $16.1 million or 35.3%, from $45.6 million in 2013 to
+$61.7 million in 2014. Other operating expense as a percentage of total revenues decreased from 6.2% in 2013 to 6.0% in 2014. Other operating expenses consist of repairs and maintenance of
+equipment, equipment rental and contract labor. Approximately $15.2 million of the increase was related to our development and expansion in several urology, medical oncology and surgery
+practices in Arizona, Florida, Nevada, New Jersey, New York, North Carolina and Rhode Island and the acquisitions of treatment centers in new and existing local markets during the latter part of 2013
+and 2014. Approximately $0.9 million increase relates to equipment rental expense relating to medical equipment refinancing. General and administrative expenses. General and administrative expenses increased by $28.4 million or 26.5%, from
+$106.9 million in
+2013 to $135.3 million in 2014. General and administrative expenses principally consist of professional service fees, consulting, office supplies and expenses, insurance, marketing and travel
+costs. General and administrative expenses as a percentage of total revenues decreased from 14.5% in 2013 to 13.2% in 2014. The net increase of $28.4 million in general and administrative
+expenses was due to an increase of approximately $19.0 million relating to our development and expansion in several urology, medical oncology and surgery practices in Arizona, Florida, Nevada,
+New Jersey, New York, North Carolina and Rhode Island and the acquisitions of treatment centers in new and existing local markets during the latter part of 2013 and 2014. In addition, there were
+increases of approximately $11.9 million related to expenses associated with note-holder negotiations and management of liquidity, approximately $0.3 million related to expenses for
+consulting services for the CMS 2014 fee schedule, approximately $1.7 million in our remaining practices and treatments centers in our existing local markets offset by decreases in
+approximately $3.8 million in diligence costs relating to acquisitions and potential acquisitions of physician practices, approximately $0.3 million in litigation settlements with
+certain physicians and legal and consulting 69 Table of Contents costs
+associated with the Medicare diagnostic matter and approximately $0.4 million in our rebranding initiatives. Depreciation and amortization. Depreciation and amortization increased by $21.5 million or 33.0%, from $65.2 million
+in 2013 to
+$86.7 million in 2014. Depreciation and amortization expense as a percentage of total revenues decreased from 8.9% in 2013 to 8.4% in 2014. The change in depreciation and amortization was due
+to an increase of approximately $23.5 million relating to our development and expansion in several urology, medical oncology and surgery practices in Arizona, Florida, Nevada, New Jersey, New
+York, North Carolina and Rhode Island and the acquisitions of treatment centers in new and existing local markets during the latter part of 2013 and 2014. An increase in capital expenditures related
+to our investment in advanced radiation treatment technologies and software maintenance in certain local markets increased our depreciation and amortization by approximately $1.4 million offset
+by a decrease of approximately $3.4 million in amortization of certain non-compete agreements. Provision for doubtful accounts. The provision for doubtful accounts increased by $6.6 million, or 54.1%, from
+$12.1 million in 2013 to
+$18.7 million in 2014. The provision for doubtful accounts as a percentage of total revenues increased from 1.6% in 2013 to 1.8% in 2014. As a result of our recent acquisitions, we continue to
+make progress in improving the overall collection process, including centralization of
+the prior authorization process, with standardization process supporting peer to peer justification of medical necessity, improvements in payment posting timeliness, electronic submission of
+documentation to Medicare carriers, Medicaid eligibility retro scrubbing of self pay patients, automated insurance rebilling, focused escalation process for claims in Medical Review with insurers,
+collector productivity and quality tracking and monitoring, and improved processes at the treatment centers to collect co-pay amounts at the time of service. Interest expense, net. Interest expense increased by $26.6 million, or 30.6%, from $86.7 million in 2013 to
+$113.3 million in
+2014. The increase is primarily attributable to additional debt obligations predominately relating to our senior credit facility. As of December 31, 2014, we had approximately
+$90.0 million outstanding in our Term Facility and $-0- million outstanding in our Revolver Credit Facility. The increase is also attributable to recent acquisitions. Pursuant to the
+SFRO acquisition, we entered into the SFRO Credit Agreement (as defined below) which provides for a $60 million Term B Loan, $7.9 million Term A Loan, and assumed capital lease
+obligations. The OnCure transaction included the issuance of $82.5 million in senior secured notes which accrue interest at a rate of 11.75% per annum and additional capital lease financing. On
+September 26, 2014, a portion of the net proceeds from the issuance of our Series A Preferred Stock was used to repay all outstanding borrowings under our revolving credit facility,
+repay all obligations under the South Florida Radiation Oncology Term A, Term A-1, and Term B loans, repay certain other debt and capital leases, as well as provide capital for near-term strategic
+initiatives and general corporate purposes. Electronic health records incentive income. The American Recovery and Reinvestment Act of 2009 provides for incentive payments
+for Medicare eligible
+professionals who are meaningful users of certified EHR technology. We account for EHR incentive payments utilizing the gain contingency model. Pursuant to the gain contingency model, we recognize EHR
+incentive payments when the specified meaningful use criteria have been satisfied, as all contingencies in estimating the amount of the incentive payments to be received are resolved. For the year
+ended December 31, 2014 and 2013, we recognized approximately $2.8 million and $1.7 million, respectively of EHR revenues. Impairment loss. As we began to experience some liquidity issues after terminating our previously planned initial public
+offering, we began to have
+discussions with an ad hoc group of holders of our outstanding notes. On July 29, 2014, we entered into a Recapitalization Support Agreement (the "Recapitalization Support Agreement"). The
+Recapitalization Support Agreement set forth the terms through which we expected to either (a) obtain additional liquidity through an equity contribution or 70 Table of Contents subordinated
+debt incurred in a minimum amount of $150 million on or before October 1, 2014 or (b) consummate a Recapitalization consistent with the material terms and conditions
+described in the term sheet attached to the Recapitalization Support Agreement. On
+September 26, 2014, we entered into the Subscription Agreement with CPPIB (the "Subscription Agreement"), pursuant to which we issued to CPPIB an aggregate of 385,000 shares of
+our Series A Preferred Stock for a purchase price of approximately $325.0 million. The receipt of these funds satisfied the requirement under the Recapitalization Support Agreement that
+we obtain additional liquidity through an equity contribution or subordinated debt incurred in a minimum amount of $150 million on or before October 1, 2014. We
+performed an interim impairment test for goodwill and indefinite-lived intangible assets. We completed the first step of the impairment test as of June 30, 2014 and determined
+that the carrying amount of one of the reporting units exceeded its estimated implied fair value, thereby requiring performance of the second step of the impairment test to calculate the amount of the
+impairment. In accordance with IntangiblesGoodwill and Other ("ASC 350"), we recorded a preliminary estimated non-cash impairment loss of approximately $182.0 million in the
+condensed consolidated statements of operations and comprehensive loss during the quarter ended June 30, 2014. We completed the second step of the impairment test and recorded an impairment
+loss of approximately $46.3 million during the quarter ended September 30, 2014. In
+addition to the goodwill impairment losses noted above, we recorded an impairment loss of approximately $1.2 million during the third quarter of 2014 related to the write-off
+of our 33.6% investment interest in a development stage proton therapy center located in New York ("NY Proton"). As a result of NY Proton's continued operating losses since its inception in 2010 and
+our liquidity issues experienced during the quarter ended June 30, 2014, we provided notice to the consortium that we may not be able to provide the full commitment of approximately
+$10.0 million to this project. Pursuant to the Subscription Agreement entered into with CPPIB on September 26, 2014, we are required to use commercially reasonable efforts to transfer
+and sell our ownership interest to the consortium or to a third party and transfer the general manager role and any future management services fees to the consortium or a third party. Early extinguishment of debt. We incurred approximately $8.6 million from the early extinguishment of debt as a result of
+the prepayment of
+the Term A Loan, Term B Loan, MDLLC Credit Agreement, Note Purchase Agreement (each as defined below), and certain capital leases, which included the write-offs of $2.0 million in deferred
+financing costs, $2.7 million in original issue discount costs, and $3.8 million in pre-payment penalties, including $0.3 million paid to Theriac Management
+Investments, LLC ("Theriac") (a related party real estate entity owned by certain of the Company's directors and officers) pursuant to the Note Purchase Agreement. Equity initial public offering expenses. In May, 2014, we determined due to market conditions to postpone the initial public
+offering of our equity
+securities. As a result of the postponement and entering into the Recapitalization Support Agreement with Consenting Subordinated Noteholders, we wrote-off approximately $4.9 million in
+expenses associated with the initial public offering. Loss on sale leaseback transaction. In March 2014, the Company entered into a sale leaseback transaction with a financial
+institution. The sale
+leaseback transaction related to medical equipment. Proceeds from the sale were approximately $5.7 million. The Company recorded a loss on the sale leaseback transaction of approximately
+$0.1 million. Fair value adjustment of earn-out liability. On October 25, 2013, we completed the acquisition of OnCure. The transaction
+was funded through a
+combination of cash on hand, borrowings from our senior secured credit facility and the issuance of $82.5 million in senior secured notes of OnCure, which accrue interest at a rate of 11.75%
+per annum and mature January 15, 2017, of which 71 Table of Contents $7.5 million
+included in other long-term liabilities in the consolidated balance sheets, is subject to escrow arrangements and will be released to holders upon satisfaction of certain
+conditions (the "earn out payment"). The Company recorded an estimated earn out payment at the time of the closing of the transaction. The earn out payment is contingent upon certain acquired centers
+attaining earnings before interest, taxes, depreciation and amortization targets, is due on December 31, 2015, and is payable through the issuance of the 11.75% senior secured notes. At
+December 31, 2013, we estimated the fair value of the contingent earn out liability and increased the liability due to the holders to approximately $7.6 million. We recorded the
+$0.1 million to expense in the fair value adjustment of earn-out liability caption in the consolidated statements of operations and comprehensive loss. At December 31, 2014, we estimated
+the fair value of the contingent earn out liability and increased the liability due to the seller by approximately $0.8 million, which is recorded to expense in the fair value adjustment of
+earn-out liability caption in the consolidated statements of operations and comprehensive loss. Pursuant
+to the SFRO acquisition, we recorded an estimated contingent earn out liability totaling approximately $11.1 million. At December 31, 2014, we estimated the fair
+value of the contingent earn out liability and increased the liability due to the holders to approximately $11.9 million. We recorded
+the $0.8 million to expense in the fair value adjustment caption in the consolidated statements of operations and comprehensive loss. Fair value adjustment of embedded derivative. Pursuant to the terms of the Subscription Agreement, immediately following the
+occurrence of our
+qualifying initial public offering or a qualifying merger, we will execute and deliver to CPPIB a Warrant Agreement (the "Warrant Agreement") and issue to CPPIB warrants to purchase shares of our
+common stock having a then-current value of $30 million, at a purchase price of $0.01 per share. The warrants expire on the tenth anniversary of the date of issuance. We evaluated the
+contingent events that could trigger the conversion of the Series A Preferred Stock to common stock and issuance of warrants and determined that the contingent conversion features qualify as an
+embedded derivative, requiring bifurcation and classification as a liability, measured at fair value. The Company determined the fair value of the embedded derivative to be, and recorded approximately
+$15.0 million as of September 30, 2014. As of December 31, 2014 we estimated the fair value of the embedded derivative to be approximately $15.8 million. The
+$0.8 million change in fair value of the embedded derivative is recorded to expense in the fair value adjustment of embedded derivative caption in the consolidated statements of operations and
+comprehensive loss. Gain on the sale of an interest in a joint venture. In June 2013, we sold our 45% interest in an unconsolidated joint venture
+which operated a
+radiation treatment center in Providence, Rhode Island in partnership with a hospital to provide stereotactic radio-surgery through the use of a cyberknife for approximately $1.5 million, and
+recorded a respective gain on the sale. There were no similar sales during 2014. Loss (gain) on foreign currency derivative contracts. We are exposed to a significant amount of foreign exchange risk, primarily
+between the U.S.
+dollar and the Argentine Peso. This exposure relates to the provision of radiation oncology services to patients at our Latin American operations and purchases of goods and services in foreign
+currencies. We maintained a foreign currency derivative contract which expired on March 31, 2014. The expiration of the foreign currency derivative contract and the mark to market valuation of
+the remaining contracts resulted in a gain of $4,000 in 2014 and a loss of approximately $0.5 million in 2013. Income taxes. Our effective tax rate was (1.5)% in fiscal 2014 and 20.8% in fiscal 2013. The change in the effective rate in
+2014 compared to the
+same period of the year prior is primarily due to the favorable effect of the OnCure purchase price adjustments on the valuation allowance booked against our net deferred tax assets in 2013 and by the
+release of previously recorded reserves related to US federal, state and international tax issues and the recording of a noncash impairment charge relating to goodwill in the U.S. domestic reporting
+segment of $229.5 million during 2014. As a result, on an
+absolute dollar basis, the expense for income taxes changed by $25.6 million from the income tax benefit of $20.4 million in 2013 to an income tax expense of $5.2 million in 2014. 72 Table of Contents Our future effective tax rates could be affected by changes in the relative mix of taxable income and taxable loss jurisdictions, changes in the valuation of
+deferred tax assets or liabilities, or changes in tax laws or interpretations thereof. We monitor the assumptions used in estimating the annual effective tax rate and make adjustments, if required,
+throughout the year. If actual results differ from the assumptions used in estimating our annual effective tax rates, future income tax expense (benefit) could be materially affected. In
+addition, we are periodically under audit by federal, state, or local authorities in the areas of income taxes and other taxes. These audits include questioning the timing and amount
+of deductions and compliance with federal, state, and local tax laws. We regularly assess the likelihood of adverse outcomes from these audits to determine the adequacy of our provision for income
+taxes. To the extent we prevail in matters for which accruals have been established or are required to pay amounts in excess of such accruals, the effective tax rate could be materially affected. Net loss. Net loss increased by $265.0 million, from $78.2 million in net loss in 2013 to $343.2 million net loss in
+2014. Net loss
+represents 10.7% of total revenues in 2013 and 33.4% of total revenues in 2014. Comparison of the Years Ended December 31, 2012 and 2013 Revenues Total revenues. Total revenues increased by $42.5 million, or 6.1%, from $694.0 million in 2012 to $736.5 million
+in 2013. Total
+revenue was positively impacted by $59.4 million due to our expansion into new practices and treatments centers in existing local markets and new local markets during 2012 and 2013 through the
+acquisition of several urology, medical oncology and surgery practices in Arizona, California, Florida, Nevada, New Jersey, New York, North Carolina, Rhode Island and the acquisition of physician
+radiation practices in Arizona, California, Florida, Indiana, North Carolina, Mexico and 73 Table of Contents the
+opening of two de novo centers and two hospital professional services arrangements transitioned to freestanding as follows: Date Sites Location Market Type February 2012 1 Asheville, North Carolina Western North Carolina Acquisition March 2012 2 Broward CountyFlorida Broward CountyFlorida Transition from professional /other to freestanding March 2012 1 Lakewood RanchFlorida Sarasota/Manatee CountiesFlorida Acquisition August 2012 1 Latin America International (Argentina) De Novo May 2013 3 Cape Coral / Ft. Myers / Bonita SpringsFlorida Lee CountyFlorida Acquisition May 2013 2 NaplesFlorida Collier CountyFlorida Acquisition June 2013 1 Casa GrandeArizona Central Arizona Joint Venture Acquisition July 2013 1 Latin America International (Mexico) Acquisition September 2013 1 Latin America International (Argentina) De Novo (Hospital Campus) October 2013 30 California / Indiana / Florida California / Indiana / Florida AcquisitionOnCure Freestanding October 2013 3 Indiana Indiana AcquisitionOnCure professional / other October 2013 1 Roanoke Rapids, North Carolina Eastern North Carolina Acquisition Revenue
+from CMS for the 2013 PQRS program decreased approximately $0.6 million and revenues in our existing local markets and practices decreased by approximately
+$16.3 million. The decrease in revenue in our existing local markets is predominately due to the reductions in RVUs for many of our treatment codes effective with the 2013 Physician Fee
+Schedule, one less treatment day and treatment declines for prostate cancer as a result of the slowing rate of men diagnosed and referred to treatment regimens, as a result of the Preventative
+Services Task Force report issued in May 2012 recommending against routine PSA screenings for healthy men, as well as suggested changes in treatment pattern for low risk prostate cancer away from
+definitive treatment. The decrease was partially offset by increased managed care pricing and organic growth. Expenses Salaries and benefits. Salaries and benefits increased by $36.7 million, or 9.8%, from $372.7 million in 2012 to
+$409.4 million
+in 2013. Salaries and benefits as a percentage of total revenues increased from 53.7% in 2012 to 55.6% in 2013. Additional staffing of personnel and physicians due to our development and expansion of
+several urology, medical oncology and surgery practices in Arizona, California, Florida, Nevada, New Jersey, New York, North Carolina, and Rhode Island as well as the acquisitions of treatment centers
+in existing and new local markets during the latter part of 2012 and 2013 contributed $30.8 million to our salaries and benefits. In June 2012, we implemented a new equity-incentive plan, which
+provided stock compensation of $3.3 million in 2012 as compared to $0.6 million in 2013. For
+existing practices and centers within our local markets, salaries and benefits increased $8.6 million due increased salaries related to our physician liaison program and the expansion of our
+senior management team offset by decreases in our compensation arrangements with certain radiation oncologists. 74 Table of Contents Medical supplies. Medical supplies increased by $3.0 million, or 5.0%, from $61.6 million in 2012 to $64.6 million
+in 2013.
+Medical supplies as a percentage of total revenues decreased from 8.9% in 2012 to 8.8% in 2013. Medical supplies consist of patient positioning devices, radioactive seed supplies, supplies used for
+other brachytherapy services, pharmaceuticals used in the delivery of radiation therapy treatments and chemotherapy-related drugs and other medical supplies. Approximately $4.5 million of the
+increase was related to our development and expansion of several urology, medical oncology and surgery practices in Arizona, California, Florida, Nevada, New Jersey, New York, North Carolina, and
+Rhode Island as well as the acquisitions of treatment centers in existing and new local markets during the latter part of 2012 and 2013. In our remaining practices and centers in existing local
+markets, medical supplies decreased by approximately $1.5 million as certain chemotherapy drugs are administered through hospital settings under physician practice arrangements. These
+pharmaceuticals and chemotherapy medical supplies are principally reimbursable by third-party payers. Facility rent expenses. Facility rent expenses increased by $5.8 million, or 14.5%, from $39.8 million in 2012 to
+$45.6 million
+in 2013. Facility rent expenses as a percentage of total revenues increased from 5.7% in 2012 to 6.2% in 2013. Facility rent expenses consist of rent expense associated with our treatment center
+locations. Approximately $6.0 million of the increase was related to our development and expansion of several urology, medical oncology and surgery practices in Arizona, California, Florida,
+Nevada, New Jersey, New York, North Carolina, and Rhode Island as well as the acquisitions of treatment centers in existing and new local markets during the latter part of 2012 and 2013. In March
+2012, we paid approximately $0.4 million to terminate a lease for our Beverly Hills, California office we closed in March 2011. Facility rent expense in our remaining practices and centers in
+existing local markets increased by approximately $0.1 million. Other operating expenses. Other operating expenses increased by $6.6 million or 17.0%, from $39.0 million in 2012 to
+$45.6 million in 2013. Other operating expense as a percentage of total revenues increased from 5.6% in 2012 to 6.2% in 2013. Other operating expenses consist of repairs and maintenance of
+equipment, equipment rental and contract labor. Approximately $4.7 million of the increase was related to our development and expansion of several urology, medical oncology and surgery
+practices in Arizona, California, Florida, Nevada, New Jersey, New York, North Carolina, and Rhode Island as well
+as the acquisitions of treatment centers in existing and new local markets during the latter part of 2012 and 2013. Approximately $1.8 million relates to equipment rental expense relating to
+the equipment refinancing closed in September 2012. In our remaining practices and centers in existing local markets other operating expenses increased approximately $0.1 million. General and administrative expenses. General and administrative expenses increased by $24.7 million or 30.0%, from
+$82.2 million in
+2012 to $106.9 million in 2013. General and administrative expenses principally consist of professional service fees, consulting, office supplies and expenses, insurance, marketing and travel
+costs. General and administrative expenses as a percentage of total revenues increased from 11.9% in 2012 to 14.5% in 2013. The net increase of $24.7 million in general and administrative
+expenses was due in part to an increase of approximately $7.9 million relating to our development and expansion of several urology, medical oncology and surgery practices in Arizona,
+California, Florida, Nevada, New Jersey, New York, North Carolina, and Rhode Island as well as the acquisitions of treatment centers in existing and new local markets during the latter part of 2012
+and 2013. In addition, there was an increase of approximately $2.0 million related to expenses for consulting services for the CMS 2013/2014 fee schedule, $11.5 million in diligence
+costs relating to acquisitions and potential acquisitions of physician practices, $4.7 million relating to an estimated loss contingency reserve, $0.3 million in our rebranding
+initiatives to 21st Century Oncology trade name, offset by a decrease of approximately $1.0 million in litigation settlements with certain physicians and a decrease of approximately
+$0.7 million in our remaining practices and treatments centers in our existing local markets. 75 Table of Contents Depreciation and amortization. Depreciation and amortization increased by $0.3 million or 0.5%, from $64.9 million in
+2012 to
+$65.2 million in 2013. Depreciation and amortization expense as a percentage of total revenues decreased from 9.4% in 2012 to 8.9% in 2013. The change in depreciation and amortization was due
+to an increase of approximately $5.6 million relating to our development and expansion of several urology, medical oncology and surgery practices in Arizona, California, Florida, Nevada, New
+Jersey, New York, North Carolina, and Rhode Island as well as the acquisitions of treatment centers in existing and new local markets during the latter part of 2012 and 2013. A decrease of
+approximately $3.7 million in amortization of our trade name and a decrease of approximately $1.4 million predominately due to the refinancing of certain medical equipment leases with a
+financial institution in September 2012 classified as prepaid rent. In our remaining practices and centers in existing local markets depreciation and amortization decreased approximately
+$0.2 million. Provision for doubtful accounts. The provision for doubtful accounts decreased by $4.8 million, or 28.2%,
+from $16.9 million in 2012 to $12.1 million in 2013. The provision for doubtful accounts as a percentage of total revenues decreased from 2.4% in 2012 to 1.6% in 2013. We continued to
+reduce our provision for doubtful accounts as we made progress in improving the overall collection process, including centralization of the prior authorization process, with a standardization process
+supporting peer to peer justification of medical necessity, improvements in payment posting timeliness, electronic submission of documentation to Medicare carriers, Medicaid eligibility retro
+scrubbing of self-pay patients, automated insurance rebilling, focused escalation processes for claims in medical review with insurers, collector productivity and quality tracking and monitoring, and
+improved processes at the treatment centers to collect co-pay amounts at the time of service. These actions have resulted in improved collections and lower bad debt expense as a percentage of total
+revenues. Interest expense, net. Interest expense, increased by $9.3 million, or 11.9%, from $77.5 million in 2012 to
+$86.7 million in
+2013. The increase is primarily attributable to an increase of approximately $11.8 million of interest as a result of the secured notes issued in May 2012 of approximately
+$350.0 million, the refinancing of our senior secured credit facility in August 2013, the issuance of $75.0 million in senior secured notes in the OnCure transaction and additional
+capital lease financing. An increase in the amortization of deferred financing costs and original issue discount of approximately $0.6 million as a result of our refinancing of our senior
+credit facility in August 2013 and an increase of approximately $0.1 million of interest expense in our international markets, offset by a decrease in our interest rate swap expense of
+approximately $2.8 million and the write- off of loan costs of approximately $0.5 million in May 2012. Electronic health records incentive income. The American Recovery and Reinvestment Act of 2009 provides for incentive payments
+for Medicare eligible
+professionals who are meaningful users of certified EHR technology. We account for EHR incentive payments utilizing the gain contingency model. Pursuant to the gain contingency model, we recognize EHR
+incentive payments when the specified meaningful use criteria have been satisfied, as all contingencies in estimating the amount of the incentive payments to be received are resolved. For the year
+ended December 31, 2013 and 2012 we recognized approximately $1.7 million and $2.3 million, respectively of EHR revenues. Gain on the sale of an interest in a joint venture. In June 2013, we sold our 45% interest in an unconsolidated joint venture
+which operated a
+radiation treatment center in Providence, Rhode Island in partnership with a hospital to provide stereotactic radio-surgery through the use of a cyberknife for approximately $1.5 million, and
+recorded a respective gain on the sale. Loss on sale leaseback transaction. In December 2013, the Company entered into a sale leaseback transaction with two financial
+institutions. The sale
+leaseback transaction related to medical equipment.
+Proceeds from the sale were approximately $18.4 million. The Company recorded a loss on the sale leaseback transaction of approximately $0.3 million. 76 Table of Contents Early extinguishment of debt. We incurred approximately $4.5 million from the early extinguishment of debt as a result of
+the prepayment of
+the $265.4 million senior secured credit facilityTerm Loan B and prepayment of $63.0 million senior secured credit facilityrevolving credit portion, which
+included the write-offs of $3.7 million in deferred financing costs and $0.8 million in original issue discount costs. Fair value adjustment of earn-out liability. On March 1, 2011, we purchased the remaining 67% interest in MDLLC and its
+subsidiaries,
+resulting in an ownership interest of approximately 91% in the underlying radiation oncology practices located in South America, Central America, Mexico and the Caribbean. We also purchased an
+additional 61% interest in Clinica de Radioterapia La Asuncion S.A., resulting in an ownership interest of 80%. The Company recorded an estimated contingent earn out payment totaling
+$2.3 million at the time of the closing of these acquisitions. The earn out payment is contingent upon certain acquired centers attaining earnings before interest, taxes, depreciation and
+amortization targets, is due 18 months subsequent to the transaction closing, and is payable through Company financing and issuance of equity units. At December 31, 2012, we estimated
+the fair value of the contingent earn out liability and increased the liability due to the seller to approximately $3.4 million. We recorded the $1.0 million to expense in the fair value
+adjustment caption in the consolidated statements of operations and comprehensive loss. On
+November 4, 2011, we purchased an 80% interest in an operating entity, which operates 1 radiation treatment center in Argentina; an 80% interest in another operating
+entity, which operates 3 radiation treatment centers in Argentina; and a 96% interest in an operating entity, which operates 1 radiation treatment center in Argentina. In November 2012,
+we exercised our purchase option to purchase the remaining interest for approximately $1.4 million and recorded the adjustment of $0.2 million to the purchase option as an expense in the
+fair value adjustment of the noncontrolling interests-redeemable in the consolidated statements of operations and comprehensive loss. On
+October 25, 2013, we completed the acquisition of OnCure. The transaction was funded through a combination of cash on hand, borrowings from our senior secured credit facility
+and the issuance of $82.5 million in senior secured notes of OnCure, which accrue interest at a rate of 11.75% per annum and mature January 15, 2017, of which $7.5 million is
+subject to escrow arrangements and will be released to holders upon satisfaction of certain conditions. The $7.5 million subject to escrow
+arrangements was recorded as an earn out payment contingent upon certain acquired centers attaining earnings before interest, taxes, depreciation and amortization targets, and is due and payable on
+December 31, 2015. At December 31, 2013, we estimated the fair value of the contingent earn out liability and increased the liability due to the holders to approximately
+$7.6 million. We recorded the $0.1 million to expense in the fair value adjustment caption in the consolidated statements of operations and comprehensive loss. Impairment loss. During the third quarter of 2012, we completed an interim impairment test for goodwill and indefinite-lived
+intangible assets as a
+result of our review of growth expectations and the release of the final rule issued on the physician fee schedule for 2013 by CMS on November 1, 2012, which included certain rate reductions on
+Medicare payments to freestanding radiation oncology providers as well as the changes in treatment patterns and volumes in prostate cancer as a result of the slowing rate of men diagnosed and referred
+to treatment regimens, as a result of the Preventative Services Task Force report issued in May 2012 recommending against routine PSA screenings for healthy men, as well as suggested changes in
+treatment pattern for low risk prostate cancer away from definitive treatment. In performing this test, we assessed the implied fair value of our goodwill and intangible assets. As a result, we
+recorded an impairment loss of approximately $69.9 million during the third quarter of 2012 primarily relating to goodwill impairment in certain of our reporting units, including Mid East
+United States (Northwest Florida, North Carolina, Southeast Alabama, South Carolina), Central South East United States (Delmarva Peninsula, Central Maryland, Central Kentucky, South New Jersey),
+California, South West United States (central Arizona and Las Vegas, Nevada), and 77 Table of Contents Southwest
+Florida of approximately $69.8 million. In addition, during the third quarter of 2012, an impairment loss of approximately $0.1 million was recognized related to the impairment
+of certain leasehold improvements of a planned radiation treatment facility office relocation in Monroe, Michigan in the Northeast U.S. region. During
+the fourth quarter of 2012, we completed our annual impairment test for goodwill and indefinite-lived intangible assets. In performing this test, we assessed the implied fair
+value of our goodwill and intangible assets. As a result, we recorded an impairment loss of approximately $11.1 million during the fourth quarter of 2012 primarily relating to goodwill
+impairment in certain of our reporting units, including Central South East United States (Delmarva Peninsula, Central Maryland, Central Kentucky, South New Jersey), and Southwest Florida of
+approximately $10.8 million. In addition, during the fourth quarter of 2012, an impairment loss of approximately $0.1 million was recognized related to the impairment of certain
+leasehold improvements in the Delmarva Peninsula local market and approximately $0.2 million related to a consolidated joint venture in the Central Maryland local market. Loss on foreign currency derivative contracts. We are exposed to a significant amount of foreign exchange risk, primarily
+between the U.S. dollar and
+the Argentine Peso. This exposure relates to the provision of radiation oncology services to patients at our Latin American operations and purchases of goods and services in foreign currencies.
+Through March 2014, we maintained foreign currency derivative contracts which matured on a quarterly basis. In 2014 and 2013, the expiration of the December 31, 2013 foreign currency derivative
+contract and the mark to market valuation of the remaining contracts resulted in a gain of approximately $4,000 and loss of $0.5 million, respectively. Income taxes. Our effective tax rate was 20.8% for 2013 and (3.1)% in 2012. The change in the effective rate in 2013 compared to
+the same period of
+the year prior is primarily due to the favorable effect of the OnCure purchase price adjustments on the valuation allowance booked against our net deferred tax assets. The fiscal year 2012 tax rate
+was also impacted by the income tax benefit associated with the termination of the interest rate swap in the first quarter and by the recording of a noncash impairment charge relating to goodwill in
+the U.S. domestic reporting segment of $80.7 million. As a result, on an absolute dollar basis, the expense for income taxes changed by $24.9 million from the income tax expense of
+$4.5 million in 2012 to an income tax benefit of $20.4 million in 2013. Our
+future effective tax rates could be affected by changes in the relative mix of taxable income and taxable loss jurisdictions, changes in the valuation of deferred tax assets or
+liabilities, or changes in tax laws or interpretations thereof. We monitor the assumptions used in estimating the annual effective tax rate and make adjustments, if required, throughout the year. If
+actual results differ from the assumptions used in estimating our annual effective tax rates, future income tax expense (benefit) could be materially affected. In
+addition, we are periodically under audit by federal, state, or local authorities in the areas of income taxes and other taxes. These audits include questioning the timing and amount
+of deductions and compliance with federal, state, and local tax laws. We regularly assess the likelihood of adverse outcomes from these audits to determine the adequacy of our provision for income
+taxes. To the extent we prevail in matters for which accruals have been established or are required to pay amounts in excess of such accruals, the effective tax rate could be materially affected. Net loss. Net loss decreased by $72.9 million, from $151.1 million in net loss in 2012 to $78.2 million net loss
+in 2013. Net
+loss represents 21.9% of total revenues in 2012 and 10.7% of total revenues in 2013. 78 Table of Contents Liquidity and Capital Resources We are highly leveraged. As of December 31, 2014, we had $967.1 million of long-term debt outstanding. We have
+experienced and continue to experience losses from operations. We reported a net loss of approximately $343.2 million, $78.2 million, and $151.1 million for the years ended
+December 31, 2014, 2013, and 2012, respectively. Our
+high level of debt could have adverse effects on our business and financial condition. Specifically, our high level of debt could have important consequences, including the
+following:  making it more difficult for us to satisfy our obligations with respect to debt;  limiting our ability to obtain additional financing to fund future working capital, capital expenditures, acquisitions or other
+general corporate requirements;  requiring a substantial portion of our cash flows to be dedicated to debt service payments instead of other purposes;  increasing our vulnerability to general adverse economic and industry conditions;  limiting our flexibility in planning for and reacting to changes in the industry in which we compete;  placing us at a disadvantage compared to other, less leveraged competitors; and  increasing our cost of borrowing. Our
+ability to make scheduled payments and to refinance our indebtedness depends on, and is subject to, our financial and operating performance, which in turn is affected by general and
+regional economic, financial, competitive, business and other factors beyond our control, including the availability of financing in the international banking and capital markets. We
+are involved in disputes, litigation, and regulatory matters incidental to our operations, including governmental investigations and other matters arising out of the normal conduct of
+business. The resolution of these matters could have a material adverse effect on our business and financial position. On
+September 26, 2014, we issued to CPPIB, in a private placement, an aggregate of 385,000 newly issued shares of its Series A Convertible Redeemable Preferred Stock for a
+purchase price of $325.0 million. This
+equity investment provides us with incremental liquidity, reduces our debt, and provides capital to continue to grow our business. As further described in our consolidated financial
+statements, a portion of the net proceeds from the issuance of our Series A Preferred Stock was used to repay all outstanding borrowings under our revolving credit facility, repay all
+obligations under the South Florida Radiation Oncology Term A, Term A-1, and Term B loans, repay certain other debt and capital leases, as well as provide capital for near-term strategic initiatives
+and general corporate purposes. Our
+principal capital requirements are for working capital, acquisitions, medical equipment replacement and expansion and de novo treatment center development. Working capital and
+medical equipment are funded through cash from operations, supplemented, as needed, by lease lines of credit. Borrowings
+under these lease lines of credit are recorded on our balance sheets. The construction of de novo treatment centers is funded directly by third parties and then leased to us. We finance our
+operations, capital expenditures and acquisitions through a combination of borrowings and cash generated from operations. We
+have several initiatives designed to increase profitability including: (i) fully integrating our recent acquisitions to improve operational performance; (ii) improving
+commercial payer contracting to 79 Table of Contents increase
+reimbursement; (iii) continued development and expansion of our integrated cancer care model; and (iv) realignment of our physician compensation arrangements to reflect the
+current reimbursement environment. Although we are significantly leveraged, we expect that the current cash balance, liquidity from our revolver, and cash generated from operations will be sufficient
+to meet working capital, capital expenditure, debt service, and other cash needs through December 31, 2015. Cash Flows From Operating Activities Net cash provided by operating activities for the years ended December 31, 2012 was $16.1 million. Net cash used in
+operating activities for the years ended December 31, 2013 and 2014 was $11.6 million and $15.4 million, respectively. Net
+cash used in operating activities increased by $3.8 million from $11.6 million in 2013 to $15.4 million in 2014 predominately due to management of our vendor
+payables and increased cash flow related to our OnCure and SFRO transactions. In June 2014, we recorded a preliminary impairment loss of approximately $182.0 million as a result of us
+experiencing some liquidity issues after terminating our previously planned initial public offering. We finalized our goodwill impairment for step two of the process as of September 30, 2014
+and recorded an additional $46.3 million in goodwill impairment and $1.2 million in impairment related to our write-off of our 33.6% investment interest in NY Proton. As a result of NY
+Proton's continued operating losses since its inception in 2010 and our liquidity issues experienced during the quarter ended June 30, 2014, we provided notice to the consortium that we may not
+be able to provide the full commitment of approximately $10.0 million to this project. Pursuant to the Subscription Agreement entered into with CPPIB on September 26, 2014, we are
+required to use commercially reasonable efforts to transfer and sell our ownership interest to the consortium or to a third party and transfer the general manager role and any future management
+services fees to the consortium or a third party. Cash
+at December 31, 2014 held by our foreign subsidiaries was $4.5 million. We consider these cash flows to be permanently invested in our foreign subsidiaries and
+therefore do not anticipate repatriating any excess cash flows to the U.S. We believe that the magnitude of our growth opportunities outside of the U.S. will cause us to continuously reinvest foreign
+earnings. We do not require access to the earnings and cash flow of our international subsidiaries to fund our U.S. operations. Net
+cash used in operating activities decreased by $27.7 million from $16.1 million in cash provided by operating activities in 2012 to $11.6 million in cash used in
+operating activities in 2013 predominately due to a decrease in cash flow due to the reductions in RVUs for many of our treatment codes effective with the 2013 physician fee schedule and increased
+interest costs. On May 10, 2012, we issued $350.0 million in aggregate principal amount of 8 7 / 8 % Senior Secured Second Lien Notes due 2017. We used the proceeds to repay
+our existing senior secured revolving credit facility and the Term Loan B portion of our senior secured credit facilities, which were prepaid in their entirety, cancelled and replaced with the new
+Revolving Credit Facility, and to pay related fees and expenses. We continue to see improvements in our cash collections from our accounts receivable with our days sales outstanding improving from
+34 days to 31 days. Cash
+at December 31, 2013 held by our foreign subsidiaries was $3.6 million. We consider these cash flows to be permanently invested in our foreign subsidiaries and
+therefore do not anticipate repatriating any excess cash flows to the U.S. We anticipate we can adequately fund our domestic operations from cash flows generated solely from our U.S. business. We
+believe that the magnitude of our growth opportunities outside of the U.S. will cause us to continuously reinvest foreign earnings. We do not require access to the earnings and cash flow of our
+international subsidiaries to fund our U.S. operations. 80 Table of Contents Cash Flows From Investing Activities Net cash used in investing activities for 2012, 2013, and 2014 was $57.3 million, $118.0 million, and
+$113.5 million, respectively. Net
+cash used in investing activities decreased by $4.5 million from $118.0 million in 2013 to $113.5 in 2014. In 2014, net cash used in investing activities was impacted
+by approximately $50.2 million in the acquisition of medical practices. On February 10, 2014, we purchased a 65% equity interest in SFRO for
+approximately $65.5 million, subject to working capital and other customary adjustments. The transaction was primarily funded with the proceeds of a new $60 million term loan facility,
+$2.0 million seller financing note, and $7.9 million of term loans to refinance existing SFRO debt. In addition, we reflected approximately $11.7 million as restricted cash
+relating to the SFRO existing debt and an indemnity escrow for the determination of the final purchase price as well as recording $11.1 million as a contingent earn out payment. On
+April 21, 2014, we purchased the assets of a radiation oncology practice located in Boca Raton, Florida for approximately $0.4 million plus the assumption of approximately
+$2.7 million of debt. During 2014, we purchased approximately $56.6 million in property and equipment. We have one of the most technically-advanced radiation equipment platforms in the
+industry. A significant portion of this spend is for growth related projects. This includes the upgrade of technology and equipment at the legacy OnCure centers to expand capacity as well as add SRS
+capacity, and MDLLC's growth. Net
+cash used in investing activities increased by $60.7 million from $57.3 million in 2012 to $118.0 million in 2013. In 2013, net cash used in investing activities
+was impacted by approximately $0.8 million in cash paid for the assets of several physician practices in Arizona, New Jersey and North Carolina, and approximately $17.7 million in cash
+paid for the assets of five radiation oncology practices and a urology group located in Lee and Collier Counties in Southwest Florida in May 2013. In June 2013, we contributed our Casa Grande, Arizona
+radiation physician practice and approximately $5.0 million to purchase a 55.0% interest in a joint venture. In June 2013, we entered into a "stalking horse" investment agreement to acquire
+OnCure upon effectiveness of its plan of reorganization under Chapter 11 of the U.S. Bankruptcy Code for approximately $125.0 million, (excluding capital leases, working capital and
+other adjustments). The purchase price included $42.5 million in cash and up to $82.5 million in assumed debt ($7.5 million of assumed debt will be released assuming certain
+OnCure centers achieve a minimum level of EBITDA). We funded an initial deposit of approximately $5.0 million into an escrow account subject to the working capital adjustments. On
+October 25, 2013, we completed the acquisition of OnCure. The transaction was funded through a combination of cash on hand, borrowings from our senior secured credit facility
+and the issuance of $82.5 million in senior secured notes of OnCure, which accrue interest at a rate of 11.75% per annum and mature January 15, 2017, of which $7.5 million is
+subject to escrow arrangements and will be released to holders upon satisfaction of certain conditions. In
+2013, net cash used in investing activities was impacted by approximately $0.5 million in contribution of capital to an unconsolidated joint venture. In June 2013, we sold our
+45% interest in an unconsolidated joint venture which operated a radiation treatment center in Providence, Rhode Island for approximately $1.5 million. In July 2013, we purchased the remaining
+38.0% interest in a joint venture radiation facility, located in Woonsocket, Rhode Island from a hospital partner for approximately $1.5 million. In July 2013 we purchased a company, which
+operates a radiation treatment center in Tijuana, Mexico for approximately $1.6 million. In October 2013, we purchased a radiation therapy treatment center in Roanoke Rapids, North Carolina for
+approximately $2.2 million. During 2013, we entered into foreign exchange option contracts expiring on June 2014 to convert a significant portion of our forecasted foreign currency denominated
+net income into U.S. dollars to limit the adverse impact of a weakening Argentine Peso against the U.S. dollar. The cost of the option contracts, were approximately $0.2 million. 81 Table of Contents Historically,
+our capital expenditures have been primarily for equipment, leasehold improvements and information technology equipment. Total capital expenditures, inclusive of amounts
+financed through capital lease arrangements, outstanding accounts payable relating to the acceptance and delivery of medical equipment and exclusive of the purchase of radiation treatment centers,
+were $38.0 million, $43.8 million and $77.2 million in 2012, 2013 and 2014, respectively. Historically, we have funded our capital expenditures with cash flows from operations,
+borrowings under our senior secured credit facilities and borrowings under lease lines of credit. Cash Flows From Financing Activities Net cash provided by financing activities for 2012, 2013 and 2014 was $46.4 million, $131.6 million and
+$210.6 million, respectively. On
+January 2, 2014, we sold a 20% share of our Southern New England Regional Cancer Care joint venture each to Care New England Health System ("CNE") and Roger Williams Medical
+Center. Also during the quarter, CNE acquired a 20% interest in our Roger Williams Medical Center joint venture. We received payments of approximately $1.3 million from the issuance of
+noncontrolling interests in these joint ventures. On
+February 10, 2014, 21C East Florida and South Florida Radiation Oncology Coconut Creek, LLC ("Coconut Creek"), a subsidiary of SFRO, as borrowers, the several lenders
+and other financial institutions or entities from time to time parties thereto and Cortland Capital Market Services LLC as administrative agent and collateral agent entered into a new credit
+agreement (the "SFRO Credit Agreement"). The SFRO Credit Agreement provides for a $60 million Term B Loan in favor of 21C East Florida ("Term B Loan") and $7.9 million Term A Loan in
+favor of Coconut Creek issued for purposes of refinancing existing SFRO debt ("Term A Loan" and together with the Term B Loan, the "SFRO Term Loans"). The SFRO Term Loans each have a maturity date of
+January 15, 2017. We incurred approximately $1.0 million in deferred financing costs relating to the SFRO debt. On
+October 25, 2013, we completed the acquisition of OnCure. The transaction included the issuance of $82.5 million in senior secured notes of OnCure, which accrue interest
+at a rate of 11.75% per annum and mature January 15, 2017, of which $7.5 million is subject to escrow arrangements and will be
+released to holders upon satisfaction of certain conditions. Interest is payable on the secured notes on each January 15 and July 15, commencing July 15, 2014. On
+August 28, 2013, we entered into an Amendment Agreement (the "Amendment Agreement") to the credit agreement among us, 21C, the institutions from time to time party thereto as
+lenders, the administrative agent named therein and the other agents and arrangers named therein, dated as of May 10, 2012 (the "Original Credit Agreement" and, as amended and restated by the
+Amendment Agreement, the "Credit Agreement"). Pursuant to the terms of the Amendment Agreement the amendments to the Original Credit Agreement became effective on August 29, 2013. The
+Credit Agreement provides for credit facilities consisting of (i) a $90 million Term Facility and (ii) a Revolving Credit Facility provided for up to
+$100 million of revolving extensions of credit outstanding at any time (including revolving loans, swingline loans and letters of credit). The Term Facility and the Revolving Credit Facility
+each have a maturity date of October 15, 2016. As
+a result of the Amendment Agreement, the proceeds of $87.75 million (net of original issue discount of $2.25 million) from the term loan facility was used to pay down
+approximately $62.5 million in revolver loans and accrued interest and fees of approximately $0.4 million. We incurred approximately $1.4 million in transaction fees and expenses,
+including legal, accounting and other fees and expenses in connection with the Amendment Agreement. 82 Table of Contents On
+September 26, 2014, we issued to CPPIB, in a private placement, an aggregate of 385,000 newly issued shares of our Series A Convertible Redeemable Preferred Stock for a
+purchase price of $325.0 million. This
+equity investment provides us with incremental liquidity, reduces our debt, and provides capital to continue to grow our business. As further described in Note 11 to our
+consolidated financial statements, a portion of the net proceeds from the issuance of our Series A Preferred Stock was used to repay all outstanding borrowings under our revolving credit
+facility, repay all obligations under the South Florida Radiation Oncology Term A, Term A-1, and Term B loans, repay certain other debt and capital leases, as well as provide capital for near-term
+strategic initiatives and general corporate purposes. For
+the year ended December 31, 2014, we paid approximately $4.9 million in costs associated with the initial public offering costs. We
+had partnership distributions from non-controlling interests of approximately $3.9 million, $2.2 million, and $3.6 in 2012, 2013, and 2014, respectively. On
+May 10, 2012, we completed an offering of $350.0 million in aggregate principal amount of 8 7 / 8 % Senior Secured Second Lien Notes due 2017, with an
+original issue discount of $1.7 million. The proceeds of $348.3 million was used to prepay and cancel $265.4 million in senior secured credit facilityTerm Loan B,
+prepayment of $63.0 million in senior secured credit facilityrevolving credit portion and payment of accrued interest and fees of approximately $0.8 million. In addition, we
+paid approximately $14.4 million of loan costs relating to transaction fees and expenses incurred in connection with the issuance of the 8 7 / 8 % Senior Secured Second Lien Notes
+and a new revolving credit facility. The remaining net proceeds were used for general corporate purposes. Senior Subordinated Notes On April 20, 2010, we consummated a debt offering in an aggregate principal amount of $310.0 million of
+9 7 / 8 % senior subordinated notes due 2017, and repaid our existing $175.0 million in aggregate principal amount 13.5% senior subordinated notes due 2015, including accrued and
+unpaid interest of approximately $6.4 million and the call premium of approximately $5.3 million. The remaining proceeds from the Offering were used to pay down $74.8 million of
+the Term Loan B and $10.0 million of our revolving credit facility. A portion of the proceeds was placed in a restricted account pending application to finance certain acquisitions, including
+the acquisitions of a radiation treatment center and physician practices in South Carolina, which were consummated on May 3, 2010. We incurred approximately $11.9 million in transaction
+fees and expenses, including legal, accounting and other fees and expenses in connection with the Offering, including the initial purchasers' discount of $1.9 million. On
+March 1, 2011, we issued $50 million of 9 7 / 8 % Senior Subordinated Notes due 2017 pursuant to a Commitment Letter from DDJ Capital Management, LLC.
+The proceeds of $48.5 million were used (i) to fund the Company's acquisition of all of the outstanding membership units of MDLLC and substantially all of the interests of MDLLC's
+affiliated companies (the "MDLLC Acquisition") and (ii) to fund transaction costs associated with the MDLLC Acquisition. We incurred approximately $1.6 million in transaction fees and
+expenses, including legal, accounting and other fees and expenses in connection with the new notes, and an initial purchasers' discount of $0.6 million. Senior Secured Second Lien Notes On May 10, 2012, we issued $350.0 million in aggregate principal amount of 8 7 / 8 % Senior Secured Second
+Lien Notes due 2017 (the "Secured Notes"). 83 Table of Contents The Secured Notes were issued pursuant to an indenture, dated May 10, 2012 (the "Secured Notes Indenture"), the Company, the guarantors signatory thereto
+and Wilmington Trust, National Association. The Secured Notes are senior secured second lien obligations of the Company and are guaranteed on a senior secured second lien basis by the Company, and
+each of our domestic subsidiaries to the extent such guarantor is a guarantor of the Company's obligations under the Revolving Credit Facility. The
+Secured Notes Indenture contains covenants that, among other things, restrict the ability for us, and certain of our subsidiaries to incur, assume or guarantee additional
+indebtedness; pay dividends or redeem or repurchase capital stock; make other restricted payments; incur liens; redeem debt that is junior in right of payment to the Secured Notes; sell or otherwise
+dispose of assets, including capital stock of subsidiaries; enter into mergers or consolidations; and enter into transactions with affiliates. These covenants are subject to a number of important
+exceptions and qualifications. In addition, in certain circumstances, if the Company sells assets or experiences certain changes of control, it must offer to purchase the Secured Notes. We
+used the proceeds to repay our existing senior secured revolving credit facility and the Term Loan B portion of our senior secured credit facilities, which were prepaid in their
+entirety, cancelled and replaced with the new Revolving Credit Facility described below, and to pay related fees and expenses. Any remaining net proceeds were used for general corporate purposes. Senior Secured Notes On October 25, 2013, we completed the acquisition of OnCure. The transaction included the issuance of $82.5 million in
+senior secured notes of OnCure (the "OnCure Notes"), which accrue interest at a rate of 11.75% per annum and mature January 15, 2017, of which $7.5 million is subject to escrow
+arrangements and will be released to holders upon satisfaction of certain conditions. The OnCure Notes were issued pursuant to an Amended and Restated Indenture (the "OnCure Indenture") of OnCure,
+with OnCure, as issuer, the subsidiaries of OnCure named therein, as guarantors, the Company, 21C and the subsidiaries of the Company and 21C named therein, as guarantors and Wilmington Trust,
+National Association, as trustee and collateral agent. The OnCure Notes are senior secured obligations of OnCure and certain of its subsidiaries that guarantee the OnCure Notes and senior unsecured
+obligations of the Company and its subsidiaries that guarantee the OnCure Notes. The
+OnCure Indenture contains covenants that, among other things, restrict the ability of OnCure, certain of its subsidiaries, the Company, 21C and certain of its subsidiaries to: incur,
+assume or guarantee additional indebtedness; pay dividends or redeem or repurchase capital stock; make other restricted payments; incur liens; redeem debt that is junior in right of payment to the
+OnCure Notes; sell or otherwise dispose of assets, including capital stock of subsidiaries; enter into mergers or consolidations; and enter into transactions with affiliates. These covenants are
+subject to a number of important exceptions and qualifications. In addition, in certain circumstances, if OnCure or the Company sell assets or experience certain changes of control, they must offer to
+purchase the OnCure Notes. Senior Secured Credit Facility On May 10, 2012, we also entered into the Original Credit Agreement among 21C, as borrower, the Company, Wells Fargo Bank,
+National Association, as administrative agent, collateral agent, issuing bank and as swingline lender, the other agents party thereto and the lenders party thereto. On August 28, 2013, we
+entered into the Amendment Agreement to the Original Credit Agreement. Pursuant to the terms of the Amendment Agreement the amendments to the Original Credit Agreement became effective on
+August 29, 2013. 84 Table of Contents The
+Credit Agreement provides for credit facilities consisting of (i) a $90 million Term Facility and (ii) a Revolving Credit Facility provided for up to
+$100 million of revolving extensions of credit outstanding at any time (including revolving loans, swingline loans and letters of credit). The Term Facility and the Revolving Credit Facility
+each have a maturity date of October 15, 2016. Loans
+under the Revolving Credit Facility and the Term Facility are subject to the following interest rates: (a) for
+loans which are Eurodollar loans, for any interest period, at a rate per annum equal to (i) a floating index rate per annum equal to (A) the rate per
+annum determined on the basis of the rate for deposits in dollars for a period equal to such interest period commencing on the first day of such interest period appearing on Reuters Screen LIBOR01
+Page as of 11:00 A.M., London time, two business days prior to the beginning of such interest period divided by (B) 1.0 minus the then stated
+maximum rate of all reserve requirements applicable to any member bank of the Federal Reserve System in respect of liability
+funding or liabilities as defined in Regulation D (or any successor category of liabilities under Regulation D) (provided that solely with respect to loans under the Term Facility, such
+floating index rate shall not be less than 1.00% per annum), plus (ii) an applicable margin (A) based upon a total leverage pricing grid
+for loans under the Revolving Credit Facility or (B) equal to 6.50% per annum for loans under the Term Facility; and (b) for
+loans which are base rate loans, at a rate per annum equal to (i) a floating index rate per annum equal to the greatest of (A) the administrative
+agent's prime lending rate at such time, (B) the overnight federal funds rate at such time plus 1 / 2 of 1%, and (C) the Eurodollar Rate for a Eurodollar loan with a
+one-month interest period commencing on such day plus 1.00% (provided that solely with respect to loans under the Term Facility, such floating index rate shall not be less than 2.00% per annum), plus (ii) an applicable margin (A) based upon a total leverage pricing grid for loans under the Revolving Credit Facility or
+(B) equal to 5.50% per annum for loans under the Term Facility. We
+will pay certain recurring fees with respect to the Credit Facilities, including (i) fees on the unused commitments of the lenders under the Revolving Credit Facility,
+(ii) letter of credit fees on the aggregate face amounts of outstanding letters of credit and (iii) administration fees. The
+Credit Agreement contains customary representations and warranties, subject to limitations and exceptions, and customary covenants restricting the ability (subject to various
+exceptions) of 21C and certain of its subsidiaries to: incur additional indebtedness (including guarantee obligations); incur liens; engage in mergers or other fundamental changes; sell certain
+property or assets; pay dividends of other
+distributions; consummate acquisitions; make investments, loans and advances; prepay certain indebtedness, change the nature of their business; engage in certain transactions with affiliates; and
+incur restrictions on the ability of 21C's subsidiaries to make distributions, advances and asset transfers. In addition, as of the last business day of each month, 21C will be required to maintain a
+certain minimum amount of unrestricted cash and cash equivalents plus availability under the Revolving Credit Facility of not less than $15.0 million. The
+Credit Agreement contains customary events of default, including with respect to nonpayment of principal, interest, fees or other amounts; material inaccuracy of a representation or
+warranty when made; failure to perform or observe covenants; cross default to other material indebtedness; bankruptcy and insolvency events; inability to pay debts; monetary judgment defaults; actual
+or asserted invalidity or impairment of any definitive loan documentation and a change of control. The
+obligations of 21C under the Credit Facilities are guaranteed by the Company and certain direct and indirect wholly-owned domestic subsidiaries of 21C. The
+Credit Facilities and certain interest rate protection and other hedging arrangements provided by lenders under the Credit Facilities or its affiliates are secured on a first
+priority basis by security 85 Table of Contents interests
+in substantially all of 21C's and each guarantor's tangible and intangible assets (subject to certain exceptions). The
+Revolving Credit Facility requires that we comply with certain financial covenants, including: Requirement at December 31, 2014 Level at December 31, 2014 Minimum permitted unrestricted cash and cash equivalents plus availability under the Revolving Credit Facility >$15.0 million $ 186.5 million The
+Revolving Credit Facility also requires that we comply with various other covenants, including, but not limited to, restrictions on new indebtedness, asset sales, capital
+expenditures, acquisitions and dividends, with which we were in compliance as of December 31, 2014. On
+April 15, 2014, we obtained a waiver of borrowing conditions due to a default of not providing audited financial statements for the year ended December 31, 2013 within
+90 days after year end. We paid the administrative agent for the account of the Revolving Lenders a fee equal to 0.125% of such Lender's aggregate commitments. The Senior Revolving Credit
+Facility provides for a 30 day cure period for the filing of the audited annual consolidated financial statements. The default was cured with the provision of the audited consolidated financial
+statements to the administrative agent on April 30, 2014. Purchase Money Note Purchase Agreement On May 19, 2014, we entered into a Purchase Money Note Purchase Agreement (the "Note Purchase Agreement") with Theriac (a
+related party entity owned by certain of the Company's directors and officers). Pursuant to the Note Purchase Agreement, Theriac loaned to us, pursuant to an unsecured purchase money note, the
+principal amount of $7.4 million. The Company and certain of its domestic subsidiaries of the Company guaranteed the obligations under the note. The note will mature on June 15, 2015 and
+is subject to an interest rate payable in cash of 10.75% per annum or by adding the amount of such interest to the aggregate principal amount of outstanding notes at the interest rate of 12.0% per
+annum. The proceeds from the issuance of the note were used to pay for purchases or improvements of property and equipment or to refinance debt incurred to finance such purchases or improvements. A
+portion of the net proceeds from the issuance of our Series A Preferred Stock was used to repay all outstanding borrowings under the Note Purchase Agreement on September 26, 2014. MDLLC Credit and Guaranty Agreement On July 28, 2014, MDLLC and certain of its subsidiaries and affiliates, including the Company entered into a credit and guaranty
+agreement (the "MDLLC Credit Agreement"). The
+MDLLC Credit Agreement provided for Tranche A term loans in the aggregate principal amount of $8.5 million and Tranche B term loans in the aggregate principal
+amount of $9.0 million (collectively, the "MDLLC Term Loans"), for an aggregate principal amount of MDLLC Term Loans of $17.5 million, in favor of MDLLC. The
+MDLLC Term Loans are subject to interest rates, for any interest period, at a rate equal to 14.0% per annum. A
+portion of the net proceeds from the issuance of our Series A Preferred Stock was used to repay all outstanding borrowings under the MDLLC Credit Agreement on
+September 26, 2014. Term Loan A and B Facilities On February 10, 2014, 21C East Florida and Coconut Creek, as borrowers, entered into the SFRO Credit Agreement. The SFRO
+Credit Agreement provides for a $60 million Term B Loan in 86 Table of Contents favor
+of 21C East Florida and $7.9 million Term A Loan in favor of Coconut Creek issued for purposes of refinancing existing SFRO debt. The SFRO Term Loans each have a maturity date of
+January 15, 2017. On
+July 22, 2014, 21C East Florida and Coconut Creek entered into a first amendment (the "SFRO Amendment") to the SFRO Credit Agreement. The SFRO Amendment provided for an
+incremental $10.35 million term loan (the "Term A-1 Loan") in favor of Coconut Creek issued for purposes of (i) refinancing approximately $5.64 million in existing capitalized
+lease obligations owing to First Financial Corporate Leasing, including a prepayment premium, (ii) repaying the approximately $2.55 million intercompany loan made by 21C to pay the
+capitalized lease obligations owing to First Financial Corporate Leasing and (iii) pay fees, costs and expenses of the transactions related to the SFRO Amendment. The
+SFRO Term Loans were subject to variable interest rates. In addition, the Term B Loan contained a provision allowing 21C East Florida to elect payment in kind interest payments. A
+portion of the net proceeds from the issuance of our Series A Preferred Stock was used to repay all outstanding borrowings under the Company's South Florida Radiation Oncology
+Term A, Term A-1, and Term B loans on September 26, 2014. We
+believe available borrowings under our credit facilities, together with our cash flows from operations, will be sufficient to fund our currently anticipated operating requirements. To
+the extent available borrowings and cash flows from operations are insufficient to fund future requirements, we may be required to seek additional financing through additional increases in our senior
+secured credit facilities, negotiate additional credit facilities with other lenders or institutions or seek additional capital through private placements or public offerings of equity or debt
+securities. No assurances can be given that we will be able to extend or increase our senior secured credit facilities, secure additional bank borrowings or lease line of credit or complete additional
+debt or equity financings on terms favorable to us or at all. Our ability to meet our funding needs could be adversely affected if we experience a decline in our results of operations, or if we
+violate the covenants and other restrictions to which we are subject under our senior secured credit facilities. Billing and Collections Our billing system in the U.S., excluding recently acquired businesses, utilizes a fee schedule for billing patients, third-party
+payers and government sponsored programs, including Medicare and Medicaid. Fees billed to government sponsored programs, including Medicare and Medicaid, and fees billed to contracted payers and self
+pay patients (not covered under other third party payer arrangements) are automatically adjusted to the allowable payment amount at time of billing. For all our practices that are less than one year
+from date of acquisition, our billing system includes fee schedules on approximately 99% of all payers and developed a blended rate allowable amount on the remaining payers. As a result of this change
+fees billed to all payers are automatically adjusted to the allowable payment at time of billing. Insurance
+information is requested from all patients either at the time the first appointment is scheduled or at the time of service. A copy of the insurance card is scanned into our
+system at the time of service so that it is readily available to staff during the collection process. Patient demographic information is collected for both our clinical and billing systems. It
+is our policy to collect co-payments from the patient at the time of service. Insurance benefit information is obtained and the patient is informed of their deductible and co-payment
+responsibility prior to the commencement of treatment. Charges
+are posted to the billing system by coders in our offices or in our central billing office. After charges are posted, edits are performed, any necessary corrections are made and
+billing forms are 87 Table of Contents generated,
+then sent electronically to our clearinghouse whenever electronic submission is possible. Any bills not able to be processed through the clearinghouse are printed and mailed from our print
+mail service. Statements are automatically generated from our billing system and mailed to the patient on a regular basis for any amounts still outstanding from the patient. Daily, weekly and monthly
+accounts receivable analysis reports are utilized by staff and management to prioritize accounts for collection purposes, as well as to identify trends and issues. Strategies to respond proactively to
+these issues are developed at weekly and monthly team meetings. Our write-off process requires manual review and our process for collecting accounts receivable is dependent on the type of payer as set
+forth below. Medicare, Medicaid and Commercial Payer Balances Our central billing office staff expedites the payment process from insurance companies and other payers via electronic inquiries,
+phone calls and automated letters to ensure timely payment. Our billing system generates standard aging reports by date of billing in increments of 30 day intervals. The collection team
+utilizes these reports to assess and determine the payers requiring additional focus and collection efforts. Our accounts receivable exposure on Medicare, Medicaid and commercial payer balances are
+largely limited to denials and other unusual adjustments. Our exposure to bad debt on balances relating to these types of payers over the years has been insignificant. In
+the event of denial of payment, we follow the payer's standard appeals process, both to secure payment and to lobby the payers, as appropriate, to modify their medical policies to
+expand coverage for the newer and more advanced treatment services that we provide which, in many cases, is the payer's reason for denial of payment. If all reasonable collection efforts with these
+payers have been exhausted by our central billing office staff, the account receivable is written-off. Self-Pay Balances We administer self-pay account balances through our central billing office and our policy is to first attempt to collect these balances
+although after initial attempts we often send outstanding self-pay patient claims to collection agencies at designated points in the collection process. In some cases monthly payment arrangements are
+made with patients for the account balance remaining after insurance payments have been applied. These accounts are reviewed monthly to ensure payments continue to be made in a timely manner. Once it
+has been determined by our staff that the patient is not responding to our collection attempts, a final notice is mailed. This generally occurs more than 120 days after the date of the original
+bill. If there is no response to our final notice, after 30 days the account is assigned to a collection agency and, as appropriate, recorded as a bad debt and written off. We also have payment
+arrangements with patients for the self-pay portion due in which monthly payments are made by the patient on a predetermined schedule. Balances under $50 are written off but not sent to the collection
+agency. All accounts are specifically identified for write-offs and accounts are written off prior to being submitted to the collection agency. 88 Table of Contents Acquisitions and Developments The following table summarizes our change in treatment centers in which we operate for the year ended December 31, 2014: 2014 Treatment centers at beginning of period 163 Internally developed / reopened 2 Transitioned to freestanding 1 Internally (consolidated / closed / sold) (10 ) Acquired 21 Hospital-based / other groups 5 Hospital-based (ended / transitioned) (2 ) ​ ​ ​ ​ ​ Treatment centers at period end 180 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ On
+January 2, 2014, we sold a 20% share of our Southern New England Regional Cancer Care joint venture each to CNE and Roger Williams Medical Center. Also during the quarter CNE
+acquired a 20% interest in our Roger Williams Medical Center joint venture. The incorporation of CNE reflects the addition of another important long-term partnership with a leading health system. On
+January 13, 2014, CarePoint purchased the membership interest in Quantum Care, LLC for approximately $1.9 million. CarePoint offers a comprehensive suite of
+cancer management solutions to insurers, providers, employers and other entities that are financially responsible for the health of defined populations. With proven capabilities to manage medical,
+radiation and surgical oncology care across the entire continuum of settings, CarePoint represents a unique offering in the health services marketplace. Advanced technology and third-party
+administrator services, cost management solutions and a focused oncology-specific clinical model enable CarePoint to improve quality and reduce total oncology cost of care for its clients. CarePoint
+tailors its solutions to the needs of each customer and provides assistance through full-risk transfer, "a la carte" administrative services only packages or hybrid models. On
+January 15, 2014, we purchased a 69% interest in a legal entity that operates a radiation oncology facility in Guatemala City, Guatemala for approximately $0.9 million
+plus the assumption of approximately $3.1 million in debt. The facility is strategically located in Guatemala City's medical corridor and, when combined with our existing center, we believe
+will significantly enhance our level of services. In
+January 2014, we entered a strategic partnership with ProHealth Care Associates, LLP and opened a new de novo state-of-the-art radiation therapy center in Riverhead, New York.
+ProHealth is the largest physician group practice in the metropolitan New York area with over 500 physicians in over 150 offices treating over 750,000 covered lives. On
+February 10, 2014, we purchased a 65% equity interest in SFRO for approximately $65.5 million, subject to working capital and other customary adjustments. The
+transaction was primarily funded with the proceeds of a new $60 million term loan facility that accrues interest at the Eurodollar Rate plus a margin of 10.50% per annum and matures on
+January 15, 2017 and $7.9 million of term loans to refinance existing SFRO debt. SFRO
+operates 21 radiation treatment centers throughout south Florida. SFRO increases the number of treatment centers by approximately 10% and is expected to add approximately 591
+average treatments per day. 89 Table of Contents On
+March 26, 2014 we purchased a 75% interest in a legal entity that operates a radiation oncology facility in Villa Maria, Argentina for approximately $0.5 million. The
+purchase of this radiation oncology facility further expands our presence in the Latin America market. On
+April 21, 2014, we acquired the assets of a radiation oncology practice located in Boca Raton, Florida for approximately $0.4 million plus the assumption of
+approximately $2.7 million in debt. The acquisition of the radiation oncology practice further expands our presence in the Broward County market. On
+May 5, 2014, we purchased the remaining 50% interest we did not already own in an unconsolidated joint venture which operates a freestanding radiation treatment center in
+Lauderdale Lakes, Florida for approximately $0.5 million. During
+2014, we acquired the assets of several physician practices in Florida for approximately $0.4 million. The physician practices provide synergistic clinical services and an
+ICC service to its patients in the respective markets in which we provide radiation therapy treatment services. The
+operations of the foregoing acquisitions have been included in the accompanying consolidated statements of operations and comprehensive loss from the respective dates of each
+acquisition. When we acquire a treatment center, the purchase price is allocated to the assets acquired and liabilities assumed based upon their respective fair values. On
+January 2, 2015, we purchased a 80% interest in a legal entity that that operates a radiation oncology facility in Kennewick, Washington for approximately $17.6 million.
+The acquisition expands our presence into the state of Washington. The purchase agreement contains a provision for earn out payments, contingent upon achieving certain EBITDA targets measured over
+three years from the acquisition date. The earn out payments cannot exceed approximately $3.4 million. On
+January 6, 2015, we acquired the assets of a radiation oncology practice located in Warwick, Rhode Island for approximately $8.0 million. The acquisition further expands
+our presence in Rhode Island. On
+January 6, 2015, we acquired the additional assets of a radiation oncology practice we already manage located in Hollywood, Florida for approximately $0.5 million. During
+the first quarter of 2014, we closed two radiation treatment facilities, one located in Lee CountyFlorida and another facility located in Charlotte
+CountyFlorida, as a result of the purchase on the OnCure transaction. During
+the second quarter of 2014, we closed six radiation treatment facilities, three located in Broward and Palm Beach Counties, two located in Sarasota/Manatee Counties, and one in
+Southern California, all as a result of the purchase of the OnCure and SFRO transactions. During
+the third quarter of 2014, we closed two radiation treatment facilities, one located in Central Maryland and one located in the Palm Springs, California market. During
+October 2014, the Company entered into a license agreement with the Public Health Trust of Miami-Dade County, Florida to license space and equipment and assume responsibility for
+the operation of a radiation therapy center located in Miami, Florida, as part of the Company's value added services offering. The license agreement runs for an initial term of five years, with two
+separate five year renewal options. During
+the fourth quarter of 2014, we closed one radiation treatment facility located in New York. As
+of December 31, 2014, we have four additional de novo radiation treatment centers located in Bolivia, California, North Carolina, and South Carolina. The internal development
+of radiation treatment centers is subject to a number of risks including but not limited to risks related to 90 Table of Contents negotiating
+and finalizing agreements, construction delays, unexpected costs, obtaining required regulatory permits, licenses and approvals and the availability of qualified healthcare and
+administrative professionals and personnel. As such, we cannot assure you that we will be able to successfully develop radiation treatment centers in accordance with our current plans and any failure
+or material delay in successfully completing planned internally developed treatment centers could harm our business and impair our future growth. We
+had been selected by a consortium of leading New York academic medical centers (including Memorial Sloan-Kettering Cancer Center, Beth Israel Medical Center/Continuum Health System,
+NYU Langone Medical Center, Mt. Sinai Medical Center, and Montefiore Medical Center) to serve as the developer and manager of a proton beam therapy center to be constructed in Manhattan. The
+project is in the final stages of certificate of need approval. As a result of NY Proton's continued operating losses since its inception in 2010 and our liquidity issues experienced during the
+quarter ended June 30, 2014, we provided notice to the consortium that we may not be able to provide the full commitment of approximately $10.0 million to this project. Pursuant to the
+Subscription Agreement entered into with CPPIB on September 26, 2014, we are required to use commercially reasonable efforts to transfer and sell our ownership interest to the consortium or to
+a third party and transfer the general manager role and any future management services fees to the consortium or a third party. We have accounted for our interest in the center as an equity method
+investment. Critical Accounting Policies Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements,
+which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to make estimates and
+judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. We continuously evaluate our critical accounting
+policies and estimates. We base our estimates on historical experience and on various assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for
+making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ materially from these estimates under different
+assumptions or conditions. We
+believe the following critical accounting policies are important to the portrayal of our financial condition and results of operations and require our management's subjective or
+complex judgment because of the sensitivity of the methods, assumptions and estimates used in the preparation of our consolidated financial statements. Variable Interest Entities We evaluate certain of our radiation oncology practices in order to determine if they are variable interest entities ("VIE"). This
+evaluation resulted in determining that certain of our radiation oncology practices were potential VIEs. For each of these practices, we have evaluated (1) the sufficiency of the fair value of
+the entities' equity investments at risk to absorb losses,
+(2) that, as a group, the holders of the equity investments at risk have (a) the direct or indirect ability through voting rights to make decisions about the entities' significant
+activities, (b) the obligation to absorb the expected losses of the entity and their obligations are not protected directly or indirectly, and (c) the right to receive the expected
+residual return of the entity, and (3) substantially all of the entities' activities do not involve or are not conducted on behalf of an investor that has disproportionately fewer voting rights
+in terms of its obligation to absorb the expected losses or its right to receive expected residual returns of the entity, or both. ASC 810 requires a company to consolidate VIEs if the company is the
+primary beneficiary of the activities of those entities. Certain of our radiation oncology practices are VIEs and we have a variable interest in each of these practices through our administrative
+services agreements. 91 Table of Contents Pursuant
+to ASC 810, through our variable interests in these practices, we have the power to direct the activities of these practices that most significantly impact the entity's economic performance
+and we would absorb a majority of the expected losses of these practices should they occur. Based on these determinations, we have included these radiation oncology practices in our consolidated
+financial statements for all periods presented. All significant intercompany accounts and transactions have been eliminated. Net Patient Service Revenue and Allowances for Contractual Discounts We have agreements with third-party payers that provide us payments at amounts different from our established rates. Net patient
+service revenue is reported at the estimated net realizable amounts due from patients, third-party payers and others for services rendered. Net patient service revenue is recognized as services are
+provided. Medicare and other governmental programs reimburse physicians based on fee schedules, which are determined by the related government agency. We also have agreements with managed care
+organizations to provide physician services based on negotiated fee schedules. Accordingly, the revenues reported in our consolidated financial statements are recorded at the amount that is expected
+to be received. We
+derive a significant portion of our revenues from Medicare, Medicaid and other payers that receive discounts from our standard charges. We must estimate the total amount of these
+discounts to prepare our consolidated financial statements. The Medicare and Medicaid regulations and various managed care contracts under which these discounts must be calculated are complex and
+subject to interpretation and adjustment. We estimate the allowance for contractual discounts on a payer class basis given our interpretation of the applicable regulations or contract terms. These
+interpretations sometimes result in payments that differ from our estimates. Additionally, updated regulations and contract renegotiations occur frequently necessitating regular review and assessment
+of the estimation process. Changes in
+estimates related to the allowance for contractual discounts affect revenues reported in our consolidated statements of operations and comprehensive loss. If our overall estimated allowance for
+contractual discounts on our revenues for the year ended December 31, 2014 were changed by 1%, our after-tax loss from continuing operations would change by approximately $0.1 million.
+This is only one example of reasonably possible sensitivity scenarios. A significant increase in our estimate of contractual discounts for all payers would lower our earnings. This would adversely
+affect our results of operations, financial condition, liquidity and future access to capital. During
+the years ended 2012, 2013 and 2014, approximately 45%, 45% and 42%, respectively, of net patient service revenue related to services rendered under the Medicare and Medicaid
+programs. In the ordinary course of business, we are potentially subject to a review by regulatory agencies concerning the accuracy of billings and sufficiency of supporting documentation of
+procedures performed. Laws and regulations governing the Medicare and Medicaid programs are extremely complex and subject to interpretation. As a result, there is at least a reasonable possibility
+that estimates will change by a material amount in the near term. Accounts Receivable and Allowances for Doubtful Accounts Accounts receivable are reported net of estimated allowances for doubtful accounts and contractual adjustments. Accounts receivable are
+uncollateralized and primarily consist of amounts due from third-party payers and patients. To provide for accounts receivable that could become uncollectible in the future, we establish an allowance
+for doubtful accounts to reduce the carrying amount of such receivables to their estimated net realizable value. The credit risk for other concentrations (other than Medicare) of receivables is
+limited due to the large number of insurance companies and other payers that provide payments for our services. We do not believe that there are any other significant concentrations of receivables
+from any particular payer that would subject us to any significant credit risk in the collection of our accounts receivable. 92 Table of Contents The amount of the allowance for doubtful accounts is based upon our assessment of historical and expected net collections, business and economic conditions,
+trends in federal and state governmental healthcare coverage and other collection indicators. The primary tool used in our assessment is an annual, detailed review of historical collections and
+write-offs of accounts receivable as they relate to aged accounts receivable balances. The results of our detailed review of historical collections and write-offs, adjusted for changes in trends and
+conditions, are used to evaluate the allowance amount for the current period. If the actual bad debt allowance percentage applied to the applicable aging categories would change by 1% from our
+estimated bad debt allowance percentage for the year ended December 31, 2014, our after-tax loss from continuing operations would change by approximately $1.1 million and our net
+accounts receivable would change by approximately $1.8 million at December 31, 2014. The resulting change in this analytical tool is considered to be a reasonably likely change that
+would affect our overall assessment of this critical accounting estimate. Accounts receivable are written-off after collection efforts have been followed in accordance with our policies. Goodwill and Other Intangible Assets Goodwill represents the excess purchase price over the estimated fair value of net assets acquired by us in business combinations.
+Goodwill and indefinite life intangible
+assets are not amortized but are reviewed annually for impairment, or more frequently if impairment indicators arise. As we began to experience some liquidity issues after terminating our previously
+planned initial public offering, we began to have discussions with an ad hoc group of holders of our outstanding notes. On July 29, 2014, we entered into a Recapitalization Support Agreement.
+The Recapitalization Support Agreement set forth the terms through which we expected to either (a) obtain additional liquidity through an equity contribution or subordinated debt incurred in a
+minimum amount of $150 million on or before October 1, 2014 or (b) consummate a Recapitalization consistent with the material terms and conditions described in the term sheet
+attached to the Recapitalization Support Agreement. We
+performed an interim impairment test for goodwill and indefinite-lived intangible assets. We completed the first step of the impairment test as of June 30, 2014 and determined
+that the carrying amount of one of the reporting units exceeded its estimated implied fair value, thereby requiring performance of the second step of the impairment test to calculate the amount of the
+impairment. In accordance with ASC 350, we recorded a preliminary estimated non-cash impairment loss of approximately $182 million in the condensed consolidated statements of operations and
+comprehensive loss during the quarter ended June 30, 2014. We completed the second step of the impairment test and recorded an impairment loss of approximately $46.3 million during the
+quarter ended September 30, 2014. In
+addition to the goodwill impairment losses noted above, we recorded an impairment loss of approximately $1.2 million during the third quarter of 2014 related to the write-off
+of our 33.6% investment interest in NY Proton. As a result of NY Proton's continued operating losses since its inception in 2010 and our liquidity issues experienced during the quarter ended
+June 30, 2014, we provided notice to the consortium that we may not be able to provide the full commitment of approximately $10.0 million to this project. Pursuant to the Subscription
+Agreement entered into with CPPIB on September 26, 2014, we are required to use commercially reasonable efforts to transfer and sell our ownership interest to the consortium or to a third party
+and transfer the general manager role and any future management services fees to the consortium or a third party. During
+the third quarter of 2012 we recognized goodwill impairment of approximately $69.9 million as a result of the final rule issued on the Physician Fee Schedule for 2013 by
+CMS on November 1, 2012, which included certain rate reductions on Medicare payments to freestanding radiation oncology providers as well as the changes in treatment patterns and volumes in
+prostate cancer as a result of the slowing rate of men diagnosed and referred to treatment regimens, as a result of the Preventative Services Task Force report issued in May 2012 recommending against
+routine 93 Table of Contents PSA screenings
+for healthy men, as well as suggested changes in treatment pattern for low risk prostate cancer away from definitive treatment. During the fourth quarter of 2012 we incurred an
+impairment loss of approximately $11.1 million. Approximately $10.8 million relating to goodwill impairment in
+certain of our reporting units and approximately $0.1 million related to the impairment of certain leasehold improvements in the Delmarva Peninsula local market and approximately
+$0.2 million related to a consolidated joint venture in the Central Maryland local market. There was no goodwill impairment recorded for the year ended December 31, 2013. The
+implied fair value of goodwill is determined in the same manner as the amount of goodwill recognized in a business combination. The estimated fair value of the reporting unit is
+allocated to all of the assets and liabilities of the reporting unit (including the unrecognized intangible assets) as if the reporting unit had been acquired in a business combination and the
+estimated fair value of the reporting unit was the purchase price paid. Based on (i) assessment of current and expected future economic conditions, (ii) trends, strategies and forecasted
+cash flows at each reporting unit and (iii) assumptions similar to those that market participants would make in valuing the reporting units. The
+estimated fair value measurements were developed using significant unobservable inputs (Level 3). For goodwill, the primary valuation technique used was an income methodology
+based on estimates of forecasted cash flows for each reporting unit, with those cash flows discounted to present value using rates commensurate with the risks of those cash flows. In addition, a
+market- based valuation method involving analysis of market multiples of revenues and EBITDA for (i) a group of comparable public companies and (ii) recent transactions, if any,
+involving comparable companies. Assumptions used are similar to those that would be used by market participants performing valuations of regional divisions. Assumptions were based on analysis of
+current and expected future economic conditions and the strategic plan for each reporting unit. Intangible
+assets consist of trade names, certificates of need, non-compete agreements, licenses and hospital contractual relationships. Trade names and certificates of need have an
+indefinite life and are tested annually for impairment. Non-compete agreements, licenses and hospital contractual relationships are amortized over the life of the agreement (which typically ranges
+from 2 to 20 years) using the straight-line method. No intangible asset impairment loss was recognized for the years ended December 31, 2012, 2013, and 2014. Impairment of Long-Lived Assets In accordance with ASC 360, "Accounting for the Impairment or Disposal of Long-Lived Assets", we review our long-lived assets for
+impairment whenever events or changes in circumstances indicate that the carrying amount of these assets may not be fully recoverable. Assessment of possible impairment of a particular asset is based
+on our ability to recover the carrying value of such asset based on our estimate of its undiscounted future cash flows. If these estimated future cash flows are less than the carrying value of such
+asset, an impairment charge would be recognized for the amount by which the asset's carrying value exceeds its estimated fair value. Stock-Based Compensation All share-based compensation cost is measured at the grant date, based on the fair value of the award, and is recognized as an expense
+in the statement of operations and comprehensive loss over the requisite service period. For
+purposes of determining the compensation expense associated with the 2012 and 2013 equity-based incentive plan grants, we engaged a third party valuation company to value the
+business enterprise using a variety of widely accepted valuation techniques, which considered a number of factors such as the financial performance of the Company, the values of comparable companies
+and the lack of marketability of the Company's equity. The third party valuation company then used the 94 Table of Contents probability-weighted
+expected return method ("PWERM") to determine the fair value of these units at the time of grant. Under the PWERM, the value of the units is estimated based upon an analysis of
+future values for the enterprise assuming various future outcomes (exits) as well as the rights of each unit class. In developing assumptions for the various exit scenarios, management considered the
+Company's ability to achieve certain growth and profitability milestone in order to maximize shareholder value at the time of potential exit. Management considers an initial public offering of the
+Company's stock to be one of the exit scenarios for the current shareholders, as well as a sale or merger/acquisition transaction. For the scenarios the enterprise value at exit was estimated based on
+a multiple of the Company's EBITDA for the fiscal year preceding the exit date. The enterprise value for the scenario where the Company stays private (and under the majority ownership of Vestar, our
+equity sponsor) was estimated based on a discounted cash flow analysis as well as guideline company market approach. The guideline companies were publicly-traded companies that were deemed comparable
+to the Company. The discount rate analysis also leveraged market data of the same guideline companies. For each PWERM scenario, management estimated probability factors based on the outlook of the
+Company and the industry as well as prospects and timing for a potential exit based on information known or knowable as of the grant date. The probability-weighted unit values calculated at each
+potential exit date was present-valued to the grant date to estimate the per-unit value. The discount rate utilized in the present value calculation was the cost of equity calculated using the Capital
+Asset Pricing Model and based on the market data of the guideline companies as well as historical data published by Morningstar, Inc. For each PWERM scenario, the per unit values were adjusted
+for lack of marketability discount to determine unit value on a minority, non-marketable basis. For
+2012, 2013, and 2014, the estimated fair value of the units, less an assumed forfeiture rate of 3.9%, is recognized in expense in the Company's consolidated financial statements on a
+straight-line basis
+over the requisite service periods of the awards for Class MEP Units. For Class MEP Units, the requisite service period is approximately 18 months, and for Class EMEP Units, the requisite
+service period is 36 months only if probable of being met. The Class M Units and O Units compensation will be recognized upon the sale of the Company or an initial public offering. Under
+the terms of the incentive unit grant agreements governing the grants of the Class M Units and Class O Units, in the event of an initial public offering of the Company's common stock,
+holders have certain rights to receive shares of restricted common stock of the Company in exchange for their Class M Units and Class O Units. The assumed forfeiture rate is based on an
+average historical forfeiture rate. All outstanding Class EMEP Units and Class L units were canceled without payment to the holder thereof in connection with 21CI's entry into the Fourth
+Amended LLC Agreement. Grants under 2013 Plan On December 9, 2013, 21CI entered into Fourth Amended LLC Agreement which replaced the Third Amended LLC Agreement
+in its entirety. The Fourth Amended LLC Agreement established new classes of incentive equity units in 21CI in the form of Class M Units, Class N Units and Class O Units
+for issuance to employees, officers, directors and other service providers, eliminated 21CI's Class L Units and Class EMEP Units, and modified the distribution entitlements for holders of each
+existing class of equity units of 21CI. Income Taxes We make estimates in recording our provision for income taxes, including determination of deferred tax assets and deferred tax
+liabilities and any valuation allowances that might be required against the deferred tax assets. ASC 740, "Income Taxes" ("ASC 740"), requires that a valuation allowance be established when it is more
+likely than not that all or a portion of a deferred tax asset will not be realized. For the year ended December 31, 2012, we determined that the valuation allowance was approximately
+$82.3 million, consisting of $70.3 million against federal deferred tax assets and 95 Table of Contents $12.0 million
+against state deferred tax assets. This represented an increase of $36.8 million over the prior year. For the year ended December 31, 2013, we determined that the
+valuation allowance should
+be $97.4 million, consisting of $87.5 million against federal deferred tax assets and $9.9 million against state deferred tax assets. This represented an increase of
+$15.1 million in valuation allowance. For the year ended December 31, 2014, we determined that the valuation allowance should be $184.0 million, consisting of
+$163.4 million against federal deferred tax assets and $20.6 million against state deferred tax assets. This represents an increase of $86.6 million in valuation allowance. ASC
+740 clarifies the accounting for uncertainty in income taxes recognized in an entity's financial statements and prescribes a recognition threshold and measurement attributes for
+financial statement disclosure of tax positions taken or expected to be taken on a tax return. Under ASC 740, the impact of an uncertain tax position on the income tax return must be recognized at the
+largest amount that is more-likely-than-not to be sustained upon audit by the relevant taxing authority. An uncertain income tax position will not be recognized if it has less than a 50% likelihood of
+being sustained. Additionally, ASC 740 provides guidance on derecognition, classification, interest and penalties, accounting in interim periods, disclosure, and transition. We
+are subject to taxation in the United States, approximately 24 state jurisdictions, the Netherlands, and throughout Latin America, namely, Argentina, Bolivia, Brazil, Costa Rica,
+Dominican Republic, El Salvador, Guatemala and Mexico. However, the principal jurisdictions for which we are subject to tax are the United States, Florida and Argentina. Our
+future effective tax rates could be affected by changes in the relative mix of taxable income and taxable loss jurisdictions, changes in the valuation of deferred tax assets or
+liabilities, or changes in tax laws or interpretations thereof. We monitor the assumptions used in estimating the annual effective tax rate and make adjustments, if required, throughout the year. If
+actual results differ from the assumptions used in estimating our annual effective tax rates, future income tax expense (benefit) could be materially affected. In
+addition, we are routinely under audit by federal, state, or local authorities in the areas of income taxes and other taxes. These audits include questioning the timing and amount of
+deductions and compliance with federal, state, and local tax laws. We regularly assess the likelihood of adverse outcomes from these audits to determine the adequacy of our provision for income taxes.
+To the extent we prevail in matters for which accruals have been established or are required to pay amounts in excess of such accruals, the effective tax rate could be materially affected. During
+2012, we closed a US Federal income tax examination for tax years 2007 through 2008. All issues proposed were agreed to with the exception of interest and penalties for which an
+accrual of $2.2 million was recorded. During the third quarter of 2013, we closed the US federal income tax audit related to calendar year 2009 with no material adjustments. We closed the New
+York state audit for tax years 2006 through 2008 with a favorable result during the first quarter of 2013. During 2014, we reached a favorable settlement with the US Internal Revenue Service related
+to the interest and penalty issues in tax years 2007 and 2008 and various US state and local and foreign jurisdictions related to tax years 2005 through 2012. As a result, we released
+$3.2 million of previously recorded reserves. Recent Pronouncements In July 2013, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2013-11, Income Taxes (Topic 740):Presentation
+of an Unrecognized Tax Benefit When a Net Operating Loss Carryforward, a Similar Tax Loss, or a Tax Credit Carryforward
+Exists (ASU 2013-11), which amends ASC 740 to clarify balance sheet presentation requirements of unrecognized tax benefits. ASU 2013-11 was effective for us on
+January 1, 2014. We adopted ASC 740 96 Table of Contents and
+reclassified approximately $1.2 million of unrecognized tax benefits from income taxes payable to other long term liabilities. In
+April 2014, the FASB issued ASU No. 2014-08, Presentation of Financial Statements (Topic 205) and Property, Plant, and Equipment (Topic 360): Reporting
+Discontinued Operations and Disclosures of Disposals of Components of an Entity . ASU 2014-08 changes the requirements for reporting discontinued operations in FASB Accounting
+Standards Codification Subtopic 205-20, such that a disposal of a component of an entity or a group of components of an entity is required to be reported in discontinued operations if the disposal
+represents a strategic shift that has (or will have) a major effect on an entity's operations and financial results. ASU 2014-08 requires an entity to present, for each comparative period, the assets
+and liabilities of a disposal group that includes a discontinued operation separately in the asset and liability sections, respectively, of the statement of financial position, as well as additional
+disclosures about discontinued operations. Additionally, ASU 2014-08 requires disclosures about a disposal of an individually significant component of an entity that does not qualify for discontinued
+operations presentation in the financial statements and expands the disclosures about an entity's significant continuing involvement with a discontinued operation. The accounting update is effective
+for annual periods beginning on or after December 15, 2014. Early adoption is permitted but only for disposals that have not been reported in financial statements previously issued. We are
+currently evaluating the potential impact of this guidance. In
+May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers (Topic 606) . ASU 2014-09 affects any entity that either
+enters into contracts with customers to transfer goods or services or enters into contracts for the transfer of nonfinancial assets unless those contracts are within the scope of other standards. The
+core principle of the guidance in ASU 2014-09 is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration
+to which the entity expects to be entitled in exchange for those goods or
+services. We are currently evaluating the potential impact of this guidance, which will be effective beginning January 1, 2017. In
+August 2014, the Financial Accounting Standards Board issued Accounting Standards Update 2014-15, "Presentation of Financial StatementsGoing Concern (Subtopic 205-40)."
+The new guidance addresses management's responsibility to evaluate whether there is substantial doubt about an entity's ability to continue as a going concern and to provide related footnote
+disclosures. Management's evaluation should be based on relevant conditions and events that are known and reasonably knowable at the date that the financial statements are issued. The standard will be
+effective for the first interim period within annual reporting periods beginning after December 15, 2016. Early adoption is permitted. We are currently evaluating the potential impact of this
+guidance. In
+November 2014, the Financial Accounting Standards Board issued Accounting Standards Update 2014-16, Derivatives and Hedging (Topic 815): Determining Whether
+the host Contract in a Hybrid Financial Instrument Issued in the Form of a Share Is More Akin to Debt or Equity (ASU 2014-06). The new guidance eliminates use of diversity in
+practice when evaluating whether the nature of the host contract within a hybrid financial instrument issued in the form of a share is more akin to debt or to equity. Pursuant to ASU 2014-06, entities
+should determine the nature of the host contract by considering all stated and implied substantive terms and features of the hybrid financial instrument, weighing each term and feature on the basis of
+relevant facts and circumstances. That is, an entity should determine the nature of the host contract by considering the economic characteristics and risks of the entire hybrid financial instrument,
+including the embedded derivative feature that is being evaluated for separate accounting from the host contract. The standard will be effective for the first interim period within annual reporting
+periods beginning after December 15, 2015. Early adoption is permitted. We are currently evaluating the potential impact of this guidance. 97 Table of Contents In
+February 2015, the Financial Accounting Standards Board issued Accounting Standards Update 2015-02, Consolidation (Topic 810): Amendments to the
+Consolidation Analysis (ASU 2015-02). The new guidance intends to reduce the number of consolidation models as well as place more emphasis on risk of loss when determining a
+controlling financial interest. The standard will be effective for the first interim period within annual reporting periods beginning after December 15, 2015. Early adoption is permitted. We
+are currently evaluating the potential impact of this guidance. Reimbursement, Legislative and Regulatory Changes Legislative and regulatory action has resulted in continuing changes in reimbursement under the Medicare and Medicaid programs that
+will continue to limit payments we receive under these programs. Within
+the statutory framework of the Medicare and Medicaid programs, there are substantial areas subject to legislative and regulatory changes, administrative rulings, interpretations,
+and discretion which may further affect payments made under those programs, and the federal and state governments may, in the future, reduce the funds available under those programs or require more
+stringent utilization and quality reviews of our treatment centers or require other changes in our operations. Additionally, there may be a continued rise in managed care programs and future
+restructuring of the financing and delivery of healthcare in the United States. These events could have an adverse effect on our future financial results. Inflation While inflation was not a material factor in revenue or operating expenses during the periods presented, the healthcare industry is
+labor- intensive. Wages and other expenses increase during periods of inflation and labor shortages, such as the nationwide shortage of dosimetrists and radiation therapists. In addition, suppliers
+pass along rising costs to us in the form of higher prices. We have implemented cost control measures to curb increases in operating costs and expenses. We have to date offset increases in operating
+costs by increasing reimbursement or expanding services. However, we cannot predict our ability to cover, or offset, future cost increases. Commitments The following table sets forth our contractual obligations as of December 31, 2014. Contractual Cash Obligations Total Less Than 1 Year 2 - 3 Years 4 - 5 Years After 5 Years (in thousands) Senior secured credit agreement(1) $ 118,322 13,872 104,450   Senior subordinated notes(2) 466,056 37,530 428,526   Senior secured second lien notes(3) 413,420 31,063 382,357   Senior secured notes(4) 92,993 8,813 84,180   Other notes and capital leases(5) 89,156 32,855 43,329 8,760 4,212 Operating lease obligations(6) 543,437 59,413 111,856 97,677 274,491 Finance obligations(7) 29,304 2,194 4,777 4,566 17,767 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Total contractual cash obligations $ 1,752,688 $ 185,740 $ 1,159,475 $ 111,003 $ 296,470 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ (1) As
+of December 31, 2014, there was $-0.0- million in aggregate principal amount outstanding under our senior secured revolving credit facility
+and $90.0 million in aggregate principal amount outstanding under our senior term credit facility (excluding issued but undrawn letters of credit). Interest expense and fees on our senior
+secured revolving credit facility is based on an assumed interest rate of the one-month LIBOR rate as of December 31, 2014 plus 575 basis points plus 98 Table of Contents unused
+commitment fees on our $100.0 million senior secured revolving credit facility and 7.5% on our $90.0 million senior secured term credit facility. (2) Senior
+subordinated notes of $380.1 million (excluding original issue discount of $2.4 million), due April 15, 2017. Interest expense
+is based on an interest rate of 9 7 / 8 %. (3) Senior
+secured second lien notes of $350.0 million (excluding original issue discount of $1.1 million), due January 15, 2017. Interest
+expense is based on an interest rate of 8 7 / 8 %. (4) Senior
+secured notes of $75.0 million, due January 15, 2017. Interest expense is based on an interest rate of 11 3 / 4 %. (5) Other
+notes and capital leases includes leases relating to medical equipment. (6) Operating
+lease obligations includes land and buildings, and equipment. (7) Finance
+obligations includes real estate under the failed sale-leaseback accounting. See "Management's Discussion and Analysis of Financial Condition and
+Results of OperationsResults of OperationsFinance Obligation." Off-Balance Sheet Arrangements We do not currently have any off-balance sheet arrangements with unconsolidated entities or financial partnerships, such as entities
+often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or
+limited purposes. In addition, we do not engage in trading activities involving non-exchange traded contracts. As such, we are not materially exposed to any financing, liquidity, market or credit risk
+that could arise if we had engaged in these relationships. Item 7A

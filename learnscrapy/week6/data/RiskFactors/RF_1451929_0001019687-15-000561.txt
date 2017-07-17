@@ -1,0 +1,848 @@
+. Risks Relating to Our Business We are at an early stage of development
+as a company and do not have, and may never have, any products that generate revenues. We are a life sciences company. At this
+time, we do not have any commercial products or laboratory services that generate revenues. Our existing diagnostic offerings
+will require additional clinical evaluation, regulatory review, significant marketing efforts and substantial investment before
+they could provide any revenues. Given the stage of development where we are, we expect to be able to begin initial marketing as
+early as the third quarter of 2015 for OvaDx ® and commence full implementation
+of our sales and marketing strategy as early as the first half of 2016, after we have received FDA approval for OvaDx ® . If we are unable to develop, receive approval for, or successfully commercialize any of our diagnostic
+candidates, we will be unable to generate significant revenues, or any revenues at all. If our development programs are delayed,
+we may have to raise additional capital or reduce or cease our operations. 10 We do not have our own diagnostic research
+facilities and will be dependent on third parties for diagnostic product development. We do not have our own research and development
+facilities dedicated to diagnostic development and may engage consultants and independent contract research organizations to design
+and conduct clinical trials in connection with the development of our diagnostic products. As a result, these important aspects
+of a product's development will be outside of our direct control. In addition, there can be no assurance that such third parties
+will perform all of their obligations under arrangements with us or will perform those obligations satisfactorily. If we fail to obtain additional financing,
+we will be unable to complete the development and commercialization of our product candidates or continue our research and development
+programs. In addition to the funds raised in our recent
+private placements, we may be required to raise additional capital to complete the development and to begin commercialization of
+our current and future product candidates. If we are unable to raise additional capital when required or on acceptable terms,
+we may have to significantly delay, scale back or discontinue one or more of our clinical trials, and the commercialization of
+our diagnostic tests. If third-party payors, including managed
+care organizations and Medicare, do not provide reimbursement for our products, their commercial success could be compromised. Physicians and patients may decide not to order
+the OvaDx ® unless third-party payors, such as managed care organizations
+as well as government payors such as Medicare and Medicaid, pay a substantial portion or all of the test’s price. There
+is significant uncertainty concerning third-party reimbursement of any test incorporating new technology, including OvaDx ®, and any of our future diagnostics and therapies. Reimbursement by a third-party payor may depend on
+a number of factors, including a payor’s determination that tests using our technologies are: · not experimental or investigational, · medically necessary, · appropriate for the specific patient, · cost-effective, and · supported by peer-reviewed publications. Since each payor makes its own decision as
+to whether to establish a policy to reimburse, seeking these approvals is a time-consuming and costly process. To date, we have
+not secured policy-level reimbursement approval from any third-party payors and have no approvals for state Medicaid programs.
+We cannot be certain that coverage for our products will be provided in the future by any third-party payors. Several entities conduct technology assessments
+of new medical tests and devices and provide the results of their assessments for informational purposes to other parties. These
+assessments may be used by third-party payors and health care providers such as Blue Cross and Blue Shield plans, which collectively
+provide healthcare coverage for nearly one-third of all Americans, as grounds to deny coverage for a test or procedure. These
+assessments have not yet been carried for our Breast Cancer Diagnostic test. We can offer no assurance that these evaluations will
+ever be conducted, and if conducted, will result in a positive conclusion resulting in any third party reimbursement to us. Insurers, including managed care organizations
+as well as government payors such as Medicare, have increased their efforts to control the cost, utilization and delivery of health
+care services. From time to time, the United States Congress has considered and implemented changes in the Medicare fee schedules
+in conjunction with budgetary legislation. Further reductions of reimbursement for Medicare services may be implemented from time
+to time. Reductions in the reimbursement rates of other third-party payors have occurred and may occur in the future. These
+measures have resulted in reduced prices, added costs and decreased test utilization for the clinical laboratory industry. If we are unable to obtain reimbursement approval
+from private payors and Medicare and Medicaid programs for our diagnostic tests, or if the amount reimbursed is inadequate, our
+ability to generate revenues could be limited. Even if we are being reimbursed, insurers may withdraw their coverage policies
+or cancel their contracts with us at any time or stop paying for our tests, which would reduce our revenue. 11 We may experience delays in our clinical
+trials that could adversely affect our financial position and our commercial prospects. Any delays in completing our clinical trials
+for OvaDx ® and our platform of diagnostics assays may delay our ability
+to raise additional capital or to generate revenue, and we may have insufficient capital resources to support our operations. Even
+if we have sufficient capital resources, the ability to become profitable will be delayed if there are problems with the timing
+or completion of our clinical trials. Adverse events in our clinical trials
+may force us to stop development of our product candidates or prevent regulatory approval, if needed, of our product candidates. Our technology platform may provide us the
+opportunity to develop therapeutic candidates to preemptively suppress or eliminate metastasis. The eventual testing of our
+product candidates in human clinical trials may produce serious adverse events. These adverse events could interrupt, delay
+or halt clinical trials of product candidates and could result in the FDA or other regulatory authorities denying approval of our
+product candidates for any or all targeted indications. An independent data safety monitoring board, the FDA, other regulatory
+authorities or we may suspend or terminate clinical trials at any time. We cannot assure that any of our product candidates
+will be safe for human use. If our product candidates do not meet
+safety or efficacy endpoints in clinical evaluations, they will not receive regulatory approval and we will be unable to market them. The regulatory approval process typically is
+extremely expensive, takes many years and the timing of any approval cannot be accurately predicted. If we fail to obtain
+regulatory approval for our current or future product candidates, we will be unable to market and sell such products and therefore
+may never be profitable. The FDA and other regulatory agencies can delay, limit or deny approval for many reasons, including:
+(i) a product candidate may not be safe or effective; (ii) the manufacturing processes or facilities we have selected may not meet
+the applicable requirements; and (iii) changes in FDA’s approval policies or adoption of new regulations may require
+additional work. Any delay in, or failure to receive or maintain, regulatory approval for any of our products could prevent
+us from ever generating meaningful revenues or achieving profitability. Even if we receive regulatory approvals, our
+product candidates may later exhibit adverse effects that limit or prevent their widespread use or that force us to withdraw those
+product candidates from the market. In addition, a marketed product continues to be subject to strict regulation after approval.
+Any unforeseen problems with an approved product or any violation of regulations could result in restrictions on the product, including
+our withdrawal from the market. Any delay in, or failure to receive or maintain regulatory approval for, any of our products
+could prevent us from ever generating meaningful revenues or achieving profitability. Healthcare policy changes, including
+recently enacted legislation reforming the U.S. healthcare system, may have a material adverse effect on our financial condition
+and results of operations. The Patient Protection and Affordable Care
+Act, as amended by the Health Care and Education Affordability Reconciliation Act, collectively, the PPACA, enacted in March 2010,
+makes changes that are expected to significantly impact the pharmaceutical and medical device industries and clinical laboratories.
+Beginning in 2013, each medical device manufacturer will have to pay a sales tax in an amount equal to 2.3% of the price for which
+such manufacturer sells its medical devices that are listed with the FDA. Although the FDA has contended that clinical laboratory
+tests that are developed and validated by a laboratory for its own use, or LDTs, such as our MetaSite Breast test are medical devices,
+none of our products are currently listed with the FDA. We cannot assure you that the tax will not be extended to services such
+as ours in the future. The PPACA also mandates a reduction in payments for clinical laboratory services paid under the Medicare
+Clinical Laboratory Fee Schedule, or CLFS, of 1.75% through 2015 and a productivity adjustment to the CLFS. Other significant measures contained in the
+PPACA include, for example, coordination and promotion of research on comparative clinical effectiveness of different technologies
+and procedures, initiatives to revise Medicare payment methodologies, such as bundling of payments across the continuum of care
+by providers and physicians, and initiatives to promote quality indicators in payment methodologies. The PPACA also includes significant
+new fraud and abuse measures, including required disclosures of financial arrangements with physician customers, lower thresholds
+for violations and increasing potential penalties for such violations. In addition, the PPACA establishes an Independent Payment
+Advisory Board, or IPAB, to reduce the per capita rate of growth in Medicare spending. The IPAB has broad discretion to propose
+policies to reduce expenditures, which may have a negative impact on payment rates for services. The IPAB proposals may impact
+payments for clinical laboratory services beginning in 2016 and for hospital services beginning in 2020. We are monitoring the
+impact of the PPACA in order to enable us to determine the trends and changes that may be necessitated by the legislation that
+may potentially impact on our business over time. In addition to the PPACA, the effect of which
+cannot presently be fully quantified given its recent enactment, various healthcare reform proposals have also emerged from federal
+and state governments. For example, in February 2012, Congress passed the "Middle Class Tax Relief and Job Creation Act of
+2012" which in part reduced the potential future cost-based increases to the Medicare Clinical Laboratory Fee Schedule by
+2%. Overall the expected total fee cut to the CLFS for 2013 is 2.95% not including a further reduction of 2% anticipated from implementation
+of the automatic expense reductions (sequester) under the Budget Control Act of 2011, which will go into effect for dates of service
+on or after April 1, 2013 unless Congress acts to modify the automatic cuts. 12 The Centers for Medicare and Medicaid Services,
+CMS, sought public input through the notice and comment period for the Proposed Medicare Physician Fee Schedule, on whether all
+new AMA Molecular Diagnostic codes be placed on either the Medicare Physician Fee Schedule, which would likely require a 20% patient
+co-payment for such services, or remain on the CLFS. On November 1, 2012, CMS issued a final rule on the Physician Fee Schedule,
+which described that these new codes would be placed on the CLFS. On August 31, 2012, CMS also issued a preliminary determination
+for the 2013 CLFS which proposed not to recognize Multi-Analyte codes with Algorithmic Analyses, or MAAA, and questioned whether
+algorithm-based tests are covered benefits for Medicare beneficiaries. However, in its final determination released on November 6,
+2012, CMS deleted the statement about not covering algorithmic analysis, and stated that laboratories performing MAAA tests for
+Medicare beneficiaries should continue to bill for these tests in 2013 as they are currently billed under the CLFS. CMS intends
+to consider its payment policy for MAAAs again in 2013 and may issue a determination to pay or not pay for these tests beginning
+in 2014. Our current Medicare reimbursement determination was set by a local coverage decision and not set nationally by CMS. These
+or any future changes in covered benefit determination, proposed fees or mandated reductions in payments may apply to some or all
+of our clinical laboratory tests delivered to Medicare beneficiaries. Changes in healthcare policy, such as the creation
+of broad test utilization limits for diagnostic products in general or requirements that Medicare patients pay for portions of
+clinical laboratory tests or services received, could substantially impact the sales of our tests, decrease revenues, increase
+costs and divert management's attention from our business. We cannot predict whether future healthcare
+initiatives will be implemented at the federal or state level or in countries outside of the United States in which we may do business,
+or the effect any future legislation or regulation will have on us. The taxes imposed by the new federal legislation, cost reduction
+measures and the expansion in government's role in the U.S. healthcare industry may result in decreased profits to us, lower reimbursements
+by payors for our products or reduced medical procedure volumes, all of which may adversely affect our business, financial condition
+and results of operations. In addition, sales of our tests outside the United States make us subject to foreign regulatory requirements
+and cost-reduction measures, which may also change over time. If the FDA were to begin regulating OvaDx ® , we could experience significant delays in commercializing the test,
+be forced to stop our sales, experience significant delays in commercializing any future products, incur substantial costs and
+time delays associated with meeting requirements for pre-market clearance or approval as well as experience decreased demand for
+our products and demand for reimbursement of our products. Clinical laboratory tests like OvaDx ® are regulated under the Clinical Laboratory Improvement Amendments of 1988, or CLIA, as administered through the CMS, as well as
+by applicable state laws. Diagnostic kits that are sold and distributed through interstate commerce are regulated as medical
+devices by FDA. Clinical laboratory tests that are developed and validated by a laboratory for its own use are called laboratory
+development tests, or LDTs. Most LDTs currently are not subject to FDA regulation, although reagents or software provided
+by third parties and used to perform LDTs may be subject to regulation. We believe that OvaDx ® is not a diagnostic kit and also believe that it is an LDT. As a result, we believe OvaDx ® should not be subject to regulation under established FDA policies. The FDA may decide at any time
+at its sole discretion to modify these rules, or the United States Congress may enact new legislation, resulting in the need for
+us to conduct further trials in order to qualify OvaDx ® for marketing
+approval. This may reduce or eliminate any potential revenue from sales of OvaDx ® and may necessitate further round(s) of fund raising resulting in substantial dilution to investors. Testing of potential products may be
+required and there is no assurance of FDA or any other regulatory approval. The FDA and comparable agencies in foreign
+countries impose substantial requirements upon the introduction of both therapeutic and diagnostic biomedical products, through
+lengthy and detailed laboratory and clinical testing procedures, sampling activities and other costly and time-consuming procedures. Satisfaction
+of these requirements typically takes several years or more and varies substantially based upon the type, complexity, and novelty
+of the product. The effect of government regulation and the need for FDA approval may be to delay marketing of new products for
+a considerable period of time, to impose costly procedures upon our activities, and to provide an advantage to larger companies
+that compete with us. There can be no assurance that FDA or other regulatory approval for any products developed by us will be
+granted on a timely basis or at all. Any such delay in obtaining, or failure to obtain, such approvals would materially and adversely
+affect the marketing of any contemplated products and the ability to earn product revenue. Further, regulation of manufacturing
+facilities by state, local, and other authorities is subject to change. Any additional regulation could result in limitations or
+restrictions on our ability to utilize any of our technologies, thereby adversely affecting our operations. Human diagnostic and
+pharmaceutical products are subject to rigorous preclinical testing and clinical trials and other approval procedures mandated
+by the FDA and foreign regulatory authorities. Various federal and foreign statutes and regulations also govern or influence the
+manufacturing, safety, labeling, storage, record keeping and marketing of pharmaceutical products. The process of obtaining these
+approvals and the subsequent compliance with appropriate United States and foreign statutes and regulations are time-consuming
+and require the expenditure of substantial resources. In addition, these requirements and processes vary widely from country to
+country. Among the uncertainties and risks of the FDA approval process are the following: (i) the possibility that studies and
+clinical trials will fail to prove the safety and efficacy of the product, or that any demonstrated efficacy will be so limited
+as to significantly reduce or altogether eliminate the acceptability of the product in the marketplace, (ii) the possibility that
+the costs of development, which can far exceed the best of estimates, may render commercialization of the drug marginally profitable
+or altogether unprofitable, and (iii) the possibility that the amount of time required for FDA approval of a product may extend
+for years beyond that which is originally estimated. In addition, the FDA or similar foreign regulatory authorities may require
+additional clinical trials, which could result in increased costs and significant development delays. Delays or rejections may
+also be encountered based upon changes in FDA policy and the establishment of additional regulations during the period of product
+development and FDA review. Similar delays or rejections may be encountered in other countries. 13 If we were required to conduct additional
+clinical trials prior to marketing our diagnostic tests, those trials could lead to delays or failure to obtain necessary regulatory
+approvals and harm our ability to become profitable. The FDA requires extensive pre-market clinical
+testing prior to submitting a regulatory application for commercial sales. OvaDx ® and our other product candidates require pre-market clinical trials, and whether using prospectively acquired samples or archival
+samples, delays in the commencement or completion of clinical testing could significantly increase our test development costs and
+delay commercialization. Many of the factors that may cause or lead to a delay in the commencement or completion of clinical
+trials may also ultimately lead to delay or denial of regulatory approval. The commencement of clinical trials may be delayed due
+to insufficient patient enrollment, which is a function of many factors, including the size of the patient population, the nature
+of the protocol, the proximity of patients to clinical sites and the eligibility criteria for the clinical trial. We may find
+it necessary to engage contract research organizations to perform data collection and analysis and other aspects of our clinical
+trials, which might increase the cost and complexity of our trials. We may also depend on clinical investigators, medical institutions
+and contract research organizations to perform the trials properly. If these parties do not successfully carry out their contractual
+duties or obligations or meet expected deadlines, or if the quality, completeness or accuracy of the clinical data they obtain
+is compromised due to the failure to adhere to our clinical protocols or for other reasons, our clinical trials may have to be
+extended, delayed or terminated. Many of these factors would be beyond our control. We may not be able to enter into replacement
+arrangements without undue delays or considerable expenditures. If there are delays in testing or approvals as a result of
+the failure to perform by third parties, our research and development costs would increase, and we may not be able to obtain regulatory
+approval for our test. In addition, we may not be able to establish or maintain relationships with these parties on favorable
+terms, if at all. Each of these outcomes would harm our ability to market our test, or to become profitable. Complying with numerous regulations pertaining
+to our business is an expensive and time-consuming process, and any failure to comply could result in substantial penalties. We are subject to CLIA, a federal law that
+regulates clinical laboratories that perform testing on specimens derived from humans for the purpose of providing information
+for the diagnosis, prevention or treatment of disease. CLIA is intended to ensure the quality and reliability of clinical
+laboratories in the United States by mandating specific standards in the areas of personnel qualifications, administration, and
+participation in proficiency testing, patient test management, quality control, quality assurance and inspections. We plan
+to obtain a certificate of accreditation under CLIA to perform testing. To renew the certificate of accreditation, we will
+be subject to survey and inspection every two years. Moreover, CLIA inspectors may make random inspections of our laboratory.
+Currently, CLIA regulations do not include specific standards for a genetic specialty. If we were to lose our CLIA accreditation or
+appropriate state license(s), whether as a result of a revocation, suspension or limitation, we would no longer be able to sell OvaDx ® , or other diagnostic tests, which would significantly harm our
+business. If we were to lose our license in other states where we are required to hold licenses, we would not be able to test specimens
+from those states. We are subject to other regulations by both
+the federal government and the states in which we conduct our business, including: · Medicare billing and payment regulations applicable to clinical laboratories; · the federal Medicare and Medicaid Anti-kickback Law and state anti-kickback prohibitions; · the federal physician self-referral prohibition, commonly known as the Stark Law, and the state equivalents; · the federal Health Insurance Portability and Accountability Act of 1996; · the Medicare civil money penalty and exclusion requirements; and · the federal civil and criminal False Claims Act. We have and will continue to adopt policies
+and procedures designed to comply with these laws, including policies and procedures relating to financial arrangements between
+us and physicians who refer patients to us. In the ordinary course of our business, we conduct internal reviews of our compliance
+with these laws. Our compliance is also subject to governmental review. The growth of our business and sales organization
+may increase the potential of violating these laws or our internal policies and procedures. The risk of our being found in
+violation of these laws and regulations is further increased by the fact that many of them have not been fully interpreted by the
+regulatory authorities or the courts, and their provisions are open to a variety of interpretations. Any action brought against
+us for violation of these laws or regulations, even if we successfully defend against it, could cause us to incur significant legal
+expenses and divert our management’s attention from the operation of our business. If our operations are found to be
+in violation of any of these laws and regulations, we may be subject to any applicable penalty associated with the violation, including
+civil and criminal penalties, damages and fines, we could be required to refund payments received by us, and we could be required
+to curtail or cease our operations. Any of the foregoing consequences could seriously harm our business and our financial
+results. 14 Initially, our financial results will
+depend on sales of one test, the OvaDx ® test, and we will need to generate
+sufficient revenues from this and our other diagnostics or therapies to run our business. For the foreseeable future, we expect to derive
+substantially all of our revenues from sales of OvaDx ® . We anticipate
+commencing full implementation of our sales and marketing strategy as early as the second quarter of 2016. We are in various stages
+of research and development for other function-based diagnostic assays that we may offer as well as for enhancements to our existing
+test. We do not currently expect to commercialize these additional tests for other disease indications until at least 2016, and
+we are not currently able to estimate when we may be able to commercialize therapeutics for other diseases or whether we will be
+successful in doing so. If we are unable to increase sales of OvaDx ® or to successfully develop and commercialize other diagnostic tests, enhancements, or therapeutics, our revenues and our ability
+to achieve profitability would be impaired, and the market price of our common stock could decline. We may experience limits on our revenues
+if physicians decide not to order our tests. If medical practitioners do not order OvaDx ® or any future tests developed by us, we will likely not be able to create demand for our products in sufficient volume for us to
+become profitable. To generate demand, we will need to continue to make oncologists, surgeons and pathologists aware of the
+benefits of OvaDx ® and any products we may develop in the future through
+published papers, presentations at scientific conferences and one-on-one education by our sales force. Some physicians may
+decide not to order our test due to its price, part or all of which may be payable directly by the patient if the applicable payor
+denies reimbursement in full or in part. Even if patients recommend that their physicians use our test, physicians may still decide
+not to use OvaDx ® , either because they have not been made aware of
+its utility or they wish to pursue a particular course of therapy regardless of test results. If only a small portion of the
+physician population decides to use our test, we will experience limits on our revenues and our ability to achieve profitability. In
+addition, we will need to demonstrate our ability to obtain adequate reimbursement coverage from third-party payors. We may experience limits on our revenues
+if patients decide not to use our test. Some patients may decide not to order our test
+due to its price, part or all of which may be payable directly by the patient if the applicable payor denies reimbursement in full
+or in part. Even if medical practitioners recommend that their patients use our test, patients may still decide not to use OvaDx ® , either because they do not want to be made aware of the likelihood
+of metastasis or they wish to pursue a particular course of therapy regardless of test results. If only a small portion of the
+patient population decides to use our test, we will experience limits on our revenues and our ability to achieve profitability. If we are unable to develop products
+to keep pace with rapid technological, medical and scientific change, our operating results and competitive position would be harmed. In recent years, there have been numerous advances
+in technologies relating to the diagnosis and treatment of cancer. These advances require us to continuously develop new products
+and enhance existing products to keep pace with evolving standards of care. Our tests could become obsolete unless we continually
+innovate and expand our products to demonstrate recurrence and treatment benefit in patients treated with new therapies. New
+treatment therapies typically have only a few years of clinical data associated with them, which limits our ability to perform
+clinical studies and correlate sets of genes to a new treatment’s effectiveness. If we are unable to demonstrate the
+applicability of our test to new treatments, then sales of our test could decline, which would harm our revenues. If we become subject to product liability
+claims, the damages may exceed insurance coverage levels. We will obtain liability insurance for our
+product candidates as each is entered into large population validation studies and/or any other studies where such liability insurance
+is needed. We cannot predict all of the possible harms or side effects that may result from the use of our products and, therefore,
+the amount of insurance coverage we currently hold, or that we or our collaborators may obtain, may not be adequate to protect
+us from any claims arising from the use of our products that are beyond the limit of our insurance coverage. If we cannot
+protect against potential liability claims, we or our collaborators may find it difficult or impossible to commercialize our products,
+and we may not be able to renew or increase our insurance coverage on reasonable terms, if at all. 15 If we are unable to develop adequate
+sales, marketing or distribution capabilities or enter into agreements with third parties to perform some of these functions, we
+will not be able to commercialize our products effectively. We may have a limited infrastructure in sales,
+marketing and distribution. To directly market and distribute any products, we must effectively build a sales and marketing organization
+with appropriate technical expertise and distribution capabilities. We may not be able to establish sales, marketing and distribution
+capabilities of our own or enter into such arrangements with third parties in a timely manner or on acceptable terms. If we do not find development and commercialization
+collaborators for our product candidates, we may have to reduce or delay our rate of product development and commercialization
+and increase our expenditures. We may enter into relationships with selected
+biotechnology companies to help develop and commercialize our product candidates, especially in the field of therapeutics. If
+we are not able to establish such collaborative arrangements, we may have to reduce or delay further development of some of our
+programs, increase our planned expenditures and undertake development and commercialization activities at our own expense. If we enter into development or commercialization
+collaborations with biotechnology companies, these relationships will also be subject to a number of risks, including: (i) collaborators
+may not pursue further development and commercialization of products resulting from collaborations or may elect not to renew research
+and development programs; (ii) collaborators may delay clinical trials, underfund a clinical trial program, stop a clinical trial
+or abandon a product candidate, repeat or conduct new clinical trials or require the development of a new formulation of a product
+candidate for clinical testing; (iii) a collaborator with marketing and distribution rights to one or more of our products may
+not commit enough resources to the marketing and distribution of our products, limiting our potential revenues from the commercialization
+of these products; and (iv) disputes may arise delaying or terminating the research, development or commercialization of our
+product candidates, or result in significant legal proceedings. Once we have a laboratory facility, it
+will be our sole laboratory facility and should it become inoperable, we will be unable to perform our tests and our business will
+be harmed. We do not currently have laboratory facilities. However,
+we do expect to utilize the laboratory facilities of our affiliate. The facility may be harmed or rendered inoperable by natural
+or man-made disasters, including earthquakes, flooding and power outages, which may render it difficult or impossible for us to
+perform our tests for some period of time. The inability to perform our tests may result in the loss of customers or harm
+our reputation, and we may be unable to regain those customers in the future. Although we possess insurance for damage to
+our property and the disruption of our business, this insurance may not be sufficient to cover all of our potential losses and
+may not continue to be available to us on acceptable terms, or at all. In order to rely on a third party to perform
+our tests, we could only use another facility with established state licensure and CLIA accreditation under the scope of which OvaDx ® could be performed following validation and other required
+procedures. We cannot assure you that we would be able to find another CLIA-certified facility willing to adopt OvaDx ® and comply with the required procedures, or that this laboratory would
+be willing to perform the tests for us on commercially reasonable terms. In order to establish a redundant laboratory facility,
+we would have to spend considerable time and money securing adequate space, constructing the facility, recruiting and training
+employees, and establishing the additional operational and administrative infrastructure necessary to support a second facility. Additionally,
+any new clinical laboratory facility opened by us would be subject to certification under CLIA and licensed by several states,
+including California and New York, which can take a significant amount of time and result in delays in our ability to begin operations. 16 Our success depends on retention of key
+personnel. We are dependent on our management team members,
+including Gregg Linn, our new President. Our future success also will depend in large part on our continued ability to attract
+and retain other highly qualified scientific, technical and management personnel, as well as personnel with expertise in sales
+and marketing, clinical testing, and governmental regulation. We face competition for personnel from other companies, universities,
+public and private research institutions, government entities and other organizations. If we are unsuccessful in our recruitment
+and retention efforts, our business will be harmed. Our corporate compliance program cannot
+guarantee that we are in compliance with all potentially applicable regulations. The development, manufacturing, pricing, sales,
+and reimbursement of our products, together with our general operations, are subject to extensive regulation by federal, state
+and other authorities within the United States and numerous entities outside of the United States. While we have developed
+and instituted a corporate compliance program based on what we believe are the current best practices, we cannot assure you that
+we are or will be in compliance with all potentially applicable regulations. If we fail to comply with any of these regulations,
+we could be subject to a range of regulatory actions, including suspension or termination of clinical trials, the failure to approve
+a product candidate, restrictions on our products or manufacturing processes, withdrawal of products from the market, significant
+fines, or other sanctions or litigation. Our operations may involve hazardous
+materials, and compliance with environmental laws and regulations is expensive. Our future research and development activities
+may involve the controlled use of hazardous materials, including chemicals that cause cancer, volatile solvents, radioactive materials
+and biological materials including human tissue samples that have the potential to transmit diseases. Our operations may also
+produce hazardous waste products. We are subject to a variety of federal, state and local regulations relating to the use,
+handling and disposal of these materials. We generally may contract with third parties for the disposal of such substances and
+may store certain low level radioactive waste at our facility until the materials are no longer considered radioactive. While
+we believe that we will comply with then current regulatory requirements, we cannot eliminate the risk of accidental contamination
+or injury from these materials. We may be required to incur substantial costs to comply with current or future environmental
+and safety regulations. If an accident or contamination occurred, we would likely incur significant costs associated with
+civil penalties or criminal fines and in complying with environmental laws and regulations. If we use biological and hazardous materials
+in a manner that causes injury, we could be liable for damages. Our activities may require the controlled use
+of potentially harmful biological materials, hazardous materials and chemicals and may in the future require the use of radioactive
+compounds. We cannot eliminate the risk of accidental contamination or injury to employees or third parties from the use,
+storage, handling or disposal of these materials. In the event of contamination or injury, we could be held liable for any
+resulting damages, and any liability could exceed our resources or any applicable insurance coverage we may have. Additionally,
+we are subject on an ongoing basis to federal, state and local laws and regulations governing the use, storage, handling and disposal
+of these materials and specified waste products. The cost of compliance with these laws and regulations might be significant
+and could negatively affect our operating results. Risks Related to our Securities Insiders have substantial control over
+us, and they could delay or prevent a change in our corporate control even if our other stockholders wanted it to occur. Our executive officers, directors, and principal
+stockholders hold approximately a large majority of our outstanding common stock. Accordingly, these stockholders are able
+to control all matters requiring stockholder approval, including the election of directors and approval of significant corporate
+transactions. This could delay or prevent an outside party from acquiring or merging with us even if our other stockholders
+wanted it to occur. We cannot assure you that the common
+stock will become liquid or that it will be listed on a securities exchange. In addition, there may not be sufficient liquidity
+in the market for our securities in order for investors to sell their securities. Currently, we are quoted on the OTC Bulletin
+Board, where an investor may find it difficult to obtain accurate quotations as to the market value of our common stock. In
+addition, if we fail to meet the criteria set forth in SEC regulations, by law, various requirements would be imposed on broker-dealers
+who sell its securities to persons other than established customers and accredited investors. Consequently, such regulations
+may deter broker-dealers from recommending or selling our common stock, which may further affect its liquidity. In addition,
+there is currently only a limited public market for our common stock and there can be no assurance that a trading market will develop
+further or be maintained in the future. In order to raise sufficient funds to
+expand our operations, we may have to issue additional securities at prices, which may result in substantial dilution to our shareholders. If we raise additional funds through the sale
+of equity or convertible debt, our current stockholders’ percentage ownership will be reduced. In addition, these transactions
+may dilute the value of our outstanding securities. We may have to issue securities that may have rights, preferences and
+privileges senior to our common stock. We cannot provide assurance that we will be able to raise additional funds on terms
+acceptable to us, if at all. If future financing is not available or is not available on acceptable terms, we may not be able
+to fund our future needs, which would have a material adverse effect on our business plans, prospects, results of operations and
+financial condition. 17 Our stock price is highly volatile, and our stock may lose
+all or a significant part of its value. The market prices for securities of molecular diagnostic companies
+have been volatile. This volatility has significantly affected the market prices for these securities for reasons frequently unrelated
+to the operating performance of the specific companies. These broad market fluctuations may adversely affect the market price of
+our common stock. In addition, the stock market in general has experienced extreme
+price and volume fluctuations. Events or factors that may have a significant impact on our business and on the market price of
+our common stock include the following: · failure of any of our recently launched tests and any new test candidates to achieve commercial success; · failure to sustain revenue growth or margins in our molecular diagnostic business; · changes in the structure of healthcare payment systems and changes in the governmental or private insurers reimbursement levels for our molecular diagnostic tests; · introduction of new commercial tests or technological innovations by competitors; · termination of the licenses underlying our molecular diagnostic and pharmaceutical and clinical services; · delays or other problems with operating our laboratory facilities; · failure of any of our research and development programs; · changes in intellectual property laws of our patents or enforcement in the United States and foreign countries; · developments or disputes concerning patents or other proprietary rights involving us directly or otherwise affecting the industry as a whole; · missing or changing the financial guidance we provide; · changes in estimates or recommendations by securities analysts relating to our common stock or the securities of our competitors; · changes in the governmental regulatory approved process for our existing and new tests: · failure to meet estimates or recommendations by securities analysts that cover our common stock; · public concern over our approved tests and any test candidates; · litigation; · future sales or anticipated sales of our common stock by us or our stockholders; · the timing and amount of repurchases of our common stock; · general market conditions; · seasonal slowness in sales, particularly in the quarters ending September 30 and March 31, the effects of which may be difficult to understand during periods of growth; · economic, healthcare and diagnostic trends, disasters or crises and other external factors; and · period-to-period fluctuations in our financial results. These and other external factors may cause
+the market price and demand for our common stock to fluctuate substantially, which may limit or prevent investors from readily
+selling their shares of common stock and may otherwise negatively affect the liquidity of our common stock. In addition, securities
+class action litigation against companies has been on the rise. If any of our stockholders brought a lawsuit against us, we could
+incur substantial costs defending the lawsuit regardless of the outcome. Such a lawsuit could also divert the time and attention
+of our management. 18 Investors may face significant restrictions on the resale
+of our common stock due to federal regulations of penny stocks. Our common stock will be subject to the requirements
+of Rule 15(g) 9, promulgated under the Securities Exchange Act as long as the price of our common stock is below $5.00 per share.
+Under such rule, broker-dealers who recommend low-priced securities to persons other than established customers and accredited
+investors must satisfy special sales practice requirements, including a requirement that they make an individualized written suitability
+determination for the purchaser and receive the purchaser's consent prior to the transaction. The Securities Enforcement Remedies
+and Penny Stock Reform Act of 1990, also requires additional disclosure in connection with any trades involving a stock defined
+as a penny stock. Generally, the Commission defines a penny stock
+as any equity security not traded on an exchange or quoted on NASDAQ that has a market price of less than $5.00 per share. The
+required penny stock disclosures include the delivery, prior to any transaction, of a disclosure schedule explaining the penny
+stock market and the risks associated with it. Such requirements could severely limit the market liquidity of the securities and
+the ability of purchasers to sell their securities in the secondary market. In addition, various state securities laws
+impose restrictions on transferring “penny stocks” and as a result, investors in the common stock may have their ability
+to sell their shares of the common stock impaired. Failure to meet previously announced financial expectations
+could have an adverse impact on the market price of Diagnostics’ common stock. Our ability to achieve announced financial
+targets is subject to a number of risks, uncertainties and other factors affecting its business and the health care industry generally,
+many of which are beyond Diagnostics’ control. These factors may cause actual results to differ materially. The Company describes
+a number of these factors throughout this document, including in these Risk Factors. The Company cannot assure you that it will
+meet the targets when announced. If the Company is not able to meet these targets, it could harm the market price of its common
+stock. Future sales of our common stock could adversely affect its
+stock price and its ability to raise capital in the future. Future ales of substantial amounts of the Company’s
+common stock could harm the market price of its stock. This also could harm the Company’s ability to raise capital in the
+future. Certain shares issued in conjunction with the Exchange Agreement are expected to be registered through the filing of a
+registration statement with the SEC. These shares will then be freely tradable without restriction under the Securities Act of
+1933 (the “Securities Act”) by persons other than “affiliates,” as defined under the Securities Act. Any
+sales of substantial amounts of the Company’s common stock in the public market, or the perception that those sales might
+occur, could harm the market price of the Company’s common stock. The Company will not solicit the approval of
+its stockholders for the issuance of authorized but unissued shares of the Company’s common stock unless this approval is
+deemed advisable by our board of directors or is required by applicable law, regulation or any applicable stock exchange listing
+requirements. The issuance of those shares could dilute the value of the Company’s outstanding shares of common stock. State securities laws may limit secondary trading that will
+restrict the states in which you can sell shares. Secondary trading in our common stock will
+not be possible in any state until the common stock is qualified for sale under the applicable securities laws of the state or
+there is confirmation that an exemption, such as listing in certain recognized securities manuals, is available for secondary trading
+in the state. If we fail to register or qualify, or to obtain or verify an exemption for the secondary trading of, the common stock
+in any particular state, the common stock could not be offered or sold to, or purchased by, a resident of that state. In the event
+that a significant number of states refuse to permit secondary trading in our common stock, the liquidity for the common stock
+could be significantly impacted. 19 We do not expect to pay dividends in the future. As a result,
+any return on investment may be limited to the value of our common stock. We do not anticipate paying cash dividends
+on our common stock in the foreseeable future. The payment of dividends on our common stock will depend on our earnings, financial
+condition and other business and economic factors as our board of directors may consider relevant. If we do not pay dividends,
+our common stock may be less valuable because a return on your investment will only occur if our stock price appreciates. Because we became a public company by
+means of a “reverse merger,” we may not be able to attract the attention of major brokerage firms and we will also
+be subject to a one-year "seasoning period" before we will be permitted to list our securities on a securities exchange. Additional risks may exist since we became
+public through a “reverse takeover.” Securities analysts of major brokerage firms may not provide coverage of
+our securities since there is little incentive to brokerage firms to recommend the purchase of our common stock. No assurance
+can be given that brokerage firms will want to conduct any secondary offerings on our behalf in the future. In addition, companies
+that become public through a “reverse takeover” are not permitted to list their securities on a securities exchange
+until (i) the company has completed a one-year “seasoning period” by trading in the United States over-the-counter
+market or on another regulated United States or foreign exchange following the reverse merger, and filed all required reports with
+the SEC, including audited financial statements, and (ii) the company maintains the requisite minimum share price for a sustained
+period, and for at least 30 of the 60 trading days, immediately prior to its listing application and the exchange’s decision
+to list. If we fail to maintain an effective system
+of internal control over financial reporting, we may not be able to accurately report our financial results. As a result, current
+and potential investors could lose confidence in our financial reporting, which could harm our business and have an adverse effect
+on our stock price. Pursuant to Section 404 of the Sarbanes-Oxley
+Act of 2002, we are required to annually furnish a report by our management on our internal control over financial reporting. Such
+report must contain, among other matters, an assessment by our principal executive officer and our principal financial officer
+on the effectiveness of our internal control over financial reporting, including a statement as to whether or not our internal
+control over financial reporting is effective as of the end of our fiscal year. This assessment must include disclosure of
+any material weakness in our internal control over financial reporting identified by management. In addition, under current
+SEC rules, we may be required to obtain an attestation from our independent registered public accounting firm as to our internal
+control over financial reporting for our annual report on Form 10-K covering our next fiscal year. Performing the system and process
+documentation and evaluation needed to comply with Section 404 is both costly and challenging. During the course of our testing
+we may identify deficiencies which we may not be able to remediate in time to meet the deadline imposed by the Sarbanes-Oxley Act
+of 2002 for compliance with the requirements of Section 404. In addition, if we fail to maintain the adequacy of our internal
+controls, as such standards are modified, supplemented or amended from time to time, we may not be able to ensure that we can conclude
+on an ongoing basis that we have effective internal controls over financial reporting in accordance with Section 404 of the Sarbanes-Oxley
+Act of 2002. Failure to achieve and maintain an effective internal control environment could also cause investors to lose
+confidence in our reported financial information, which could have a material adverse effect on the price of our common stock. The market for penny stocks has experienced
+numerous frauds and abuses, which could adversely impact investors in our stock. Over-the-Counter Bulletin Board, or OTCBB,
+securities are frequent targets of fraud or market manipulation, both because of their generally low prices and because OTCBB reporting
+requirements are less stringent than those of the stock exchanges or NASDAQ. Patterns of fraud and abuse include: · Control of the market for the security by one or a few broker-dealers that are often related to the promoter or issuer; · Manipulation of prices through prearranged matching of purchases and sales and false and misleading press releases; · “Boiler room” practices involving high pressure sales tactics and unrealistic price projections by inexperienced sales persons; · Excessive and undisclosed bid-ask differentials and markups by selling broker-dealers; and · Wholesale dumping of the same securities by promoters and broker-dealers after prices have been manipulated to a desired level, along with the inevitable collapse of those prices with consequent investor losses. Our management is aware of the abuses that
+have occurred historically in the penny stock market. 20 Risks Related to Our Medical Diagnostic Testing Business and
+Strategy We may not be successful in transitioning from our existing
+product portfolio to our new products. We may not be able to generate sufficient revenue from our existing tests and our new tests
+or develop new tests to maintain profitability. We believe our future success is dependent
+upon our ability to successfully market our existing molecular diagnostic tests to additional patients within the United States,
+to expand into new markets outside the United States, and to develop and commercialize new molecular diagnostic and companion diagnostic
+tests. For example, because most of our molecular
+diagnostic tests are only utilized once per patient, we will need to sell our services through physicians to new patients or develop
+new molecular diagnostic tests in order to continue to generate revenue. Our pipeline of new molecular diagnostic and companion
+diagnostic test candidates is in various stages of development and may take several more years to develop and must undergo extensive
+clinical validation. We may be unable to discover or develop any additional molecular diagnostic or companion diagnostic tests
+through the utilization of our technologies or technologies we license or acquire from others. Even if we develop tests or services
+for commercial use, we may not be able to develop tests or services that: · meet applicable regulatory standards, in a timely manner or at all; · successfully compete with other technologies and tests; · avoid infringing the proprietary rights of others; · are adequately reimbursed by third-party payors; · can be performed at commercial levels or at reasonable cost; or · can be successfully marketed. We must generate significant revenue to maintain
+profitability. Even if we succeed in our existing molecular diagnostic tests to physicians for use in new patients and in developing
+and commercializing any additional molecular diagnostic tests and companion diagnostic tests, we may not be able to generate sufficient
+revenue and we may not be able to maintain profitability. We may not become profitable on a quarterly or annual basis. In order to develop and commercialize our molecular
+diagnostic and companion diagnostic test candidates, we expect to incur significant expenses over the next several years as we
+increase our research and development activities, expand clinical validation trials for our molecular diagnostic tests and companion
+diagnostic tests currently in development, potentially license or acquire additional companies or technologies and engage in commercialization
+activities in anticipation of the launch of additional molecular diagnostic tests companion diagnostic tests. Because of the numerous
+risks and uncertainties associated with developing our tests and their potential for commercialization, we are unable to predict
+the extent of any future profits. If we are unable to sustain or increase profitability, the market value of our common stock will
+likely decline. Our ability to maintain profitability will depend upon numerous factors, including: · our ability to transition from our existing product portfolio to our new products and to commercialize these new tests; · our ability to obtain full or partial reimbursement for new products; · our ability to sell our other existing molecular diagnostic tests to new patients; · our ability to identify biomarkers that may lead to future molecular diagnostic tests and companion diagnostic tests; · our ability to develop test candidates and receive any required regulatory approvals; · our ability to successfully commercialize our tests in our existing markets and to extend into new markets outside the United States; · the approval and introduction of competitive tests; · reductions in reimbursement by third-party payors or their willingness to provide full or even partial reimbursement for our tests; · our ability to maintain and enforce our intellectual property rights covering our molecular diagnostic tests and companion diagnostic tests; · our ability to maintain and grow our sales force and marketing team to market our tests; · our ability to successfully integrate, develop and grow products and services and the business of any other companies or technologies that we may license or acquire; · our ability to increase commercial acceptance of our current molecular diagnostic tests; and · our ability to maintain or grow our current revenues. 21 If we cannot successfully launch our molecular diagnostic
+tests and are unable to secure additional funding, we may have to exit the market place. To develop and bring new molecular diagnostic
+tests and companion diagnostic tests to market, we must commit substantial resources to costly and time-consuming research, development
+testing and clinical testing. If we are unable to secure adequate funding, we may be required to reduce research and development
+projects, limit sales and marketing activities, reduce headcount or potentially even discontinue operations. Our future capital
+requirements will depend on many factors that are currently unknown to us, including: · our ability to maintain the existing licenses to our molecular diagnostic tests and enter into collaborations, licensing or other arrangements favorable to us; · the scope, progress, results and cost of development, clinical testing and pre-market studies of any new molecular diagnostic tests that we may discover or acquire; · the progress, results, and costs to develop additional molecular diagnostic tests; · the costs by us or our licensors of preparing, filing and prosecuting patent applications, maintaining and enforcing our current issued patents, and defending intellectual property-related claims; · the costs of acquiring technologies or businesses, and our ability to successfully integrate and achieve the expected benefits of our business development activities and acquisitions; · the progress, cost and results of our international expansion efforts; · the costs of expanding our sales and marketing functions and commercial operation facilities in the United States and in new markets; · the costs, timing and outcome of any litigation against us; and · the costs to satisfy our current and future obligations. We may acquire technologies, assets or other businesses that
+could cause us to incur significant expense and expose us to a number of unanticipated operational and financial risks. In addition to organic growth, we intend to
+continue to pursue growth through the acquisition of technology, assets or other businesses that may enable us to enhance our technologies
+and capabilities, expand our geographic market, add experienced management personnel and increase our test offerings. However,
+these acquisitions may not achieve profitability or generate a positive return on our investment. Additionally, we may be unable
+to implement our growth strategy if we cannot identify suitable acquisition candidates, reach agreement on potential acquisitions
+on acceptable terms, successfully integrate personnel or assets that we acquire or for other reasons. Our acquisition efforts may
+involve certain risks, including: · we may have difficulty integrating operations and systems; · key personnel and customers of the acquired company may terminate their relationships with the acquired company as a result of the acquisition; · we may not be successful in launching new molecular diagnostic tests or companion diagnostic tests, or if those tests are launched they may not prove successful in the market place; · we may experience additional financial and accounting challenges and complexities in areas such as tax planning and financial reporting; · we may assume or be held liable for risks and liabilities, including for environmental-related costs, as a result of our acquisitions, some of which we may not discover during our due diligence; · we may incur significant additional operating expenses; · our ongoing business may be disrupted or receive insufficient management attention; and · we may not be able to realize synergies, the cost savings or other financial and operational benefits we anticipated, or such synergies, savings or benefits may take longer than we expected. The process of negotiating acquisitions and
+integrating acquired tests, services, technologies, personnel or businesses might result in operating difficulties and expenditures
+and might require significant management attention that would otherwise be available for ongoing development of our business, whether
+or not any such transaction is ever consummated. Moreover, we might never realize the anticipated benefits of any acquisition.
+Future acquisitions could result in the use of our available cash and marketable securities, potentially dilutive issuances of
+equity securities, the incurrence of debt, contingent liabilities, or impairment expenses related to goodwill, and impairment or
+amortization expenses related to other intangible assets, which could harm our financial condition. In addition, if we are unable
+to integrate any acquired businesses, tests or technologies effectively, our business, financial condition and results of operations
+may be materially adversely affected. 22 We may not be able to successfully integrate the operations
+of businesses that we acquire with our own or realize the anticipated benefits of the acquisitions, which could adversely affect
+our financial condition, results of operations and business prospects. There can be no assurance that we will be able
+to successfully integrate acquisitions or develop or commercialize products based on acquired technologies, or that we will be
+able to successfully integrate any other companies, products or technologies that we may acquire and may not realize all or any
+of the expected benefits of any future acquisitions as and when planned. Additionally, we may experience increased expenses, distraction
+of our management, personnel and customer uncertainty. The difficulties and risks associated with the integration of any
+other businesses that we may acquire include: · possible inconsistencies in the standards, controls, procedures, policies and compensation structures; · the increased scope and complexity of the acquired company’s operations; · the potential loss of key employees and the costs associated to retain key employees; · risks and limitations on our ability to consolidate corporate and administrative infrastructures of the two companies; and · the possibility of unanticipated delays, costs or inefficiencies associated with the integration of our operations with the operations of any other companies that we may acquire. As a result of these difficulties and risks,
+we may not accomplish the integration of the business of any companies we may acquire smoothly, successfully or within our budgetary
+expectations and anticipated timetable. Accordingly, we may fail to realize some or all of the anticipated benefits of the acquisition,
+such as increase in our scale, diversification, cash flows and operational efficiency and meaningful accretion to our diluted earnings
+per share. If we were successfully sued for product liability, we could
+face substantial liabilities that exceed our resources. Our business exposes us to potential liability
+risks inherent in the testing, marketing and processing of molecular diagnostic products, including possible misdiagnoses. Although
+we are insured against such risks in amounts that we believe to be commercially reasonable, our present professional and product
+liability insurance may be inadequate. A successful product liability claim in excess of our insurance coverage could have a material
+adverse effect on our business. Any successful product liability claim may prevent us from obtaining adequate product liability
+insurance in the future on commercially desirable or reasonable terms. An inability to obtain sufficient insurance coverage at
+an acceptable cost or otherwise to protect against potential product liability claims could prevent or inhibit the commercialization
+of our products. We are dependent on our information technology and telecommunications
+systems, and any failure of these systems could harm our business. We depend on information technology, or IT,
+and telecommunications systems for significant aspects of our business. These IT and telecommunications systems support a variety
+of functions, including sample processing, tracking, quality control, customer service and support, billing, research and development
+activities, and various general and administrative activities. Failures or significant downtime of our IT or telecommunications
+systems could prevent us from processing samples, providing test results to physicians, billing payors, addressing patient or physician
+inquiries, conducting research and development activities and conducting general and administrative elements of our business. Any
+disruption or loss of IT or telecommunications systems on which critical aspects of our operations depend could have an adverse
+effect on our business. 23 Security breaches, loss of data and other
+disruptions could compromise sensitive information related to our business, prevent us from accessing critical information or expose
+us to liability, which could adversely affect our business and our reputation. In the ordinary course of our business, we
+collect and store sensitive data, including legally protected patient health information, credit card information, personally identifiable
+information about our employees, intellectual property, and proprietary business information. We manage and maintain our applications
+and data utilizing on-site systems. These applications and data encompass a wide variety of business critical information including
+research and development information, commercial information and business and financial information. The secure processing, storage, maintenance
+and transmission of this critical information is vital to our operations and business strategy, and we devote significant resources
+to protecting such information. Although we take measures to protect sensitive information from unauthorized access or disclosure,
+our information technology and infrastructure may be vulnerable to attacks by hackers, or viruses, breaches or interruptions due
+to employee error, malfeasance or other disruptions, or lapses in compliance with privacy and security mandates. Any such virus,
+breach or interruption could compromise our networks and the information stored there could be accessed by unauthorized parties,
+publicly disclosed, lost or stolen. We have measures in place that are designed to detect and respond to such security incidents
+and breaches of privacy and security mandates. Any such access, disclosure or other loss of information could result in legal claims
+or proceedings, liability under laws that protect the privacy of personal information, such as the Health Insurance Portability
+and Accountability Act of 1996, government enforcement actions and regulatory penalties. Unauthorized access, loss or dissemination
+could also disrupt our operations, including our ability to process samples, provide test results, bill payors or patients, provide
+customer support services, conduct research and development activities, process and prepare company financial information, manage
+various general and administrative aspects of our business and damage our reputation, any of which could adversely affect our business. If our current operating plan changes
+and we find that our existing capital resources will not meet our needs, we may find it necessary to raise additional funding,
+which may not be available. We anticipate that our existing capital resources
+and expected net cash to be generated from sales of our molecular diagnostic tests will enable us to maintain our currently planned
+operations for the foreseeable future. However, we base this expectation on our current operating plan, which may change. We have
+incurred, and will continue to incur, significant costs in the discovery, development and marketing of current and prospective
+molecular diagnostic and companion diagnostic tests. Our ongoing efforts to develop tests and expand our business which may be
+through internally developed products, in licensing and mergers and acquisitions, will require substantial cash resources. If,
+due to changes in our current operating plan, adequate funds are not available, we may be required to raise additional funds. Sources
+of potential additional capital resources may include, but are not limited to, public or private equity financings, establishing
+a credit facility, or selling convertible debt securities. This additional funding, if necessary, may not be available to us on
+reasonable terms, or at all. If we issue shares of stock or other securities to acquire new companies or technologies, the ownership
+interests of our existing stockholders may be significantly diluted. Because of our potential long-term capital
+requirements, we may access the public or private equity or debt markets whenever conditions are favorable, even if we do not have
+an immediate need for additional capital at that time. If additional funds are raised by issuing equity securities, existing shareholders
+may suffer significant dilution. Debt financing, if available, may involve agreements that include covenants limiting or restricting
+our ability to take specific actions, such as incurring debt, making capital expenditures or declaring dividends. If we raise additional
+funds through collaborations, strategic alliances and licensing arrangements with third parties, we may have to relinquish valuable
+rights to our technologies or tests, or grant licenses on terms that are not favorable to us. 24 Our business involves environmental risks that may result
+in liability for us. In connection with our research and development
+activities, we are subject to federal, state and local laws, rules, regulations and policies governing the use, generation, manufacture,
+storage, air emission, effluent discharge, handling and disposal of certain materials, biological specimens, chemicals and wastes.
+Although we believe that we have complied with the applicable laws, regulations and policies in all material respects and have
+not been required to correct any material noncompliance, we may be required to incur significant costs to comply with environmental
+and health and safety regulations in the future. Although we believe that our safety procedures for handling and disposing of controlled
+materials comply with the standards prescribed by state and federal regulations, accidental contamination or injury from these
+materials may occur. In the event of such an occurrence, we could be held liable for any damages that result and any such liability
+could exceed our resources. Changes in healthcare policy could increase our costs, decrease
+our revenues and impact sales of and reimbursement for our tests. In March 2010, the Patient Protection and Affordable
+Care Act, as amended by the Health Care and Education Affordability Reconciliation Act, or the ACA became law. This law substantially
+changes the way health care is financed by both governmental and private insurers, and significantly impacts our industry. The
+ACA contains a number of provisions that are expected to impact our business and operations, some of which in ways we cannot currently
+predict, including those governing enrollment in federal healthcare programs, reimbursement changes and fraud and abuse, which
+will impact existing government healthcare programs and will result in the development of new programs. In addition to the ACA, there will continue
+to be proposals by legislators at both the federal and state levels, regulators and third-party payors to reduce costs while expanding
+individual healthcare benefits. Certain of these changes could impose additional limitations on the prices we will be able to charge
+for our tests or the amounts of reimbursement available for our tests from governmental agencies or third-party payors. Risks Related to Commercialization of Our Tests, Our Services
+and Test Candidates We may not be able to generate revenue on commercialized diagnostic
+technology. Potential events or factors that may have a
+significant impact on our ability to generate revenue for our molecular diagnostic business include the following: · increased costs of reagents and other consumables required for molecular diagnostic testing; · increased licensing or royalty costs, and our ability to maintain and enforce the intellectual property rights underlying our tests and services; · increased personnel and facility costs; · our inability to hire competent, trained staff, including laboratory directors required to review and approve all reports we issue in our molecular diagnostic business, and sales personnel; · our inability to obtain necessary equipment or reagents to perform molecular diagnostic testing; · our inability to increase production capacity as demand increases; · our inability to expand into new markets outside the United States; · the efforts of third party payors to limit or decrease the amounts that they are willing to pay for our tests; · changes in intellectual propriety law applicable to our patents or enforcement in the United States and foreign countries; · potential obsolescence of our tests; · our inability to increase commercial acceptance of our molecular diagnostic tests; · increased competition and loss of market share; and · increased regulatory requirements. 25 We may experience increased price competition and price erosion,
+including price decreases from CMS and private payors. CMS has recently reduced the reimbursement
+rate for some of our products and as a result we may experience pricing pressures from managed care organizations and other third-party
+payors. Any declines in average selling prices of our products due to pricing pressures may have an adverse impact on our business,
+results of operations and financial condition. Our pharmaceutical testing services customers may reduce the
+amount of testing they conduct through us. If there is a change in the regulatory environment
+or intellectual property law, or our pharmaceutical testing services customers consolidate, our customers may divert resources
+from testing, resulting in a reduced demand for our laboratory testing services. Alternatively, customers may decide to perform
+their own laboratory testing services in-house. We rely on a single laboratory facility
+to process each of our molecular diagnostic tests in the United States and a single laboratory facility to perform our clinical
+services. Failure to maintain the operations of these laboratories in compliance with applicable regulations would seriously harm
+our business. We are relying on Docro, Inc. to provide samples
+for testing and to oversee the testing procedure. Docro has close relationships with the FDA. Docro has access to all of the samples
+required to do all of the requisite FDA submissions. We are relying on Arrayit , Inc. to perform the testing that Docro will supervise.
+After initial approval Arrayit will initially manufacture the tests. Should the company be bought out the manufacturing will pass
+on to the purchaser. There are no other major vendors. We depend on a limited number of third
+parties for some of our supplies of equipment and reagents. If these supplies become unavailable, then we may not be able to successfully
+perform our research or operate our business on a timely basis or at all. We currently rely on a small number of suppliers
+to provide our gene sequencing equipment, content enrichment equipment, multiplex protein analysis equipment, robots, and specialty
+reagents and laboratory supplies required in connection with our research. We believe that currently there are limited alternative
+suppliers of these equipment, robots, and reagents. The equipment, robots, or the reagents may not remain available in commercial
+quantities at acceptable costs. If we are unable to obtain when needed additional or alternative equipment, robots, or an adequate
+supply of reagents or other ingredients at commercially reasonable rates, our ability to continue to identify genes and perform
+molecular diagnostic testing and pharmaceutical and clinical services would be adversely affected. If we do not compete effectively with
+scientific and commercial competitors, we may not be able to successfully commercialize our tests. The clinical laboratory and genetics testing
+fields are intense and highly competitive. Tests that are developed are characterized by rapid technological change. Our competitors
+in the United States and abroad are numerous and include, among others, major diagnostic companies, reference laboratories, molecular
+diagnostic firms, universities and other research institutions. Some of our potential competitors have considerably greater financial,
+technical, marketing and other resources than we do, which may allow these competitors to discover important genes and determine
+their function before we do. We could be adversely affected if we do not discover genes, proteins or biomarkers and characterize
+their function, develop molecular diagnostic and pharmaceutical and clinical services based on these discoveries, obtain required
+regulatory and other approvals and launch these tests and their related services before our competitors. We also expect to encounter
+significant competition with respect to any molecular diagnostic and companion diagnostic tests that we may develop or commercialize.
+Those companies that bring to market new molecular diagnostic and companion tests before we do may achieve a significant competitive
+advantage in marketing and commercializing their tests. We may not be able to develop additional molecular diagnostic tests successfully
+and we or our licensors may not obtain or enforce patents covering these tests that provide protection against our competitors.
+Moreover, our competitors may succeed in developing molecular diagnostic and companion diagnostic tests that circumvent our technologies
+or tests. Furthermore, our competitors may succeed in developing technologies or tests that are more effective or less costly than
+those developed by us or that would render our technologies or tests less competitive or obsolete. We expect competition to intensify
+in the fields in which we are involved as technical advances in these fields occur and become more widely known and changes in
+intellectual property laws generate challenges to our intellectual property position. 26 If our current research collaborators
+or scientific advisors terminate their relationships with us or develop relationships with a competitor, our ability to discover
+genes, proteins, and biomarkers, and to validate and commercialize molecular diagnostic and companion diagnostic tests could be
+adversely affected. We have relationships with research collaborators
+at academic and other institutions who conduct research at our request. These research collaborators are not our employees. As
+a result, we have limited control over their activities and, except as otherwise required by our collaboration agreements, can
+expect only limited amounts of their time to be dedicated to our activities. Our ability to discover genes, proteins, and biomarkers
+involved in human disease and validate and commercialize molecular diagnostic and companion diagnostic tests will depend in part
+on the continuation of these collaborations. If any of these collaborations are terminated, we may not be able to enter into other
+acceptable collaborations. In addition, our existing collaborations may not be successful. Our research collaborators and scientific advisors
+may have relationships with other commercial entities, some of which could compete with us. Our research collaborators and scientific
+advisors sign agreements which provide for the confidentiality of our proprietary information and the results of studies conducted
+at our request. We may not, however, be able to maintain the confidentiality of our technology and other confidential information
+related to all collaborations. The dissemination of our confidential information could have a material adverse effect on our business. If we fail to retain our key personnel
+and hire, train and retain qualified employees and consultants, we may not be able to successfully continue our business. Because of the specialized scientific nature
+of our business, we are highly dependent upon our ability to attract and retain qualified management, scientific and technical
+personnel. We are currently recruiting additional qualified management, scientific and technical personnel. Competition for such
+personnel is intense. Loss of the services of or failure to recruit additional key management, scientific and technical personnel
+would adversely affect our research and development programs and molecular diagnostic and pharmaceutical and clinical services
+business and may have a material adverse effect on our business as a whole. Our agreements with our employees generally
+provide for employment that can be terminated by either party without cause at any time, subject to specified notice requirements.
+Further, the non-competition provision to which each employee is subject expires for certain key employees on the applicable date
+of termination of employment. As we expand our commercial tests we
+may be required to incur significant costs and devote significant efforts to expand our existing tests sales and marketing capabilities. Our sales and marketing experience and capabilities
+consist primarily of our sales force that markets our cancer-related molecular diagnostic tests to oncologists, Ob/Gyns and urologists
+in the United States. We are currently expanding our sales efforts outside the United States, which will require us to hire additional
+personnel and engage in additional sales and marketing efforts. We have limited sales and marketing experience outside the Unites
+States. As we expand our business operations internationally, we expect to face a number of additional costs and risks, including
+the need to recruit a large number of additional experienced marketing and sales personnel. Risks Related to Our Intellectual Property If we are not able to protect our proprietary
+technology, others could compete against us more directly, which would harm our business. Our commercial success will depend, in part,
+on our ability to obtain additional patents and licenses and protect our existing patent position, both in the United States and
+in other countries. Our ability to preserve our trade secrets and other intellectual property is also important to our long-term
+success. If we do not adequately protect our intellectual property, competitors may be able to use our technologies and erode or
+negate any competitive advantage we may have, which could harm our business and ability to maintain profitability. Patents may
+also issue to third parties which could interfere with our ability to bring our molecular diagnostic tests to market. The laws
+of some foreign countries do not protect our proprietary rights to the same extent as U.S. laws, and we may encounter significant
+problems in protecting our proprietary rights in these countries. The patent positions of diagnostic companies,
+including our patent position, are generally highly uncertain and involve complex legal and factual questions, and, therefore,
+any patents issued to us may be challenged, deemed unenforceable, invalidated or circumvented. We will be able to protect our proprietary
+rights from unauthorized use by third parties only to the extent that our proprietary technologies and any future tests are covered
+by valid and enforceable patents or are effectively maintained as trade secrets. Our patent applications may never issue as patents,
+and the claims of any issued patents may not afford meaningful protection for our technology or tests. In addition, any patents
+issued to us or our licensors may be challenged, and subsequently narrowed, invalidated or circumvented. 27 Where necessary, we may initiate litigation
+to enforce our patent or other intellectual property rights. Any such litigation may require us to spend a substantial amount of
+time and money and could distract management from our day-to-day operations. Moreover, there is no assurance that we will be successful
+in any such litigation. The degree of future protection for our proprietary rights is uncertain,
+and we cannot ensure that: · we or our licensors were the first to make the inventions covered by each of our patent applications; · we or our licensors were the first to file patent applications for these inventions; · others will not independently develop similar or alternative technologies or duplicate any of our technologies; · any of our or our licensors’ patent applications will result in issued patents; · any of our or our licensors’ patents will be valid or enforceable; · any patents issued to us or our licensors and collaborators will provide a basis for commercially viable tests, will provide us with any competitive advantages or will not be challenged by third parties; · we will develop additional proprietary technologies or tests that are patentable; · the patents of others will not have an adverse effect on our business; or · our patents or patents that we license from others will survive legal challenges, and remain valid and enforceable. If a third party files a patent application
+with claims to a biomarker we have discovered, the PTO may declare interference between competing patent applications. If an interference
+is declared, we may not prevail in the interference. If the other party prevails in the interference, we may be precluded from
+commercializing services or tests based on the biomarker or may be required to seek a license. A license may not be available to
+us on commercially acceptable terms, if at all. We also rely upon unpatented proprietary technologies.
+Although we require employees, consultants and collaborators to sign confidentiality agreements, we may not be able to adequately
+protect our rights in such unpatented proprietary technologies, which could have a material adverse effect on our business. For
+example, others may independently develop substantially equivalent proprietary information or techniques or otherwise gain access
+to our proprietary technologies or disclose our technologies to our competitors. If we were sued for patent infringement by third parties,
+we might incur significant costs and delays in test introduction. Our tests may also conflict with patents that
+have been or may be granted to others. Our industry includes many organizations that have or are seeking to discern biomarkers
+and develop genomic, proteomic and other technologies. To the extent any patents are issued or have been issued to those organizations,
+the risk increases that the sale of our molecular diagnostic and companion diagnostic tests currently being marketed or under development
+may give rise to claims of patent infringement. Others may have filed and in the future are likely to file patent applications
+covering biomarkers that are similar or identical to our tests. Any of these patent applications may have priority over our patent
+applications and these entities or persons could bring legal proceedings against us seeking damages or seeking to enjoin us from
+testing or marketing our tests. Patent litigation is costly, and even if we prevail, the cost of such litigation could have a material
+adverse effect on us. If the other parties in any such actions are successful, in addition to any liability for damages, we could
+be required to cease the infringing activity or obtain a license. Any license required may not be available to us on commercially
+acceptable terms, if at all. Our failure to obtain a license to any technology that we may require to commercialize our tests could
+have a material adverse effect on our business. We believe that there may be significant litigation in the industry regarding patent
+and other intellectual property rights. If we become involved in this litigation, it could consume a substantial portion of our
+managerial and financial resources. We may be unable to adequately prevent disclosure of trade
+secrets, proprietary databases, and other proprietary information. We rely on trade secrets to protect our proprietary
+technologies and databases, especially where we do not believe patent protection is appropriate or obtainable. However, trade secrets
+are difficult to protect. We rely in part on confidentiality agreements with our employees, consultants, outside scientific collaborators,
+sponsored researchers and others to protect our trade secrets and other proprietary information. These agreements may not effectively
+prevent disclosure of confidential information and may not provide an adequate remedy if unauthorized disclosure of confidential
+information occurs. In addition, others may independently discover our trade secrets and proprietary information. Costly and time-consuming
+litigation could be necessary to enforce and determine the scope of our proprietary rights, and failure to obtain or maintain trade
+secret protection could adversely affect our competitive position. 28 If we fail to comply with our obligations
+under license or technology agreements with third parties, we could lose license rights that are critical to our business. We license intellectual property that is critical
+to our business, including licenses underlying the technology in our molecular diagnostic and pharmaceutical and clinical services,
+and in the future we may enter into additional agreements that provide us with licenses to valuable intellectual property or technology.
+These licenses impose various royalty payments, milestones, and other obligations on us. If we fail to comply with any of these
+obligations, the licensor may have the right to terminate the license. Termination by the licensor would cause us to lose valuable
+rights, and could prevent us from distributing our current tests, or inhibit our ability to commercialize future test candidates.
+Our business would suffer if any current or future licenses terminate, if the licensors fail to abide by the terms of the license,
+if the licensors fail to prevent infringement by third parties, if the licensed patents or other rights are found to be invalid
+or unenforceable, or if we are unable to enter into necessary licenses on acceptable terms. We may be subject to claims that we or
+our employees have wrongfully used or disclosed alleged trade secrets of their former employers. As is commonplace in our industry, we employ
+individuals who were previously employed at other biotechnology or pharmaceutical companies, including our potential competitors.
+Although no claims against us are currently pending, we may be subject to claims that these employees have inadvertently or otherwise
+used or disclosed trade secrets or other proprietary information of their former employers. Litigation may be necessary to defend
+against these claims. Even if we are successful in defending against these claims, litigation could result in substantial costs
+and be a distraction to management. Risks Related to Government Regulation If we fail to comply with the complex
+federal, state, local and foreign laws and regulations that apply to our business, we could suffer severe consequences that could
+materially and adversely affect our operating results and financial condition. Our operations are subject to extensive federal,
+state, local and foreign laws and regulations, all of which are subject to change. These laws and regulations currently include,
+among other things: · CLIA, which requires that laboratories obtain certification from the federal government; · FDA laws and regulations; · HIPAA, which established comprehensive federal standards with respect to the privacy and security of protected health information and requirements for the use of certain standardized electronic transactions; amendments to HIPAA under the Health Information Technology for Economic and Clinical Health Act, or HITECH, which strengthen and expand HIPAA privacy and security compliance requirements, increase penalties for violators, extend enforcement authority to state attorneys general and impose requirements for breach notification; · state laws regulating genetic testing and protecting the privacy of genetic test results, as well as state laws protecting the privacy and security of health information and personal data and mandating reporting of breaches to affected individuals and state regulators; · the federal anti-kickback law, or the Anti-Kickback Statute, which prohibits knowingly and willfully offering, paying, soliciting, receiving, or providing remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual, or the furnishing, arranging for, or recommending of an item or service that is reimbursable, in whole or in part, by a federal health care program; · the federal False Claims Act, which imposes liability on any person or entity that, among other things, knowingly presents, or causes to be presented, a false or fraudulent claim for payment to the federal government; · the federal Civil Monetary Penalties Law, which prohibits, among other things, the offering or transfer of remuneration to a Medicare or state health care program beneficiary if the person knows or should know it is likely to influence the beneficiary’s selection of a particular provider, practitioner, or supplier of services reimbursable by Medicare or a state health care program, unless an exception applies; · other federal and state fraud and abuse laws, such as anti-kickback laws, prohibitions on self-referral, and false claims acts, which may extend to services reimbursable by any third-party payor, including private insurers; and · similar foreign laws and regulations that apply to us in the countries in which we operate. 29 These laws and regulations are complex and
+are subject to interpretation by the courts and by government agencies. Our failure to comply could lead to civil or criminal penalties,
+exclusion from participation in government health care programs, or prohibitions or restrictions on our laboratories’ ability
+to provide services. We believe that we are in material compliance with all statutory and regulatory requirements, but there is
+a risk that one or more government agencies could take a contrary position, or that a private party could file suit under the qui
+tam provisions of the federal False Claims Act or a similar state law. Such occurrences, regardless of their outcome, could damage
+our reputation and adversely affect important business relationships with third parties, including managed care organizations,
+and other private third-party payors. Failure to comply with government laws
+and regulations related to submission of claims for our services could result in significant monetary damages and penalties and
+exclusion from the Medicare and Medicaid programs and corresponding foreign reimbursement programs. We are subject to laws and regulations governing
+the submission of claims for payment for our services, such as those relating to: coverage of our services under Medicare, Medicaid
+and other state, federal and foreign health care programs; the amounts that we may bill for our services; and the party to which
+we must submit claims. Our failure to comply with applicable laws and regulations could result in our inability to receive payment
+for our services or in attempts by government healthcare programs, such as Medicare and Medicaid, to recover payments already made.
+Submission of claims in violation of these laws and regulations can result in recoupment of payments already received, substantial
+civil monetary penalties, and exclusion from government health care programs, and can subject us to liability under the federal
+False Claims Act and similar laws. The failure to report and return an overpayment to the Medicare or Medicaid program within 60
+days of identifying its existence can give rise to liability under the False Claims Act. Further, a government agency could attempt
+to hold us liable for causing the improper submission of claims by another entity for services that we performed if we were found
+to have knowingly participated in the arrangement at issue. Our business could be harmed by the loss,
+suspension, or other restriction on a license, certification, or accreditation, or by the imposition of a fine or penalties, under
+CLIA, its implementing regulations, or other state, federal and foreign laws and regulations affecting licensure or certification,
+or by future changes in these laws or regulations. The diagnostic testing industry is subject
+to extensive laws and regulations, many of which have not been interpreted by the courts. CLIA requires virtually all laboratories
+to be certified by the federal government and mandates compliance with various operational, personnel, facilities administration,
+quality and proficiency testing requirements intended to ensure that testing services are accurate, reliable and timely. CLIA certification
+is also a prerequisite to be eligible to bill state and federal health care programs, as well as many private third-party payors,
+for laboratory testing services. As a condition of CLIA certification, each of our laboratories is subject to survey and inspection
+every other year, in addition to being subject to additional random inspections. The biennial survey is conducted by CMS; a CMS
+agent (typically a state agency); or, if the laboratory holds a CLIA certificate of accreditation, a CMS-approved accreditation
+organization. Sanction for failure to comply with CLIA requirements, including proficiency testing violations, may be suspension,
+revocation, or limitation of a laboratory’s CLIA certificate, which is necessary to conduct business, as well as the imposition
+of significant fines or criminal penalties. In addition, we are subject to regulation under state laws and regulations governing
+laboratory licensure. Some states have enacted state licensure laws that are more stringent than CLIA. We are also subject to laws
+and regulations governing our reference laboratory in Germany. Changes in state or foreign licensure laws that affect our ability
+to offer and provide diagnostic services across state or foreign country lines could materially and adversely affect our business.
+In addition, state and foreign requirements for laboratory certification may be costly or difficult to meet and could affect our
+ability to receive specimens from certain states or foreign countries. Any sanction imposed under CLIA, its implementing
+regulations, or state or foreign laws or regulations governing licensure, or our failure to renew a CLIA certificate, a state or
+foreign license, or accreditation, could have a material adverse effect on our business. If the CLIA certificate of any one of
+our laboratories is revoked, CMS could seek revocation of the CLIA certificates of our other laboratories based on their common
+ownership or operation, even though they are separately certified. Changes in the way that the FDA regulates
+tests performed by laboratories like ours could result in delay or additional expense in offering our tests and tests that we may
+develop in the future. While the FDA does not currently regulate the
+activities or tests performed by laboratories like our clinical laboratories, the FDA has stated that it has the right to do so
+If pre-market review is required, our business could be negatively impacted if we are required to stop selling molecular diagnostic
+tests pending their clearance or approval or the launch of any new tests that we develop could be delayed by new requirements. 30 Companion diagnostic tests require FDA
+approval and we may not be able to secure such approval in a timely manner or at all. Our companion diagnostic products, marketing,
+sales and development activities and manufacturing processes are subject to extensive and rigorous regulation by the FDA pursuant
+to the Federal Food, Drug, and Cosmetic Act (FDC Act), by comparable agencies in foreign countries, and by other regulatory agencies
+and governing bodies. Under the FDC Act, companion diagnostics must receive FDA clearance or approval before they can be commercially
+marketed in the U.S. The process of obtaining marketing approval or clearance from the FDA or by comparable agencies in foreign
+countries for new products could: · take a significant period of time; · require the expenditure of substantial resources: · involve rigorous pre-clinical testing, as well as increased post-market surveillance: · require changes to products; and · result in limitations on the indicated uses of products. If the government and third-party payors
+fail to provide coverage and adequate payment for our tests and future tests, if any, our revenue and prospects for profitability
+will be harmed. In both domestic and foreign markets, sales
+of our molecular diagnostic tests or any future diagnostic tests will depend in large part, upon the availability of reimbursement
+from third-party payors. Such third-party payors include government healthcare programs such as Medicare, managed care providers,
+private health insurers and other organizations. These third-party payors are increasingly attempting to contain healthcare costs
+by demanding price discounts or rebates and limiting both coverage on which diagnostic tests they will pay for and the amounts
+that they will pay for new molecular diagnostic tests. We have recently experienced price reductions from CMS for some of our products
+and may experience future price reductions from managed care organizations and other third-party payors. The fact that a diagnostic
+test has been approved for reimbursement in the past, for any particular indication or in any particular jurisdiction, does not
+guarantee that such a diagnostic test will remain approved for reimbursement or that similar or additional diagnostic tests will
+be approved in the future. As a result, third-party payors may not cover or provide adequate payment for our current or future
+molecular diagnostic tests. Adequate third-party reimbursement might not be available to enable us to maintain price levels sufficient
+to realize an appropriate return on investment in product development. U.S. and foreign governments continue to propose
+and pass legislation designed to reduce the cost of healthcare. For example, in some foreign markets, the government controls the
+pricing of many healthcare products. We expect that there will continue to be federal and state proposals to implement governmental
+controls or impose healthcare requirements. In addition, the Medicare program and increasing emphasis on managed care in the United
+States will continue to put pressure on product pricing. Cost control initiatives could decrease the price that we would receive
+for any tests in the future, which would limit our revenue and profitability. Our business could be adversely impacted by the adoption of
+the ICD-10-CM Code Set. CMS has adopted a new coding set for diagnoses,
+commonly known as ICD-10-CM, which significantly expands the current coding set. ICD-10-CM is currently required to be used on
+all claims with dates of service on or after October 1, 2014. We may be required to incur significant expense in implementing
+ICD-10-CM, and, if we do not adequately implement it, our business could be adversely impacted. In addition, if as a result of
+the new coding set, physicians fail to provide appropriate codes for desired tests, we may not be reimbursed for tests we perform. Risks Related to Our common stock We lack an established trading market
+for our common stock, and you may be unable to sell your common stock at attractive prices or at all. There is currently a limited
+trading market for our common stock in the OTCQB under the symbol "OREO." There can be no assurances given that an established
+public market will be obtained for our common stock or that any public market will last. As a result, we cannot assure you that
+you will be able to sell your common stock at attractive prices or at all. 31 The market price for our common stock
+may be highly volatile. The market price for our
+common stock may be highly volatile. A variety of factors may have a significant impact on the market price of our common stock,
+including: · the publication of earnings estimates or other research reports and speculation in the press or investment community; · changes in our industry and competitors; · our financial condition, results of operations and prospects; · any future issuances of our common stock, which may include primary offerings for cash, and the grant or exercise of stock options from time to time; · general market and economic conditions; and · any outbreak or escalation of hostilities, which could cause a recession or downturn in our economy. We may be subject to shareholder litigation,
+thereby diverting our resources that may have a material effect on our profitability and results of operations. As discussed in the preceding
+risk factors, the market for our common shares is characterized by significant price volatility when compared to seasoned issuers,
+and we expect that our share price will continue to be more volatile than a seasoned issuer for the indefinite future. In
+the past, plaintiffs have often initiated securities class action litigation against a company following periods of volatility
+in the market price of its securities. We may become the target of similar litigation. Securities litigation will result
+in substantial costs and liabilities and will divert management’s attention and resources. Our future sales of common stock by management
+and other stockholders may have an adverse effect on the then prevailing market price of our common stock. In the event a public
+market for our common stock is sustained in the future, sales of our common stock may be made by holders of our public float or
+by holders of restricted securities in compliance with the provisions of Rule 144 of the Securities Act of 1933. In general, under
+Rule 144, a non-affiliated person who has satisfied a six-month holding period in a company registered under the Securities Exchange
+Act of 1934, as amended, may, sell their restricted common stock without volume limitation, so long as the issuer is current with
+all reports under the Exchange Act in order for there to be adequate common public information. Affiliated persons may also sell
+their common shares held for at least six months, but affiliated persons will be required to meet certain other requirements, including
+manner of sale, notice requirements and volume limitations. Non-affiliated persons who hold their common shares for at least one
+year will be able to sell their common stock without the need for there to be current public information in the hands of the public.
+Future sales of shares of our public float or by restricted common stock made in compliance with Rule 144 may have an adverse effect
+on the then prevailing market price, if any, of our common stock. Lack of Independent Directors. The Sarbanes-Oxley Act
+of 2002 requires us as a public corporation to have an audit committee composed solely of independent directors. Currently, we
+have no independent directors and lack an Audit Committee of the board of directors. Audit committee communications will have to
+go directly to board members and addressed with the board of directors. We can provide no assurances that we will be able to attract
+and maintain independent directors on our Board or form an Audit Committee in compliance with Sarbanes-Oxley. We do not expect to pay dividends in
+the foreseeable future. We do not anticipate paying
+cash dividends on our common stock in the foreseeable future. We may not have sufficient funds to legally pay dividends. Even if
+funds are legally available to pay dividends, we may nevertheless decide in our sole discretion not to pay dividends. The declaration,
+payment and amount of any future dividends will be made at the discretion of our board of directors, and will depend upon, among
+other things, the results of our operations, cash flows and financial condition, operating and capital requirements, and other
+factors our board of directors may consider relevant. There is no assurance that we will pay any dividends in the future, and,
+if dividends are paid, there is no assurance with respect to the amount of any such dividend. As a public company, we are subject to
+complex legal and accounting requirements that will require us to incur significant expenses and will expose us to risk of non-compliance. As a public company, we
+are subject to numerous legal and accounting requirements that do not apply to private companies. The cost of compliance with many
+of these requirements is material, not only in absolute terms but, more importantly, in relation to the overall scope of the operations
+of a small company. Our relative inexperience with these requirements may increase the cost of compliance and may also increase
+the risk that we will fail to comply. Failure to comply with these requirements can have numerous adverse consequences including,
+but not limited to, our inability to file required periodic reports on a timely basis, loss of market confidence and/or governmental
+or private actions against us. We cannot assure you that we will be able to comply with all of these requirements or that the cost
+of such compliance will not prove to be a substantial competitive disadvantage vis-à-vis our privately held and larger public
+competitors. Compliance with changing regulation of
+corporate governance and public disclosure will result in additional expenses and pose challenges for our management. Changing laws, regulations
+and standards relating to corporate governance and public disclosure, including the Dodd-Frank Wall Street Reform and Consumer
+Protection Act, and the rules and regulations promulgated thereunder, the Sarbanes-Oxley Act and SEC regulations, have created
+uncertainty for public companies and significantly increased the costs and risks associated with accessing the U.S. public markets. Our management team will need to devote significant time and financial resources to comply with both existing and evolving
+standards for public companies, which will lead to increased general and administrative expenses and a diversion of management
+time and attention from revenue generating activities to compliance activities. 32 We are subject to penny stock regulations
+and restrictions and you may have difficulty selling shares of our common stock. Our common stock is subject
+to the provisions of Section 15(g) and Rule 15g-9 of the Securities Exchange Act of 1934 (the “Exchange Act”), commonly
+referred to as the “penny stock rule.” Section 15(g) sets forth certain requirements for transactions in penny stock,
+and Rule 15g-9(d) incorporates the definition of “penny stock” that is found in Rule 3a51-1 of the Exchange Act. The
+SEC generally defines a penny stock to be any equity security that has a market price less than $5.00 per share, subject to certain
+exceptions. We are subject to the SEC’s penny stock rules. Since our common stock
+is deemed to be penny stock, trading in the shares of our common stock is subject to additional sales practice requirements on
+broker-dealers who sell penny stock to persons other than established customers and accredited investors. “Accredited investors”
+are persons with assets in excess of $1,000,000 (excluding the value of such person’s primary residence) or annual income
+exceeding $200,000 or $300,000 together with their spouse. For transactions covered by these rules, broker-dealers must make a
+special suitability determination for the purchase of such security and must have the purchaser’s written consent to the
+transaction prior to the purchase. Additionally, for any transaction involving a penny stock, unless exempt the rules require the
+delivery, prior to the first transaction of a risk disclosure document, prepared by the SEC, relating to the penny stock market.
+A broker-dealer also must disclose the commissions payable to both the broker-dealer and the registered representative and current
+quotations for the securities. Finally, monthly statements must be sent disclosing recent price information for the penny stocks
+held in an account and information to the limited market in penny stocks. Consequently, these rules may restrict the ability of
+broker-dealer to trade and/or maintain a market in our common stock and may affect the ability of our stockholders to sell their
+shares of common stock. There can be no assurance
+that our shares of common stock will qualify for exemption from the Penny Stock Rule. In any event, even if our common stock was
+exempt from the Penny Stock Rule, we would remain subject to Section 15(b)(6) of the Exchange Act, which gives the SEC the authority
+to restrict any person from participating in a distribution of penny stock if the SEC finds that such a restriction would be in
+the public interest. While we currently qualify as an “emerging
+growth company” under the Jumpstart of Business Startups Act of 2012, or the JOBS Act, when we lose that status the costs
+and demands placed upon our management will increase. Once we become a publicly
+reporting company, we will continue to be deemed an emerging growth company until the earliest of (i) the last day of the fiscal
+year during which we had total annual gross revenues of $1 billion (as indexed for inflation); (ii) the last day of the fiscal
+year following the fifth anniversary of the date of the first sale of common stock under this registration statement; (iii) the
+date on which we have, during the previous 3-year period, issued more than $1 billion in non-convertible debt; or (iv) the date
+on which we are deemed to be a “large accelerated filer, ” as defined by the Securities and Exchange Commission, which
+would generally occur upon our attaining a public float of at least $700 million. Once we lose emerging growth company status,
+we expect the costs and demands placed upon our management to increase, as we would have to comply with additional disclosure and
+accounting requirements, particularly if we would also no qualify as a smaller reporting company. We are an “emerging growth company”
+and we cannot be certain that the reduced disclosure requirements applicable to emerging growth companies will make our common
+stock less attractive to investors. The JOBS Act permits “emerging
+growth companies” like us, upon becoming a publicly-reporting company, to rely on some of the reduced disclosure requirements
+that are already available to smaller reporting companies. As long as we qualify as an emerging growth company or a smaller reporting
+company, we would be permitted to omit the auditor’s attestation on internal control over financial reporting that would
+otherwise be required by the Sarbanes-Oxley Act, as described above, and are also exempt from the requirement to submit “say-on-pay”,
+“say-on-pay frequency” and “say-on-parachute” votes to our stockholders and may avail ourselves of reduced
+executive compensation disclosure that is already available to smaller reporting companies. In addition, Section 107
+of the JOBS Act also provides that an emerging growth company can take advantage of the exemption from complying with new or revised
+accounting standards provided in Section 7(a)(2)(B) of the Securities Act of 1933, as amended, as long as we are an emerging growth
+company. An emerging growth company can therefore delay the adoption of certain accounting standards until those standards would
+otherwise apply to private companies. We intend to take advantage of the benefits of this until we are no longer an emerging growth
+company or until we affirmatively and irrevocably opt out of this exemption. Our financial statements may therefore not be comparable
+to those of companies that comply with such new or revised accounting standards. We will cease to be an
+emerging growth company at such time as described in the risk factor immediately above. Until such time, however, we cannot predict
+if investors will find our common stock less attractive because we may rely on these exemptions. If some investors find our common
+stock less attractive as a result, there may be a less active trading market for our common stock and our stock price may be more
+volatile and could cause our stock price to decline. 33 Our common stock is subject to price
+volatility unrelated to our operations. The market price of our
+common stock could fluctuate substantially due to a variety of factors, including market perception of our ability to achieve our
+planned growth, quarterly operating results of other companies in the same industry, trading volume in our common stock, changes
+in general conditions in the economy and the financial markets or other developments affecting our competitors or ourselves. In
+addition, the OTCQB is subject to extreme price and volume fluctuations in general. This volatility has had a significant effect
+on the market price of securities issued by many companies for reasons unrelated to their operating performance and could have
+the same effect on our common stock. Trading in our common stock on the OTC
+Markets is limited and sporadic making it difficult for our shareholders to sell their shares or liquidate their investments. Trading in our common
+stock is currently published on the OTC Markets. The trading price of our common stock has been subject to wide fluctuations. Trading
+prices of our common stock may fluctuate in response to a number of factors, many of which will be beyond our control. The stock
+market has generally experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the
+operating performance of companies with no current business operation. There can be no assurance that trading prices and price
+earnings ratios previously experienced by our common stock will be matched or maintained. These broad market and industry factors
+may adversely affect the market price of our common stock, regardless of our operating performance. In the past, following periods
+of volatility in the market price of a company's securities, securities class-action litigation has often been instituted. Such
+litigation, if instituted, could result in substantial costs for us and a diversion of management's attention and resources. 

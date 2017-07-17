@@ -1,0 +1,1399 @@
+0001554795-15-000045.txt : 20150213 0001554795-15-000045.hdr.sgml : 20150213 20150213173008
+ACCESSION NUMBER: 0001554795-15-000045
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT: 8
+CONFORMED PERIOD OF REPORT:	20141031
+FILED AS OF DATE: 20150213
+DATE AS OF CHANGE: 20150213 FILER: COMPANY DATA: COMPANY CONFORMED NAME: 3DX Industries, Inc. CENTRAL INDEX KEY: 0001453122 STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040] IRS NUMBER: 000000000 STATE OF INCORPORATION: NV FISCAL YEAR END: 1031 FILING VALUES: FORM TYPE: 10-K SEC ACT: 1934 Act SEC FILE NUMBER:	333-156594 FILM NUMBER: 15616522 BUSINESS ADDRESS: STREET 1: 6920 SALASHAN PARKWAY, BUILDING D-100 CITY: FERNDALE STATE: WA ZIP: 98248 BUSINESS PHONE: 949-682-7889 MAIL ADDRESS: STREET 1: 6920 SALASHAN PARKWAY, BUILDING D-100 CITY: FERNDALE STATE: WA ZIP: 98248 FORMER COMPANY: FORMER CONFORMED NAME:	Amarok Resources, Inc. DATE OF NAME CHANGE:	20100319 FORMER COMPANY: FORMER CONFORMED NAME:	Ukragro Corp DATE OF NAME CHANGE:	20090105 10-K 1 dddx0213form10k.htm FORM 10-K UNITED STATES SECURITIES
+AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM
+10-K ☑ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended
+October 31, 2014 ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period
+from _____ to _____. 3DX Industries, Inc. (Exact name of small business
+issuer as specified in its charter) Nevada 333-156594 46-4485465 (State or other jurisdiction (Commission File Number) (IRS Employer of Incorporation) Identification Number) 6920 Salashan Parkway, Suite D-101 Ferndale, WA 98248 (Address of principal executive offices) 360-244-4339 (Registrant’s Telephone Number) Securities registered pursuant
+to Section 12(b) of the Exchange Act: None Securities registered pursuant
+to Section 12(g) of the Exchange Act: Common Stock, $0.001
+par value Indicate by check mark if the registrant is
+a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☑ Indicate by check mark if the registrant is
+not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☑ Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days. Yes ☑ No ☐ Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes ☐ No ☑ Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K. ☐ Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of
+"large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the
+Exchange Act. Large accelerated filer ☐ Accelerated filer ☐ Non-accelerated filer ☐ Smaller Reporting Company ☑ Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☑ The aggregate market value of the voting and
+non-voting common equity held by non-affiliates of the registrant was $ 6,026,185.20 ,
+based upon the price ($1.40) at which the common stock was last sold as of April 30, 2014, the last business day of the registrant’s
+most recently completed second fiscal quarter, multiplied by the approximate number of shares of common stock held by persons other
+than executive officers, directors and five percent stockholders of the registrant without conceding that any such person is an
+“affiliate” of the registrant for purposes of the federal securities laws. As of February 13, 2015, there were 37,462,000 shares of the registrant’s
+$0.001 par value common stock issued and outstanding. Documents Incorporated By Reference: None 3DX INDUSTRIES, INC. TABLE OF CONTENTS Page No. PART I Item 1. Business 3 Item 1A. Risk Factors 5 Item 1B. Unresolved Staff Comments 5 Item 2. Properties 6 Item 3. Legal Proceedings 7 Item 4. Mine Safety Disclosures 7 PART II Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 7 Item 6. Selected Financial Data 8 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 8 Item 7A. Quantitative and Qualitative Disclosures About Market Risk 11 Item 8. Financial Statements and Supplementary Data 12 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 26 Item 9A. Controls and Procedures 26 Item 9B. Other Information 27 PART III Item 10. Directors, Executive Officers and Corporate Governance 28 Item 11. Executive Compensation 31 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 32 Item 13. Certain Relationships and Related Transactions, and Director Independence 33 Item 14. Principal Accounting Fees and Services 34 PART IV Item 15. Exhibits and Financial Statement Schedules 35 Signatures 36 FORWARD-LOOKING STATEMENTS This
+Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933,
+as amended (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”). These forward-looking statements are not historical facts but rather are based on current expectations, estimates
+and projections. We may use words such as “anticipate,” “expect,” “intend,” “plan,”
+“believe,” “foresee,” “estimate” and variations of these words and similar expressions to identify
+forward-looking statements. These statements are not guarantees of future performance and are subject to certain risks, uncertainties
+and other factors, some of which are beyond our control, are difficult to predict and could cause actual results to differ materially
+from those expressed or forecasted. These risks and uncertainties include the following: · The availability and adequacy of our cash flow to meet our requirements; · Economic, competitive, demographic, business and other conditions
+in our local and regional markets; · Changes or developments in laws, regulations or taxes in our industry; · Actions taken or omitted to be taken by third parties including
+our suppliers and competitors, as well as legislative, regulatory, judicial and other governmental authorities; · Competition in our industry; · The loss of or failure to obtain any license or permit necessary
+or desirable in the operation of our business; · Changes in our business strategy, capital improvements or development
+plans; · The availability of additional capital to support capital improvements
+and development; and · Other risks identified in this report and in our other filings
+with the Securities and Exchange Commission or the SEC. This report should be read completely and
+with the understanding that actual future results may be materially different from what we expect. The forward looking statements
+included in this report are made as of the date of this report and should be evaluated with consideration of any changes occurring
+after the date of this Report. We will not update forward-looking statements even though our situation may change in the future
+and we assume no obligation to update any forward-looking statements, whether as a result of new information, future events or
+otherwise. Use of Term Except as otherwise indicated
+by the context, references in this report to “Company”, “DDDX” , “we”, “us”
+and “our” are references to 3DX Industries, Inc. All references to “USD” or United States
+Dollars refer to the legal currency of the United States of America. ITEM 1. BUSINESS Corporate Background 3DX Industries, Inc. (the
+“Company”) was incorporated in the state of Nevada on October 23, 2008 under the name Ukragro Corporation. The Company’s
+principal activity is manufacturing and is located near Bellingham WA, USA. The Company manufactures consumer and corporate products
+using an additive manufacturing method through 3D Metal printing technology and conventional precision manufacturing processes. On January 29, 2010, the
+Company filed an amendment to its articles of incorporation changing its name to Amarok Resources, Inc. In the same amendment,
+the Company changed its authorized capital to 175,000,000 shares of common stock at a restated par value of $.001. On November 18, 2013, the
+Company filed a Certificate of Amendment to its Articles of Incorporation (the “Amendment”) with the Secretary of State
+of Nevada. As a result of the Amendment, the Company (1) has changed its name with the State of Nevada from Amarok Resources,
+Inc. to 3DX Industries, Inc. and (2) increased its authorized capital to 185,000,000 shares, consisting of 175,000,000 shares of
+Common Stock, par value $0.001 per share and 10,000,000 shares of preferred stock, par value $0.001 per share. The Company’s
+name change was declared effective by FINRA on November 22, 2013. Additionally, the Company changed its symbol from “AMOK”
+to “DDDX;” the symbol change was declared effective by FINRA on December 23, 2013. In addition, the Company’s
+Board of Directors authorized a 50:1 reverse stock split. All references to shares outstanding in this filing have been restated
+to reflect the indicated reverse stock split. Business Summary 3DX Industries, Inc. is
+a public company trading on the OTCQB market under the symbol DDDX. The Company was previously traded under the symbol “AMOK”
+and was engaged in the acquisition, exploration and development of mineral properties on an international scale for future commercial
+development and production. The Company focused primarily on projects with Gold, Silver and base metal potential. Due to a downturn
+in the resource and exploration sector, the Company decided that a new business focus would be beneficial and changed its name
+to 3DX Industries, Inc., effective November 22, 2013. 3DX Industries, Inc.’s new business focus is in the manufacturing sector
+through additive manufacturing and precision machining including 3D Metal printing. On December 18, 2013, the Company entered into
+an Equipment Purchase Agreement with Roger Janssen pursuant to which the Company purchased certain assets of Key Manufacturing
+(Key), a precision manufacturing company with over 30 years in the industry. As of October 31, 2014, the Company has not yet generated
+revenues from operations. The Company’s manufacturing
+services will include additive manufacturing through its 3D Metal Printing and Composite Printing Systems, and more traditional
+manufacturing methods using CNC precision machining processes. 3DX uses a binder jet additive manufacturing system for 3D Metal
+printing. The 3D Metal printing process materializes an object—or mold for an object—layer by layer out of powdered
+material, a chemical binder and a digital file. The process of metal printing allows for the creation, or materialization of Complex
+internal geometries, undercuts, angled passages and multi-piece assemblies with accuracy and less waste/environmental impact. The
+3D Printing Process is highly accurate and capable of printing complex geometric parts. 3 The Company uses a Composite
+printing system for its plastic parts and for some initial prototype work to give clients the look and feel of the finished part
+or object prior to final production. 3DX also has a fully operational CNC machine shop in house consisting of fifteen various CNC
+machining centers including four fanuc robo-drills and numerous additional support equipment. Having a precision machining center
+under the same roof as our additive manufacturing systems allows for the complete one stop shop advantage we offer to our customers.
+3DX will continually seek to expand the range of size and geometric complexity of the parts we can make using these processes The
+Company will continue to expand the variety of materials we are able to support and to identify additional manufacturing processes
+to which we can apply using the latest technology in order to better serve our client base. We have the ability to
+serve product developers worldwide who bring new ideas to market in the form of products, industrial and consumer, containing one
+or more custom parts and components. Many of these product developers use 3D CAD software to create digital models representing
+their custom part designs that are then used to create physical parts for prototyping, functional testing, market evaluation and/or
+production. Custom prototype parts play a critical role in the product development process, as they provide product developers
+with the ability to confirm their intended performance requirements and explore design alternatives. Additive manufacturing
+processes such as 3D Metal Printing and 3D Composite Printing can be used to quickly and efficiently produce a physical representation
+of a part or product. As technology in this area continues to evolve these parts are becoming more accurate and in many instances
+are able to meet the product developers’ requirements for dimensional accuracy, cosmetics and material properties. There
+are instances where the use of more traditional manufacturing processes is required such as CNC Precision machining, in order to
+finalize the proto-type or production part. As a supplement to additive manufacturing, our CNC machining facility can be used to
+produce extreme precision, high-quality custom parts in metal or plastic. Initial functional testing, market evaluation and production
+run tests are typically manufactured using our 3D Composite Printing System. With the advancement of technology in the additive
+manufacturing arena, 3D Metal Printing and Composite Printing can yield a part with the look, feel and performance of the finished
+product. The ability to meet our
+clients’ needs both in the additive manufacturing sector and in the traditional precision machining arena will make 3DX Industries
+a leader in the manufacturing market. Having both processes in house is a significant time and cost saving advantage for 3DX’s
+clients and will allow 3DX to integrate seamlessly into the metal printing market. 3DX is in a position to provide 3D Metal Printing,
+3D Composite Printing, Precision Tooling, 3D Rapid Proto-Typing, CNC Milling, Large Capacity Milling and Injection Mold Tooling. Competition We
+compete in a marketplace that is still primarily using conventional methods of product-making and prototype development and the
+market is currently limited to major manufacturing corporations mainly for in house product development. Our Company focus
+is on the design and manufacture of industrial and consumer products using both 3D metal printing technology and conventional precision
+machining. This is a massive market covering a range of industries from aviation, automotive, military and medical to consumer
+products, such as Jewelry and Fashion, as well as technology proto-type products and equipment. Using 3D metal printing technology,
+3DX will have the capability to provide products and services to anyone requiring a manufactured part. We
+believe that we have competitive strengths that position us favorably and will enable us to become a leader in our markets. We
+also believe that currently there are few “ job shop ” type manufacturers such as 3DX, capable of offering precision
+machining services, 3D Metal printing and 3D Composite printing. Having all of these manufacturing process’s under one roof,
+and the expertise to integrate these process’s we believe is an advantage to our customers and sets us apart from many of
+our competitors. However, our industry is evolving rapidly and other companies, including potentially larger and more established
+companies with developed technological capabilities, may begin to focus on our market. As reported by Grand View Research, “some
+key industry participants include Stratasys Inc., 3D Systems Corporation, Envisiontec GmbH, and Materialise NV. Intensifying competition
+is expected to result in lowered prices and increased shipments in the 3D printing market in the coming years. With products maturing
+rapidly, and iteratively enhancing technology reducing the gap between objects made using this form of printing and conventional
+methods, the market is expected to witness growing demand” through 2020. See generally Grand View Research, 3D Printing
+Market Analysis By Application (Automotive, Aerospace, Medical), By Raw Material (Polymers, Metals, Ceramic) And Segment Forecasts
+To 2020, published December 2013. These companies could more directly compete with us, along with our existing competitors,
+and both could also launch new products and services that we do not offer that may quickly gain market acceptance. Any of the foregoing
+could adversely affect our ability to attract customers. 4 Industry Trends 3D Metal Printing is quickly
+becoming known throughout the manufacturing industry as “cutting edge” as 3D printers can manufacture everything from
+toys to automotive parts. Not to be confused with 3D Plastic Printing, which has been around for some time, 3D Metal printing is
+a new and innovative method that will change the way products are currently manufactured. Manufacturing can be described
+as either additive or subtractive. Subtractive manufacturing, which includes milling and lathing, is comparable to sculpting wherein
+a manufacturer starts with a block of metal which is chipped and shaved away until a statue or engine part emerges. In comparison,
+additive manufacturing is conducted through the successive layering of materials, without the intervention of cutting, drilling,
+etc., which come together in order to make one metal piece. Additive manufacturing is a more efficient process that can be used
+to create designs that cannot be made using traditional techniques. This technology differs from mass production, which results
+in a large volume of identical parts at low cost. While the majority of the items produced using this process have been mock-ups
+and prototypes, producers are migrating towards manufacturing low-volume products to be used across various industries. The foremost
+advantage of this technology is the production of spare parts which cannot be easily obtained otherwise. 3D printing helps in the
+production of reliable products and lowers the need for iterative product development, thus decreasing the time-to-market of new
+products. Furthermore, the process alleviates the wastage of raw material as in the case of machining, since only the amount of
+material necessary for the part under printing is used.Although these techniques are in the process of change, much of manufacturing
+today still falls in the subtractive category. Government Regulation We
+are subject to various local, state and federal laws, regulations and agencies that affect businesses generally. These include,
+but are not limited to: · Regulations promulgated by federal and state environmental and health
+agencies; · The federal Occupational Safety and Health Administration; · The U.S. Foreign Corrupt Practices Act; · Laws pertaining to the hiring, treatment, safety and discharge of
+employees; Environmental Matters Compliance with federal,
+state and local laws and regulations relating to the discharge of materials into the environment or otherwise relating to the protection
+of the environment has not had a material impact on capital expenditures, earnings or the competitive position of the Company.
+We are not the subject of any legal or administrative proceeding relating to the environmental laws of the United States. We have
+not received any notices of any violations of any such environmental laws WHERE YOU CAN GET ADDITIONAL INFORMATION More information about
+the Company can be found on the Company’s website at www.3dxindustries.com . Additionally, we file annual, quarterly
+and current reports, proxy statements and other information with the SEC. You may read and copy our reports or other filings made
+with the SEC at the SEC’s Public Reference Room, located at 100 F Street, N.E., Washington, DC 20549. You can obtain information
+on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. You can also access these reports and other
+filings electronically on the SEC’s web site, www.sec.gov . ITEM 1 A. RISK FACTORS We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this
+item. ITEM 1B. UNRESOLVED STAFF COMMENTS None. 5 ITEM 2. PROPERTIES Our current business address
+is 6920 Salashan Pkwy Suite D101, Ferndale, WA 98248. Our telephone number is 360-244-4339. The space is approximately 8,588 square
+feet. We currently rent this space for approximately $4,502.00 per month. The lease terminates on February 29, 2016. It is our
+belief that the space is adequate for our immediate needs. Additional space may be required as we expand our operations. We do
+not foresee any significant difficulties in obtaining any required additional facilities. We do not presently own any real property. Rodeo Creek Project, Nevada On February 22, 2010, the
+Company entered into an agreement with Carlin Gold Resources, Inc., (“Carlin”) in which Carlin assigned the Company
+all of its rights, title, and interest in an exploration agreement between it and Trio. The assigned exploration agreement was
+dated January 28, 2010. On March 23, 2012, the Company and Trio entered into an agreement that modified certain terms of the original
+Agreement (the “Modified Agreement”). During the earn-in-period, the Company is to provide $5,500,000 in funding to
+cover operational costs. Under the original Agreement, $1,500,000 was to be funded during the 2010 budget year, $2,000,000 was
+to be funded during the 2011 budget year and $2,000,000 was to be funded during the 2012 budget year. The Modified Agreement eliminates
+the annual funding requirements and extends the due date of the $5,500,000 funding to December 31, 2013. Under the original Agreement,
+the Company was required to pay a minimum annual royalty during the earn-in period to Trio of which $75,000 was paid upon signing
+of the Agreement, $100,000 was paid on April 1, 2011 and $150,000 was to be paid on April 1, 2012. Under the Modified Agreement,
+the $150,000 payment due April 1, 2012 has been deferred and will be due and payable on or before April 1, 2013 and will be applied
+against the $5,500,000 funding. In consideration for modifying the terms of the original Agreement and extending the due date,
+the Company issued Trio 2,788 restated shares of its common shares valued at $11,152, which was charged to operations and included
+in exploratory costs. In addition, pursuant to
+the original agreement the Company is required to issue Trio shares of its common stock equaling 0.20% of its total issued and
+outstanding as of February 22, 2010. Upon expenditure of a minimum of $2,000,000 on the claims, Trio shall receive an additional
+0.10% of the Company’s issued and outstanding common shares. Upon expending a minimum of $4,000,000 on the claims, Trio shall
+receive an additional 0.10% of the Company’s issued and outstanding common shares. Upon expenditure of $5,500,000 on the
+claims, Trio shall receive a final 0.10% of the Company’s issued and outstanding common shares. All shares issued shall be
+restricted common shares and will be stamped with the applicable hold period. On February 22, 2010, the Company issued 2,884 restated
+shares of its common stock to Trio valued at $242,323, based upon the trading price of the shares on the date of issuance. On October
+25, 2011, the Company issued 1,442 shares of its common stock to Trio valued at $5,769, based upon the trading price of the shares
+on the date of issuance. On March 23, 2012, the Company issued 2,788 restated shares of its common stock to Trio valued at $11,152,
+based upon the trading price of the shares on the date of issuance. The values of the shares have been charged to operations and
+included in exploration costs. Once the Company has provided
+$5,500,000 in funding for the project, the Company and Trio shall fund the operational costs jointly, with the Company providing
+75% of the funds and Trio providing 25% of the funds. As of the date of this annual report, the Company funded a total of $2,400,000
+in the property’s operational costs as defined under the Modified Agreement. The funds paid have been charged to operations
+and included in exploratory costs. As it continues to be difficult to raise funds for exploration projects at this time, management
+is reviewing its commitment to Rodeo Creek and will be reviewing its options relating to continued involvement in this project. On February 13, 2013, the
+Company entered into an agreement with Trio to modify the terms of the above indicated final minimum royalty payment of $150,000,
+which was due on April 1, 2013. In exchange for paying $15,000 upon the signing of the agreement and $5,000 on August 1, 2013,
+the due date of the remaining $130,000 is extended to October 1, 2013, with the date when the full $5,500,000 must be spent on
+the Rodeo Claims is extended to December 31, 2014. Of the $20,000 that is due, $15,000 was paid on February 20, 2013 and $5,000
+was paid on March 15, 2013. The $20,000 was charged to exploratory costs. The Company failed to pay
+the required $130,000 that was due on October 1, 2013 and is in default under the agreement.. In December 2014, the Company
+notified Trio of its intent to terminate its agreement on the Rodeo Creek Property. The Company will have no further interest in
+this project. The Company has earned a 2% Net Smelter Royalty on the property and has granted Trio the exclusive right and option
+at any time to buy back 100% of the Royalty by paying to the Company a cash consideration of $3,000,000.00 (USD) (the “Buy
+Back Option”). The Buy Back Option may be exercised at any time in part by Trio paying $1,500,000.00 (USD) for each one percent
+(1%) of the Royalty purchased by Trio. McNeil Claims, Canada The McNeil property is
+located within the Abitibi Greenstone belt, approximately 30 miles southeast of Timmins, Ontario, Canada and approximately 35 miles
+west of Kirkland Lake, Ontario, Canada. On October 8, 2013, the Company entered into an agreement with Trio Gold Corp. to assign
+all of its claims to Trio subject to it spending a total of CDN $5mm on or before December 31, 2018. The agreement calls for an
+exploration expenditure of CDN $500,000 on or before December 31, 2015, a further CDN $2.0mm on or before December 31, 2017 and
+a final CDN $2.5mm on or before December 31, 2019. Once the $5mm is expended, the claims will be assigned to Trio, and in exchange,
+Trio will grant the Company a 5% Net Smelter Return on production. The NSR can be purchased from the Company by Trio for a total
+of CDN $2mm per each 1%, totaling CDN $10mm Night Hawk Property The
+Company had staked 35 claims on property adjacent to the McNeil known as the Night Hawk Property. The Night Hawk Claims border the McNeil claims to the west and consist of approximately 17,350 acres. The Company did not have
+sufficient funds to pay the fees required to renew the 35 claims and on October 8, 2013 it assigned its total interest in these
+claims to Trio in exchange for a 5% royalty on the net smelter returns generated from these claims. The Company granted Trio the
+option to purchase each 1% royalty interest for $2,000,000(CND). Trio was unable to raise sufficient funds for the development
+and required fee payments on the claims by November 2014 and as a result Trio has forfeited the claims resulting in a termination
+of the royalty option. The Company no longer has any interest in the claims. 6 Cueva Blanca Gold
+Property On April 16, 2010, the
+Company entered into an agreement with St. Elias Mines Ltd. (“St. Elias”) in which the Company was given an option
+to earn a 60% interest, subject to a 1.5% net smelter royalty (“NSR”) in the Cueva Blanca gold property (1,200 hectares)
+in Northern Peru, which is wholly owned by St. Elias. Under the terms of the letter agreement, it is possible for the Company to
+acquire a 60% interest in the Property (subject to a 1.5% NSR) in consideration of: (a) making cash payments of $200,000
+to St. Elias over a two-year period; (b) issuing 100,000 common shares
+in the capital of Amarok to St. Elias; and (c) incurring at least $1,500,000
+in exploration expenditures on the property over a three-year period. In addition, the Company
+shall have the right to purchase one-half of the 1.5% NSR from St. Elias for the sum of $1,500,000, thereby reducing the NSR payable
+to from 1.5% to 0.75%. The Company’s first
+payment of $10,000 was paid on June 24, 2010. On April 27, 2011, the agreement between St. Elias and Amarok was formally terminated
+by St. Elias. As of January 31, 2012, the Company paid a total of $27,603 in fees towards property maintenance costs on the Cueva
+Blanca property. The company has no further
+interest in this project. ITEM 3. LEGAL PROCEEDINGS We know of no material,
+existing or pending legal proceedings against our company, nor are we involved as a plaintiff in any material proceeding or pending
+litigation. There are no proceedings in which our director, officer or any affiliates, or any registered or beneficial shareholder,
+is an adverse party or has a material interest adverse to our interest. ITEM 4. MINE SAFETY DISCLOSURES Not Applicable. PART II ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS MARKET INFORMATION Our common stock has been
+quoted on the Over the Counter Bulletin Board (OTCQB) since March 6, 2009 under the symbol “UKRA”. Subsequently, the
+Company changed its name to Amarok Resources and was quoted under the symbol “AMOK” from February 23, 2010 until December
+23, 2013. On November 22, 2013, the Company’s name change from Amarok Resources, Inc. to 3DX Industries, Inc. became effective.
+Subsequently on December 23, 2013, the Company’s symbol changed from “AMOK” to “DDDX”. Because we
+are quoted on the OTCQB Bulletin Board, our common stock may be less liquid, receive less coverage by security analysts and news
+media, and generate lower prices than might otherwise be obtained if it were listed on a national securities exchange. The following table sets
+forth, for the fiscal quarters indicated, the high and low sales prices per share of our common stock, as derived from quotations
+provided by Yahoo Finance. Such quotations reflect inter-dealer prices, without retail mark-up, mark-down or commission, and may
+not represent actual transactions. BID PRICE PER SHARE (1) HIGH LOW First Quarter (Nov. 1, 2012-Jan. 31, 2013) $ 1.50 1.00 Second Quarter (Feb. 1, 2013-Apr. 30, 2013) $ 1.50 0.50 Third Quarter (May 1, 2013-Jul. 31, 2013) $ 1.00 0.50 Fourth Quarter (Aug. 1, 2013-Oct. 31, 2013) $ 0.50 0.50 First Quarter (Nov. 1, 2013-Jan. 31, 2014) $ 1.29 0.45 Second Quarter (Feb. 1, 2014-Apr. 30, 2014) $ 7.00 0.74 Third Quarter (May 1, 2014-Jul. 31, 2014) $ 1.82 0.34 Fourth Quarter (Aug. 1, 2014-Oct. 31, 2014) $ 1.18 0.34 (1) The historical bid price per share retroactively reflects the
+1 for 50 reverse split that was declared effective by FINRA on November 22, 2013. 7 Record Holders Total shares of common
+stock issued and outstanding as of the date February 13, 2015 was 37,462,000, held by approximately 59 shareholders of record based
+on information provided by our transfer agent. Recent Sales of Unregistered Securities; On November 23, 2013, Thirty
+Million (30,000,000) shares of restricted common stock were issued to the Company’s
+CEO, Roger Janssen, pursuant to his Executive Employment Agreement dated December 18, 2013 On March 10, 2014, the
+Company issued 4,880,000 shares of restricted common stock, at a conversion rate of $0.01 per share in cancellation of debt totaling
+$41,361 On August 4, 2014, the
+Company issued 1,000,000 shares of restricted common stock at a cost basis of $0.001 per share, pursuant a Conversion Notice related
+to certain convertible debts outstanding. Re-Purchase of Equity Securities None Dividends Effective February 23,
+2010, the Company authorized a 60:1 stock split. On September 26, 2013 (the
+“Record Date”), the Company’s Board of Directors and shareholders holding the majority of issued and outstanding
+common stock approved a One (1) for Fifty (50) reverse stock split of its $0.001 par value common stock (the “Reverse Split”).
+The Reverse Split was declared effective by FINRA on November 22, 2013 (the “Effective Date”).The reverse stock split
+affected all of the Company’s stockholders uniformly and did not affect any stockholder’s percentage ownership interests
+in the Company, except to the extent that the reverse stock split resulted in fractional share ownership. Further, any outstanding
+options, warrants and rights to purchase common stock as of the Effective Date were also subject to the adjustment and were decreased
+accordingly. Other than the foregoing,
+we have never declared or paid any cash dividends on our common stock nor do we anticipate paying any in the foreseeable future.
+Furthermore, we expect to retain any future earnings to finance our operations and expansion. The payment of cash dividends in
+the future will be at the discretion of our Board of Directors and will depend upon our earnings levels, capital requirements,
+any restrictive loan covenants and other factors the Board considers relevant. Securities Authorized for Issuance Under
+Equity Compensation Plans None ITEM 6. SELECTED FINANCIAL DATA We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this
+item. ITEM 7. MANAGEMENTS’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONA ND RESULTS OF OPERATIONS This Annual Report on
+Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the
+“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+These forward-looking statements are not historical facts but rather are based on current expectations, estimates and projections.
+We may use words such as “anticipate,” “expect,” “intend,” “plan,” “believe,”
+“foresee,” “estimate” and variations of these words and similar expressions to identify forward-looking
+statements. These statements are not guarantees of future performance and are subject to certain risks, uncertainties and other
+factors, some of which are beyond our control, are difficult to predict and could cause actual results to differ materially from
+those expressed or forecasted. You should read this report completely and with the understanding that actual future results may
+be materially different from what we expect. The forward looking statements included in this report are made as of the date of
+this report and should be evaluated with consideration of any changes occurring after the date of this Report. We will not update
+forward-looking statements even though our situation may change in the future and we assume no obligation to update any forward-looking
+statements, whether as a result of new information, future events or otherwise. RESULTS OF OPERATIONS Plan of Operation As of October 31, 2014,
+we had $2,074 of cash on hand. We incurred operating expenses in the amount of $6,125,471 during the year ended October 31, 2014,
+of which $4,800,000 was stock-based compensation. These operating expenses were comprised of general and administrative expenses,
+professional fees, directors’ and consulting fees, impairment losses and other miscellaneous expenses. The
+Company is in the early stage of operations and has not yet generated any revenues. Management cannot guarantee that
+the Company will be successful in its business operations and the Company’s business is subject to risks inherent in the
+establishment of a new business enterprise, including limited capital resources and possible cost overruns. Our current
+cash holdings will not satisfy our liquidity requirements and we will require additional financing to pursue our planned business
+activities. We are in the process of seeking equity and or debt financing to fund our operations over the next 12 months; however,
+management provides no assurance that future financing will be available to the Company on acceptable terms. If financing
+is not available on satisfactory terms, the Company may be unable to continue, develop, or expand its operations. Equity
+financing could result in additional dilution to the Company’s existing shareholders. Revenues The Company
+did not generate any revenues during the years ended October 31, 2014 and 2013. 8 Expenses For the year
+ended October 31, 2014, total operating expenses were $6,125,471 as compared to $436,272 for the year ended October 31, 2013.
+This is a 1,304% increase in operating expenses for 2014 compared to 2013 and can be attributed to 1) a one-time impairment loss
+on our mining properties of $689,710; 2) an increase in officer’s compensation of $4,925,200 ($0 in 2013 compared to $4,925,200
+in 2014; previously officers were compensated via management fees paid to a related company; management fees were $11,000 in 2014,
+compared to $328,077 in 2013); 3) an increase in research and development of $186,514 ($0
+in 2013 compared to $186,514 in 2014), and ;
+an increase in general and administrative expenses of $185,702 ($18,641 in 2013 compared to $204,316 in 2014). Working Capital October 31, 2014 October 31, 2013 Difference Current Assets $ 3,688 $ 3,660 $ (28 ) Current Liabilities $ 1,087,603 $ 465,421 $ (622,182 ) Working Capital $ (1,083,915 ) $ (461,761 ) $ (622,154 ) Cash Flows Year Ended October 31, 2014 Year Ended October 31, 2013 Net Cash (Used) in Operating Activities $ (288,246 ) $ (95,164 ) Net Cash (Used) in Investing Activities $ (102,630 ) $ — Net Cash Provided by Financing Activities $ 390,490 $ 78,800 Net Effect of Foreign Currency Translation $ — $ — Net (Decrease) in Cash During the Period $ (386 ) $ (16,364 ) Interest
+Expense Interest
+expense for the year ended October 31, 2014 totaled $(50,486) and mainly consisted of interest accruing on certain outstanding
+accounts and notes payable. Interest expense for the twelve months ended October 31,
+2013 was $(10,276). Liquidity and Capital Resources Growth of our operations
+will be based on our ability to internally finance from operating cash flows, and the ability to raise funds through equity and/or
+debt financing to increase sales and production. Our primary sources of liquidity are: (i) investor loans; and (ii) financing activities.
+Our cash balance as of October 31, 2014 is $2,074. Our Company has funded
+some of its operations through debt financing with related and non-related party transactions, The
+Company is not aware of any known trends, events or uncertainties which may affect its future liquidity. 9 Critical Accounting Policies Our financial statements
+and accompanying notes have been prepared in accordance with United States generally accepted accounting principles applied on
+a consistent basis. The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent
+assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting
+periods. We regularly evaluate the
+accounting policies and estimates that we use to prepare for financial statements. A complete summary of these policies is included
+in the notes to our financial statements. In general, management’s estimates are based on historical experience, on information
+from third party professionals, and on various other assumptions that are believed to be reasonable under the facts and circumstances.
+Actual results could differ from those estimates made by management. Going Concern For the year ended October
+31, 2014, our Company had a working capital deficit of $1,083,985. We have not attained profitable operations and are dependent
+upon obtaining financing to pursue any extensive activities. For these reasons, our auditors stated in their report on our audited
+financial statements that they have substantial doubt that we will be able to continue as a going concern without further financing. Future Financing We will continue to rely
+on equity sales of our common shares in order to continue to fund our business operations. Issuances of additional shares will
+result in dilution to existing stockholders. There is no assurance that we will achieve any additional sales of the equity securities
+or arrange for debt or other financing to fund our business and ongoing operations. Inflation The amounts presented in
+the financial statements do not provide for the effect of inflation on our operations or financial position. The net operating
+losses shown would be greater than reported if the effects of inflation were reflected either by charging operations with amounts
+that represent replacement costs or by using other inflation adjustments. Off-Balance Sheet Arrangements As of October 31, 2014,
+we had no off-balance sheet transactions that have had, or are reasonably likely to have, a current or future effect on our financial
+condition, changes in our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or
+capital resources that are material to stockholders. 10 Contractual Obligations We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this
+item. Recently Issued Accounting Pronouncements On June 10, 2014, FASB
+issued Accounting Standards Update No. 2014-10, Development Stage Entities . The update removes the definition of a development
+stage entity from FASB ASC 915 and eliminates the requirement for development stage entities to present inception-to-date information
+on the statements of operations, cash flows and stockholders’ deficit. The Company early adopted this standard for the period
+covered by the report herein. Other than as noted above
+the Company has not implemented any pronouncements that had material impact on the financial statements and the Company does not
+believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial
+position or results of operations. ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this
+item. 11 ITEM 8. FINANCIAL STATEMENTS 3DX INDUSTRIES, INC. (FORMERLY AMAROK RESOURCES, INC. INDEX TO FINANCIAL STATEMENTS OCTOBER 31, 2014 Financial Statements Page Reports of Independent Registered Public Accounting Firms F-1 Balance Sheets as of October 31, 2014 and October 31, 2013 F-3 Statements of Operations for the years ended October 31, 2014 and October 31, 2013, F-4 Statements of Stockholders’ Equity November 1, 2012 to October 31, 2014 F-5 Statements of Cash Flows for the years ended October 31, 2014 and October 31, 2013, F-6 Notes to Financial Statements F-7 REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM To the Board of Directors and Stockholders 3DX Industries Inc. Ferndale, WA We have audited the accompanying balance sheet of 3DX Industries,
+Inc. (the “Company”) as of October 31, 2014 and the related statements of operations, shareholders’ deficit,
+and cash flows for the year then ended. These financial statements are the responsibility of the Company's management. Our responsibility
+is to express an opinion on these financial statements based on our audit. We conducted our audit in accordance with the standards of the
+Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform an audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. The Company is not required to have,
+nor were we engaged to perform, an audit of its internal control over financial reporting. Our audit included consideration of
+internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances,
+but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting.
+Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management,
+as well as evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our
+opinion. In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of the Company as of October 31, 2014, and the results of its operations
+and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States of
+America. The accompanying financial statements have been prepared assuming
+that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company suffered losses
+from operations and has a working capital deficiency, which raises substantial doubt about its ability to continue as a going concern.
+Management’s plans regarding those matters also are described in Note 1. The financial statements do not include any adjustments
+that might result from the outcome of this uncertainty. MaloneBailey, LLP www.malonebailey.com Houston, Texas February 13, 2015 F- 1 REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM To the Board of Directors and Stockholders of 3DX Industries, Inc. (formerly Amarok Resources, Inc.) (An Exploration Stage Company) We have audited the accompanying balance sheet
+of 3DX Industries, Inc. (formerly Amarok Resources, Inc.) as of October 31, 2013, and the related statement of operations, stockholders’
+deficit, and cash flows for the year ended October 31, 2013. 3DX Industries, Inc.’s management
+is responsible for these financial statements. Our responsibility is to express an opinion on these financial statements
+based on our audit. We conducted our audits in accordance with
+the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. Our audit included
+consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the company’s internal control over
+financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made
+by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable
+basis for our opinion. In our opinion, the financial statements referred
+to above present fairly, in all material respects, the financial position of 3DX Industries, Inc. (formerly Amarok Resources, Inc.)
+as of October 31, 2013, and the results of its operations and its cash flows for the year ended October 31, 2013, in conformity
+with accounting principles generally accepted in the United States of America. The accompanying financial statements have
+been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements,
+the Company has incurred net losses from operations and has no source of revenues, which raise substantial doubt about its ability
+to continue as a going concern. Management’s plans in regard to these matters are also described in Note 1. The financial
+statements do not include any adjustments that might result from the outcome of this uncertainty. ________________________ Certified Public Accountants Salt Lake City, Utah February 13, 2014 F- 2 3DX INDUSTRIES, INC. (Formerly Amarok Resources, Inc.) Balance Sheets October 31, 2014 2013 Assets Current assets Cash and cash equivalents $ 2,074 $ 2,460 Security deposit — 1,200 Prepaid insurance 1,614 — Total current assets 3,688 3,660 Mining properties 0 689,710 Property and equipment Manufacturing equipment 1,254,571 — Furniture and fixtures 638 — Computer equipment 1,005 — Less accumulated depreciation (75,585 ) — Total property and equipment 1,180,629 — Other assets Website development (net of accumulated amortization of $1,691 and $636) 2,429 864 Security deposit 4,275 — Total other assets 6,704 864 Total assets $ 1,191,021 $ 694,234 Liabilities and stockholders' equity Current liabilities Accounts payable and accrued expenses $ 331,595 $ 68,241 Payables to related parties 149,135 139,422 Equipment purchase payable - current portion 196,378 — Accrued compensation - related party, convertible 174,000 175,000 Current portion of note payable - unrelated party 236,495 82,758 Total current liabilities 1,087,603 465,421 Long-term liabilities Equipment purchase payable 479,362 Convertible note payable - related party 500,000 — Convertible notes payable - unrelated party 157,541 — Note payable - unrelated parties 52,897 — Total long-term liabilities 1,189,800 — Total liabilities 2,227,403 465,421 Stockholders' equity Preferred stock, $.001 par value, 10,000,000 shares authorized, none outstanding — — Common stock, 175,000,000 shares authorized, $0.001 par value, 37,461,409 shares issued at October 31, 2014 and 1,581,409 issued and outstanding at October 31, 2013 37,461 1,581 Additional paid-in capital 14,931,530 5,286,410 Accumulated deficit (16,055,373 ) (5,059,178 ) Total stockholders' equity (1,086,382 ) 228,813 Total liabilities and stockholders' equity $ 1,194,021 $ 694,234 The Accompanying notes are an integral
+part to the financials F- 3 3DX INDUSTRIES, INC. (Formerly Amarok Resources, Inc.) Statement of Operations For the Year Ended October 31, 2014 2013 Revenue $ — $ — Operating expenses Exploratory costs, including stock based compensation of $0 and $0 — 20,000 Impairment loss 689,710 — Contributed services 76,640 — Officer's compensation, including stock-based compensation of $4,800,000 and $0 4,887,449 — Management fees, including stock-based compensation of $0 and $148,077 146,000 328,077 Professional services 64,384 55,465 Rent 51,593 14,116 Other general and administrative expenses 198,733 18,614 Total operating expenses 6,114,509 436,272 Other income (expense) Net gain on settlement of indebtedness (4,831,200 ) — Interest expense (50,486 ) (10,276 ) Total other income (expense) (4,881,686 ) (10,276 ) Net loss $ (10,996,195 ) (446,548 ) Net loss per common share - basic and diluted $ (0.33 ) $ (0.28 ) Weighted average number of common shares outstanding 33,434,888 1,581,409 The Accompanying notes are an integral
+part to the financials F- 4 3DX INDUSTRIES, INC. (Formerly Amarok Resources, Inc.) Statement of Changes in Stockholders’
+Equity For the Period from November 1, 2012 to October
+31, 2014 Additional Common Stock Paid-in Accumulated Shares Amount Capital Deficit Totals Balance, October 31, 2012 1,581,409 1,581 5,138,333 (4,612,630 ) 527,284 Compensation recognized on option grant — — 148,077 — 148,077 Net loss for period — — — (446,548 ) (446,548 ) Balance, October 31, 2013 1,581,409 1,581 5,286,410 (5,059,178 ) 228,813 Issuance of common stock for services 30,000,000 30,000 4,770,000 — 4,800,000 Issuance of common stock in cancelation of indebtedness 4,880,000 4,880 4,875,120 — 4,880,000 Issuance of common stock on conversion of indebtedness 1,000,000 1,000 — — 1,000 Net loss for period — — — (10,996,195 ) (10,996,195 ) Balance, October 31, 2014 37,461,409 $ 37,461 $ 14,931,530 $ (16,055,373 ) $ (1,086,382 ) The Accompanying notes are an integral
+part to the financials F- 5 3DX INDUSTRIES, INC. (Formerly Amarok Resources, Inc.) Statement of Cash Flows For the Year Ended October 31, 2014 2013 Cash flows from operating activities: Net loss $ (10,996,195 ) $ (446,548 ) Adjustments to reconcile net loss to net cash used in operating activities: Depreciation expense 75,585 — Amortization expense - conversion feature on accrued compensation — 148,077 Amortization expense - website development 1,055 500 Net loss on settlement of debt 4,831,200 — Impairment loss 689,710 — Stock-based compensation 4,800,000 — Contributed services and rent — — Changes in operating assets and liabilities (Increase) decrease in prepaid expenses (4,689 ) 1,182 Increase (decrease) in accounts payable 263,354 16,306 Increase (decrease) in accounts payable - related party 9,713 — Increase in accrued interest 42,021 3,958 Increase in accrued compensation - related parties 181,361 Net cash used in operating activities (288,246 ) (95,164 ) Cash flows from investing activities: Investments in mining properties — — Equipment purchases (100,010 ) — Website development (2,620 ) — Net cash used in investing activities (102,630 ) — Cash flows from financing activities: Proceeds from third party borrowing 253,000 78,800 Repayments on third party borrowing (12,510 ) 44,742 Proceeds from related party borrowing 150,000 (44,742 ) Repayments on related party borrowing 0 0 Net cash provided by financing activities 390,490 78,800 Increase (decrease) in cash (386 ) (16,364 ) Cash - beginning of period 2,460 18,824 Cash - end of period $ 2,074 $ (2,460 ) Supplemental disclosures of cash flow information: Interest paid $ 4,729 $ — Income taxes paid $ — $ — Non-cash investing and financing activities: On February 19,2014, the Company issued 4,880,000 shares of its common stock in exchange for the cancelation of $48,800 of indebtedness. The Company recognized a loss on the extinguishment of the debt in the amount of $4,099,200 that was charged to operations. On June 20, 2014, the holder of the $175,000 of convertible accrued compensation assigned $1,000 of the amount due to a third party. On June 26, 2014, the above indicated assignee converted $1,000 of accrued compensation due in exchange for $1,000,000 shares of the Company's common stock at the conversion price of $.001 per share. No gain or loss was recognized on the conversion and issuance of the common shares. In November 2013, the Company settled with the landlord of the office it was renting in Rancho Margarita, California for $4,010. The Company recognized a gain on the settlement in the amount of $1,793. Pursuant to the terms of Mr. Janssen's executive employment agreement the Company issue him 30,000,000 shares of its common stock valued at $4,800,000, which was charged to operations. On December 18, 2013, the Company acquired various equipment relating to its 3D metal imaging business from R Janssen, the Company's President, for $500,000. The $500,000 is evidenced by a promissory note which is assessed interest at an annual rate of 1.64%. Accrued interest is payable quarterly with the principal and an accrued unpaid interest fully due and payable on December 15, 2018. On December 23, 2013, the Company purchased manufacturing equipment relating to its 3D metal imaging business from an unrelated third party. The total purchase price is $750,000 of which $75,000 was paid upon delivery. The remaining balance of $675,000 is payable in two equal installments of $337,500. The first installment is due June 1, 2014 and the second installment is due September 1, 2014. The terms of the installment payments do not include a stated interest rate, therefore, the Company accounted for the purchase pursuant to ASC Topic 835-30-25, "Imputation of Interest" (see Note 5). On January 15, 2013, the Company granted Santeo Financial Corp ("Santeo") the option to convert 25% of accrued management fees of $175,000 owed to Santeo at a conversion rate of $0.001 per share and the option to convert the remaining 75% of accrued management fees at a conversion rate of $0.01 per share. The conversion feature was accounted for under ASC Topic 470-20 and the discount of the beneficial conversion feature of $148,077 was immediately charged to operations pursuant to ASC Topic 470-20-35. The Accompanying notes are an integral
+part to the financials F- 6 3DX Industries, Inc. (Formerly Amarok Resources, Inc.) (An Exploratory Stage Company) Notes to the Financial Statements NOTE 1 -
+ORGANIZATION AND BASIS OF PRESENTATION Amarok Resources, Inc. (“Amarok”
+or the “Company”) was incorporated in the state of Nevada on October 23, 2008 under the name Ukragro Corporation. The
+Company’s principal activity is the exploration and development of mineral properties for future commercial development and
+production. On September 26, 2013, the Company filed an
+amendment to the Company’s Articles of Incorporation and changed the Company’s name from Amarok Resources, Inc. to
+3DX Industries, Inc. and increased the number of shares authorized to 185,000,000 of which 175,000,000 have been designated common
+shares and 10,000,000 have been designated preferred shares. Also on September 26, 2013, the Company authorized a 50:1 reverse
+stock split. The accompanying financial statements have been restated to reflect the change in capital and stock split as if they
+occurred at the Company’s inception. Going Concern The Company has
+incurred net losses since inception, and as of October 31, 2014 had a combined accumulated deficit of $16,055,373 and had negative
+working capital of $1,083,915 . These
+conditions raise substantial doubt as to the Company's ability to continue as a going concern. These financial statements do not
+include any adjustments that might result from the outcome of this uncertainty. These financial statements do not include any adjustments
+relating to the recoverability and classification of recorded asset amounts, or amounts and classification of liabilities that
+might be necessary should the Company be unable to continue as a going concern. Management recognizes that the Company must
+generate additional funds to enable it to continue operating. Management intends to raise additional financing through debt and
+or equity financing and by other means that it deems necessary, with the goal of moving forward and sustaining a prolonged growth
+in its strategy phases. However, no assurance can be given that the Company will be successful in raising additional capital. Further,
+even if the company raises additional capital, there can be no assurance that the Company will achieve profitability or positive
+cash flow. If management is unable to raise additional capital and expected significant revenues do not result in positive cash
+flow, the Company will not be able to meet its obligations and may have to cease operations. NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES Cash and Cash Equivalents The Company considers all highly liquid debt
+instruments and other short-term investments with a maturity date of three months or less, when purchased, to be cash equivalents. Mining Costs Costs incurred to purchase, lease or otherwise
+acquire property are capitalized when incurred. General exploration costs and costs to maintain rights and leases are expensed
+as incurred. Management periodically reviews the recoverability of the capitalized mineral properties. Management takes into consideration
+various information including, but not limited to, historical production records taken from previous mining operations, results
+of exploration activities conducted to date, estimated future prices and reports and opinions of outside consultants. When it is
+determined that a project or property will be abandoned or its carrying value has been impaired, a provision is made for any expected
+loss on the project or property. Property and Equipment Property and equipment are stated at cost.
+Major renewals and improvements are charged to the asset accounts while replacements, maintenance and repairs that do not improve
+or extend the lives of the respective assets are expensed. At the time property and equipment are retired or otherwise disposed
+of, the asset and related accumulated depreciation accounts are relieved of the applicable amounts. Gains or losses from retirements
+or sales are credited or charged to income. In June 2014, the Company commenced testing
+its equipment and began producing prototypes. Depreciation expense classified to operations for the year ended October 31 2014
+and 2013 amounted $75,585 and $0, respectively. Long-Lived Assets The Company accounts for its long-lived assets
+in accordance with Accounting Standards Codification (“ASC”) Topic 360-10-05, “Accounting for the Impairment
+or Disposal of Long-Lived Assets.” ASC Topic 360-10-05 requires that long-lived assets be reviewed for impairment whenever
+events or changes in circumstances indicate that the historical cost carrying value of an asset may no longer be appropriate. The
+Company assesses recoverability of the carrying value of an asset by estimating the future net cash flows expected to result from
+the asset, including eventual disposition. If the future net cash flows are less than the carrying value of the asset, an impairment
+loss is recorded equal to the difference between the asset’s carrying value and fair value or disposable value. The Company
+determined that the carrying cost of its mining properties were fully impaired and for the year ended October 31, 2014, the Company
+charged $689,710 to impairment loss. Use of Estimates The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results
+could differ from those estimates. Fair Value of Financial Instruments Pursuant to ASC No. 820, “ Fair
+Value Measurements and Disclosures, ” the Company is required to estimate the fair value of all financial instruments
+included on its balance sheet as of October 31, 2014. The Company’s financial instruments consist of accounts payables and
+notes and loans payable. The Company considers the carrying value of such amounts in the financial statements to approximate their
+fair value due to the short-term nature of the respective instrument. Loss Per Share of Common Stock The Company follows Accounting Standard Codification
+Topic No. 260, “Earnings Per Share” (“ASC No. 260”) that requires the reporting of both basic and diluted
+earnings (loss) per share. Basic earnings (loss) per share is computed by dividing net income (loss) available to common stockholders
+by the weighted average number of common shares outstanding for the period. The calculation of diluted earnings (loss) per share
+reflects the potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted
+into common stock. In accordance with ASC No. 260, any anti-dilutive effects on net earnings (loss) per share are excluded. Potential
+common shares at October 31, 2014 that have been excluded from the computation of diluted net loss per share include an option
+to convert approximately $4,117 in fees due Santeo Financial Corporation at October 31, 2014 into 4,117,060 common shares. Potential
+common shares at October 31, 2013 that have been excluded from the computation of diluted net loss per share include an option
+to convert approximately $174 in fees due Santeo Financial Corporation at October 31, 2013 into 173,762 common shares Convertible Debt Instruments If the conversion features of conventional
+debt instruments provides for a rate of conversion that is below market value at issuance, this feature is characterized as a
+beneficial conversion feature (“BCF”). A BCF is recorded by the Company as a debt discount pursuant to ASC Topic 470-20
+“Debt with Conversion and Other Options.” In those circumstances, the convertible debt is recorded net of the discount
+related to the BCF, and the Company amortizes the discount to operations over the life of the debt using the effective interest
+method. The Company was not required to record any BCF’s on any of the convertible debt it issued during the years ended
+October 31, 2014 and 2013. F- 7 Issuances Involving Non-Cash Consideration All issuances of the Company’s
+stock for non-cash consideration have been assigned a dollar amount equaling the market value of the shares issued on the date
+the shares were issued for such services. The non-cash consideration received pertains to officer’s compensation and consulting
+services. Stock-Based Compensation The Company accounts for stock-based
+compensation under Accounting Standard Codification Topic 505-50, “Equity-Based Payments to Non-Employees.” This topic
+defines a fair-value-based method of accounting for stock-based compensation. In accordance with the Topic, the cost of stock-based
+compensation is measured at the grant date based on the value of the award and is recognized over the vesting period. The value
+of the stock-based award is determined using Binomial or Black-Scholes option-pricing models, whereby compensation cost is the
+excess of the fair value of the award as determined by the pricing model at the grant date or other measurement date over the amount
+that must be paid to acquire the stock. The resulting amount is charged to expense on the straight-line basis over the period in
+which the Company expects to receive the benefit, which is generally the vesting period. Development Stage On June 10, 2014, FASB issued Accounting
+Standards Update No. 2014-10, Development Stage Entities. The update removes the definition of a development stage entity from
+FASB ASC 915 and eliminates the requirement for development stage entities to present inception-to-date information on the statements
+of operations, cash flows and stockholders’ deficit. The Company adopted this standard for the period covered by the report
+herein. Reclassification Certain reclassifications have been made to
+conform the 2013 amounts to 2014 classifications for comparative purposes. Recent Accounting Pronouncements The Company’s
+management has evaluated all recent accounting p ronouncements since the last audit through
+the issuance date of these financial statements. In the Company’s opinion, none of the recent accounting p ronouncements will have a material effect on the financial statements. NOTE 3 -
+MINING CLAIMS McNeil Claims, Canada On March 24, 2011 the
+Company signed an agreement with Warrior Ventures, Inc. (“Warrior”), a private company, to acquire 100% of the McNeil
+Gold Property. The McNeil property is located within the Abitibi Greenstone belt, approximately 30 miles southeast of Timmins,
+Ontario, Canada and approximately 35 miles west of Kirkland Lake, Ontario, Canada. The purchase price of the property was in exchange
+for Warrior receiving 28,000 shares of the Company’s restricted common stock along with an option to purchase 28,000 of the
+Company common shares of the Company at a price of $1.00 per common share until October 1, 2011. Any options remaining unexercised
+as of September 1, 2011 may be exercised at a price of $1.25 per common share until March 31, 2012, after which the option to purchase
+any shares of Amarok automatically terminates. The Company initially valued the 28,000 shares at $784,000 based upon the trading
+price of the common shares on the date of issuance. The Company valued the 28,000 options at $98,724 using a binomial option model
+with a trading price of $0.56 per share, risk-free interest rate of 0.26%, and volatility of 93.221%. The total of $882,724 was
+capitalized as mining properties. At October 31, 2011, the Company recognized an impairment of $322,000 on the reduction in the
+fair value of mining claim based upon the agreed upon price of $0.33 per share pursuant to the underlying purchase agreement. The
+$0.33 per share was based upon the trading price of the Company’s common share on the March 23, 2011. Through October 31,
+2013, the Company has incurred additional acquisition costs totaling $91,606. The capitalized costs of the McNeil claim as of October
+31, 2013 amounted to $652,330. On October 8, 2013, the
+Company entered into an agreement with Trio Gold Corp. (“Trio”) to assign 100% of its claims in the McNeil property,
+subject to a 5% net smelter royalty, to Trio once Trio has incurred exploration and administrative costs totaling $5,000,000 (CND)
+based upon the following schedule: On or before December
+31, 2015	$ 500,000 On or before December
+31, 2017	$2,000,000 On or before December
+31, 2019	$2,500,000 F- 8 Nighthawk Claims, Canada The Company had staked 35 claims on property
+adjacent to the McNeil known as the Night Hawk Property. The acquisition cost associated with this claims totaled $37,380. The
+Company did not have sufficient funds to pay the fees required to renew the 35 claims and on October 8, 2013 it assigned its total
+interest in these claims to Trio in exchange for a 5% royalty on the net smelter returns generated from these claims. The Company
+granted Trio the option to purchase each 1% royalty interest for $2,000,000 (CND). The Company did not report any gain or loss
+on this transaction and valued the 5% net royalty interest at the property’s current acquisition cost of $37,380. Trio was
+unable to raise sufficient funds for the development and required fee payments on the claims by November 2014 and as a result Trio
+has forfeited the claims resulting in a termination of the royalty option. The Company no longer has any interest in the claims. Rodeo Creek Project, Nevada On February 22, 2010, the Company entered into
+an agreement with Carlin Gold Resources, Inc., (“Carlin”) in which Carlin assigned the Company all of its rights, title,
+and interest in an exploration agreement between it and Trio. The assigned exploration agreement was dated January 28, 2010. In
+consideration for the assignment of the interest in the exploration agreement, the Company paid Carlin $1 and issued 2,000 shares
+of its common stock, valued at $168,000 based upon the trading price of the shares on the date of issuance. The value of these
+shares has been charged to operations and included in exploration costs. Trio has leased and has an option to purchase
+a 100% interest in 29 unpatented lode mining claims located in Nevada within the Carlin Gold Trend (the “Claims”).
+The Claims are subject to a 1.5% net smelter return (“NSR”). Under the terms of the original agreement,
+the Company earns a 75% undivided interest in the Property during an earn-in period commencing in January 2010 and completing in
+December 2012 (the “earn-in period”). Upon completion of the earn-in period, a joint venture (the “Joint Venture”)
+is to be formed with the same 75% / 25% interest the parties held during the earn-in period. The Joint Venture shall remain in
+effect for twenty-five years or as long as the claims are being actively mined or developed,
+whichever is longer. After the termination of the Joint Venture, the Claims shall revert back to Trio. On March 23, 2012, the Company and Trio entered
+into an agreement that modified certain terms of the original agreement (“modified agreement”). During the earn-in-period,
+the Company is to provide $5,500,000 in funding to cover operational costs. Under the original agreement, $1,500,000 was to be
+funded during the 2010 budget year, $2,000,000 was to be funded during the 2011 budget year and $2,000,000 was to be funded during
+the 2012 budget year. The modified agreement eliminates the annual funding requirements and extends the due date of the $5,500,000
+funding to December 31, 2013. Under the original agreement, the Company was
+required to pay a minimum annual royalty during the earn-in period to Trio of which $75,000 was paid upon signing of the agreement,
+$100,000 was paid on April 1, 2011 and $150,000 was to be paid on April 1, 2012. Under the terms of the March 23, 2012 modified
+agreement, the minimum royalty payments have been incorporated into the $5,500,000 funding requirement and the final $150,000 minimum
+royalty payment becomes due on April 1, 2013. In consideration for modifying the terms of the original agreement and extending
+the due date, the Company issued Trio 2,788 shares of its common shares valued at $11,152, which was charged to operations and
+included in exploratory costs. Once the Company has provided $5,500,000 in
+funding for the project, the Company and Trio shall fund the operational costs jointly, with the Company providing 75% of the funds
+and Trio providing 25% of the funds. Through July 31, 2012, the Company funded a total of $2,350,000 in the property’s operational
+costs as defined under the modified agreement. The funds paid have been charged to operations and included in exploratory costs. In addition, within three months of the assignment,
+the Company is required to issue Trio 144,240 shares of its common stock. Upon expenditure of a minimum of $2,000,000 on the claims,
+Trio shall receive an additional 1,442 shares of the Company’s common stock. Upon expending a minimum of $4,000,000 on the
+claims, Trio shall receive an additional 1,442 shares of the Company’s common stock. Upon expenditure of $5,500,000 on the
+claims, Trio shall receive a final 1,442 shares of the Company’s common stock All shares issued shall be restricted common
+shares and will be stamped with the applicable hold period. On February 22, 2010, the Company issued 2,884 shares of its common
+stock to Trio valued at $242,323, based upon the restated trading price of the shares on the date of issuance. On October 25, 2011,
+the Company issued 1,442 shares of its common stock to Trio valued at $5,769, based upon the trading price of the shares on the
+date of issuance. On March 23, 2012, the Company issued 2,788 shares of its common stock to Trio valued at $11,152, based upon
+the restated trading price of the shares on the date of issuance. The values of the shares have been charged to operations and
+included in exploration costs. On February 13, 2013, the Company entered into
+an agreement with Trio to modify the terms of the above indicated final minimum royalty payment of $150,000, which was due on April
+1, 2013. In exchange for paying $15,000 upon the signing of the agreement and $5,000 on August 1, 2013, the due date of the remaining
+$130,000 is extended to October 1, 2013, with the date when the full $5,500,000 must be spent on the Rodeo Claims is extended to
+December 31, 2014. Of the $20,000 that is due, $15,000 was paid on February 20, 2013 and $5,000 was paid on March 15, 2013. The
+$20,000 was charged to exploratory costs. The Company failed to pay the required $130,000
+that was due on October 1, 2013 and is in default under the agreement. In December 2014, the Company notified Trio
+of its intent to terminate its agreement on the Rodeo Creek Property. The Company will have no further interest in this project.
+The Company has earned a 2% Net Smelter Royalty on the property and has granted Trio the exclusive right and option at any time
+to buy back 100% of the Royalty by paying to the Company a cash consideration of $3,000,000.00 (USD) (the “Buy Back Option”).
+The Buy Back Option may be exercised at any time in part by Trio paying $1,500,000.00 (USD) for each one percent (1%) of the Royalty
+purchased by Trio. F- 9 Cueva Blanca Gold Property On April 16, 2010, the Company entered into
+an agreement with St. Elias Mines Ltd. (“St. Elias”) in which Amarok is given an option to earn a 60% interest, subject
+to a 1.5% net smelter royalty (“NSR”) in the Cueva Blanca gold property (1,200 hectares) in Northern Peru, which is
+wholly owned by St. Elias . Under the terms of the letter agreement, it is possible for the Company to acquire a 60%
+interest in the Property (subject to a 1.5% NSR) in consideration of: (a) making cash payments of $200,000
+to St. Elias over a two-year period; (b) issuing 100,000 common shares
+in the capital of Amarok to St. Elias; and (c) incurring at least $1,500,000
+in exploration expenditures on the property over a three-year period. In addition, the Company shall have the right
+to purchase one-half of the 1.5% NSR from St. Elias for the sum of $1,500,000, thereby reducing the NSR payable to from 1.5% to
+0.75%. The Company’s first payment of $10,000
+was paid on June 24, 2010. On April 27, 2011, the agreement between St. Elias and Amarok was formally terminated by St. Elias.
+As of January 31, 2012, the Company has paid a total of $27,603 in fees towards property maintenance costs on the Cueva Blanca
+property. The company has no further interest in this
+property Mining properties at October 31,
+2014 consist of the following: Beginning balance –November 1, 2013 $ 689,710 Acquisition related costs — Cost charged off as impaired (689,710 ) Balance – October 31, 2014 $ — Management’s decision to change its focus
+from the mining sector to manufacturing was based on the declining condition of the resource sector over the past years. It was
+becoming significantly more difficult to raise funds for working capital and property development as a resource company, Management
+felt it was in the best interest for the continued viability of the company to focus efforts within an industry that has the potential
+for generating cash flow sooner than would be possible in the resource sector. NOTE 4 - RELATED PARTY
+TRANSACTIONS On December 18, 2013, the Company purchased
+various equipment relating to its 3D metal printing operation from Mr. Janssen for $500,000. The $500,000 is evidenced by a promissory
+note assessed interest at an annual rate of 1.64%. Accrued interest is payable quarterly with the Principal balance and any unpaid
+accrued interest fully due and payable on December 15, 2018. Mr. Janssen has the right to convert any outstanding principal and
+accrued interest into restricted shares of the of the Company’s common stock at a conversion price of $0.50 per share. The
+balance due Mr. Janssen at October 31, 2014 totaled $507,022 of which the accrued interest of $7,022 was classified as a short-term
+liability and the $500,000 was classified as a long-term liability. The accrued interest of $7,022 was charged to operations. The
+Company has not paid any accrued interest. During the year ended October 31,
+2014, Mr. Janssen advanced the Company a total of $44,742, which was fully repaid during the year. F- 10 NOTE 5 - EQUIPMENT By way of agreement concurrent with Mr. Janssen’s
+appointment to the Board of Directors and entry into an Employment Agreement (see Note 9 – Commitments and Contingencies
+below) and executed on December 18, 2013, the Company purchased various equipment relating to the post production processes for
+its 3D metal printing operation from Mr. Janssen, our sole officer and director, for $500,000 which amount has been capitalized
+on our balance sheet. On December 23, 2013, the Company purchased
+equipment from an unrelated third party for $750,000 of which $75,000 was paid. The remaining $675,000 is payable in two installments:
+$375,000 due June 1, 2014 and $300,000 due on September 1, 2014. The terms of the installment payments do not include a stated
+interest rate, therefore, the Company accounted for the purchase under ASC Topic 835-30-25 “Imputation of Interest ” discounting the purchase price of the equipment by $18,795 for imputed interest using an interest rate of 5% per annum. The
+total gross capitalized value of this equipment is $731,025. The Company failed to make the required installment
+payments when they became due and on October 23, 2014, the Company and the seller agreed to modify the terms of the obligation
+due. Under the modified terms, the balance of the note as of October 23, 2014 increased to $675,000, which is evidenced by a promissory
+note which is assessed interest at an annual rate of 5% per annum. Principal and accrued interest are paid in monthly installments
+of $20,230 commencing on December 1, 2014. The Company has made payments as required under the terms of the agreement up to the
+month of January 2015. The balance due on this obligation at October
+31, 2014 is $675,740. A schedule of each year’s principal payments for this obligation is as follows: Principal Year ended Reduction October 31, 2015 $ 195,638 October 31, 2016 223,881 October 31, 2017 235,335 October 31, 2018 20,146 $ 675,000 During the year ended October 31, 2014 in connection
+with the aforementioned equipment purchase, the Company capitalized an additional $23,366 in respect of installation costs. Capitalized
+manufacturing equipment (gross) at October 31, 2014 totaled $1,254,571 (2013-Nil) NOTE 6 - NOTES PAYABLE – UNRELATED
+PARTY On January 15, 2013, the Company granted Santeo
+Financial Corp (“Santeo”), a company affiliated with a former officer and director, the option to convert up to 25%
+of all accrued compensation resulting from unpaid consulting fees due it at that date into shares of the Company’s common
+stock at a conversion price of $0.001 per share, and to convert the remaining 75% of accrued compensation due it at that date into
+shares of the Company’s common stock at a conversion price of $0.01 per share. The agreement can be cancelled by either party.
+At January 15, 2013, the amount of accrued compensation due Santeo was $175,000. Pursuant to ASC Topic 470-20, “Debt with
+Conversion and Other Options,” the accrued compensation was recorded net of a discount that includes the debt’s
+beneficial conversion feature of $148,077. Since the accrued compensation is immediately convertible into common stock, discounts
+arising from beneficial conversion features are directly charged to expense pursuant to ACS 470-20-35. The beneficial conversion
+features were calculated using trading prices ranging from $0.001 to $0.01 per share and an effective conversion price of $0.02
+per share. Effective December 18, 2013, the terms of the
+above indicated option grant were modified limiting the number of conversion shares Santeo can receive and hold at any point in
+time to no more than 9.99% of the Company’s common stock then outstanding. In June 2014, Santeo assigned $1,000 of accrued
+compensation due it to a third party, who converted the $1,000 into 1,000,000 shares of the Company’s common stock at a conversion
+price of $.001 per share Total consulting fees charged to operations
+for the year ended October 31, 2014 and 2013 amounted to $11,000 and $328,077 (including stock based compensation of $148,077),
+respectively. Accrued compensation due Santeo at October 31, 2014 amounted to $320,022, of which $174,000 is reflected on the accompanying
+balance sheet in accrued compensation–convertible. The remaining balance of $146,022 due Santeo is reflected on the accompanying
+balance sheet and is included in Accounts payable and accrued expenses. Lender 1 On January 9, 2013, the Company entered into
+an agreement to borrow a total of $46,300 from an unrelated third party. The loans are evidenced by an unsecured promissory note.
+The $46,300 and interest of $2,500 was fully due and payable on July 1, 2013. As the outstanding principal and accrued interest
+were not paid on July 1, 2013, the principal and accrued interest is assessed interest at an annual rate of 8% per annum payable
+quarterly, with the outstanding principal and accrued interest fully due and payable on July 1, 2014. In addition, the unrelated
+third party advanced an additional $2,500 on June 21, 2013. The $2,500 is assessed interest at an annual rate of 8% per annum payable
+quarterly, with the outstanding principal and accrued interest fully due and payable on July 1, 2014. During the year ended October 31, 2014, the
+Company received an additional $218,000 in loans from the aforementioned party which is assessed interest 5% per annum and mature
+at various dates through December 15, 2015. During the year ended October 31, 2014, the Company repaid a total of $12,510 of which
+$4,729 was applied against accrued interest and $7,781 was applied against principal. On February 19, 2014, the Company issued
+4,880,000 shares of its common stock in exchange for canceling $48,800 of debt. The Company valued the shares at their respective
+market value of $4,880,000 and recorded a loss on the debt extinguishment of $4,831,200, which was charged to operations. The outstanding
+balance at October 31, 2014 amounted to $223,478 of which $167,581 is due within one year and $55,897 is due in the following year.
+Accrued interest charged to operations for year ended October 31, 2014 and 2013 totaled $6,116 and $0, respectively. In addition to the loans indicated above, the
+same lender advanced $150,000 to the Company on November 5, 2013. The $150,000 is evidenced by an unsecured promissory note bearing
+interest at a rate of 5%. Outstanding principal and accrued interest is fully due and payable on December 31, 2015. Effective January
+1, 2015, the holder has the right to convert any or all of the outstanding principal and accrued interest into shares of the Company’s
+common stock at a conversion rate of $0.10 per share. Upon conversion, the holder has certain registration rights. The Company
+is obligated to bear all costs associated with the registration of the shares. The outstanding balance at October 31, 2014 amounted
+to $157,541. Accrued interest charged to operation for the year ended October 31, 2014 and 2013 totaled $7,541 and $0, respectively. F- 11 Lender 2 On September 9, 2013, the Company borrowed
+$30,000 from a third party. The loan is evidenced by an unsecured promissory note. The loan is assessed interest at an annual rate
+of 5% per annum with principal and accrued interest fully due and payable on May 1, 2014. The outstanding balance was not paid
+on its due date. The balance of this obligation on October 31, 2014 amounted to $31,714. Accrued interest charged to operations
+for the year ended October 31, 2014 and 2013 amounted to $1,714 and $86, respectively. On March 7, 2014, the Company borrowed an additional
+$35,000 from the same party noted above. The loan is evidenced by an unsecured promissory note. The loan is assessed interest at
+an annual rate of 5% per annum with principal and accrued interest fully due and payable on December 31, 2014. The balance of this
+obligation on October 31, 2014 amounted to $36,141. Accrued interest charged to operations for the year ended October 31, 2014
+amounted to $1,141. NOTE 7 - STOCKHOLDERS’ EQUITY For the year ended October 31, 2014 As discussed in Note 4, in June 2014, Santeo
+assigned $1,000 of accrued compensation due it to a third party, who converted the $1,000 into 1,000,000 shares of the Company’s
+common stock at a conversion price of $0.001 per share. The Company did not recognized any gain or loss on the conversion. On February 19, 2014, the Company issued 4,880,000
+shares of its common stock in exchange for the cancelation of $48,880 of debt due an unrelated third party The Company recognized
+a loss from the extinguishment of the debt totaling $4,831,200, which was charged to operations. Effective November 23, 2013, the Company entered
+into an employment agreement with its President and Chief Executive Officer, Roger Janssen. Under the terms of the agreement, Mr.
+Janssen received 30,000,000 shares of the Company’s restricted common stock as a signing bonus. The shares were valued at
+$4,800,000 based upon the trading price of the shares on the date of grant. For the year ended October 31, 2013 On September 26, 2013, the Company increased
+the number of shares authorized to 185,000,000 of which 175,000,000 have been designated common shares and 10,000,000 have been
+designated preferred shares. Also on September 26, 2013, the Company authorized a 50:1 reverse stock split. The Company did not
+enter into any further equity transactions during the year end October 31, 2013. NOTE 8 - INCOME TAXES The Company accounts for income taxes under
+Accounting Standard Codification Topic No. 740 (“ASC 740”), “Accounting for Income Taxes.” This statement
+mandates the liability method of accounting for deferred income taxes and permits the recognition of deferred tax assets subject
+to an ongoing assessment of realizability. The
+effective tax rate on the net loss before income taxes differs from the U.S. statutory rate as follows: October 31, October 31, 2014 2013 Current expense - Benefit Federal $ — $ — State — — Total deferred expense (benefit) — — Deferred Benefit Federal $ — $ — State — — Total deferred benefit — — U.S statutory rate 34.00 % 34.00 % Less valuation allowance -34.00 % -34.00 % Effective tax rate 0.00 % 0.00 % The significant components of deferred tax assets and liabilities are as follows: Deferred tax assets Stock based compensation $ (1,632,000 ) $ 131,435 Net operating losses 5,164,685 1,294,544 Other (2,421 ) — Deferred tax liabilities Property and equipment (111,638 ) 0 3,641,902 1,425,979 Less valuation allowance (3,641,902 ) (1,425,979 ) Deferred tax asset/liabilities - net valuation allowance $ — $ — Deferred income tax assets and liabilities
+are computed annually for differences between financial statement and tax bases of assets and liabilities that will result in taxable
+or deductible amounts in the future based on enacted tax laws and rates applicable to the periods in which the differences are
+expected to affect taxable income. Valuation allowances are established when necessary to reduce deferred tax assets to the amount
+expected to be realized. Income tax expense is the tax payable or refundable for the period plus or minus the change during the
+period in deferred tax assets and liabilities. Deferred tax assets resulting from stock based
+compensation and net operating losses are reduced by a valuation allowance, when, in the opinion of management, utilization is
+not reasonably assured. At October 31, 2014, the Company’s gross deferred tax asset totaled $3,641,902. This amount was reduced
+100% by a valuation allowance, making the net deferred tax asset $0. As of October 31, 2014, the Company had estimated
+federal net operating loss carry forwards totaling approximately $6,101,462 which can be used to offset future federal income tax.
+The federal net operating loss carry forwards expire at various dates through 2034. The utilization of the net operating losses
+to offset future net taxable income is subject to the limitations imposed by the change in control under Internal Revenue Code
+Section 382. The Company adopted the provisions of Accounting
+Standard Codification Topic 740-10-50, formerly FIN 48, “Accounting for Uncertainty in Income Taxes.” We had no material
+unrecognized income tax assets or liabilities for the year ended October 31, 2014 or October 31, 2013. Company management policy regarding income
+tax interest and penalties is to expense those items as general and administrative expense but to identify them for tax purposes.
+During the year ended October 31, 2014 and 2013, there were no income tax, or related interest and penalty items in the income
+statement, or liability on the balance sheet. The company files income tax returns in the U.S. federal jurisdiction and various
+state jurisdictions. The Company is no longer subject to U.S. federal or state income tax examination by tax authorities for years
+before 2008. The Company is not currently involved in any income tax examinations. F- 12 NOTE 9 - COMMITMENTS AND CONTINGENCIES Effective November 23, 2013, the Company entered
+into an employment agreement with its President and Chief Executive Officer, Roger Janssen. Under the terms of the agreement, Mr.
+Janssen will receive a base salary of $15,000 a month over the three-year term of the agreement. At the sole discretion of the
+board of directors, Mr. Janssen may be granted performance bonuses and may also participate in any incentive plans that the Company
+may establish. In addition, Mr. Janssen received 30,000,000 shares of the Company’s restricted common stock as a signing
+bonus. The shares were valued at $4,800,000 based upon the trading price of the shares on the date of grant. Officer’s compensation
+for the year ended October 31, 2014 amounted to $4,887,449 including the indicated stock based compensation of $4,800,000. Accrued
+compensation due Mr. Janssen as of October 31, 2014 amounted to $149,135, which is included in the balance of other payables –
+related parties as reflected in the accompanying balance sheet. The $149,135 is net of $13,286 that was actually paid to Mr. Janssen
+during the year ended October 31, 2014. In January 2014, the Company entered into lease
+for warehouse and corporate office space located in Ferndale, Washington for 26 months. The Company was granted an option to extend
+the lease for another two years. Rent expense charged to operations for the year ended October 31, 2014 amounted to $51,593 of
+which $13,245 was allocated to research and development. Minimum future rental payments under non-cancelable
+operating leases having remaining terms in excess of one year as of October 31, 2014 during the term of the respective lease and
+in the aggregate are as follows: October 31, 2015 $ 51,300 2016 17,100 Total minimum lease payments $ 68,400 End of Notes to Financials F- 13 ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE On December 11, 2014, the
+Company dismissed Robison, Hill and Co. (“Robison”) as the registered independent registered public accountant and
+appointed MaloneBailey, LLP (“MaloneBailey”) as the Company’s registered independent public accounting firm as
+of December 11, 2014. The decisions to appoint MaloneBailey and dismiss Robison were approved by the Board of Directors of the
+Company on December 11, 2014. Other than the disclosure
+of uncertainty regarding the ability for us to continue as a going concern which was included in our accountant’s report
+on the financial statements for the year ended October 31, 2013, Robison’s reports on the financial statements of the Company
+for the year ended October 31, 2013 did not contain an adverse opinion or a disclaimer of opinion, nor were they qualified or modified
+as to uncertainty, audit scope, or accounting principles. For the most recent fiscal year and any subsequent interim period through
+Robison's termination on December 11, 2014, Robison disclosed the uncertainty regarding the ability of the Company to continue
+as a going concern in its accountant’s report on the financial statements. In connection with the
+audit and review of the financial statements of the Company through December 11, 2014, there were no disagreements on any matter
+of accounting principles or practices, financial statement disclosures, or auditing scope or procedures, which disagreements if
+not resolved to their satisfaction would have caused them to make reference in connection with Robison’s opinion to the subject
+matter of the disagreement. In connection with the
+audited financial statements of the Company for the year ended October 31, 2013 and interim unaudited financial statements through
+December 11, 2014, there have been no reportable events with the Company as set forth in Item 304(a)(1)(v) of Regulation S-K. Prior to December 11, 2014,
+the Company did not consult with MaloneBailey regarding (1) the application of accounting principles to specified transactions,
+(2) the type of audit opinion that might be rendered on the Company’s financial statements, (3) written or oral advice was
+provided that would be an important factor considered by the Company in reaching a decision as to an accounting, auditing or financial
+reporting issues, or (4) any matter that was the subject of a disagreement between the Company and its predecessor auditor as described
+in Item 304(a)(1)(iv) or a reportable event as described in Item 304(a)(1)(v) of Regulation S-K. The Company provided a
+copy of the foregoing disclosures to Robison prior to the date of the filing of this report and requested that Robison furnish
+it with a letter addressed to the Securities & Exchange Commission stating whether or not it agrees with the statements in
+this Report. A copy of the letter furnished in response to that request was filed as Exhibit 16.1 to the Company’s Current
+Report on Form 8-K, filed with the SEC on December 11, 2014, incorporated herein by reference. ITEM 9A. CONTROLS AND PROCEDURES Disclosure Controls and Procedures We maintain disclosure
+controls and procedures, as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934 (the "Exchange
+Act"), that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under
+the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange
+Commission's rules and forms and that such information is accumulated and communicated to our management, including our Chief Executive
+Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. A control system, no matter
+how well conceived or operated, can provide only reasonable, not absolute, assurance that the objectives of the control system
+are met. Based on this evaluation,
+our principal executive and principal financial and accounting officer concluded that our disclosure controls and procedures (as
+defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) were not effective as of October 31, 2014. Management’s Report on Internal
+Control Over Financial Reporting Our Management is responsible
+for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(c) and (d) of the
+Exchange Act. Our internal controls are designed to provide reasonable assurance that the reported financial information is presented
+fairly, financial disclosures are adequate and that the judgments inherent in the preparation of financial statements are reasonable
+and in accordance with generally accepted accounting principles of the United States of America (GAAP). Because of its inherent
+limitations, a system of internal control over financial reporting can provide only reasonable assurance and may not prevent or
+detect misstatements. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect
+to financial statement preparation and presentation. Further, because of changes in conditions, effectiveness of internal control
+over financial reporting may vary over time A significant deficiency
+is a control deficiency, or combination of control deficiencies, that adversely affects the company’s ability to initiate,
+authorize, record, process, or report external financial data reliably in accordance with generally accepted accounting principles
+such that there is more than a remote likelihood that a misstatement of the company’s annual or interim financial statements
+that is more than inconsequential will not be prevented or detected. An internal control material weakness is a significant deficiency,
+or combination of significant deficiencies, that results in more than a remote likelihood that a material misstatement of the annual
+or interim financial statements will not be prevented or detected. 26 As part of our compliance
+efforts relative to Section 404 of the Sarbanes-Oxley Act of 2002, our management assessed the effectiveness of our internal control
+over financial reporting as of October 31, 2014. In making this assessment, management used the criteria set forth in the Internal
+Control - Integrated Framework by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”). We evaluated control deficiencies identified through our test of the design and operating effectiveness of controls over financial
+reporting to determine whether the deficiencies, individually or in combination, are significant deficiencies or material weaknesses.
+In performing the assessment, our management has identified material weaknesses in internal control over financial reporting existing
+as of October 31, 2014. Our evaluation of the significance of each deficiency included both quantitative and qualitative factors.
+Based on that evaluation, our management concluded that as of October 31, 2014, and as of the date that the evaluation of the effectiveness
+of our internal controls and procedures was completed, our internal controls are not effective, for the reason discussed below: 1. We do not yet have written documentation of our internal control policies and procedures. Written documentation of key internal controls over financial reporting is a requirement of Section 404 of the Sarbanes-Oxley Act and may be applicable to us in future years. 2. We do not have sufficient segregation of duties within accounting functions, which is a basic internal control. Due to our extremely small size and the fact that we only had one management employee, whom is also an executive officer and director, segregation of all conflicting duties may not always be possible and may not be economically feasible. However, to the extent possible, the initiation of transactions, the custody of assets and the recording of transactions should be performed by separate individuals. 3. We do not currently have full-time accounting personnel, which means we lack the requisite expertise in the key functional areas of finance and accounting. We rely upon a third party accountant firm to assist us in our accounting and reporting. 4. We do not have a functioning audit committee, resulting in ineffective oversight in the establishment and monitoring of required internal controls and procedures. 5. We had not established adequate financial reporting monitoring activities to mitigate the risk of management override, specifically because there are no employees and only one officer and director with management functions and therefore there is lack of segregation of duties. 6. There is a strong reliance on the external auditors and contract accountant to review and adjust the annual and quarterly financial statements, to monitor new accounting principles, and to ensure compliance with GAAP and SEC disclosure requirements. 7. There is a strong reliance on the external attorneys to review and edit the annual and quarterly filings and to ensure compliance with SEC disclosure requirements. In light of the material
+weaknesses described above, we performed additional analysis and other post-closing procedures to ensure our financial statements
+were prepared in accordance with generally accepted accounting principles. Accordingly, we believe that the financial statements
+included in this Report fairly present, in all material respects, our financial condition, results of operations and cash flows
+for the periods presented. In addition, although our
+internal controls are not effective, these significant weaknesses did not result in any material misstatements in our financial
+statements. Our management is committed to improving its internal controls and will (1) continue to use third party specialists
+to address shortfalls in staffing and to assist us with accounting and finance responsibilities, (2) increase the frequency of
+independent reconciliations of significant accounts which is intended to mitigate the lack of segregation of duties until there
+are sufficient personnel and (3) we plan to establish an audit committee in the future. Changes in Internal Control over Financial Reporting There has been no change
+in our internal control over financial reporting identified in connection with our evaluation we conducted of the effectiveness
+of our internal control over financial reporting as of October 31, 2014, that occurred during our fourth fiscal quarter that has
+materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. This annual report does
+not include an attestation report of the Company’s registered public accounting firm regarding internal control over financial
+reporting. Management’s report was not subject to attestation by the Company’s registered public accounting firm
+pursuant to temporary rules of the SEC that permit the Company to provide only management’s report in this annual report. Continuing Remediation Efforts to address
+deficiencies in Company’s Internal Control over Financial Reporting Once the Company has sufficient
+personnel available, then our Board of Directors, in particular and in connection with the aforementioned deficiencies, will establish
+the following remediation measures: 1. Our Board of Directors will nominate an audit committee or a financial expert on our Board of Directors. 2. We will appoint additional personnel to assist with the preparation of the Company’s monthly financial reporting, including preparation of the monthly bank reconciliations. ITEM 9B. OTHER INFORMATION. None. 27 PART III ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 1) Identification of Directors and Executive Officers The following table sets
+forth the names and ages of our current directors and executive officers: Name and Address Age Position Tenure Roger Janssen 6920 Salashan Parkway Suite D101 Ferndale, WA 98248 51 President, CEO, CFO, Director September 17, 2013 to present Earl W. Abbott 3841 Amador Way Reno, NV 89502 73 Vice President of Exploration and Director January 25, 2013 to present 2) Term of Office Each of our officers is elected by the Company’s
+Board of Directors to serve until the next annual meeting of Directors or until their successors are duly elected and qualified.
+Each of our directors is elected by the Company’s Board of Directors and shall hold office until the next annual meeting
+of stockholders and until his/her successor shall have been duly elected and qualified. 3) Biographies and Business Experience of Officers and Directors The business experience
+during the past five years of the person presently listed above as an Officer or Director of the Company is as follows: ROGER JANSSEN , is
+the founder of Key Manufacturing (“Key”), and has acted as president of Key for the past 23 years. In addition to his
+position at Key, Mr. Janssen was a director of Mineralite Corporation, a Company traded on the OTCBB market under the symbol “RITE”
+for the past two years prior to joining 3DX Industries, Inc. Mr. Janssen resigned from his position with Mineralrite on November
+14, 2013. Mr. Janssen has more than thirty years of experience in the manufacturing industry. He has secured lucrative contracts
+within a range of industries: marine, military, automotive, alternative energy, medical, and aerospace. Clients include, but are
+not limited to, Boeing, Raytheon, BE Aerospace, British Petroleum and Intermec. Because of Mr. Janssen’s
+dedication to new technological developments, Key Manufacturing has been able to provide the Puget Sound with high quality manufacturing
+and machine services since 1989. Over the years, Mr. Janssen has proven his ability to reinvent himself by staying profitable even
+through economic lows within the industry, such as after 9/11. One example of this is Mr. Janssen’s keen ability to recognize
+new business opportunities, as he did in 2004, when he added a ZCorp310- 3 D printer, which instigated his current experience with
+additive manufacturing. During his twenty-four year tenor at Key manufacturing, Mr. Janssen has gained immeasurable experience
+in management, operations, human resources, equipment procurement, strategic planning, sales and business development, contract
+negotiation, and financial reporting. Mr. Janssen holds a technical
+degree in precision machining and manufacturing, earned in 1981 from the Sno-Isle Tech Centre in Everett, WA. He is always seeking
+to expand and update his business knowledge, and has actively continued his education by taking financial, business and marketing
+courses at his local community college. Recognizing his impeccable reputation as an industry leader in the area, the Sno-isle Tech
+Centre recruited Mr. Janssen to serve on their advisory board, which he did for the following eight years. Three of those years
+were spent as Chairman of the Board, making decisions about the Centre’s curriculum, as well as approving qualified faculty
+and budget allocations. Mr. Janssen has since acted as a consultant and member of the board to a variety of private and public
+companies within the industry. EARL W. ABBOTT, received
+his Ph.D. in geology at Rice University, Houston, Texas where he studied the tectonics of the western U.S. He has spent a total
+of 43 years exploring for gold, base metals, oil and gas, uranium, and other resources all over the world. Utilizing his education
+and experience, he combines strong management skills with a creative vision that enables him to apply sound scientific principles
+to the search for giant ore deposits. In the early part of his career, his management of an exploration program in Nevada resulted
+in the acquisition of three gold ore bodies that were subsequently mined profitably. During his career, Dr. Abbott
+has been a key member of several large and small mining companies and a consultant to the mining industry continuously for more
+than 31 years. From 2004 to the present day, Dr. Abbott has acted as Director of Big Bar Resources Corporation (TSX-V) assisting
+in exploration in the western U.S., Mexico, and China. From 2008 to 2009, Dr. Abbott was the COO and Director of Uranium 3O8 Corp.
+(OTC-BB), managing a uranium project in Mongolia. In 2009, Dr. Abbott assisted in forming Coyote Resources (OTC-BB) and acted as
+President and CEO until 2012, exploring a gold project and a silver project in Nevada. During 2012 and 2013, Dr. Abbott aided in
+the formation of a private company called New Century Energy and Resources to perform exploration for projects in Mongolia. Dr. Abbott is active in
+his profession, having been a member and served as an executive of professional mining associations. As a result, he has an extensive
+network of technical as well as leadership contacts. He is a Certified Professional Geologist (C.P.G., No. 7611) by the American
+Institute of Professional Geologists (AIPG) as well as being the past President of the Nevada Chapter. He is also a member and
+past President of the Geological Society of Nevada (GSN), a member and past President of the Nevada Petroleum & Geothermal
+Society (NPGS), a member and past President of the Denver Region Exploration Geologists Society (DREGS), a member of the Society
+of Economic Geologists (SEG), a member of the Society for Mining, Metallurgy, and Exploration (SME), a member of the Geological
+Society of America (GSA), a member of the Association For Mineral Exploration British Columbia (AMEBC), and a member of the Prospectors
+and Developers Association of Canada (PDAC). Dr. Abbott is a Qualified Person under the rules of National Instrument 43-101. 28 4) Identification of Significant Employees We currently have no significant
+employees other than our officers and directors, Roger Janssen and Dr. Earl Abbot. 5) Family
+Relationships We currently do not have any officers or directors of
+our Company who are related to each other. 6) Involvement in Certain Legal Proceedings : During the past
+ten years no director, executive officer, promoter or control person of the Company has been involved in the following: (1) A petition under the Federal bankruptcy laws or any state insolvency
+law which was filed by or against, or a receiver, fiscal agent or similar officer was appointed by a court for the business or
+property of such person, or any partnership in which he was a general partner at or within two years before the time of such filing,
+or any corporation or business association of which he was an executive officer at or within two years before the time of such
+filing; (2) Such person was convicted in a criminal proceeding or is a named
+subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (3) Such person was the subject of any order, judgment, or decree, not
+subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from,
+or otherwise limiting, the following activities: (i) Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity
+pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission,
+or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as
+an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company,
+or engaging in or continuing any conduct or practice in connection with such activity; (ii) Engaging in any type of business practice; or (iii) Engaging in any activity in connection with the purchase or sale of any security or commodity
+or in connection with any violation of Federal or State securities laws or Federal commodities laws; (4) Such person was the subject of any order, judgment or decree, not
+subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more
+than 60 days the right of such person to engage in any activity described in paragraph (f)(3)(i) of this section, or to be associated
+with persons engaged in any such activity; (5) Such person was found by a court of competent jurisdiction in a civil
+action or by the Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding
+by the Commission has not been subsequently reversed, suspended, or vacated; (6) Such person was found by a court of competent jurisdiction in a civil
+action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil
+action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated; (7) Such person was the subject of, or a party to, any Federal or State
+judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an
+alleged violation of: (i) Any Federal or State securities or commodities law or regulation; or (ii) Any law or regulation respecting financial institutions or insurance companies including,
+but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary
+or permanent cease-and-desist order, or removal or prohibition order; or (iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business
+entity; or (8) Such person was the subject of, or a party to, any sanction or order,
+not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange
+Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))),
+or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated
+with a member. 29 7) Audit Committee and Audit Committee
+Financial Expert The Company does not have
+an audit committee or an audit committee financial expert (as defined in Item 407 of Regulation S-K) serving on its Board of Directors.
+All current members of the Board of Directors lack sufficient financial expertise for overseeing financial reporting responsibilities.
+The Company has not yet employed an audit committee financial expert on its Board due to the inability to attract such a person. The Company intends to
+establish an audit committee of the board of directors, which will consist of independent directors. The audit committee’s
+duties will be to recommend to the Company’s board of directors the engagement of an independent registered public accounting
+firm to audit the Company’s financial statements and to review the Company’s accounting and auditing principles. The
+audit committee will review the scope, timing and fees for the annual audit and the results of audit examinations performed by
+the internal auditors and independent registered public accounting firm, including their recommendations to improve the system
+of accounting and internal controls. The audit committee will at all times be composed exclusively of directors who are, in the
+opinion of the Company’s board of directors, free from any relationship which would interfere with the exercise of independent
+judgment as a committee member and who possess an understanding of financial statements and generally accepted accounting principles. 8) Code Of Ethics Our board of directors
+has not adopted a code of ethics due to the fact that we presently only have two directors and we are in the start-up stage of
+our operations. We anticipate that we will adopt a code of ethics when we increase either the number of our directors and officers
+or the number of our employees. 9) Section 16(a) Beneficial Ownership Reporting Compliance We
+do not yet have a class of equity securities registered under the Securities Exchange Act of 1934, as amended. Hence,
+compliance with Section 16(a) thereof by our officers and directors is not required. 30 ITEM 11. EXECUTIVE COMPENSATION Compensation of Officers The following tables set
+forth certain information about compensation paid, earned or accrued for services by our executive officers in the fiscal years
+ended October 31, 2014 and October 31, 2013. A summary of cash and other
+compensation paid in accordance with management consulting contracts for our executives for the most recent two years is as follows: Name and Principal Position Title Year Salary ($) Bonus ($) Stock Awards ($) Option Awards ($) Non-Equity Incentive Plan Compensation ($) Nonqualified Deferred Compensation Earnings ($) All other compensation ($) Total ($) (a) (b) (c) (d) (e) (f) (g) (h) (i) (j) Roger Janssen (1) (2) President, CEO, CFO and Director 2013 $ -0- $ -0- $ -0- -0- -0- -0- -0- $ -0- 2014 $ -162,421- $ -0- $ 4,800,000 -0- -0- -0- -0- $ 4,962,421 Ron Ruskowsky (3) Former President, CEO, CFO and Director 2013 $ -0- $ -0- $ -0- -0- -0- 148,077 (4) 180,000 $ 328,077 2014 $ -0- $ -0- $ -0- -0- -0- -0- -0- $ -0- Notes to Summary Compensation Table: (1) Mr. Janssen was appointed to serve as
+President, CEO, CFO and Director of the Company on September 17, 2013. (2) The Company entered into that certain Executive Employment Agreement (the “Employment
+Agreement”) with Roger Janssen, an individual (“Mr. Janssen”), which the parties mutually agreed would be effective
+as of November 23, 2013 (the “Employment Agreement Effective Date”). Mr. Janssen employment agreement is for a term
+of three (3) years which shall be automatically renewed in one (1) year increments unless terminated within the sole discretion
+of the Company’s Board of Directors. As consideration for services rendered pursuant to the Employment Agreement, Mr. Janssen
+received: (i) a total of Thirty Million (30,000,000) restricted shares of common stock of the Company, valued at $0.001 per share,
+as a signing bonus; and receives (ii) a base salary equal to One Hundred and Eighty Thousand USD ($180,000) per year, payable on
+a monthly basis. During the fiscal year ended October 31, 2014 Mr. Janssen was paid $13,286 of a total of $162,241 charged under
+the terms of his Employment Agreement. A total of $149,135 was accrued for services rendered. (3) Mr. Ruskowsky served as an Officer and Director of the Company from January 4, 2010 to September
+17, 2013 when he resigned from all positions with the Company. Mr. Ruskowsky provided consulting services to the Company through
+Santeo Financial Corp, his wholly owned corporation. (4) Fair value of option granted to Santeo Financial Corp to convert $175,000 of accrued compensation
+into shares of the Company’s common stock. Narrative Disclosure to Summary Compensation
+Table The Company has no plans
+to provide for group health insurance to employees, the payment of retirement benefits, or benefits that will be paid primarily
+following retirement. The Company has no agreement that provides for payment to executive officers at, following, or in connection
+with the resignation, retirement or other termination, or a change in control of Company or a change in any executive officer's
+responsibilities following a change in control. In January 2010, an agreement
+went into effect whereby the Company paid Santeo Financial Corp (“Santeo”), a company affiliated with former CEO Ron
+Ruskowsky, for consulting services of $8,000 a month on a month-to-month basis. On July 1, 2011, the consulting agreement was amended
+to increase the monthly payment to $15,000. On January 15, 2013, the Company granted Santeo the option to convert up to $43,750
+in accrued compensation due it into shares of the Company’s common stock at a conversion price of $0.001 per share, and to
+convert $131,250 of accrued compensation due it into shares of the Company’s common stock at a conversion price of $0.01
+per share. At October 31, 2014, the amount of accrued compensation due to Santeo was $320,022, including the $174,000 covered by
+the above indicated option. Other than the Employment
+Agreement with Roger Janssen discussed above in Footnote 2 to the Summary Compensation Table, there are no other employment contracts,
+compensatory plans or arrangements, including payments to be received from the Company with respect to any executive officer, that
+would result in payments to such person because of his or her resignation, retirement or other termination of employment with the
+Company, or its subsidiaries, any change in control, or a change in the person’s responsibilities following a change in control
+of the Company. Outstanding Equity Awards at Fiscal Year-End The executive officer did
+not receive any equity awards, nor does he hold exercisable or unexercisable options, as of the years ended October 31, 2014 and
+2013. Long-Term Incentive Plans The Company has no arrangements
+or plans in which we provide pension, retirement or similar benefits for directors or executive officers, no are there any option,
+stock award, or long-term incentive plans. Compensation of Directors Our directors received
+no extra compensation for their services on the Company’s Board of Directors. There are no employment contracts, compensatory
+plans or arrangements, including payments to be received from the Company with respect to any Director that would result in payments
+to such person because of his or her resignation with the Company, or its subsidiaries, any change in control of the Company. There
+are no agreements or understandings for any Director to resign at the request of another person. None of our Directors or executive
+officers acts or will act on behalf of or at the direction of any other person. Compensation Committee We currently do not have
+a compensation committee of the Board of Directors. The Board of Directors as a whole determines executive compensation. 31 ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS Security Ownership of Certain Beneficial Owners and Management The following table lists,
+as of February 13, 2015, the number of shares of common stock that are beneficially owned by (i) each person or entity known to
+the Company to be the beneficial owner of more than 5% of the outstanding common stock; (ii) each officer and director of the Company;
+and (iii) all officers and directors as a group. Information relating to beneficial ownership of common stock by principal shareholders
+and management is based upon information furnished by each person using “beneficial ownership” concepts under the rules
+of the Securities and Exchange Commission. Under these rules, a person is deemed to be a beneficial owner of a security if that
+person has or shares voting power, which includes the power to vote or direct the voting of the security, or investment power,
+which includes the power to vote or direct the voting of the security. The person is also deemed to be a beneficial owner of any
+security of which that person has a right to acquire beneficial ownership within 60 days. Under the Securities and Exchange Commission
+rules, more than one person may be deemed to be a beneficial owner of the same securities, and a person may be deemed to be a beneficial
+owner of securities as to which he or she may not have any pecuniary beneficial interest. Except as noted below, each person has
+sole voting and investment power. As of February 13, 2015,
+there are 37,462,000 shares of common stock issued and outstanding, and no warrant or options outstanding. Name and Address of Beneficial Owner, Directors and Officers: Amount and Nature of Beneficial Ownership(1) Percentage of Beneficial Ownership (2) Roger Janssen (3) 6920 Salashan Pkwy Ferndale, WA 98248 30,002,000 80.09% Earl W. Abbott (4) 3841 Amador Way Reno, NV 89502 600 0.001% All executive officers and directors as a group (2 people) 30,002,600 80.09% Beneficial Shareholders greater than 5% Santeo Financial Corp. Suite #368, 16 Midlake Blvd SE Calgary AB T2X 2X7 3,742,453(5) 9.99% (1)	Percentage ownership is determined based
+on shares owned together with securities exercisable or convertible into shares of common stock within 60 days of the date of this
+Annual Report for each stockholder. Beneficial ownership is determined in accordance with the rules of the SEC and generally includes
+voting or investment power with respect to securities. Shares of common stock subject to securities exercisable or convertible
+into shares of common stock that are currently exercisable or exercisable within 60 days of the date of this Annual Report are
+deemed to be beneficially owned by the person holding such securities for the purpose of computing the percentage of ownership
+of such person, but are not treated as outstanding for the purpose of computing the percentage ownership of any other person. Our
+common stock is our only issued and outstanding class of securities eligible to vote. (2) Applicable percentage of ownership
+is based on 37,462,000 shares of common stock outstanding, and no warrants or options outstanding as of February 13, 2015. (3) Roger Janssen is the President, CEO,
+CFO, and Director of the Company. His beneficial ownership includes 30,002,000 common shares. (4) Earl Abbot is a Director of the Company
+and Vice President of Exploration. His beneficial ownership includes 600 common shares. (5) On January 15, 2013, Santeo Financial
+Corp, was granted the option to convert up to $43,750 in accrued compensation due it into shares of the Company’s common
+stock at a conversion price of $0.001 per share, and to convert $131,250 of accrued compensation due it into shares of the Company’s
+common stock at a conversion price of $0.01 per share. Effective December 18, 2013, the Company and Santeo agreed to institute
+an ownership limitation, under which no issuance of common stock shares of the Corporation to Santeo shall result in the issuance
+of more than that number of common stock shares, if any, such that, upon issuance, the aggregate beneficial ownership of the Corporation’s
+Common Stock (calculated pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended) of Santeo and all persons affiliated
+with Santeo (“Beneficial Ownership”) is more than 9.99% of the Corporation’s Common Stock then outstanding. Thus,
+based on 37,462,000 shares issued and outstanding as of the date of this report, Santeo has the option to convert a portion of
+the debt owed by the Company to Santeo equivalent to a maximum of 3,742,453 shares of common stock. Changes in Control There are no present arrangements
+or pledges of the Company’s securities which may result in a change in control of the Company. 32 ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE Director Independence For purposes of determining
+director independence, we have applied the definitions set out in NASDAQ Rule 5605(a)(2). The OTCBB on which shares of common stock
+are quoted does not have any director independence requirements. The NASDAQ definition of “Independent Officer” means
+a person other than an Executive Officer or employee of the Company or any other individual having a relationship which, in the
+opinion of the Company's Board of Directors, would interfere with the exercise of independent judgment in carrying out the responsibilities
+of a director. According to the NASDAQ
+definition, Roger Janssen is not an independent director because he is also an executive officer of the Company. According to the
+NASDAQ definition, Earl W. Abbott is not an independent director because he is also a shareholder of the Company. Related Party Transactions Effective November 23,
+2013, the Company entered into an employment agreement with its President and Chief Executive Officer, Roger Janssen. Under the
+terms of the agreement, Mr. Janssen will receive a base salary of $15,000 a month over the three-year term of the agreement. At
+the sole discretion of the board of directors, Mr. Janssen may be granted performance bonuses and may also participate in any incentive
+plans that the Company may establish. In addition, Mr. Janssen received 30,000,000 shares of the Company’s restricted common
+stock as a signing bonus. The shares were valued at $4,800,000 based upon the trading price of the shares on the date of grant.
+Officer’s compensation for the year ended October 31, 2014 amounted to $4,969,000 including the indicated stock based compensation
+of $4,800,000. Accrued compensation due Mr. Janssen as of October 31, 2014 amounted to $155,714, which is included in the balance
+of other payables – related parties as reflected in the accompanying balance sheet. The $155,714 is net of $13,286 that was
+actually paid to Mr. Janssen during the year ended October 31, 2014. On December 18, 2013, the
+Company purchased various equipment relating to its 3D metal printing operation from Mr. Janssen for $500,000. The $500,000 is
+evidenced by a promissory note assessed interest at an annual rate of 1.64%. Accrued interest is payable quarterly with the Principal
+balance and any unpaid accrued interest fully due and payable on December 15, 2018. Mr. Janssen has the right to convert any outstanding
+principal and accrued interest into restricted shares of the of the Company’s common stock at a conversion price of $0.50
+per share. The balance due Mr. Janssen at October 31, 2014 totaled $507,122 of which the accrued interest of $7,022 was classified
+as a short-term liability and the $500,000 was classified as a long-term liability. The accrued interest of $7,022 was charged
+to operations. The Company has not paid any accrued interest. During the year ended
+October 31, 2014, Mr. Janssen advanced the Company a total of $44,742, which was fully repaid during the year. Other than the foregoing,
+none of the directors or executive officers of the Company, nor any person who owned of record or was known to own beneficially
+more than 5% of the Company’s outstanding shares of its Common Stock, nor any associate or affiliate of such persons or companies,
+has any material interest, direct or indirect, in any transaction that has occurred during the past fiscal year, or in any proposed
+transaction, which has materially affected or will affect the Company. With regard to any future
+related party transaction, we plan to fully disclose any and all related party transactions in the following manner: · Disclosing such transactions in reports where required; · Disclosing in any and all filings with the SEC, where required; · Obtaining disinterested directors consent; and · Obtaining shareholder consent where required. Review, Approval or Ratification of Transactions
+with Related Persons We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this
+item. 33 ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES Our principal independent
+accountant is MaloneBailey, LLP. Prior to December 11, 2014, our principal independent accountant was Robison, Hill & Co. Pre-approved
+fees billed to the Company are set forth below: Year Ended October 31, 2014 Year Ended October 31, 2013 Audit fees $ 52,430 $32,858 Audit-related fees $ nil $ nil Tax fees $ nil $ nil All other fees $ nil $ nil Total $ $32,858 Audit Fees During the fiscal
+year ended October 31, 2014, we incurred approximately $52,430 in fees to our principal independent accountants and former independent
+accounts for professional services rendered in connection with the audit and review of our financial statements for fiscal year
+ended October 31, 2014. During the fiscal
+year ended October 31, 2013, we incurred approximately $32,858 in fees to our principal independent accountants for professional
+services rendered in connection with the audit and review of our financial statements for fiscal year ended October 31, 2013. Audit-Related Fees The aggregate
+fees billed during the fiscal years ended October 31, 2014 and 2013 for assurance and related services by our principal independent
+accountants that are reasonably related to the performance of the audit or review of our financial statements (and are not reported
+under Item 9(e)(1) of Schedule 14A) was $nil and $nil respectively. Tax Fees The
+aggregate fees billed during the fiscal years ended October 31, 2014 and 2013 for professional
+services rendered by our principal accountant tax compliance, tax advice and tax planning were $nil and $nil, respectively. All Other Fees The aggregate
+fees billed during the fiscal years ended October 31, 2014 and 2013 for products and services provided by our principal independent
+accountants (other than the services reported in Items 9(e)(1) through 9(e)(3) of Schedule 14A) was $nil and $ nil, respectively. 34 PART IV ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULE (a) The following Exhibits, as required by
+Item 601 of Regulation S-K, are attached or incorporated by reference, as stated below. Number Description Filing 3.01 Articles of Incorporation Filed with the SEC on January 6, 2009 as part of our Registration Statement on Form S-1. 3.02 Bylaws Filed with the SEC on January 6, 2009 as part of our Registration Statement on Form S-1. 3.03 Amended Articles of Incorporation Filed with the SEC on March 22, 2010 as part of our Quarterly Report on Form 10-Q. 4.04 Amended Articles of Incorporation, effective November 18, 2013 File with the SEC on December 31, 2013 as part of our Current Report on Form 8-K. 10.01 Assignment of Exploration Agreement between the Company and Carlin Gold Resources, Inc., dated February 22, 2010 Filed with the SEC on March 4, 2010 as part of our Current Report on Form 8-K. 10.02 Exploration Agreement by and between Carlin Gold Resources, Inc. and Trio Gold Corp dated January 28, 2010 Filed with the SEC on March 4, 2010 as part of our Current Report on Form 8-K. 10.03 Agreement between the Company and St. Elias Mines Ltd. dated April 16, 2010 Filed with the SEC on June 21, 2010 as part of our Quarterly Report on Form 10-Q. 10.04 Revision to Exploration Agreement by and between Carlin Gold Resources, Inc. and Trio Gold Corp dated February 24, 2010 Filed with the SEC on February 15, 2011 as part of our Annual Report on Form 10-K. 10.05 Purchase and Sale Agreement between the Company and Warrior Ventures, Inc. dated March 24, 2011 Filed with the SEC on June 8, 2011 as part of our Current Report on Form 8-K. 10.06 Executive Employment Agreement, dated December 18, 2013 by and between 3DX Industries, Inc. and Roger Janssen File with the SEC on December 31, 2013 as part of our Current Report on Form 8-K. 10.07 Equipment Purchase Agreement, dated December 18, 2013 by and between 3DX Industries, Inc. and Roger Janssen File with the SEC on December 31, 2013 as part of our Current Report on Form 8-K. 10.08 Acquisition and Option Agreement, dated October 8, 2013 by and between the Company and Trio Gold Corp. Filed with the SEC on October 23, 2013 as part of our Current Report on Form 8-K. 10.09 Agreement between the Company and Dragon Resource Holdings Inc. dated November 9, 2012 Filed with the SEC on November 19,
+2012 as part of our Current Report on Form 8-K. 16.01 Letter from Robison, Hill and Co. dated December 11, 2014 Filed with the SEC on December 11, 2014 as part of our Current Report on Form 8-K. 31.01 Certification of Principal Executive Officer Pursuant to Rule 13a-14 Filed herewith. 31.02 Certification of Principal Financial Officer Pursuant to Rule 13a-14 Filed herewith. 32.01 CEO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act Filed herewith. 32.02 CFO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act Filed herewith. 101.INS* XBRL Instance Document Filed herewith. 101.SCH* XBRL Taxonomy Extension Schema Document Filed herewith. 101.CAL* XBRL Taxonomy Extension Calculation Linkbase Document Filed herewith. 101.LAB* XBRL Taxonomy Extension Labels Linkbase Document Filed herewith. 101.PRE* XBRL Taxonomy Extension Presentation Linkbase Document Filed herewith. 101.DEF* XBRL Taxonomy Extension Definition Linkbase Document Filed herewith. 35 SIGNATURES Pursuant to the requirements
+of Section 13 or 15(d) of the Securities Exchange Act, the Company caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 3DX Industries, Inc. Date: February 13, 2015 By: /s/ Roger Janssen Name: Roger Janssen Title: Chief Executive Officer Chief Financial Officer President, CEO and a director Pursuant to the requirement
+of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Company and
+in the capacities and on the dates indicated: Date: February 13, 2015 By: /s/ Roger Janssen Name: Roger Janssen Title: Director Date: February 13, 2015 By: /s/ Earl W. Abbott Name: Earl W. Abbott Title: Director SUPPLEMENTAL INFORMATION TO BE FURNISHED
+WITH REPORTS FILED PURSUANT TO SECTION 15(d) OF THE EXCHANGE
+ACT BY NON-REPORTING ISSUERS 1. No annual report to security holders covering the company’s last fiscal year has been sent as of the date of this report. 2. No proxy statement, form of proxy, or other proxy soliciting material relating to the company’s last fiscal year has been sent to any of the company’s security holders with respect to any annual or other meeting of security holders. 3. If such report or proxy material is furnished to security holders subsequent to the filing of this Annual Report on Form 10-K, the company will furnish copies of such material to the Commission at the time it is sent to security holders. 36 EX-31.01 2 dddx0213form10kexh31_01.htm EXHIBIT 31.01 Exhibit 31.01 CERTIFICATION OF THE
+PRINCIPAL EXECUTIVE OFFICER PURSUANT TO RULE 13a-14 I, Roger Janssen, certify
+that: 1. I have reviewed this
+annual report on Form 10-K of 3DX Industries, Inc.; 2. Based on my knowledge,
+this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by
+this report; 3. Based on my knowledge,
+the financial statements, and other financial information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 4. The registrant’s
+other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: (a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; (b) Designed such
+internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles; (c) Evaluated
+the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and (d) Disclosed in this report
+any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or
+is reasonably likely to materially affect, the registrant’s internal control over financial reporting; and 5. The registrant’s
+other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing
+the equivalent functions): (a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting
+which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report
+financial information; and (b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s
+internal control over financial reporting. Date: February 13, 2015 By: /s/ Roger Janssen Name: Roger Janssen Title: Chief Executive Officer Chief Financial Officer President, CEO and a director EX-31.02 3 dddx0213form10kexh31_02.htm EXHIBIT 31.02 Exhibit 31.02 CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER
+PURSUANT TO RULE 13a-14 I, Roger Janssen, certify that: 1. I have reviewed this annual report on Form
+10-K of 3DX Industries, Inc.; 2.	Based on my knowledge, this report does
+not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results
+of operations and cash flows of the registrant as of, and for, the periods presented in this report; 4.	The registrant’s other certifying
+officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))
+for the registrant and have: (a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; (b) Designed such internal control over
+financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles; (c) Evaluated
+the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and (d) Disclosed
+in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s
+most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant’s internal control over financial reporting; and 5. The registrant’s other
+certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons
+performing the equivalent functions): (a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information;
+and (b) Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant’s internal control over
+financial reporting. Date: February 13, 2015 By: /s/ Roger Janssen Name: Roger Janssen Title: Chief Executive Officer Chief Financial Officer President, CEO and a director EX-32.01 4 dddx0213form10kexh32_01.htm EXHIBIT 32.01 Exhibit 32.01 CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 In connection with the Annual Report of 3DX
+Industries, Inc. (the “Company”) on Form 10-K for the period ending October 31, 2014 as filed with the Securities
+and Exchange Commission on the date hereof (the “Report”), I, Roger Janssen, certify, pursuant to 18 U.S.C. § 1350,
+as adopted pursuant to § 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and belief: (1) The
+Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and (2) The
+information contained in the Report fairly presents, in all material respects, the financial condition and result of operations
+of the Company. Date: February 13, 2015 By: /s/ Roger Janssen Name: Roger Janssen Title: Chief Executive Officer Chief Financial Officer President, CEO and a director A signed original of this written statement
+required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in
+typed form within the electronic version of this written statement has been provided to the Company and will be retained by the
+Company and furnished to the Securities and Exchange Commission or its staff upon request. EX-32.02 5 dddx0213form10kexh32_02.htm EXHIBIT 32.02 Exhibit 32.02 CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 In connection with the Annual Report of 3DX
+Industries, Inc. (the “Company”) on Form 10-K for the period ending October 31, 2014 as filed with the Securities
+and Exchange Commission on the date hereof (the “Report”), I, Roger Janssen, certify, pursuant to 18 U.S.C. § 1350,
+as adopted pursuant to § 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and belief: (1) The
+Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and (2) The
+information contained in the Report fairly presents, in all material respects, the financial condition and result of operations
+of the Company. Date: February 13, 2015 By: /s/ Roger Janssen Name: Roger Janssen Title: Chief Executive Officer Chief Financial Officer President, CEO and a director A signed original of this written statement
+required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in
+typed form within the electronic version of this written statement has been provided to the Company and will be retained by the
+Company and furnished to the Securities and Exchange Commission or its staff upon request. GRAPHIC 6 dddxlogo.jpg GRAPHIC begin 644 dddxlogo.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_X1#N17AI9@``34T`*@````@`!`$[``(`
+M```,```(2H=I``0````!```(5IR=``$````8```0SNH&%P+S$N,"\`/#]XFMC.60G/SX-"CQX.GAM&UL;G,Z>#TB861O8F4Z;G,Z;65T82\B/CQR9&8Z4D1&('AM;&YS.G)D9CTB
+M:'1T&UL;G,Z M)R$;'24=%Q@B+B(E*"DK+"L:("\S+RHR)RHK*O_;`$,!!P@("@D*%`L+%"H<
+M&!PJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*O_``!$(`)P!,`,!(@`"$0$#$0'_Q``?```!!0$!`0$!`0``````
+M`````0(#!`4&!P@)"@O_Q`"U$``"`0,#`@0#!04$!````7T!`@,`!!$%$B$Q
+M008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I*C0U-C H.$A8:'B(F*DI.4
+ME9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q+C
+MY.7FY^CIZO'R\_3U]O?X^?K_Q``?`0`#`0$!`0$!`0$!`````````0(#!`4&
+M!P@)"@O_Q`"U$0`"`0($!`,$!P4$!``!`G7J"@X2%AH>(B8J2DY25EI>8F9JB
+MHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(R KR
+M\_3U]O?X^?K_V@`,`P$``A$#$0`_`/I&BBB@`K&U+Q/8:3=>1?+.C8R#Y>0P
+M]C6S5/4]+M=6LVM[V,.IZ'NI]0:SJ*;C^[>I,N:WN[F/_P`)YHO]^;_OW1_P
+MGFB_WYO^_=A3Y8&6V8_),!Q]#Z&L3=7ASQ^)IRY9))GGRQ-6+LT>
+MJ?\`">:+_?F_[]T?\)YHO]^;_OW7E>ZC=4?VE7\B?K50]4_X3S1?[\W_`'[H
+M_P"$\T7^_-_W[KRO=1NH_M*OY!]:J'JG_">:+_?F_P"_='_">:+_`'YO^_=>
+M5[J-U']I5_(/K50]4_X3S1?[\W_?NC_A/-%_OS?]^Z\KW4;J/[2K^0?6JAZI
+M_P`)YHO]^;_OW1_PGFB_WYO^_=>5[J-U']I5_(/K50]4_P"$\T7^_-_W[H_X
+M3S1?[\W_`'[KRO=1NH_M*OY!]:J'JG_">:+_`'YO^_='_">:+_?F_P"_=>5[
+MJ-U']I5_(/K50]4_X3S1?[\W_?NC_A/-%_OS?]^Z\KW4;J/[2K^0?6JAZI_P
+MGFB_WYO^_='_``GFB_WYO^_=>5[J-U']I5_(/K50]4_X3S1?[\W_`'[H'CO1
+M20/,F'_;,UY7NHW4?VE7\@^MU#W6&6.>%)87#QN,JRG((I]>9^#O%7]FS"QO
+MG/V20_*Q_P"69_PKTP$,`0JG_">:+_?F_P"_=>6RS/-*TDK%G8Y+$\DTW=7A2S*LWHE8\YXN
+M=]#U3_A/-%_OS?\`?NC_`(3S1?[\W_?NO*]U:_AW09]>OA&F4@3F67'W1Z?6
+MB&/Q,Y*,4KCCB:LG9'J&DZY:ZR)&LA*4CX+.F!GTK1J"RLX-/LX[:U0)%&,`
+M#^?UJ>O>AS**Y]ST(WM[VX4445904444`1SP174#PW$:R1N,,K#((KS7Q1X+
+MFTS?>::&EM.K)U:/_$>]>G4$9R*YJ^'A7C:6_ ZC=7JM]X!T
+MB^NWN!YUN7Y*0E0N?7!!JO\`\*VTC_GXO/\`OI?_`(FO&>75KZ6//>%J'F6Z
+MC=7IO_"MM(_Y^+S_`+Z7_P")H_X5MI'_`#\7G_?2_P#Q-']G5_(/JM0\RW4;
+MJ]-_X5MI'_/Q>?\`?2__`!-'_"MM(_Y^+S_OI?\`XFC^SJ_D'U6H>9;J-U>D
+MR_#33F4^3>7*'L6VM_05ROB#P;?:'$;@.MQ;`X,B#!7ZBLJF#K4US-:& :,URV,+DFZC=4>:[GPOX.TW6]$2[N)KA)-Y5@C+CCZBM:5&567
+M+$TIP=1VB<5NHW5Z;_PK;2/^?B\_[Z7_`.)H_P"%;:1_S\7G_?2__$UU?V=7
+M\C?ZK4/,MU&ZO3?^%;:1_P`_%Y_WTO\`\31_PK;2/^?B\_[Z7_XFC^SJ_D'U
+M6H>9;J-U>E2_#7367]U=W*'_`&MI_H*YK7O`U]I$+7%NXNX%^\57#*/4CTK.
+MI@JT%=HB5"I%7:.:W4;JCS1FN2QSW)-U=YX(\6!=FE:E)A2<02,>G^R?Z5Y_
+MF@-@Y!YK:C5E1GS1-*=1TY71]`45QG@GQ:-0C33=0D_TI1B)V/\`K`.WUKH=
+M=UNVT'3FN;DY8\1Q@\NWI7TL*\)T_:7T/7C5C*'/T*_B7Q%#H%ANX>YD&(H_
+MZGVKR.[O)KVZDN+ER\DARS$TNIZI 2V
+M/+K5G4?D2;J-U1YJ_H^DW6M:@EK9IDGEF/1!ZFN6,')V1BKMV18T'1;G7=06
+MW@!"#F23'""O7M,TVWTFQ2TM$VHG4GJQ[D^]1Z-H]MHFGK:VB^[N>KMZFK]?
+M1X3"JA&[^)GKT**IJ[W"BBBNTZ`HHHH`****`"BBB@`H)"@DG`'4FB@\]:`*
+MW]HV7_/W!_W\%']HV7_/W!_W\%G7%O) M:3S!M6<1/&MJW*2/\LC#T-)NJ/-&:\JQP$FZO5/ALY;P]*#T68X_(5Y/FO4?
+MA>Q.BW8)X$PQ_P!\UW8'2LCJPC_>G;T445[Y[`4444`%!`(((R#U%%%`'D?C
+MK1$T?61);+MM[D;U4=%/ TD[K*0/Q'_UJ\OS7SF*IJ%9
+MI'BXB*A4:1)NHW5'FC- :EMH7NKJ."+&^1@JY.!D^]*UQ:EK3-.N=6
+MOX[2R3?(Y_`#N3[5[)X?T"VT#3Q!``TK`&67'+G_``]J@\,>&H/#VGA!MDNI
+M!F67'7V'L*W*]W"854ES2W_(]?#T/9KFEN%%%%=YUA1110`4444`%%%%`!11
+M10`4444`%<7XP\#QZHKWVE*L=X.7C'"R_P"#?SKM**SJ4XU(\LB)TXU(VD?/
+M$L,L$K131LCH"LK\QX'NHW4UW+.S'N &Y6/1ISC\A7;@E^^.O!_Q3M****]P]D****`"BBD9E1"[L%51DDG``H`
+MX;XI3A-)LXOXGE+?@!_]>O+MU=#XX\0)KNN$VS;K:`>7&?[WJ?Q- U\Y*[*P9200BV
+M+76H2B-!T'=SZ`=S5'Q)XIL?#=ION&\RX Z_?&YOY
+M-W9(QPJ#T`KDKXE4M%N 5YHS7G_`%NMW//^N5>YZI_PMBQ_Z!T__?:T?\+8L?\`H'3_`/?:UY7FC-'U
+MNMW#ZY5[GJG_``MBQ_Z!T_\`WVM'_"V+'_H'3_\`?:UY7FC-'UNMW#ZY5[GJ
+MG_"V+'_H'3_]]K1_PMBQ_P"@=/\`]]K7E>:,T?6ZWI2?%FU"_NM,E
+M8^C2`?T- N:S1FHGB*LU9LB>(J35FQV:
+M,TW-&:Y[&`[-=QX5\>6GA_1192V :,UO\`6ZW YZI_P`+
+M8L?^@=/_`-]K1_PMBQ_Z!T__`'VM>5YHS1];K=P^N5>YZD_Q9M`O[O3)F;T,
+M@% :AKT)MD5;2U/WHT))?ZGO]*Y3-&:B>(JS5FR)8FK-6;'9HS3 F6VKZ?)9WT>^*0Y&$8QY4M#P;Q)X>NO#FI-;
+MS_/$W,4H'#K_`(^HK'S7T!KFB6NO:8]G>+P>4<=4;U%>':WHUUH.IO9WJ89>
+M5Q%>/B,.Z3NMCR,10=)W6Q0S3DD:-PZ,593D$'!!J/-&:Y+')KAL3S>Y/JQ>[>_M75S1>=`\>]H]XQN0X(^AKE6^&N@2.6=;EF8Y),Q))K&K[1J
+MU,QJ^T:M3/'KV^N=1O)+J]E:::0Y9F-05[-_PK+P]_ _N7'_
+M`']->=]3JO>QYGU*J]6>,T5[-_PK+P]_ _N7'_?TT?4ZGD'U
+M*KY'C-%>S?\`"LO#W]RX_P"_IH_X5EX>_N7'_?TT?4ZGD'U*KY'C-%>S?\*R
+M\/?W+C_OZ:/^%9>'O[EQ_P!_31]3J>0?4JOD>,T5[-_PK+P]_ 'O[EQ_W]-'U.IY!]2J^1XS17LW_"LO#W]RX_[^FC_A67A[^Y]_31]3J>
+M0?4JOD>,T5[-_P`*R\/?W+C_`+^FC_A67A[^Y]_31]3J>0?4JOD>,T5[-_
+MPK+P]_ _N7'_`']-'U.IY!]2J^1XS17LW_"LO#W]RX_[^FC_
+M`(5EX>_N7'_?TT?4ZGD'U*KY'C-%>S?\*R\/?W+C_OZ:/^%9>'O[EQ_W]-'U
+M.IY!]2J^1XS17LW_``K+P]_ 'O[EQ_W]-'U.IY!]2J^1XS1R
+M:]F_X5EX>_N7'_?TU8L?A]H-A>QW,WS9;[L40^](WH/ZGM7I
+MTZ:IQY8GJTZ 5%?Q=XLM/"FDFXFQ) '+;Q)IA@F`29,F&7'*-_A7.?#KQXOB"V73=4%],\0F-M1A)>+A71MK8],^E9'_"LO#W]RX_[^FO*E@IW]W8\J6!GS>Z]#QF
+MI(+B6UN$GMW:.6-@RNIP0:]B_P"%9>'O[EQ_W]-'_"LO#W]RX_[^FE]3J^1/
+MU*KY$G@KQC'XBM?L]V5CU")?F'02C^\/ZBNKKEK7X>:+974=Q:FZBFC; E2YU&T]SU*7M%&U3PKR
+MZ[^+?B6YE)MC;VR9X5(MWZMFF>*=%\3>)?%MS=G2+P122^7"6B("Q@X'T]?Q
+MKV#0O#&F:%ID-K;6D)9$`DE*`M(W 0,X(_"M+XJOI]EX+D1[>#[1/(J0_(,@YR2
+M/P!KB/A+I9G\1RZK-\MMI\3,SGIN((`_+)_"GHU<6J=CJ?B+X_O_``[K$%AH
+M[1!Q%OF+INZG@?H?SKD/^%M>)_\`GK;?]^16!JMW/XI\83S1@O)>W&V)?8G"
+MC\L5[_8^%='LM/M[8Z;:2&&-4+O`I+$#J3CO1HD&K9X__P`+:\3_`//6V_[\
+MBM#2/C%JL5V@U>W@N+ 6]EDP1W#I%SGY0Q`H5F#NCVGX@>*=3T31M/U30I8S;W!PV^/=D$;
+ME/MQFLOX>>/]3\0^('L-7:)@T):/9'M^88_IFM?Q)HKW/PD%HX_?6UG')C'(
+M9`"1_,5Y)X(OCIWC339MVU?/"-]&X/\`.DDFAMM,^D:\N\:_%.2PU'[!X;,;
+MF%L33NNX$_W5_P`:9\2OB"83+H>ARXDY6ZN$/W?]A3Z^I_"LOX=_#QM4>/5]
+M;C*V:G=#"W68^I_V?YT)6U8-W=D=QX%O?$^L6W]HZ_)'%:NO[F%8@K/_`+1]
+M!_.JI\1ZGJ7Q&_LK3;GR[&`XF`13NV_>Y(SUXKJ]8OX]'T.YNR`JP1$JHXYZ
+M`"N/^&&G,UO>ZS< BT55TS48-6TV&]M"3%,N1GJ/8UC>(?&^E^'W,$C-<70ZPQ?P_4]!6CG
+M&,>9O0UE4C&/,WH='7#>(O$6IGQK9Z)HMQY6=HF(16SGD]0>@JE%\7(3*!-I
+M+K'W99P3^6!_.F?#V!]8\2:CX@N1GYB$)_O-_@/YUS3K*HU"F]SEG6C5:A3>
+M[_`])'`]?>BN9T/QA_;OB"ZT^VLL06^[-QYF 2>4X2-2
+M['V`S73&<9*Z.J,XS5XDE% "YK]`T3W$06)7X8%Q_
+M,#)_"E&O!IN+V$J].46T]C&B^%?A.==T/G2+G&4N,C-/_P"%2^&/^>=S_P!_
+MC7/>#?&KZ=:6NCP:7Y\LLV/,\[&2QZXVGI_2NRU?QK::/XC@TNY10C)OFG:3
+M`BX)QC'/3]:4,3&4>9LB%>G*',RG;?"WP]:7,=Q;?:XYHF#(ZSG((J?QC?>(
+M8)K*V\-Q3;GR99EB#@ K7=M!8F.WM@?WYDSNYP.,=^3UHE4C45E+?O"?G'
+MTV_UIRK4X.TF5*O2@^63/1Z*IZ7JEMJ^EQ7]HV895R-W!7'4'Z5RVL?$W3-/
+MN&@L87OG0X+*P5,^Q[_E52J0BKMERJP@N:3.UHKSJ'XMPF0"YTF1%]8Y@Q_(
+M@5Z%#+YUO'+M9-ZAMK#D9'0T0JPJ?"Q4ZL*GPL?117E_C'XH:AHGB:?3=*@M
+M9(H`JN\RL27QD]&''('YUJE H5XIXD\>>+%UR]&G2W%M8B4K"/LR_='&
+M ZFD27%Q$)66($*`>1U)[8J]<316UO)/43*WB'Q9(+*(*;Z[/EH!C`9N/YUTWQ5U)9- +#>R+F*Q3S,DZ5Q?
+MPLT;^R_!T>[G
+M@?J:\*\#:.=>\8V3GZ]/QKJ?BYXIBO[J+1;&4/';-OG93P
+M7Z!?PY_/VK1^&EI:^&?"]WXEUAQ`DXVQLW4H#V]23T'M5+1">K/1-;U"RTS1
+M[BYU258K94(8GOD8P!W)]*^8G=5N6>V+*H8E">&`SQ^-=3XC\1ZIX_\`$$5M
+M:Q/Y._;;6JGI_M'W]^U==J_P_@T#X8WGRK-J/R2S38Z`$94>P'YT+W1/4YGX
+M:>'K'Q%XCD.J.9%MT\X0G_EJ&`1KWS(W_UR:YC3_P#BJ?BI-='YK:Q.5^B\#]>:L?$BZDU'5M.T&UR7
+M=P[@>I.!_6O-))VE"PE4`(&.>G:NTL;2.PL(+6$82%`@P/05YUXF)\2_$>ST
+MF,DP6I`DQV_B;].*JI!4Z/(EJ]"ZE.-.CR):O0TO[2?PC\,[4CB\F3$2GLS<
+MY_`4G@OP;;FS75] 7/[Q5F&X(#W(/4GK6=XT/]K>.],T48$,>P%>W)Y_
+M3%>EJH1`J#"J,`#L*=.*G/7:.B'3@IU'?:.B.$^)::=9>'XXTL[=;F>0"-A&
+M`5`Y)S^52QC_`(1'X7EC\EQ+'G_@;_X#^596N$^)_B=;: G+?X5
+M+\1KE]1UK3=`M>I8,X'8LA-=;_"GPKCCC^2Z
+MO?OGHPW 'K>Y:2TDNYEW2R2,I93_=YZ8K>\1^';?Q%I/V*5
+MS"5(:.11G:>G3N*X*]^%=Q:6,]PNJ1-Y2,^TQ$9`&>N>*B4)TYIQC=)$2A.G
+M-.,;I(]&N=(TO4HE^T65M.G53L!_(UPWQ#G?5->TSP]:?W@7"]BW`_( /[VT?*`.N:\S\.Z3'XW\6ZAJ>I!F
+MM(WW!,\-G[JY]`!77_$'5?[,\*3(C8ENCY*X/.#][]./QI_@'2O[+\)V^]<2
+MW/[Y_P`>GZ8JYI3JJ'1:ESBJE50Z+4;XLGM/#7@^Y^P016S2KY,8C0+RW7I[
+M9K(\*F/PG\/)=7N5_>W'[T*?XL\(/Z_C5/Q],^M^+--\/VYR%8&3'8MU_)>?
+MQI_Q+EVQ:3H5I\JN0=O;LJ_S-9SE:4IK[.B]3.:AX?NO"DR6UQ8SW"LODB%U9E.X9QCMC-
+M0+\);/:,ZE.#CGY!3A\);'1L'-)0K*#ARK4E0K*FX ;?R,&%U&=N!C&.XQ7":C\+KBQTVXNEU.)_(C:0J8RN0!GKF
+MFXU* H(IN+*VF`.58H./H:OUP'PGEN7TJ^65V
+M:!)5$8)X!QSC]*[^NJE)3BII6N==*2G!32M5]SS3P/X*;PM:S^(_$2A)X(6>*'
+M.3$, :KW.JZ=8S>5=74,,F,[68`T
+M *`ZQXMW:=IHSTYYJAXBU^_P#&&J6]E8V[
+M16<9$5E91CA1T&?4_P`J^@[>Y@O8!+;R)-&3PRG(H66W-RT"O'YRJ&*`C]=+JEFNH:3=6CC*S0LA'U%6
+M))$BC:21@J*,LQZ`4(ZR1J\;!D8`J1W!J;E6/EN-9[#4E.UEE@EZ>A!KZ'UK
+M7/)\$OJ>W4QA1GYG''\ZWMB_W1^51SSPVT/F7$B1Q@@;F.!D]*4_>5D3
+MRNS29R'PVTLZ?X=EO[A2LETQ8[AR$7_)K*\*P2>(/B!>ZS 7B-">6^E$\\-I"TMPZQ1KU9C@"N=44E%7T1BJ"2BKZ(
+M9?W:V&G7%TXR(8R^`.N!7"_#:PFN;[4-;O4822N40L.Y.6(_05W5K?6M^C-9
+MSI.JG#%#G!J*YUC3K*8PW5Y##(.JLV#6DJ?--2?0TE3YIJ3Z'F_CS3-3T[Q8
+MNM6,4CQG:ZR*I8(P['TZ5(OQ'\17,8CM='0RXP66)VY^E>FPSQ74*RP.LD;=
+M&7D&D2>![AX8Y$,L8!=`>5STS6/L)*3<96N8_5Y*3K331P0M+,ZI&
+MHRS,QYNOB+QCXCMS'86*Z?#M)DN=I7
+M`QS@G^@S4GPPTAXS?:K=*QD9O*1F!R>['^5>BU# \I2=[#C0]]3E*]CS>X\>^)=-U"=;K2]T)D)C66%E*KG@`CK4=SK_BKQA`=
+M/L=-^S02\22!2`1[L>`/IS7IT$\-U");>1)8ST9#D&HFU&RCO!:/ CF['-R^'I-#^'=YIVF[IKIHB79!S(QQNQ^&0*Y'P%KF
+MIZ;=IH\.GJPN;C0: =>,$E\1>/+#1T5S;PD"0X^7GYF.?H`*]%=H[6U9CQ'$F3CL`*1)X))Y
+M(HY$:6+&]0>5STS2Q3Q3JQA=7"L58J =^!+6;6
+M/%VHZ]>1L`"1'N'=O3Z`8_&I_B9H%]>RVFIZ=$\Q@38ZQC++SD''XFNRGUK3
+M+69H9[V&*13@JS8(JY%*D\*RPL'1QN5AT(J/8+V?(V9_5U[/V;9Y?:?$G78X
+M4@FTI9Y5&W=L2%)%:6+&]`>5SR,BG"G.+O*5QTZ4XN\I7/,F\?^)M/N
+MI4O=+W(7)19861E&>!D=?RIMUK/BKQK!_9]IIWV6VDQYKA6`(]V/;V%>H1RQ
+M3AC&RN%8J< 5^:1\8WL>IK3J."XANH5EMI4EC;HR'(-25TI**LCJBE%60'I7$K<6
+MDOA=].$+3:@SR"*-8SN5C(2#G'&.M=M1@>E,9%`LB6D:S'=($`[
+MT6">6%(&?=E$4J!\QZ`^O7\:T",]:*`,C2%(UC6200#4M+#;IO4J1C``[CUK6HP!T%`!6-X
+MJB$VAF,J65IHP0/3XEN6\]D0O_`,LX@APO_P!>M+Q6
+M"?#LVWJ&0YQG'S#FMFB@#-T:X-Q#+NOX[TJP&Z.'R]O'3'>HO$";AI^%S_IL
+M>>/K6N!CI10!'/,EM;23/PD:ECCVKC[!=2L-1AUF\@"Q7DA$Y#DMM -I&./<5H48`Z"@`K%\41
+MR2V5HL+;7-Y'M;;NV]><5M44`4=)TS^S()5:8S232F61MNT;CZ#L*YO6+6YE
+MUK49HP7@A:WDFB5?F=0,Y4]B*[*B@!D,J3PI+$=R.H93ZBLOPLI7P[`&!!RW
+M!'^T:UZ*`.6:QNFU[4[_`$\D74$B;48X69-@RI_H?6K_`(6=I=,FE:-HC)=2
+MOL<8*Y;H:VJ*`,?5TSJ^CD+G%PV3C_IFU;%%%`&1X84KH,08$'?)P1_MFLV6
+MQN7\1ZG?Z>2MW;M%L5CA9EV#*'\NOK74T4`9'AJ5I]-FF:)XC+=2OL<8*Y:4)GACA+2-Q&A
+..56&?O8/KUK3HHH`__]D_
+`
+end GRAPHIC 7 robisonhillheader.jpg GRAPHIC begin 644 robisonhillheader.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_X1#N17AI9@``34T`*@````@`!`$[``(`
+M```,```(2H=I``0````!```(5IR=``$````8```0SNH&%P+S$N,"\`/#]XFMC.60G/SX-"CQX.GAM&UL;G,Z>#TB861O8F4Z;G,Z;65T82\B/CQR9&8Z4D1&('AM;&YS.G)D9CTB
+M:'1T&UL;G,Z M)R$;'24=%Q@B+B(E*"DK+"L:("\S+RHR)RHK*O_;`$,!!P@("@D*%`L+%"H<
+M&!PJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*O_``!$(`)\"SP,!(@`"$0$#$0'_Q``?```!!0$!`0$!`0``````
+M`````0(#!`4&!P@)"@O_Q`"U$``"`0,#`@0#!04$!````7T!`@,`!!$%$B$Q
+M008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I*C0U-C H.$A8:'B(F*DI.4
+ME9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q+C
+MY.7FY^CIZO'R\_3U]O?X^?K_Q``?`0`#`0$!`0$!`0$!`````````0(#!`4&
+M!P@)"@O_Q`"U$0`"`0($!`,$!P4$!``!`G7J"@X2%AH>(B8J2DY25EI>8F9JB
+MHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(R KR
+M\_3U]O?X^?K_V@`,`P$``A$#$0`_`/I&BBB@`HHHH`****`"BBB@`HHHH`**
+M**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHH
+MH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@
+M`HHHH`****`"BBB@`JM>ZG8Z:J'4;VWM`YPAGE5-Q]LGFK->!^)9;[Q%\0KB
+MREG#2&]:SM]_"1J'*J..GOZUS8BO[&*LKME15SVC_A)]`_Z#FF_^!^-'_"
+M3Z!_T'--_P#`N/\`QKR[_A4&O?\`/YI__?;_`/Q-17'PE\0PV[R1RV4[*.(T
+MD8,WTR`/UKG^L8C_`)]CM'N>K?\`"3Z!_P!!S3?_``+C_P`:/^$GT#_H.:;_
+M`.!^-?.MS;36=S);W<30S1G:\;C!4^AK W?\)/H'_0 [2^M-0@\
+MZPN8;F+)7?#('7/ID5/7A_PNU*ZM_&5M9P3,MM>*XFB/(;;&S`^QR.OI7N%=
+MV'K>VAS6(DK,****Z!!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444
+M`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`
+M4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1
+M110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!7@R_\E>_[C;?^
+MCC7O->#+_P`E>_[C;?\`HXUY^-^QZEQ-KXNW$\/B:R$,\L8-GDA)"H/SMZ5B
+M^!O$&J6/BJQ@AN+B>&YF$ RWEZ\,T\QW/(4F^8
+M_@*Z+0V\+GPK>'1`@TC]Y]HVA\?=&_KS]W'2MZ=-.M*:DM;[,3>ECP!?NCZ5
+MZO\`#[_DEVM_[UQ_Z*%()/A3@86#'^[/7+:PMR]]?-X(6_\`^$?P-WV7S!%G
+M8-^[/ZYKEA#V#YKJ731CW(OAI_R/^E_27_T4]>]UX+\-O^2@Z9CI^]_]%/7O
+M5=N7_P`)^O\`D3/?\`[.U5OA=JRVGB&72[EE^RZC&4*.,@N!Q^8R.?
+M:LS6+3QAK]TEQJVEZC/+&GEJWV%EPN =* *=#?P]XCN;`@^4&WP,?XHST_+I^%=_P"`_P#D
+MDVM?6Y_]%"N/UF#QCX@DBDU;2M0G>(%48:>RD`]LA1FI+`>-M,TF?3++3M1C
+MLY]WF1_8&.[N/\`T4*\
+M]_X1?7Q_S`]2_P#`23_"M;3QXVTK2Y].L-.U&*TN"QDC^P,=VX8/)7/05%!N
+MG.[3V!ZH9\-/^1_TOZ2_^BGKWNO'OAOX4UB'Q5#J-Y936=O9AL_:(V0N60J`
+MH/7KG/3BO8:]/`1 6=GRU$W$D+R*"@DC:%.N[DJ3C!Z\9V=3\>R?\`" &SG@U333M_6A-[JY>^P^-_\`H8?#_P#X(9__
+M`),H^P^-_P#H8?#_`/X(9_\`Y,K!7XHROIOB6+^QHXM?\,QM-?:;->%8WB`+
+M"2*81GD?%V[N=0\)QZUX '()`_/"6KLOZN-Z;_U; WEY#J+2LT6S>NR,PKEB",@L`.
+M>3@9VM"\8ZCJ?]CR7NBPPVFLJ7M;JROQ "O#D>J:3IKM%]JNM0-L]W(@)80H(GW#&W!9DR6QV-4M6^,
+MR0^"+#QAX?T*35]%F ?]:CL[V.J^P^-_
+M^AA\/_\`@AG_`/DRC[#XW_Z&'P__`."&?_Y,IMAXKGUK4-)DT*VL;S1=3M&N
+MDOC>NDBJI4$>5Y1!.748+C^+.,IP"!U%*Z^,VL6O@#1/%A\*63V
+MNLW:VL$"ZPWF(S%@I;-OCJC9YXXZY.!:_A^.WW@]/Q_#?[CM_L/C?_H8?#__
+M`((9_P#Y,H^P^-_^AA\/_P#@AG_^3*Q)?B!KMO\`$_3O!EQX=L//O+07C74>
+MK.R1Q@D/P;.#D* ^)+R[MM0T=+$PVUO=13V]W
+M]IAFCF4LOSE$PPQRN/0Y((J_XO\`%^E^"/#TFL:T\GDJZQQQ0KNDGD;[J(N1
+MEC]>Q/:A^[N"UV*_V'QO_P!##X?_`/!#/_\`)E'V'QO_`-##X?\`_!#/_P#)
+ME5(O%/B2UM+*YU[PFEK'>3P0[;341;&1PN9@8T``W?P%^>.!\U5X_']YK7
+MBO5-#\&:-#J9T8^7?W=[>FUA24](D*QR,[IR*`-/[#XW_`.AA\/\`
+M_@AG_P#DRC[#XW_Z&'P__P""&?\`^3*3P1XWLO&VF7,UO;S65[83M:W]E/@M
+M;S+]Y M3*2CN!6^P^-
+M_P#H8?#_`/X(9_\`Y,H^P^-_^AA\/_\`@AG_`/DRM2PU"XN;RXM;NR-M+`B,
+M2)`Z/NW?=.`2/E[@'V]="FG=70'-_8?&_P#T,/A__P`$,_\`\F4?8?&__0P^
+M'_\`P0S_`/R96W=ZA;6+VZ7$@5[F411+W=C_`/6YK.U77YM&TR_O;[3RD=O(
+MJ6^)@?M&[`!_V>3WR>,U+G%;CL5?L/C?_H8?#_\`X(9__DRC[#XW_P"AA\/_
+M`/@AG_\`DRM"PO\`5I[B-+[1Q:QL'WRK=+(%(.%P,`D,.>V.]:E4G=7$ M$3K,LV[>I.!\NT8/XFHM5U^]L/$-CI=OI]O.;X.8I)+MH\;!D[@(SCVQG\*C
+MVD;)]]!V>I#]A\;_`/0P^'__``0S_P#R91]A\;_]##X?_P#!#/\`_)E6_#GB
+M%=?@N@UN;6YLYV@GAW[PK`]FP,C\!3_$VM/X>T&;4TMEN1"5W1F79P2!PWT.74(X5D:.`S>4S[0P_$\42DHIR>R&DV[(R/L/C?\`Z&'P_P#^
+M"&?_`.3*/L/C?_H8?#__`((9_P#Y,K9TG48M7TBUU"W&([B,.`3G;ZC\#Q5N
+MJ$ K,3@`>Y-6:5UL!S?V'QO_`-##X?\`_!#/_P#)E'V'
+MQO\`]##X?_\`!#/_`/)E=)13`*Y;XELY^&NO6\%M=74]U8RV\,-I;23N[NA"
+MC:BD@9[G@=S74U%=7=O8VDMU?3Q6UO"I>6:9PB(HZDL>`/ (UTG6M:TL6D=C?Z;>V-Q/ W20%T0X(.P;*?6M6L=.AF.V*2[N4B5SC.`6(!X]*C'BC0#J-Q8#7---[:HTD]M]KC\
+MR)`,EF7.5`!!)-:.7O ..]2P>+?#EUIDFHVWB#2YK&.01/=1WL;1(YQA2X.`3D<9SR*4?=:MTM
+M^%_SOJ.3YD[^?Z?DEH>46]UJ-G\9?'>K6WAO5KV"_P!.CBLA/I5PL-W)'&H:
+M,LR``':P!.%/8G(S-X=\'MH?Q`M5\`Q:[I6CWGFC7=(U"WD6UMP8P`8I'&UW
+MW`#,;2`]F"=?6YM9TRWO);2?4;2*YAB$TD+SJ'2,G` MS6<>MZ2:E)64?*WJ.3;;?I^2_R/,/AW_:
+M'PK\(ZGX8UG1=5O+FSN99K"73]/FN8KZ-Q\F'C4JC9!!#E<9!Z W->I#6-,9T1=1M"
+MTD;RHHG7+(AP[#GD*2`3T&>:==:I866FMJ-[?6UO8J@=KJ694B"GH=Y.,'(Y
+M]Z=^K[)/T7]?@*W1=[_/^F><>"O`6H^`OB3J$5B\DWA.XM9KBQA^]]CF9X]\
+M0]B%!'J!Z@D]MXCZ&9="
+M^)$FH:5XL@N]0N[N;38H;;4H$N5D4A"8T`5\L1D."<=1@&H=1M=3D^!'@K1(
+MO#^OOJ>FZK%/=6PT:ZW1HC2%CDQX/#KT/.3CH<>]3>,?#-N;L7'B+28C9,$N
+M@]]$OD,3@!\M\I)XYQ5E-?T>2&*6/5K%HYH&N8G6Y0B2%
+M$)(S.P7;Y6[HPZ#@G!P0<6OBOK%QXL^$OB"PTC0=<>666&"T1M*N5DN2K1R,
+MPC,>Y4`R-S``D$#MGT"#QGX7NK.>[MO$FD36UN-TTT=_$R1#(&68-@ /+_`%O 22,+P5P`" %KJ:2+6XM,B>28J5PF1'\_E@Y+`=0-ISG!]&HJI/F=WW)BN567:Q
+M\\>"?#UWH7B32-&U#P;?:UI>GWD]SH&J?V:8-F\];KS0K1[""?F7<2%*@@+G
+MT+XT^$-6\6>$K%O#T8N+_2M0BODM6D"?:`N05!/&> 0]+OS.
+M ,(6))'\.6'$>#["Z^&/C+
+MQ9#J^GZC=:;K-X=1L;VPL)KL').Z)UB5BC#M44=;K^OZL'2S/(?
+MAY8:GX.FUCQ'K>AZH9_&&MAX[*TM_.DL8F9BDDX!^0?,=W7;QGG('KU%%/I;
+M^MK!U;[A1112`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH
+M`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`*XU;2ZT#X@W
+MVJ2VMQ *9-1U;P=?C
+M1K:X5R%"!U, H45E.@I-MO>WX#YC@O$'AFS@U30[FPT=[BV:Z:2[1
+M86E+;E'+!LXSCG.!GDU@ZEI 2ORX`QG_)KU
+MNBIEAHMNW];?Y`I?U]_^9Y[K5E=MXK@FT&PN(2='>&*5+5XU20J=BD[0%.,#
+MG&..E9\>D:O_`,(?>C3H[F*:6TB2>S2Q>W)*M\YRS'S'9=V2HY`Y[`^I44/#
+MIMN^]_QO_F"E;^O3_(XCP[;1P>/;J>RTRZL[&6P1(M]H\2!@02,$`+W],G)[
+MY,GBB'[5XUT,M;:@]O;B43RVL4PV;E`7YT'KUP?K79T5I[) '+>S\+V\.B:8S^1>QSE84,DG7YF[LQZ>IQ["L.;2[V\TKQ?!9:;=(
+M;ZZB>V1[9XO,'F=1N`QZGT[UZA16 IK'T_3]46XT[[#I]Y;W::/+;F5
+M[62,+,=VT%BH`/3!SCIS7K-%$L.I.]_ZU_S!2M_7I_D V>J/:QI>*T U]#-J-H;>0>8O0@1'D@<9"K@^^#5"^T?4
+M'\-W+QZ?,UM'K`GLK<0'S(H-W.U,;E!_NX'TKTNBFZ";O_73\-/S%?2W]=?\
+MSR^:PFFTGQBL>E7@%Y.DEJAL9`9/FZJ-O7O[5+I.E3&^U6VCTVZB@NM&C0"6
+MU=%DG"#.2PY;)/6O2Z*CZJN_2WX-?K^"*YOZ^:?Z'F4.GJGA'2;)_#-P]PR2
+MAY)+1]L UU;S!"]H^X0D\[5(R1SV%
+M;,>G?9?'5M=Z?I4SQ3NJO'-9E/L@6/`>.4?*%QP4SU'3H1WM%$,.HM:[6_!)
+M?H-N]PHHHKI)"L?Q/H3^)-'&G"_EL8GF1YGBB1V=5.[:`X9>6"YRK`@$8YK8
+MHI-7#8Y&?P##?Z1HNFZOJ5U=0Z6DD9:.22WDN$*%%#-$ZGA`L8RKELG)XX`K2?#.^N/A[+
+MX8O->CFW2HZ7#P7,@"JH&TB2Y=L''1'1>VT@D'T.BA:*R\OP=Q];_P!=CB-5
+M^'+:GXDN-4.JK&LVGK9",VN67#*=V0P7!V=`H/\`M;0%JE=_"G^TI+6'4M72
+M2PL'D^QQ0V?ERJKRB1M\N\[G!5=K`+@C<03@CT2BCJGV!:*R//+3X77=NUK-
+M+XJN9;BUB\A?]#B$;H1)OW#[VYO- &=6;PO9:?=:O9/?:?+
+M%):74>GNL0\L`*)(C,2W& HQC%=111_7W`?#>[O+>2V;6K9+>\6!K\
+M)IBJSRQ,75HBK@1*6QE2'/7#`DM3;?X26$ >'X5>=)I\-SK&W3]+=OL,-G`]M,D;2K(R
+MO,DNXGY5`90G ?3-6TZ_7Q' V2(;]WF, :Y
+M9PR@M@E3@5W5%"T_,5O\CB9OA[+_`*--:ZLD=U9N\L#RVGF1[S ?;%N[GRK41QS_.\C)MW'"[WRO)*X/+;F)]#
+MHH6EK='?YC>O]>5@HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"B
+MBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`***
+M*`"BBB@`HHHH`****`"BBN4^RV)UJZ-II H-?*Z72V+QX7"[V,I4`JV4KZ=J2/`$:.5MH0X4NA0",$%NYSD>E1SZ0
+MD?AV^@N=,5S96SVEKLM][2*>05`!)_@_X$&-1[2ZNE_7]6*MK8ZVBN0MK33O
+M[0D_L[2)K>\:[1H9UTYX-B!4W$N5`V\/EM[2V_MVSE?263;'`#NTR9I"XW8(F(^7'R$[CG'!/!%#J6E8.A
+MW%% ;$L06/YW=A
+M'E';&/N\\ U:6P[:G<450T2\FOM'@FNX9(;C;ME22)HSN'!(#`'!ZCZU
+M?K?T)"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`H
+MHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BB
+MB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****
+M`"BBB@`HHHH`****`"BBB@`HHHH`*Q&URY356M'LX%1;@Q&0W)R%\O>KXV=#
+MR.O![FMNJ-WI%I>W!FG5B[(B$JV.%?>/UJ)*3MRL>@EQ>W=OH+WIM8COYTR'4YT%PNIVJ6\L""3$,OFJZG/1BJG.01@CTJQ?61OK.
+M>V:YFA69=I:,+E1WQE3U]\^V*IOX?CGA=+R]N;LRNAE:81GS$4Y$94(%VY)S
+M@`G/6E+FOH'0=#J\ES'ILMM;(8[QBDOF2[6A8*21@*0Q!5@>1R*BN=;N(/$*
+M:8L%FV\(R[KPK*RG.XB/9SMVDGYO3N<4R+PPEL`MCJ5Y9Q+.T\<4*0A(RPP0
+MH,9P,$\>YJ8:$PNTG.JWQVK&I0^40P3.,MLW ^[?\`-!E_K=S
+M9:DUL+.%HQY1$C7!4LKL58X"'[IZ\]#GBH+WQ!>V=S!$UG89N"XA#WY1I2&"
+M@*/+Y)W`XSZ\\9K4OM+MM1*FY5B5C>,%6QPXP?Y5!>:+]KFB>/4+NU6*+RE2
+M$1D8R#G+(QS\J\@]N*353N&A%_;-W)J5U96MA$\D(RHDN@A(XY9=I(4Y.&&X
+M?*>AXJ@WB?4HS:B?3M/B-XF^!6U(@RGY?E4&+EOF''UYK8&E8O\`[4U[=/@,
+M(XF*%8B1@D';N[="2/:JA\.'R[=%U>_46\1B4A8 TQJ6V_,H0D-T.,8((PQK3_`+&A:;S)YIIG6X$\9 7SE=VRS/SEB>^2QSVYHM4>S_`*_JX:$MI<37!E,D<2QJP$;Q
+MRE]XP"3]T8Y.._2LZ?6=02SENX-+CDM@C212-=;=RKW8;25SU&-WOMJ]!8?9
+M(K2"TG:.WMP0T9`;S!C@$GD8//%5)O#Z36T]L-0O([:5618%,>V(-U`RAR",
+MC#9`SQC`Q4N;I^@+SQ$(K!IKVW$ 5(I=ZK@C+[B!E0#D\#TK:K&N/
+M"VFW,"021)]GCA:*.$01;(V;K(J[,!_<<>U:=G;_`&2SBMS-)/Y2!?,E(+-C
+MN+I[J#3F&+IF9HM,D1R/*PS>=C:Z
+MEL_*!DG!!/?L:QSK-W)J=U96MA%))",J)+D(2./F9=I(4Y.&&X?*>AXK*:5T
+M-;))>O9:M;ZKI\LL>H6_VF!5MYK@*YX"L"@VGA#M[8)S44^DQO;0:>FFQ/
+M="Y>0"32Y#:JK1G&SC$8/R9!;ALDYQ6HWB?4HS:B?3M/B-XF^!6U(@RGY?E4
+M&+EOF''UYJ6^\27EA-=++I]N5A$GEL+LY?8@O//'?-86IM7;_#I
+M?_ABM;E673K*6;2Y(K.=DN4^R7?VBQ=G>-0"/,)7@[D49/!#''0$7]?M]-,N
+MFB_TW[7#%(WRK8MWMVA5YQJ/[L%^#E
+MA&0,'].>.E6HM>N/]%^T6?WDHET](X]":&XMIA;E)&6WDB9RL))PA7!S\O\`#UQQBLI&2X\,VEG#87:V
+M]J(/MUM=-N+BTC$=VZI,4G)\DM]TC*
+MC7ICWJW9WKW=Y>1^2JQ6\@C63?DN=H)XQP!G'4YYZ55DW;^M-?Z[@8$>F(
+M+5M0LM.;99W?GV-L\&QECV@2*B'!7)W$`XYP:K:SI-E#>V2/I<3D1.UP8]+D
+MGW%G5BJNHPC??P3TSVSFM2;Q,T6J2:?Y=C]I6[2!(6O<2.C`'?MV9X!''UYX
+MK0_M42:C=6,$>9X8MZ%WVK*>XR,D8.W)Q_%46IM73_JW^5AZHS;6:P@NM4MS
+MI=R!=3,T@&G2;'41C<2=N&R0PXR23QG-8^FZ?;KX=FBDL7B9,'=N*^H.1QCISJ=W_8]G>):0F2X:(/$;@@('(&0VSG&1Q@=ZAUC6[C3+
+M^WMXH+.3[0I\OS[PQ,[@@;%78 64D`-N8H)',;GG=A1N1L8
+MPW&,'D9YF?5[Q=4DL/L5OYV5:$&Z(\R(YW/]S@KCD&GOH#=Z?J<3B2&3S$E'F/&ZO\`,0)&
+M5=Q#$\=L@=J=_;M[%J,,-WIB00R-&I)NMTBE]P7Y`N#RISACQSZU?L=3BO[B
+MZAC5E:WD"_,1\ZDZ?E_7X`R[1116X@HHHH`****`"BBB@
+M`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`**
+M**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`JA_
+M9>=1-VU[ _46\1B4A8 YC2$23;_`.^=GS8[?0=:VZ*G
+MV<1W9C+X>=;-;;^V=0*H8]C'R 5HV;6=0W(C*6Q
+M"2VYMQ)S'PO-7Z*?*F(RD\/VZW[7KSS3
+M7/DB*.658V>'K\R-MR"=Q/4CG&,8%)I_ARSTN^2YLF>)O)$4J(D:K.1SO?"@
+EEO?-:U%)0BG>P!1115@%%%%`!1110`4444`%%%%`!1110!__V3\_
+`
+end GRAPHIC 8 robisonhillsig.jpg GRAPHIC begin 644 robisonhillsig.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_X1#N17AI9@``34T`*@````@`!`$[``(`
+M```,```(2H=I``0````!```(5IR=``$````8```0SNH&%P+S$N,"\`/#]XFMC.60G/SX-"CQX.GAM&UL;G,Z>#TB861O8F4Z;G,Z;65T82\B/CQR9&8Z4D1&('AM;&YS.G)D9CTB
+M:'1T&UL;G,Z M)R$;'24=%Q@B+B(E*"DK+"L:("\S+RHR)RHK*O_;`$,!!P@("@D*%`L+%"H<
+M&!PJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*O_``!$(`"8`H`,!(@`"$0$#$0'_Q``?```!!0$!`0$!`0``````
+M`````0(#!`4&!P@)"@O_Q`"U$``"`0,#`@0#!04$!````7T!`@,`!!$%$B$Q
+M008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I*C0U-C H.$A8:'B(F*DI.4
+ME9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q+C
+MY.7FY^CIZO'R\_3U]O?X^?K_Q``?`0`#`0$!`0$!`0$!`````````0(#!`4&
+M!P@)"@O_Q`"U$0`"`0($!`,$!P4$!``!`G7J"@X2%AH>(B8J2DY25EI>8F9JB
+MHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(R KR
+M\_3U]O?X^?K_V@`,`P$``A$#$0`_`/I`G% 1Z?IMS=RG"PQLY_`5S>B6$U[X;M=.1&@T_R\W$
+MA&&N2WS,J^BDDY8\D=/6MJ<5RN;[_P##F4Y:\ITNGW8OM.MKM1M6>)9`/3)-6N;1K6STQPMW<2+\S*"%3!YO&`">N![=:MCI6)H+11FC-`PJ"^NELK">ZD.$AC:1OH!FIZP/%U
+MU"NE1V,LR1-?S)`-S`?*6!8_3`/YU=./-)(F3M%LUK6Y,]A#<2#R_,B5RI.=
+MN1FJFB7TMYI(OKI@%F=W0'`VQ[CM_09_&H_$$WD:%-%;_++OEL&Q
+M^54K3Q'I=_J,EC9W0FGC)#;5.TD=0&Q@D=P#5"]1);C^P])1+564/>30J%\J
+M/^[Q_$W;T&37,331W]Q,NAK]GTC38_LT?D_*9G8CY5/^TV`3Z`^M;TZ"FFW_
+M`%V^_HC.55H])!S36=4*[F`W'`R<9/I572;$:9I%M9ABWDQA2Q. /WC^`[5O4345*T0BVUJ ;`_
+M`U7UWQ?:6GA9KRUD, 0(V&'A?N"O8@9_2NCCL(8M0GO1N,TZJK%CG"KG`
+M'H.2?QK`UOPF-7UQ+O$"1M$(IG*_O,;LDKVR1\N3T&<5O2E2O%3V6IE-3LW'
+M=F!H>MK:>`[/3;&Z6ZUB_+B&)7W-&78G+GM@'O6S9Q7'AJ"UT;1;>/4;UHS<
+M73RR^7GHN[.#U/`'HIK4U#2I%GM+G2+>U6:V=B(W&Q6#*5SE1G(S4NF:3)91
+MW,T\_GZA=G=-/MP,@855'95[#ZGJ:J=:$DVNKO;S_P`DA*#OZ%+1] ?6%AL=/CMQ+L;)FC)/R!NVYA
+MD[!R,#UJJGAC7I8=.MGN+.UMK$3_GJ00`3G)`/`)SS4%_X0:VU*W:P
+MMYKZXD8R->W]2V2T\KE5()8ENH91M./4D=:ZW2O$)U/5I+-M/N+51`)XGGP&E0M
+MMSMZKSZU0L?#\DNL0B[C IQ[DUJVMC./$M[J%P@"M#
+M'!":S=()8E#01AQ
+MD#)^Z/8+C\6-=;?2SPV$SV<7G3A#Y<>DE)D=N`3
+M]P'_`'4)_2M:+Q(L_A *S+.=+EU#6`BSS$7%R\@SM;^%1_NC"@#^M3>(
+MXIGT^&2"![D07, MK&RAGM_)4.D$L6V:
+M61LA653T`Z[CPO7KBKHTG-:.RZDU)\K_`".RT3Q%;:W->0QQR03V LJJAS/DV-( M-\M-^[:-V,;L 

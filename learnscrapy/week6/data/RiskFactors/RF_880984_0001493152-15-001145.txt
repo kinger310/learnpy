@@ -1,0 +1,931 @@
+.” AquaShield TM ,
+AquaShield-ER TM and PointShield TM are trademarks of our DSIT Solutions Ltd. subsidiary. GridSense ® ,
+HighV TM , GridInSite TM , CableIQ ® , PowerMonic TM , BreakerIQ ® , LineIQ ® , TransformerIQ ® , DemandIQ TM and DistributionIQ ® are trademarks of our GridSense subsidiaries. OmniMetrix TM , SmartService TM , OmniView TM ,
+OmniLink TM , and OmniScope TM are trademarks of our OmniMetrix, LLC subsidiary. 2 PART
+I ITEM 1. BUSINESS OVERVIEW Acorn
+Energy, Inc. (“Acorn” or “the Company”) is a holding company focused on technology driven solutions for
+energy infrastructure asset management. Each of our three businesses is focused on helping its customers achieve greater productivity,
+reliability, security and efficiency. Through
+our majority or wholly-owned operating subsidiaries, we provide the following services and products: ● Energy & Security Sonar Solutions. We provide sonar and acoustic related solutions for energy, defense and commercial markets with a focus on underwater site security for strategic energy installations and other advanced acoustic systems and real-time embedded hardware and software development and production through our DSIT Solutions Ltd. (“DSIT”) subsidiary. ● Smart Grid Distribution Automation. These products and services are provided by our GridSense ® subsidiaries (GridSense Inc. in the United States and GridSense Pty Ltd. and CHK GridSense Pty Ltd. in Australia - collectively “GridSense”) which develop, market and sell remote monitoring and control systems to electric utilities and industrial facilities worldwide. ● Machine-to-Machine (“M2M”) Critical Asset Monitoring & Control (formerly Power Generation (“PG”) Monitoring). These products and services are provided by our OmniMetrix TM , LLC (“OmniMetrix”) subsidiary. OmniMetrix’s M2M products and services deliver critical, real-time machine information to customers and provide remote diagnostics and prognostics that give users real-time visibility of their equipment and assets. During
+2014, each of the abovementioned activities represented a reportable segment. In addition, our “Other” segment represents
+certain IT activities (protocol management software for cancer patients and billing software) and outsourced consulting activities
+performed by our DSIT subsidiary as well as Pipeline Monitoring (“PM”) activities (for remote monitoring of cathodic
+protection systems on gas pipelines for gas utilities and pipeline companies) in our OmniMetrix subsidiary, that do not meet the
+quantitative thresholds and which may be combined for reporting under applicable accounting principles. At December 31, 2014,
+our continuing operations are represented by three reporting segments: Energy & Security Sonar Solutions (DSIT), Smart Grid
+Distribution Automation (GridSense) and M2M (OmniMetrix). The
+activities of our US Seismic Systems, Inc. subsidiary ("USSI") have been discontinued (see Item 7. Management’s
+Discussion and Analysis of Financial Condition and Results of Operations - Recent Developments). We
+continually evaluate opportunities related to all of our portfolio companies and our eventual goal is to position them for a strategic
+event, which may include co-investment by one or more third parties and/or a sale of assets or equity. 3 FINANCIAL
+RESULTS BY COMPANY The
+following table shows, for the periods indicated, the financial results (dollar amounts in thousands) attributable to each of
+our consolidated companies. Year ended December 31, 2014 DSIT GridSense OmniMetrix Acorn Total Continuing Operations USSI Discontinued Operations Total Revenues $ 12,311 $ 4,493 $ 2,756 $ — $ 19,560 $ 556 $ 20,116 Cost of Sales 8,576 3,196 1,150 — 12,922 1,599 14,521 Gross profit 3,735 1,297 1,606 — 6,638 (1,043 ) 5,595 Gross profit margin 30 % 29 % 58 % — 34 % (188 )% 28 % R& D expenses, net of credits 1,002 1,096 616 — 2,714 3,818 6,532 Selling, general and administrative expenses 3,135 2,742 2,586 3,560 12,023 3,644 15,667 Impairment of intangibles — 1,773 — — 1,773 9,580 11,353 Restructuring and related charges — 198 96 — 294 954 1,248 Operating loss $ (402 ) $ (4,512 ) $ (1,692 ) $ (3,560 ) $ (10,166 ) $ (19,039 ) $ (29,205 ) Year ended December 31, 2013 DSIT GridSense OmniMetrix Acorn Total Continuing Operations USSI Discontinued Operations Total Revenues $ 13,065 $ 5,026 $ 2,197 $ — $ 20,288 $ 1,468 $ 21,756 Cost of Sales 8,624 3,198 963 — 12,785 3,815 16,600 Gross profit 4,441 1,828 1,234 — 7,503 (2,347 ) 5,156 Gross profit margin 34 % 36 % 56 % — 37 % (160 )% 24 R& D expenses, net of credits 1,511 2,118 647 — 4,276 3,899 8,175 Selling, general and administrative expenses 3,328 3,516 4,544 5,068 16,456 3,360 19,816 Impairment of intangibles — — 6,731 — 6,731 — 6,731 Restructuring and related charges — 594 795 — 1,389 — 1,389 Operating loss $ (398 ) $ (4,400 ) $ (11,483 ) $ (5,068 ) $ (21,349 ) $ (9,606 ) $ (30,955 ) DSIT
+SOLUTIONS LTD. Our
+88.3% owned subsidiary (upon conversion of currently held preferred stock) DSIT Solutions Ltd. (“DSIT”) is a globally-oriented
+business based in Israel with expertise in sonar and acoustics and development capabilities in the areas of real-time and embedded
+systems. Based on these capabilities, we offer a full range of sonar and acoustic-related solutions to strategic energy installations
+as well as defense and homeland security markets. In addition, based on expertise in fields such as signal acquisition and processing
+applications, communication technologies and command, control and communication management (“C3”) we provide wide
+ranging solutions to both governmental and commercial customers. 4 Products
+and Services DSIT’s
+Energy & Security Sonar Solutions activities are focused on two areas – sonar and acoustic solutions for energy and
+security markets and other real-time and embedded hardware and software development and production. Energy
+& Security Sonar Solutions . Our energy & security sonar solutions include a full range of sonar and acoustic-related
+solutions to the strategic energy installation, defense and homeland security markets. These solutions include: ● AquaShield™ Diver Detection Sonar (“DDS”) – DSIT has developed an innovative, cost-effective DDS system, the AquaShield™, that provides critical coastal and offshore protection of sites through long-range detection, tracking, classification and warning of unauthorized divers and Swimmer Delivery Vehicles (“SDVs”) for rapid deployment and effective response. Our AquaShield™ DDS system is fully automatic and customizable, and requires human intervention only for final decision and response to the threat. The DDS sensors can be integrated with other sensors into a comprehensive command and control (“C&C”) system to provide a complete tactical picture both above and below the water for more intelligent evaluation of and effective response to threats. ● PointShield™ Portable Diver Detection Sonar (PDDS) – The PointShield™ PDDS is a medium range portable diver detection sonar aimed at protecting vessels at anchorage and covers restricted areas such as water canals and intakes. The PointShield™ is a cost-effective system tailored to meet the needs of customers, whose main concern is portability and flexibility. ● AquaShield-ER TM – The AquaShield-ER TM (extended range) DDS is similar to our AquaShield TM DDS except that it is specially designed to enable detection, tracking and classification of targets at much longer ranges thus enabling better response time when this is required for operational considerations. ● Hull Mounted Sonar (HMS) for surface ships - DSIT has started its sonar activity 25 years ago building part of the HMS for the Israeli Navy SAAR 5 corvettes. Since then, a large portion of the sonar functions can be achieved using software which has reduced its cost. In addition, DSIT has created sonar building blocks (see below) that enable it to offer to customers and shipyards a cost effective Hull Mounted Sonar with good performance at an affordable price. ● Mobile/Portable Acoustic Range (“MAR/PAR”) – The MAR and PAR accurately measures a submarine’s or surface vessel’s radiated noise; thus enabling navies and shipyards to monitor and control the radiated noise and to silence their submarines and ships. By continuously tracking the measured vessel and transmitting the data to a measurement ship, the MAR system enables real time radiated noise processing, analysis and display. The system also includes a platform database for measurement results management and provides playback and post analysis capability. ● Generic Sonar Simulator (“GSS”) – DSIT has developed a GSS for the rapid and comprehensive training of Anti-Submarine Warfare (“ASW”), submarine, and mine detection sonar operators. This advanced, low cost, PC-based training simulator is designed for all levels of sonar operators from beginners to the most experienced, including ship ASW teams. The simulator includes all aspects of sonar operation, with emphasis on training in weak target detection in the presence of noise and reverberation, torpedo detection, audio listening and classification. Based on this technology, DSIT expanded the application to include a full scale submarine tactical trainer. ● Underwater Acoustic Signal Analysis system (“UASA”) – DSIT’s UASA system processes and analyzes all types of acoustic signals radiated by various sources and received by naval sonar systems (submarine, surface and air platforms, fixed bottom moored sonar systems, etc.). ● Sonar Building Blocks – based on our sonar capabilities and development of the DDS, DSIT has developed a number of generic building blocks of sonar systems such as Signal Processing Systems and Sonar Power Amplifiers. Some customers designing and building their own sonar systems have purchased these building blocks from us. These elements are specifically tailored and optimized for sonar systems and have advantages over generic standard building blocks. Fiber
+Optic Solutions In
+2012, DSIT began to leverage its acoustic signal processing capabilities for land seismic security applications and to extend
+its current offering by developing and integrating into its existing line of naval products, a new sensor based on advanced fiber-optic
+sensing technology. This new sensor will enable DSIT to grow into new business domains, including maritime and land-based perimeter
+security applications, pipeline leak detection and Structure Health Monitoring (SHM) of airborne vehicles such as UAVs. 5 In
+2012 , DSIT and USSI were awarded a
+grant from the Israel-U.S. Binational Industrial Research and Development Foundation (“BIRD Foundation”) for the joint
+development of a next generation integrated passive/active threat detection system for underwater site protection (PAUSS). The
+BIRD Foundation provides funding money for projects involving joint innovation and development between American and Israeli companies.
+Due to the suspension of USSI’s operations (see Recent Developments) we are uncertain as to whether we will be able to continue
+the development of the PAUSS on our own. DSIT is currently examining the possibility of continuing the development of the
+PAUSS by teaming-up with another U.S. company with fiber optic expertise to assume the portion of the project which was to have
+been performed by USSI. In
+addition to its underwater site protection, DSIT is exploring solutions for the perimeter fiber optic security market. In 2013,
+DSIT and Ramot, the technology transfer company of Tel-Aviv University, were jointly awarded a $325,000 grant representing a 50%
+participation in DSIT's expenses, from MEIMAD (a collaborative program between the Israeli Ministry of Defense and the Office
+of the Chief Scientist (“OCS”) at
+the Ministry of Economy, to jointly promote new ideas and new technologies that can serve both commercial applications and military
+needs) for the joint development of a next generation Fiber-Optic Based Perimeter Security System Interrogator. The interrogator
+is the optics/electronics heart of the fiber optic sensing system. In
+December 2014, DSIT and Ramot, were jointly awarded another grant from MEIMAD. This grant is for a 24-month project (in two stages)
+for the joint development of a Fiber-Optic Based SHM Interrogator. This Interrogator, based on Tel-Aviv University’s patented
+technology, will allow the use of standard communication fiber optic wires for structure health monitoring at high rates and in
+real-time. This new technology Interrogator will allow DSIT to penetrate the SHM market for specialized applications such as structure
+health monitoring of airborne structures (aircraft wings and fuselage). The total amount of the grant is approximately $245,000,
+representing a 50% participation in DSIT's expenses, and is conditioned on budget availability at the OCS and achieving the project’s
+first phase milestone (a working prototype of an Interrogator). With
+a prototype of the first Interrogator, based on Dynamic Optical Frequency Domain Interferometry already showing promising results
+in field trials, DSIT believes that this Interrogator when developed can be used for long range perimeter security applications
+and for underwater passive detection of divers, swimmers and boats. Other
+Real-Time and Embedded Solutions Additional
+areas of development and production in real-time and embedded hardware and software include: ● Weapon/C&C Operating Consoles - DSIT specializes in Weapon/C&C Operating Consoles for unique naval and air applications,
+designed through synergistic interaction with the end-user. Weapon/C&C Consoles utilize Human-Machine Interface (“HMI”)
+prototyping supported on a variety of platforms as an integral part of the HMI definition and refinement process. Weapon/C&C
+Console specific applications driven by HMI include signal processing and data fusion and tracking. ●
+Computerized Vision Systems for the Semiconductor Industry - DSIT has been cooperating with global leaders of state-of-the-art
+semiconductor wafer inspection systems in developing cutting edge technologies to enable the semiconductor industry to detect
+defects in the manufacture of silicon wafers. DSIT develops and manufactures hardware and embedded software for computerized vision
+systems as a subcontractor. The activity is multi-disciplinary and includes digital and analog technologies, image processing
+and intricate logic development. ●
+Modems, data links, navigation and telemetry systems - DSIT is working with major defense industries in Israel such as Rafael
+Advanced Defense Systems Ltd. and Israel Aerospace Industries Ltd., developing modems, advanced wide-band data links and telemetry
+and navigation systems for airborne and missile systems. DSIT is providing development and production services of hardware and
+embedded signal processing software with high quality control standards. DSIT’s
+other operations include IT activities (protocol management software for cancer patients and billing software) and outsourced
+consulting activities. Customers
+and Markets According
+to a 2011 Wall Street Journal article, nearly 30% of U.S. oil production and 15% of gas production is produced from wells on the
+Outer Continental Shelf. Globally, some 30% of the world’s oil output comes from offshore production. An enormous amount
+of capital investment has gone into creating this underwater energy infrastructure. This includes the oil platforms that drill,
+extract and temporarily store oil and gas, as well as the oil and gas wellheads, pipelines, single point mooring buoys and pumps
+required to transfer the product from its location to shore. While this infrastructure was built with the assumption that it would
+be able to weather natural disasters, much of this infrastructure comprises what is known in the military as “soft”
+targets from beneath the water that would not require much in the way of explosives to cause significant, and perhaps catastrophic,
+damage. 6 This
+vulnerability, combined with the development and proliferation of technologies such as mini-submarines which can submerge to depths
+of a few dozen feet making detection difficult, unmanned underwater vehicles, divers with underwater scooters, swimmer delivery
+vehicles as well as conventional scuba divers threaten the undersea economy with significant damage resulting from lost energy
+resources, damaged infrastructure and environmental degradation should an attack occur. DSIT looks to sell to potential customers
+in such areas that have significant underwater energy assets and infrastructure. All
+of DSIT’s operations (excluding product delivery, set-up and service) take place in Israel. In recent years, an increasing
+share of this segment’s revenues were derived from outside of Israel increasing from 38% in 2009 to 73% in 2012 before decreasing
+to 37% in 2013. In 2014, non-Israeli revenues increased to 42%. The increase in 2014 was due primarily to the receipt of a major
+order in late 2013 for the supply of an advanced underwater acoustic monitoring system. We expect DSIT’s non-Israel based
+revenues to increase again in 2015 following DSIT’s recently announced order with an undisclosed navy for four Hull Mounted
+Sonar (HMS) systems and an Anti-Submarine Warfare (ASW) Trainer for $15.4 million (See “Recent Developments”). DSIT
+continues to invest considerable efforts to penetrate Asian, European and South American markets in order to broaden its geographic
+sales base with respect to its sonar technology solutions. We have significant customer relationships with some of Israel’s
+largest companies in its defense and electronics industries as well as relationships with some of the biggest Asian defense integrators.
+We are currently exploring several cooperation opportunities in Asia . In
+2015, we anticipate expanding our sales and marketing efforts for our entire portfolio of naval solutions including our Shield
+family of products - AquaShield TM , AquaShield-ER TM (Extended Range), PointShield TM - and our
+Mobile Acoustic range (MAR) as well as our other naval solutions. In some cases we also offer a complete solution including above-water
+optical and radar sensors from third-party integrators into a complete C&C system. DSIT is currently in discussions with a
+number of energy, commercial and governmental customers seeing an increasing awareness of potential underwater threats to coastal
+and offshore critical infrastructure as well as vessels, canals and intakes. DSIT is also leveraging its capability to offer HMS
+to navies who are building new ships. In
+2014, three customers accounted for approximately 63% of DSIT’s revenues (32%, 16% and 15%). One customer represented approximately
+20% ($4.0 million) of Acorn’s consolidated revenues for 2014. DSIT does not expect that this customer will provide more
+than 10% of Acorn’s consolidated revenues in 2015. The loss of any one or more of these customers and/or the lack of a replacement
+project upon the completion of projects to these customers could have a material adverse effect on DSIT’s operations. Competition Our
+Energy & Security Sonar Solutions segment faces competition from several competitors, large and small, operating in worldwide
+markets (such as Sonardyne International Ltd. and Atlas Elektronik (both based in the United Kingdom) and the Kongsberg group
+of companies (based in Norway)) with substantially greater financial and marketing resources, particularly with respect to our
+energy and security sonar solutions. We believe that our wide range of experience and long-term relationships with large businesses
+as well as the strategic partnerships that we are developing will enable us to compete successfully and obtain future business.
+In product demonstrations to potential customers, DSIT’s AquaShield TM has achieved better performance regarding
+detection range and automatic classification, than its main competitor. DSIT has sold its AquaShield TM DDS system to
+the Israeli Navy following a comprehensive review and evaluation process in which the Navy investigated competing systems and
+selected those of DSIT. DSIT anticipates additional orders from the Israeli Navy for additional systems. We also face competition
+from other competitors (such as Whitehead Sistemi Subacquei (WASS) in Italy and Ultra Electronics in the UK in the area of portable
+acoustic ranges. Intellectual
+Property DSIT
+rigorously attempts to protect its proprietary know-how, proprietary technologies, processes and other intellectual property. DSIT’s
+systems are heavily based on software implementing advanced acoustic signal processing algorithms. The foundation of the systems
+and DSIT’s competitive edge lies in these algorithms. DSIT’s strategy is to identify these key intellectual property
+elements developed by us in order to protect them in a timely and effective manner, and to continually use such intellectual property
+to our competitive advantage in the marketplace. 7 We
+keep the detailed description of these core algorithms as proprietary information and accordingly they are not disclosed to the
+public or to customers. We use contractual measures such as non-disclosure agreements and special contract terms to protect this
+intellectual and proprietary information. It is uncommon for companies such as DSIT to rely heavily on patents, as the patent
+itself may disclose critical information. Nonetheless, in certain cases the benefits of patent protection can outweigh the risks.
+We have recently applied for two provisional patents covering our activity under MEIMAD as well as some application concepts in
+the area of Fiber Optic based shape sensing. A
+significant portion of our know-how is protected as commercial secrets and supported through agreements with our employees, suppliers,
+partners and customers. Facilities DSIT’s
+activities are conducted in approximately 21,000 square feet of space in the Tel Aviv metropolitan area under a lease that expires
+in January 2016. DSIT has an option to extend the lease for an additional three years. We believe that DSIT’s premises,
+which include a new integration and production lab built in 2013, will be sufficient to handle any expected near-term growth. SMART
+GRID DISTRIBUTION AUTOMATION – GridSense GridSense
+which is 100% owned by Acorn, develops and markets remote monitoring systems to electric utilities and industrial facilities worldwide.
+These systems are used in a wide range of utility applications including outage management, power quality monitoring, system planning,
+trouble shooting and proactive maintenance, and condition monitoring. These systems provide transmission and distribution network
+operators with the intelligence to better and more efficiently conduct grid operations. GridSense’s solutions allow end-users
+to cost effectively monitor the power quality and reliability parameters of electric transmission and distribution systems in
+applications where competitive offerings are non-existent or cost-prohibitive. GridSense
+operates from offices in the U.S. and through a distributorship in Australia and has utility customers throughout the world, including
+the Americas, Asia, Australia, Africa, and the United Kingdom. During
+2013, GridSense restructured its operations in both its US and Australian entities in order to improve efficiency based on GridSense’s
+revenue mix and skills mix. Following the restructuring, GridSense’s Australian operations no longer had a production line
+and had minimal research and development activities. During 2014, GridSense shut down its Australian offices in an effort to further
+reduce costs and streamline operations. GridSense continues to sell all of its current products in Australia and the surrounding
+areas through a network of distributors. All current product production and development now take place at GridSense’s U.S.
+operations facility in Sacramento. GridSense
+Offerings & Solutions GridSense
+provides a range of offerings to utilities worldwide that help them identify, and in some cases prevent, outages and failure conditions.
+GridSense offerings cost-effectively identify issues on transformers from the substation to the poletop, overhead distribution
+and transmission lines. GridSense also provides solutions for underground line monitoring, power quality analysis, and close up
+inspection of energized, high voltage assets. With GridSense solutions, utilities can minimize inconveniences and productivity
+losses for their consumers, optimize asset utilization, and reduce the costs of identifying and rectifying network outages and
+disturbances. GridSense offerings include: ● Transformer IQ ® - The Transformer IQ ® is a comprehensive, cost-effective monitoring system that monitors from the substation to the residential transformer all transformer failure parameters. ● Line IQ ® Systems - The Line IQ ® provides real-time monitoring of events, load, voltage and temperatures with intelligent algorithms for accurate fault detection and overhead line condition monitoring. 8 ● PowerMonic TM - The PowerMonic TM range of outdoor power analyzers and analytical software provides portable, comprehensive monitoring of low-voltage circuits, including power quality profiles, transient recordings, RMS event captures, flicker, sags and swells, and remote capabilities. ● HighV TM Camera - HighV TM Camera provides high-voltage inspection for energized assets to 345kV phase to phase, with one-touch still image or video capture, is Android tablet optimized for maximum functionality, and offers rapid deployment via hotstick. ● Grid InSite TM - An intuitive, integrated software platform for configuring GridSense network monitoring devices, accessing their data, and turning that data into actionable, smart grid intelligence. ● DistributionIQ ® - A robust platform for battery- and maintenance-free remote monitoring of non-transformer assets and applications, including fixed capacitor banks, underground cables, and underground line faults. GridSense
+products under current development include: ● DemandIQ TM - Uses TransformerIQ ® to detect overload conditions at the poletop transformer and performs direct load shedding within the household. Customers
+and Markets Currently,
+GridSense has over 15 ongoing major pilot programs, each of which we believe could have a roll-out
+potential in excess of $500,000. Pilot programs consist of deployment of one or more products on a test basis. Such pilot programs
+generally last between three and eighteen months. We have no assurance that such pilot programs will ultimately result in large
+scale roll-out programs. In
+2014, three customers (two serviced from GridSense’s U.S. operations and one from Australia) accounted for approximately
+39% (approximately $0.6 million, $0.6 million and $0.5 million) of GridSense’s total revenues. Two of these customers accounted
+for approximately 40% of GridSense’s U.S. based revenues while the Australian customer accounted for approximately 37% of
+its revenues. The balance of GridSense’s revenues in 2014 were generally spread across a broad base of customers. The loss
+of one or more of the company’s top customers could have a material effect on the overall sales of GridSense. To mitigate
+this risk, the company is aggressively working to further expand its sales pipeline and supporting a larger base of customers. Competition The
+industry in which GridSense operates is characterized by intense competition from both large, established companies as well as
+smaller companies with specialized offerings. Such competitors include General Electric, Siemens, Qualitrol Company LLC, PowerSense
+and Schweitzer Engineering Laboratories. To avoid direct competition with larger, more established companies, GridSense focuses
+on niches where it can offer a differentiated product based on superior cost and performance. In the niche market, GridSense competes
+against Power Delivery Product, Sentient and Cooper. These companies have varying degrees of similar products at comparable price
+points. As GridSense grows and penetrates markets where larger companies have been established, it may experience more competition.
+GridSense is in a field where electronics and software/firmware dominate. This fast changing area may generate new methods of
+detecting and monitoring disturbances. GridSense closely monitors trends and changes in technologies and customer demand that
+could adversely impact its competitiveness and overall success. Intellectual
+Property GridSense
+invests significant resources in product development and research in order to maintain its competitiveness in the marketplace.
+Keeping proprietary information safe from unauthorized use or disclosure is therefore an important objective. In order to protect
+its proprietary know-how and technology, GridSense uses a combination of patents, trade secrets, contracts, copyrights and trademarks.
+GridSense owns two U.S. patents, and has one patent pending in the U.S. In addition, GridSense owns one patent in Canada. Some
+of GridSense’s know-how and technology may not be patentable. To protect its rights, GridSense generally requires employees,
+as well as select consultants, advisors and collaborators to enter into confidentiality agreements. While these agreements will
+provide some level of protection, they cannot provide absolute assurance that GridSense’s trade secrets, know-how or other
+proprietary information are fully safeguarded. Whenever intellectual property is developed internally or acquired, GridSense will
+evaluate and determine the optimal mix of controls to protect itself. 9 Production
+Facilities and Locations GridSense’s
+facilities are located in West Sacramento, CA. Its leased facility in West Sacramento covers approximately 11,900 square feet
+and is used for production, development and administrative activities. GridSense management believes its facilities are sufficient
+to meet the company’s needs for the foreseeable future. GridSense has successfully outsourced many production processes
+to external parties while maintaining strict quality assurance standards including the internal testing of all finished goods.
+The transfer of production to accredited contract manufacturers has reduced the Company’s fixed manufacturing overhead and
+freed up resources to focus on quality assurance and service. The lease in West Sacramento expires in February 2016. OMNIMETRIX
+- M2M CRITICAL ASSET MONITORING & CONTROL and PIPELINE MONITORING OmniMetrix
+is a Georgia limited liability company established in 1998 based in Buford, Georgia that develops and markets M2M (machine-to-machine)
+wireless remote monitoring and control systems and services for multiple markets in the Internet of Things ecosystem: critical
+assets (including stand-by power generators, pumps, pumpjacks, light towers, turbines, compressors, as well as other oilfield
+equipment) as well as corrosion protection for the pipeline industry (gas utilities and pipeline companies). Acorn owns 100% of
+OmniMetrix. Products
+& Services In
+the Power Generation (“PG”) market of the M2M segment, OmniMetrix sells a line of devices and services built on its
+baseline G8500 wireless remote monitor. This device is broadly applicable across all brands and models of emergency power generators
+and industrial engines. The G8500 product family connects directly to the engine’s control panel, and captures all data
+flowing through the control panel. As a result, the product provides the ability to identify whether an emergency generator is
+capable of operating as expected. In 2012, OmniMetrix designed and gained approval from PTCRB, the certification forum of North
+American cellular operators, and AT&T for a new 4G data radio module, replacing the 2G technology used since 2007. This new
+device includes GPS functionality and data storage at the device for the first time, enabling OmniMetrix to bring a mobile asset
+tracking functionality into the market, with primary focus on mobile generators and related equipment. OmniMetrix’s G8700
+product line is designed specifically for this mobile market segment, and offers robust functionality and ultra-low power consumption,
+a critical feature for mobile equipment, particularly in the rental equipment market for frack drilling sites. OmniMetrix currently
+works with several customers in this market across several shale deposit geographies in the United States and sees this as a key
+growth market for its business. In
+the PM market, OmniMetrix offers two primary product lines, Rectifier Monitors (RMs) and Computer Automated Test Stations (CATS).
+Both of these products are used to monitor cathodic protection systems, a process which reduces rust and corrosion on the steel
+pipes used to transport natural gas underground. As the name suggests, the OmniMetrix Rectifier Monitor (RM) product monitors
+the operation of the rectifiers, which are a critical component in the effort to prevent corrosion, and are also the most common
+point of failure in the corrosion system. The OmniMetrix Computer Automated Test Station (CATS) is also used to provide data points
+along the pipeline segment powered by the rectifier. Customers
+and Markets At
+its core, the OmniMetrix PG product can remotely monitor and control any industrial engine application, which includes standby
+generators, compressors, turbines, pumps, and other equipment. Early in the company’s history, a strategic decision was
+made to focus primarily on the standby power generation market. Over the past 12 months, the company has begun to expand its focus
+to add several additional applications where it sees demand. Following
+the advent of the Internet of Things and “smart home” ecosystems, whereby multiple sensing and monitoring devices
+are aggregated into one simple dashboard for customers, many large companies, including Google, Comcast, Verizon, and AT&T
+are entering this market and offering similar platforms. Standby generator monitoring is rapidly becoming part of this ecosystem. 10 As
+OmniMetrix can monitor and control all major brands of standby generators, it is uniquely positioned to compete in this market.
+OmniMetrix is in discussions with several companies in this market to explore strategic partnerships. In
+the first stages of OmniMetrix’s PG product and market development, relatively unsophisticated generator controls and early
+generation cellular and satellite communication processes limited the applications to alarm delivery. Customers were notified
+that some event had taken place after the fact. There was no diagnostic data opportunity, but service organizations could at best
+practice a proactive service approach. With
+the advent of second generation cellular systems, and newer computerized engine controls, OmniMetrix migrated to a design point
+of collecting large amounts of performance data from the remote machinery, allowing service organizations to perform diagnostics
+on remote equipment before dispatching service. This was the beginning of the OmniMetrix SmartService TM Program. It
+allowed the service organization to put the right person in the right truck with the right parts to effect a one-trip solution.
+At this phase service organizations could be efficient, as well as proactive, in their operations. Customers have provided OmniMetrix
+feedback telling how customer service teams are able to work “smarter” and more efficiently by going directing to
+sites with problems, thus increasing the value of their businesses. OmniMetrix
+is now in its third phase of evolution, maturing the high performance data collection design point into the first provider offering
+of automated prognostic solutions. As most generator failures are the result of consumables, and as those consumables can be monitored,
+the consumption trends can be extrapolated into predictions of the most common failure modes. OmniMetrix’
+PG monitors have been installed on generators from original equipment manufacturers (“OEMs”) such as Caterpillar,
+Kohler, Generac, Cummins, MTU Energy and other generator manufacturers. Based on both published and industrial sources, we estimate
+that the U.S. emergency power generation marketplace consists of at least 100,000 new industrial generators and 200,000 new residential
+generators per year. These new machines join an installed base of approximately two million generators. While new generators provide
+more useful diagnostic data thanks to their computerized controls, older machines have an ever greater need for basic monitoring
+due to their aging systems. Some estimates place the potential world market for monitoring at over 10 million installed generators. OmniMetrix
+provides dual value propositions to the generator service organizations as well as to the machine owner. The dealers benefit from
+the receipt of performance data and status conditions from the generators they service for their customers that allows the dealer
+service organization to be proactive in their delivery of service to their customers, as well as to implement the OmniMetrix SmartService TM approach to analyzing the remote machines before dispatching a service truck. Since the majority of service and warranty
+costs are incurred from service people driving trucks, preemptive analysis of customer site conditions prior to dispatch can reduce
+their labor cost as a result. While some larger dealers embraced OmniMetrix’s business model (a recurring revenue model),
+it did not universally resonate within the dealer marketplace and the rate of anticipated adoption (and thus sales of monitors
+and monitoring subscriptions) was far slower than anticipated. From the machine owner’s perspective, the OmniMetrix product
+provides a powerful tool to be used in their constant effort to avoid failures that come from consumables such as batteries and
+fuel. With proper monitoring, the large majority of machine failures can be avoided completely. This migration from failure reporting
+to failure prevention is fundamental to the OmniMetrix focus, and is the result of a strong data collection and analysis design
+point. We believe that this transition to prognostics sets OmniMetrix apart from its competitors, many of whom are still in the
+failure reporting phase of application development. We have also increased our marketing efforts to end-users in an effort to
+increase demand for our services. Whether these efforts will prove to be successful cannot be determined at this time. In
+addition, in January 2013, the EPA finalized amendments to the National Emissions Standards for Hazardous Air Pollutants for stationary
+reciprocating internal combustion engines (generators). Now, every commercial generator over a certain size is required to collect
+and report run times and annual emissions or face significant civil penalties. Consequently, we believe that some end-user customers
+as well as environmental engineering firms, will see significant value in our offering due to our ability to assist end-user customers
+in complying with such environmental regulations. As a result, we have begun to highlight this value in our marketing efforts
+to our customers. We currently provide reports and information to end-user customers to assist them in their environmental compliance,
+and we have received positive feedback from these customers. There
+are two types of competitors in the PG marketplace: independent monitoring organizations (such as OmniMetrix) who produce the
+monitoring systems (but not the equipment being monitored); and OEMs such as generator manufacturers or generator controls manufacturers
+who have begun offering customer connectivity to their machinery. We recently commissioned a market study that supports our belief
+that we offer an excellent product, but which indicates that our pricing strategy needs to become more aggressive in order to
+compete effectively with both our monitoring and OEM competitors. Whether any new pricing and marketing programs will provide
+sufficient margins and otherwise be effective cannot be determined. 11 Within
+the PM marketplace, there are no OEM competitors, but there are several independent monitoring companies similar to OmniMetrix.
+While we believe that OmniMetrix systems provide greater functionality than its competitors, those competitors offer a broader
+range of corrosion products beyond monitoring enabling better channel penetration than OmniMetrix can accomplish. In
+2014, no one customer of OmniMetrix provided more than 8% of its revenue. OmniMetrix has successfully been able to mitigate the
+risk of customer dependency by increasing its penetration rate, its sales pipeline and supporting a larger base of customers.
+OmniMetrix expects to continue to expand its base of customers in 2015. Competition OmniMetrix
+is a vertical market company, deeply focused on product and service designs for a complete end-to-end program for its customers.
+Having been the first (1998) provider of wireless remote monitoring systems for standby generators and pipeline corrosion programs,
+the company has had the opportunity to mature its offering to a level not offered by others who might like to compete in these
+two segments. This long experience working with key brand project partners over the years has resulted in product offerings that
+other competitors simply cannot match. There
+are two types of competitors in the PG marketplace: (1) Independent monitoring organizations (such as OmniMetrix) who produce the monitoring systems, but not the equipment being monitored. Among these are companies such as Ayantra, FleetZOOM, Gen-Tracker, and PointGuard. PointGuard is owned by a Caterpillar dealer, and focuses its business on the Caterpillar channel. Today it offers an array of diagnostic capabilities. The other three competitors operate in the reactive “failure notification” mode described in the early stages of the OmniMetrix business model. In the past, those competitors positioned themselves at a lower performance, lower price quadrant of the market. Following its acquisition by Acorn in 2012, OmniMetrix began an aggressive push into lower price offerings, while providing significantly higher performance than the competition. (2) OEMs such as generator manufacturers or generator controls manufacturers have begun offering customer connectivity to their machinery. They offer a current generation connectivity replacing telephone dial-up modems that had been used in the past. Their offerings are limited to their own brands, so they do not fit into a broad application such as does the OmniMetrix SmartService TM , supporting service organizations that service all brands. They are also generally designed for the machine owners’ use, in a reactive application. Deep Sea Electronics offers wireless devices to allow remote access to generators with some of their controls. Similarly, Cummins Power Generation offers a device that allows their machine owners to browse directly into the generator. This device is only valid for certain types of their generators. We
+believe OmniMetrix has a well-established and well-defended position in the high performance PG monitoring segment, due to its
+long history and numerous industry partner projects. The company is currently applying an aggressive sales effort into both the
+market segment requiring less technology and lower price (including the extremely large residential generator market) as well
+as developing more sophisticated, diagnostic products and custom solutions for commercial clientele. Within
+the PM marketplace, there are no OEM competitors, but there are several independent monitoring companies similar to OmniMetrix
+such as Abriox, Elecsys, and American Innovations. We believe that OmniMetrix systems provide greater functionality that these
+competitors, though those competitors are much larger and have greater resources enabling better channel penetration than OmniMetrix
+can accomplish. Intellectual
+Property OmniMetrix
+has always focused on being the technology leader in its markets, and as a result has created many “industry firsts”.
+Initially, the company only pursued patents on the most valuable processes and systems and otherwise made public disclosure of
+many processes to prevent others from making later patent claims on those items. Nonetheless, OmniMetrix has two issued patents
+and is evaluating the benefit of completing additional applications currently in process. Furthermore, the company has agreements
+with its employees and consultants which establish certain non-disclosure and in some cases, non-compete, requirements. OmniMetrix
+continually evaluates whether and how to best protect its intellectual property, but there can be no assurance that its efforts
+will be successful in all cases. 12 Facilities OmniMetrix’s
+activities are currently conducted in approximately 21,000 square feet of office and production space in the Hamilton Mill Business
+Park located in Buford, Georgia under a lease that expires on December 31, 2019. OmniMetrix is currently utilizing only a portion
+of these leased facilities and has previously taken an impairment charge with respect to expected underutilization of leasehold
+improvements in these facilities. OmniMetrix is attempting to sub-lease a portion of these facilities. It cannot be determined
+at this time whether OmniMetrix will be successful in its attempts to sub-lease the facilities. BACKLOG As
+of December 31, 2014, our backlog of work to be completed and the amounts expected to be completed in 2015 were as follows (amounts
+in millions of U.S. dollars): Backlog at December 31, 2014 Amount expected to be completed in 2015 DSIT Solutions* $ 12.0 $ 6.7 GridSense 0.8 0.8 OmniMetrix 1.9 1.4 Total $ 14.7 $ 8.9 *
+See Recent Developments for new orders. RESEARCH
+AND DEVELOPMENT EXPENSE, NET Research
+and development expense recorded for the years ended December 31 2013 and 2014 for each of our consolidated subsidiaries in continuing
+operations (see Recent Developments) is as follows (amounts in thousands of U.S. dollars): Years ended December 31, 2013 2014 DSIT $ 1,511 $ 1,002 GridSense 2,118 1,096 OmniMetrix 647 616 Total $ 4,276 $ 2,714 Research
+and development expense recorded is net of participation by third parties in the research and development costs as well as credits
+arising from qualifying research and experimental development expenditures. EMPLOYEES At
+December 31, 2014, we employed a total of 163 employees, including 138 full-time employees. We consider our relationship with
+our employees to be satisfactory. 13 A
+breakdown of our full-time employees by geographic location can be seen below: Full-time employee count at December 31, 2014 U.S. Israel Total DSIT Solutions — 58 58 GridSense 22 — 22 OmniMetrix 21 — 21 USSI* 35 — 35 Acorn 2 — 2 Total 80 58 138 *
+USSI suspended operations in March 2015. See Recent Developments. A
+breakdown of our full-time employees by activity can be seen below: Full-time employee count at December 31, 2014 Production, Engineering and Technical Support Marketing and Sales Management, Administrative and Finance Total DSIT Solutions 45 3 10 58 GridSense 15 1 6 22 OmniMetrix 11 6 4 21 USSI* 28 2 5 35 Acorn — — 2 2 Total 99 12 27 138 *
+USSI suspended operations in March 2015. See Recent Developments. We
+have no collective bargaining agreements with any of our employees. However, with regard to our Israeli activities, certain provisions
+of the collective bargaining agreements between the Israeli Histadrut (General Federation of Labor in Israel) and the Israeli
+Coordination Bureau of Economic Organizations (including the Industrialists Association) are applicable by order of the Israeli
+Ministry of Labor. These provisions mainly concern the length of the workday, contributions to a pension fund, insurance for work-related
+accidents, procedures for dismissing employees, determination of severance pay and other conditions of employment. We generally
+provide our Israeli employees with benefits and working conditions beyond the required minimums. Israeli law generally requires
+severance pay upon the retirement or death of an employee or termination of employment without due cause. Furthermore, Israeli
+employees and employers are required to pay specified amounts to the National Insurance Institute, which administers Israel’s
+social security programs. The payments to the National Insurance Institute include health tax and are approximately 5.5% of wages
+(up to a specified amount), of which the employee contributes approximately 70% and the employer approximately 30%. ADDITIONAL
+FINANCIAL INFORMATION For
+additional financial information regarding our operating segments, foreign and domestic operations and sales, see “Item
+7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Note 18 to our Consolidated
+Financial Statements included in this Annual Report. 14 AVAILABLE
+INFORMATION We
+file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission
+(the “SEC”). These filings are available to the public over the internet at the SEC’s website at http://www.sec.gov.
+You may also read and copy any document we file at the SEC’s public reference room located at 100 F Street, NE, Washington,
+DC 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference room. Our
+website can be found at http://www.acornenergy.com. We make available free of charge on or through our website, access to our
+annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports as soon
+as reasonably practicable after such material is electronically filed, or furnished, to the SEC. Our website also includes our
+Code of Business Conduct and Ethics, and our Board of Directors’ Committee Charters for the Audit, Compensation and Nominating
+Committees. 15 ITEM
+1A. RISK FACTORS We
+may from time to time make written or oral statements that contain forward-looking information. However, our actual results may
+differ materially from our expectations, statements or projections. The following risks and uncertainties, together with other
+factors not presently determinable, could cause actual results to differ from our expectations, statements or projections. GENERAL
+FACTORS We
+have a history of operating losses and have used increasing amounts of cash for operations and to fund our acquisitions and investments. In
+2013 and 2014, our companies experienced delays in anticipated orders, varying levels of lower than planned sales volume and technical
+challenges that collectively and materially have negatively impacted and may continue to negatively impact our financial performance
+in the future. We have a history of operating losses, and have used significant amounts of cash to fund our operating activities
+over the years. In 2013 and 2014, we had operating losses of $21.3 million and $10.2 million, respectively plus losses from discontinued
+operations of $9.7 million and $19.1 million, respectively. Cash used in operating activities of continuing operations in 2013
+and 2014 was $10.9 million and $7.1 million, respectively plus an additional $6.9 million and $11.1 million used in discontinued
+operations in 2013 and 2014. As
+of December 31, 2014, we had a total of approximately $4.7 million in corporate cash and cash equivalents and $2.9 million at
+the end of February 2015. We do not presently anticipate pursuing new acquisitions and investment opportunities unless they support
+our existing businesses, but we do expect to continue to support the financing needs of our subsidiaries to the extent that we
+can. While we plan for both GridSense and OmniMetrix to be net cash flow neutral in 2016, these companies will need support for
+their financing needs in 2015. In 2014, we lent GridSense and OmniMetrix approximately $1,340,000 and $850,000, respectively,
+net of repayments. We expect that in 2015, DSIT will generate significant amounts of cash which will be available to support the
+corporate cash needs of Acorn and its subsidiaries; however, there can be no assurance that DSIT will be able to do so to the
+extent necessary and it is unknown for how long DSIT will be able to provide such support. Accordingly,
+if our current cash plus any cash generated from operations and borrowing from available lines of credit, cannot provide sufficient
+liquidity to finance the operating activities of Acorn and the operations of our operating subsidiaries for the foreseeable future
+or the next 12 months in particular, we can either access the capital markets, divest from one or more of our assets or find a
+strategic partner for one or more of our businesses. There can be no assurance however that we will be able to exercise any of
+these options to improve our liquidity. We
+do not expect to pay dividends on shares of our common stock for the foreseeable future. Investors may never obtain a return on
+their investment. In
+October 2011, our Board of Directors adopted a dividend policy pursuant to which Acorn expected to pay quarterly dividends on
+our common stock. We suspended this policy after our March 2013 dividend payment and do not presently intend to pay dividends
+to our stockholders in the foreseeable future. We intend to reinvest earnings, if any, in the development and expansion of our
+business. Accordingly, you will need to rely on sales of your common stock after price appreciation, which may never occur, in
+order to realize a return on your investment. We
+depend on key management for the success of our business. Our
+success is largely dependent on the skills, experience and efforts of our senior management team, including John Moore, Joseph
+Musanti, Benny Sela, Walter Czarnecki and Michael Barth. The loss of the services of any of these key managers could materially
+harm our business, financial condition, future results and cash flow. We do not maintain “key person” life insurance
+policies on any of these employees other than for our CEO, John A. Moore. We may also not be able to locate or employ on acceptable
+terms qualified replacements for our senior management if their services were no longer available. 16 Loss
+of the services of a few key employees could harm our operations. We
+depend on key technical employees and sales personnel. The loss of certain personnel could diminish our ability to develop and
+maintain relationships with customers and potential customers. The loss of certain technical personnel could harm our ability
+to meet development and implementation schedules. The loss of key sales personnel could have a negative effect on sales to certain
+current customers. Although most of our significant employees are bound by confidentiality and non-competition agreements, the
+enforceability of such agreements cannot be assured. Our future success also depends on our continuing ability to identify, hire,
+train and retain other highly qualified technical and managerial personnel. If we fail to attract or retain highly qualified technical
+and managerial personnel in the future, our business could be disrupted. Our
+awards of stock options to employees may not have their intended effect. A
+portion of our total compensation program for our executive officers and key personnel has historically included the award of
+options to buy our common stock or the common stock of our subsidiaries. If the price of our common stock performs poorly, such
+performance may adversely affect our ability to retain or attract critical personnel. In addition, any changes made to our stock
+option policies, or to any other of our compensation practices, which are made necessary by governmental regulations or competitive
+pressures could affect our ability to retain and motivate existing personnel and recruit new personnel. Compliance
+with changing regulation of corporate governance, public disclosure and financial accounting standards may result in additional
+expenses and affect our reported results of operations. Keeping
+informed of, and in compliance with, changing laws, regulations and standards relating to corporate governance, public disclosure
+and accounting standards, including the Sarbanes-Oxley Act, Dodd-Frank Act, as well as new and proposed SEC regulations and accounting
+standards, has required an increased amount of management attention and external resources. Compliance with such requirements
+may result in increased general and administrative expenses and an increased allocation of management time and attention to compliance
+activities. New regulations
+related to conflict-free minerals may force us to incur additional expenses. The
+SEC released final rules in August 2012 regarding mandatory disclosure by public companies of sourcing information related to
+their use of “conflict minerals” (tantalum, tin, tungsten and gold) originating in the Democratic Republic of Congo
+and adjoining countries. We were required to conduct specified due diligence activities for the 2013 calendar year, and provided
+our first report in June 2014. Based
+on guidance released by the Securities and Exchange Commission, Acorn determined that OmniMetrix – whose only business is
+that of a service provider – is not subject to the required conflicts minerals inquiry. However, Acorn further determined
+that for its other subsidiaries that conflict minerals are necessary for the functionality of many of our products, and have taken,
+and will continue to undertake, prescribed steps to determine their origin. In
+our June 2014 disclosure, we reported that the origin of the conflict minerals cannot be determined with any certainty once the
+raw ores are smelted, refined and converted to ingots, bullion or other conflict mineral-containing derivatives. We
+anticipate that continuing to fulfill our compliance obligations with the rules will continue to be both time consuming and potentially
+costly. Although the exact amount cannot be determined at this time, commentators have suggested compliance could costs companies
+like ours as much as several hundreds of thousands of dollars per year. Although our costs have been (and we expect will continue
+to be) substantially lower, we may also incur additional expenses related to any changes to our products we may decide are advisable
+based upon our due diligence findings, as well as increased supply costs as alternative supply sources may not be competitively
+priced. We
+may not be able to successfully integrate companies which we may invest in or acquire in the future, which could materially and
+adversely affect our business, financial condition, future results and cash flow. Part
+of our business model includes the acquisition of new companies either as new platform companies or complimentary companies for
+our subsidiaries. Although we do not presently foresee making such acquisitions in the near term unless they support our existing
+businesses, if we did so, any failure to effectively integrate any future acquisition’s management into our controls, systems
+and procedures could materially adversely affect our business, results of operations and financial condition. 17 Our
+strategy is to continue to integrate any newly acquired companies and grow the businesses of all of our companies. Integrating
+acquisitions is often costly, and we may not be able to successfully integrate acquired companies with existing operations without
+substantial costs, delays or other adverse operational or financial consequences. Integrating acquired companies involves a number
+of risks that could materially and adversely affect our business, including: ● failure of the acquired companies to achieve the results we expect; ● inability to retain key personnel of the acquired companies; ● dilution of existing stockholders; ● potential disruption of our ongoing business activities and distraction of our management; ● difficulties in retaining business relationships with suppliers and customers of the acquired companies; ● difficulties in coordinating and integrating overall business strategies, sales and marketing, and research and development efforts; and ● difficulties in establishing and maintaining uniform standards, controls, procedures and policies, including accounting controls and procedures. In
+order to grow, one or more of our companies may decide to pursue growth through acquisitions, although we do not currently plan
+any significant acquisitions. Any significant acquisition by one or more of our operating companies could require substantial
+use of our capital and may require significant debt or equity financing. We anticipate the need to closely manage our cash for
+the foreseeable future and cannot provide any assurance as to the availability or terms of any such financing or its effect on
+our liquidity and capital resources. We
+incur substantial costs as a result of being a public company. As
+a public company, we incur significant legal, accounting, and other expenses in connection with our reporting requirements. The
+Sarbanes-Oxley Act of 2002, Dodd-Frank Act and the rules subsequently implemented by the Securities and Exchange Commission (“SEC”)
+and NASDAQ, have required changes in corporate governance practices of public companies. These rules and regulations have already
+increased our legal and financial compliance costs and the amount of time and effort we devote to compliance activities. We expect
+that as a result of continued compliance with these rules and regulations, we will continue to incur significant legal and financial
+compliance costs. We continue to regularly monitor and evaluate developments with respect to these new rules with our legal counsel,
+but we cannot predict or estimate the amount of additional costs we may incur or the timing of such costs. The conflict minerals
+reporting requirement discussed above is a direct consequence of our public status. We
+may in the future become involved in litigation that may materially adversely affect us. From
+time to time in the ordinary course of our business, we may become involved in various legal proceedings, including commercial,
+product liability, employment, class action and other litigation and claims, as well as governmental and other regulatory investigations
+and proceedings. Any legal proceedings can be time-consuming, divert management’s attention and resources and cause us to
+incur significant expenses. Because litigation is inherently unpredictable, the results of any such actions may have a material
+adverse effect on our business, operations or financial condition. We
+may incur unexpected shutdown costs in connection with the suspension of operations of our USSI subsidiary or other unexpected
+liabilities related to USSI that will survive its shutdown. We
+have written off substantially all of the assets of our USSI subsidiary, and do not anticipate any significant additional shutdown
+costs in connection with the suspension of USSI’s operations. In addition, we are neither aware of nor anticipate any other
+liabilities or claims related to USSI that will survive its shutdown. Should any unexpected costs, claims or liabilities related
+to USSI arise, however, it may negatively impact our cash position. Goodwill
+and other intangible assets recorded in connection with our acquisitions is subject to impairment evaluations and as a result,
+we could be required to write off some or all of these intangibles, which may adversely affect our financial condition and results
+of operations. In
+accordance with applicable accounting principles, goodwill is not amortized but is reviewed annually or more frequently for impairment
+and other intangibles are also reviewed if certain conditions exist. During the year ended December 31, 2014, we recorded an impairment
+of $1.8 million of goodwill associated with our GridSense segment as well as impairments of $1.4 million of goodwill and $2.0
+million and intangibles associated with our USSI subsidiary. During the year ended December 31, 2013, we recorded impairments
+of $1.9 million of goodwill and $4.8 million of intangibles associated with our OmniMetrix subsidiary. Any additional impairment
+of the value of recorded goodwill or other intangibles at any of our other subsidiaries will result in an additional charge against
+earnings which could materially adversely affect our reported results of operations and financial position in future periods. 18 We
+have reported material weaknesses in internal controls over financial reporting as of December 31, 2014 and we cannot assure you
+that additional material weaknesses will not be identified in the future or that we can effectively remediate our reported weaknesses.
+If our internal control over financial reporting or disclosure controls and procedures are not effective, there may be errors
+in our financial statements that could require a restatement or our filings may not be timely and investors may lose confidence
+in our reported financial information. Section
+404 of the Sarbanes-Oxley Act of 2002 requires us to evaluate the effectiveness of our internal control over financial reporting
+as of the end of each year, and to include a management report assessing the effectiveness of our internal control over financial
+reporting in each Annual Report on Form 10-K. Our
+management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our internal control over
+financial reporting will prevent all errors and all fraud. A control system, no matter how well designed and operated, can provide
+only reasonable, not absolute, assurance that the control system’s objectives will be met. Further, the design of a control
+system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to
+their costs. Controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management
+override of the controls. Over time, controls may become inadequate because changes in conditions or deterioration in the degree
+of compliance with policies or procedures may occur. Because of the inherent limitations in a cost-effective control system, misstatements
+due to error or fraud may occur and not be detected. As
+a result, we cannot assure you that additional significant deficiencies or material weaknesses in our internal control over financial
+reporting will not be identified in the future or that we can effectively remediate our reported weaknesses. Any failure to maintain
+or implement required new or improved controls, or any difficulties we encounter in their implementation, could result in significant
+deficiencies or material weaknesses, cause us to fail to timely meet our periodic reporting obligations, or result in material
+misstatements in our financial statements. Any such failure could also adversely affect the results of periodic management evaluations
+regarding disclosure controls and the effectiveness of our internal control over financial reporting required under Section 404
+of the Sarbanes-Oxley Act of 2002 and the rules promulgated thereunder. The existence of a material weakness could result in errors
+in our financial statements that could result in a restatement of financial statements, cause us to fail to timely meet our reporting
+obligations and cause investors to lose confidence in our reported financial information. If
+we are unable to protect our intellectual property, or our intellectual property protection efforts are unsuccessful, others may
+duplicate our technology. Our
+operating companies rely on a combination of patents, trademarks, copyrights, trade secret laws and restrictions on disclosure
+to protect our intellectual property rights. Our ability to compete effectively will depend, in part, on our ability to protect
+our proprietary technology, systems designs and manufacturing processes. The ability of others to use our intellectual property
+could allow them to duplicate the benefits of our products and reduce our competitive advantage. We do not know whether any of
+our pending patent applications will be issued or, in the case of patents issued, that the claims allowed are or will be sufficiently
+broad to protect our technology or processes. Further, a patent issued covering one use of our technology may not be broad enough
+to cover uses of that technology in other business areas. Even if all our patent applications are issued and are sufficiently
+broad, they may be challenged or invalidated or our competitors may independently develop or patent technologies or processes
+that are equivalent or superior to ours. We could incur substantial costs in prosecuting patent and other intellectual property
+infringement suits and defending the validity of our patents and other intellectual property. While we have attempted to safeguard
+and maintain our property rights, we do not know whether we have been or will be completely successful in doing so. These actions
+could place our patents, trademarks and other intellectual property rights at risk and could result in the loss of patent, trademark
+or other intellectual property rights protection for the products, systems and services on which our business strategy partly
+depends. Furthermore, it is not practical from a cost/benefit perspective to file for patent or trademark protection in every
+jurisdiction where we now or in the future may conduct business. In those territories where we do not have the benefit of patent
+or trademark protections, our competitors may be able to prevent us from selling our products or otherwise limit our ability to
+advertise under our established product names and we may face risks associated with infringement litigation as discussed below. We
+rely, to a significant degree, on contractual provisions to protect our trade secrets and proprietary knowledge. These trade secrets
+either cannot be protected by patent protection or we have determined that seeking a patent is not in our interest. These agreements
+may be breached, and we may not have adequate remedies for any breach. Our trade secrets may also be known without breach of such
+agreements or may be independently developed by competitors. 19 Third
+parties may claim that we are infringing their intellectual property, and we could suffer significant litigation or licensing
+expenses or be prevented from selling products and services if these claims are successful. We also may incur significant expenses
+in affirmatively protecting our intellectual property rights. In
+recent years, there has been significant litigation involving patents and other intellectual property rights in many technology-related
+industries and we believe that the industries in which certain of our subsidiaries operate have a significant amount of patent
+activity. Third parties may claim that the technology or intellectual property that we incorporate into or use to develop, manufacture
+or provide our current and future products, systems or services infringe, induce or contribute to the infringement of their intellectual
+property rights, and we may be found to infringe, induce or contribute to the infringement of those intellectual property rights
+and may be required to obtain a license to use those rights. We may also be required to engage in costly efforts to design our
+products, systems and services around the intellectual property rights of others or incur additional marketing costs if we are
+prevented from using existing product names. The intellectual property rights of others may cover some of our technology, products,
+systems and services. In addition, the scope and validity of any particular third party patent may be subject to significant uncertainty. Litigation
+regarding patents or other intellectual property rights is costly and time consuming, and could divert the attention of our management
+and key personnel from our business operations. The complexity of the technology involved and the uncertainty of intellectual
+property litigation increase these risks. Claims of intellectual property infringement might also require us to enter into costly
+royalty or license agreements or to indemnify our customers. However, we may not be able to obtain royalty or license agreements
+on terms acceptable to us or at all. Any inability on our part to obtain needed licenses could delay or prevent the development,
+manufacture and sale of our products, systems or services. We may also be subject to significant damages or injunctions against
+development, manufacture and sale of our products, systems or services. We also may be required to incur significant time and
+expense in pursuing claims against companies we believe are infringing or have misappropriated our intellectual property rights. It
+can be difficult or expensive to obtain the insurance we need for our business operations. As
+part of our business operations, we maintain insurance both as a corporate risk management strategy and to satisfy the requirements
+of many of our contracts. Insurance products are impacted by market fluctuations and can become expensive and sometimes very difficult
+to obtain. There can be no assurance that we can secure all necessary or appropriate insurance at an affordable price for the
+required limits. Our failure to obtain such insurance could lead to uninsured losses that could have a material adverse effect
+on our results of operations or financial condition, or cause us to be out of compliance with our contractual obligations. Our
+GridSense subsidiary does business in California, which is known to experience earthquake activity. Insurance coverage for earthquake-related
+damage is expensive and currently, GridSense does not maintain an earthquake insurance policy. We
+may in the future be involved in product liability and product warranty claims relating to the products we manufacture and distribute
+that, if adversely determined, could adversely affect our financial condition, results of operations, and cash flows. Product
+liability claims can be expensive to defend and can divert the attention of management and other personnel for significant periods,
+regardless of the ultimate outcome. Claims of this nature could also have a negative impact on customer confidence in our products
+and our company. While insurance can mitigate some of this risk, due to our current size and limited operating history, we have
+been unable to obtain product liability insurance with significant coverage. Our customers may not accept the terms we have been
+able to procure and seek to terminate our existing contracts or cease to do business with us. The
+timing and amount of revenue generated both from new customer orders and backlog fulfillment are subject to substantial volatility Recognition
+of revenue from sales to certain customers can be subject to delays beyond our control, such as timing of the receipt of component
+parts, change orders issued by the customer and delays in customers’ scheduled installation dates (primarily at GridSense
+and DSIT), all of which we generally accommodate at no cost to the customer as part of our marketing efforts to them for repeat
+business. 20 Concentrations
+of credit risk Financial
+instruments, which potentially subject us to concentrations of credit risk, consist principally of cash and cash equivalents,
+restricted deposits accounts receivable and unbilled revenues. The Company’s cash, cash equivalents and restricted cash
+deposits were deposited primarily with U.S. and Israeli banks and other financial institutions and amounted to $5.9 million from
+continuing operations at December 31, 2014. The Company uses major banks and brokerage firms to invest its excess cash, primarily
+in money market funds. The counterparties to our restricted deposits are two major Israeli banks. The Company does not believe
+there is significant risk of non-performance by these counterparties. Related credit risk would result from a default by the financial
+institutions or issuers of investments to the extent of the recorded carrying value of these assets. Approximately 35% of the
+accounts receivable at December 31, 2014, was due from two customers who pays their receivables over usual credit periods. Credit
+risk with respect to the balance of trade receivables is generally diversified due to the number of entities comprising the Company’s
+customer base. Approximately 64% of the balance in unbilled revenue at December 31, 2014 was due from three customers that when
+billed, pay their trade receivables over usual credit periods. Credit risk with respect to the remaining balance of unbilled revenue
+is generally diversified due to the number of entities comprising our customer base. Results
+from our past successful sales of subsidiary companies may not be repeated In
+the past, we have sold certain former subsidiaries (Comverge and CoaLogix) at a profit, but there can be no assurance that we
+will be able to repeat these successes with one or more of our current subsidiaries. We invest in companies before they have a
+meaningful history of revenues and whether we can operate these entities successfully or realize any profit on our investments
+in them cannot be determined. RISKS
+RELATED TO DSIT SOLUTIONS Failure
+to accurately forecast costs of fixed-priced contracts could reduce DSIT’s margins. When
+working on a fixed-price basis, DSIT undertakes to deliver software or integrated hardware/software solutions to a customer’s
+specifications or requirements for a particular project. The profits from these projects are primarily determined by DSIT’s
+success in correctly estimating and thereafter controlling project costs. Costs may in fact vary substantially as a result of
+various factors, including underestimating costs, difficulties with new technologies and economic and other changes that may occur
+during the term of the contract. If, for any reason, DSIT’s costs are substantially higher than expected, it may incur losses
+on fixed-price contracts. We
+recognize revenues on construction contracts using the percentage-of-completion method of accounting. Under the percentage-of-completion
+method of accounting, we record revenue as work on the contract progresses. The cumulative amount of revenues recorded on a contract
+at a specified point in time is that percentage of total estimated revenues that man-months incurred to date bear to estimated
+man-months. Accordingly, contract revenues and total cost estimates are reviewed and revised as the work progresses. Adjustments
+are reflected in contract revenues in the period when such estimates are revised. Estimates are based on management’s reasonable
+assumptions and experience, but are only estimates. Variation of actual results from assumptions on an unusually large project
+or on a number of average size projects could be material. We are also required to immediately recognize the full amount of the
+estimated loss on a contract when estimates indicate such a loss. Such adjustments and accrued losses could result in reduced
+profitability, which would negatively impact our cash flow from operations. Providing
+liquidity support to Acorn could impact on DSIT’s ability to deliver its products or sustain its growth. DSIT
+expects to generate significant cash flows from operations as it collects on significant balances of receivables and unbilled
+revenues in the coming year. For the near future, Acorn will be relying in part on DSIT’s cash flows to help support its
+operations and the operations of its GridSense and OmniMetrix subsidiaries. It is uncertain exactly to what extent Acorn will
+require DSIT to provide support and over what period of time and whether such support coming from DSIT is sustainable in the long-term.
+In addition, it is uncertain as to how DSIT’s liquidity support for Acorn will impact on DSIT’s ability to develop
+new products or its ability to deliver its products in a timely manner. 21 Conditions
+in Israel may affect our operations. Political,
+economic and military conditions in Israel directly affect our operations. Since the establishment of the State of Israel, a number
+of armed conflicts have taken place between Israel and its Arab neighbors. An ongoing state of hostility, varying in degree and
+intensity has led to security and economic problems for Israel. For a number of years there have been continuing hostilities between
+Israel and the Palestinians including with the Islamic movement Hamas in the Gaza Strip, which have adversely affected the peace
+process and at times have negatively influenced Israel’s economy as well as its relationship with several other countries.
+Israel also faces threats from Hezbollah militants in Lebanon, from the government of Iran and other potential threats from neighboring
+countries, some of whom have recently undergone or are undergoing significant political changes, such as Egypt and Syria. In recent
+years there has also been a change in the relations between Israel and Turkey. These political, economic and military conditions
+in Israel could have a material adverse effect on our business, financial condition, results of operations and future growth.
+Furthermore, the mandatory military commitments of some DSIT personnel may temporarily impact our ability to produce our products
+on a timely basis if such personnel are called into service in connection with hostilities or otherwise. Exchange
+rate fluctuations could increase the cost of DSIT’s operations. A
+majority of DSIT’s sales are based on contracts or orders which are in U.S dollars or are in New Israeli Shekels (“NIS”)
+linked to the U.S. dollar. At the same time, most of DSIT’s expenses are denominated in NIS (primarily labor costs) and
+are not linked to any foreign currency. The net effect of a devaluation of the U.S. dollar relative to the NIS is that DSIT’s
+costs in dollar terms increases more than its revenues. At times, DSIT enters into forward contracts to try to mitigate its exposures
+to exchange rate fluctuations; however, we can provide no assurance that such controls will be implemented successfully. In 2014
+the U.S. dollar strengthened in relation to the NIS by 12.0%. DSIT
+is substantially dependent on a small number of customers and the loss of one or more of these customers may cause revenues and
+cash flow to decline. In
+2014, approximately 63% of DSIT’s total revenues were concentrated in three customers. These customers are expected to continue
+to make up a significant portion of DSIT’s revenues and cash flow in 2015. While DSIT does expect future follow on orders
+from each of these customers, the timing and amounts cannot be predicted. A significant reduction of future orders or delay in
+milestone payments from any of these customers could have a material adverse effect on the performance of DSIT. Reduction
+in Israeli government spending or changes in priorities for defense products may adversely affect our earnings. The
+Israeli Ministry of Defense is a significant customer of DSIT. The Israeli government may reduce its expenditures for defense
+items or change its defense priorities in the coming years. In addition, the Israeli defense budget may be adversely affected
+by any reductions in U.S. foreign military assistance. There is no assurance that our programs will not be affected in the future
+if there is a reduction in Israeli government defense spending for our programs or a change in priorities to products other than
+ours. Political
+relations could limit our ability to sell or buy internationally. We
+could be adversely affected by the interruption or reduction of trade between Israel and its trading partners. Some countries,
+companies and organizations continue to participate in a boycott of Israeli firms and others doing business with Israel or with
+Israeli companies. Foreign government defense export policies towards Israel could also make it more difficult for us to obtain
+the export authorizations necessary for our activities. Also, over the past several years there have been calls in Europe and
+elsewhere to reduce trade with Israel. In addition, the Israeli defense budget may be adversely affected by reductions in U.S.
+foreign military assistance. There can be no assurance that restrictive laws, policies or practices directed towards Israel or
+Israeli businesses will not have an adverse impact on our business. DSIT
+is a project-based business which is dependent on large orders from customers who typically have long acquisition cycles. DSIT
+is a project-based business which is dependent on large orders from customers who typically have long acquisition cycles. DSIT
+must constantly replace its pipeline of opportunities given what typically averages to at least an 18-month sales cycle. DSIT
+is dependent on meeting milestones to provide cash flow for its operations. DSIT’s
+operations place a great reliance on it meeting project milestones in order to generate cash flow to finance its operations. Should
+DSIT encounter difficulties in meeting significant project milestones, resulting cash flow difficulties could have a material
+adverse effect on its operations. 22 DSIT
+must at times provide significant guarantees in order to secure projects. These guarantees are often collateralized by restricted
+deposits. Some
+of the projects DSIT performs require significant performance and/or bank guarantees. At December 31, 2014, DSIT had approximately
+$3.8 million of performance and bank guarantees outstanding. In addition, DSIT had on deposit at two Israeli banks approximately
+$1.1 million collateralizing some of these guarantees. These deposits are restricted and, accordingly, DSIT cannot use these funds
+for operations until the guarantees which are being collateralized are released. At times, this can create cash flow difficulties
+which could have a material adverse effect on its operations. In
+addition, DSIT may not always be able to supply such guarantees or restricted deposits without financial assistance from Acorn.
+If Acorn needs to provide financial guarantees for DSIT, Acorn may not have sufficient funds available to it to invest in other
+emerging ventures or take advantage of opportunities available to it in a timely manner. If
+DSIT is unable to keep pace with rapid technological change, its results of operations, financial condition and cash flows may
+suffer. Some
+of DSIT’s solutions are characterized by rapidly changing technologies and industry standards and technological obsolescence.
+DSIT’s competitiveness and future success depends on its ability to keep pace with changing technologies and industry standards
+on a timely and cost-effective basis. A fundamental shift in technologies could have a material adverse effect on its competitive
+position. A failure to react to changes in existing technologies could materially delay DSIT’s development of new products,
+which could result in technological obsolescence, decreased revenues, and/or a loss of market share to competitors. To the extent
+that DSIT fails to keep pace with technological change, its revenues and financial condition could be materially adversely affected. DSIT
+is dependent on a number of suppliers who provide it with components for some of its products. A
+number of DSIT’s suppliers provide it with major components for some of its Naval Solutions products. Some of these components
+are long-lead items. If for some reason, the suppliers cannot provide DSIT with the component when it is needed and DSIT cannot
+easily find substitute suppliers on similar terms, DSIT may have increased costs and/or delays in delivering a product to a customer
+and incur penalties and lose customer confidence. In addition, project delays can also slow down revenue recognition and our financial
+condition could be materially adversely affected. While DSIT is constantly attempting to develop secondary suppliers for these
+components, it can provide no assurance that it will be successful in doing so on acceptable terms. DSIT
+is a relatively small company with limited resources compared to some of its current and potential competitors, which may hinder
+its ability to compete effectively. Some
+of DSIT’s current and potential competitors have longer operating histories, significantly greater resources and broader
+name recognition than it does. As a result, these competitors may have greater credibility with DSIT’s existing and potential
+customers. They also may be able to adopt more aggressive pricing policies and devote greater resources to the development, promotion
+and sale of their products which would allow them to respond more quickly to new or emerging technologies or changes in customer
+requirements. DSIT
+has committed resources to enter the fiber optic security arena. DSIT
+is currently investing significant amounts of capital in creating the infrastructure to support its entrance into the fiber optic
+security market. DSIT planned to do this in a joint development project with USSI. As a result of the recent suspension of operations
+at USSI (see Recent Developments), continued w ork on the joint DSIT-USSI project (known as PAUSS)
+has also stopped. DSIT has decided to pursue this market on its own, but we have no assurance that it will successfully
+be able to develop or ultimately integrate these products into its portfolio and be able to commercialize the applications. DSIT
+received a BIRD Foundation grant designated to cover 50% of the development costs of the PAUSS project
+over a period of two years. Payment of the grant is dependent on continued progress being made in accordance with a contractually
+agreed upon time-line. It is unclear at this time how the suspension of operations at USSI will impact BIRD funding of DSIT PAUSS
+costs or whether future BIRD funding on the development of PAUSS may be at risk. In
+September 2013, DSIT and Ramot, the technology transfer company of Tel-Aviv University, were jointly awarded a grant from MEIMAD.
+MEIMAD provides funding money for projects involving joint innovation and development between Israeli industrial companies and
+universities. This grant is for a 30-month project (in two stages) for the joint development of a next generation Fiber-Optic
+Based Perimeter Security System Interrogator. The total amount of the grant is approximately $325,000 representing a 50% participation
+in DSIT's expenses, and is conditioned on budget availability at the Office of the Chief Scientist (“OCS”) in the
+Ministry of the Economy in Israel. 23 In
+July 2014, DSIT and Ramot were jointly awarded another grant from MEIMAD. This grant is for a 24-month project (in two stages)
+for the development of a fiber optic sensing system to be used in structural health monitoring of airborne structures (such as
+planes and Unmanned Aerial Vehicles (UAV’s)). The total amount of the grant is approximately NIS 950,000 (currently approximately
+$245,000) representing a 50% participation in DSIT’s expenses. Both
+grants are conditioned on budget availability at the Office of the Chief Scientist (“OCS”) in the Ministry of the
+Economy in Israel and achieving the project’s first milestones. If OCS funds are unavailable and/or the projects’
+milestones are not met on a timely basis, DSIT may not be able to access some or all of the grant funding. RISKS
+RELATED TO GRIDSENSE GridSense
+has incurred net losses and may never achieve sustained profitability. GridSense
+incurred net losses each year since our acquisition of them in 2010. While GridSense has reduced its losses in 2014 to $2.7 million
+(excluding the non-cash $1.8 million charge for goodwill impairment) compared to 2013’s loss of $4.3 million, it has still
+not been able to achieve break-even for 2014; we can provide no assurance that GridSense will generate sufficient revenues and
+cash flow to allow it to become cash neutral or eventually achieve or sustain profitability or to have positive cash flows. GridSense
+will need additional financing to grow and finance its operations. While
+we do not plan to invest additional equity into GridSense, it does need continued working capital support. During 2014, Acorn
+continued to provide funds for GridSense’s working capital needs. During 2014, Acorn lent $1,340,000 net of repayments.
+GridSense will continue to need funds in 2015. In
+July 2014, GridSense signed an amendment to its Loan and Security Agreement with a bank extending the expiration date of its revolving
+line-of-credit of $1.5 million to June 29, 2015. In addition, the bank agreed to allow GridSense to borrow against 80% of certain
+accounts receivable balances up to an additional $750,000 for a period of one year (to July 16, 2015). Acorn has guaranteed to
+the bank amounts outstanding under the line-of-credit and is subject to compliance with financial covenants under its guaranty.
+Acorn is not currently in compliance with such covenants, and is currently negotiating with the bank regarding terms of repayment
+of GridSense’s outstanding debt under the line-of-credit. We
+have no assurance whether and to what extent GridSense will have access to the entire additional $750,000 facility as it is only
+available against certain accounts receivable. It is possible that GridSense will require working capital support beyond its bank
+facility to finance its operations as it works to grow its revenues. Additional
+support to GridSense may be in the form of an additional or expanded bank line, new investment by others, additional investment
+by Acorn, or a combination of the above. We have no assurance that such additional support will be available in sufficient amounts,
+in a timely manner and on acceptable terms. The availability and amount of any additional investment from Acorn may be limited
+by the investment and working capital needs of our corporate activities and other operating companies. GridSense’s
+products and services may not gain market acceptance or competitors may introduce offerings that surpass those of GridSense. The
+primary market for GridSense’s products and services is rapidly evolving which means that the level of acceptance of products
+and services that have been released recently or that are planned for future release by the marketplace is not certain. If the
+markets for GridSense’s products and services fail to develop, develop more slowly than expected or become subject to intense
+competition, its business will suffer. As a result, GridSense may be unable to: (i) successfully market its current products and
+services, (ii) develop new products, services and enhancements to current products and services, (iii) complete customer installations
+on a timely basis or (iv) complete products and services currently under development. If GridSense’s products and services
+are not accepted by its customers or by other businesses in the marketplace, GridSense’s business and operating results
+will be materially affected. In addition, we can provide no assurance that GridSense will be successful in deriving significant
+revenue growth through its current strategy and marketing initiatives. 24 GridSense’s
+products are subject to regulatory approvals. Numerous
+regulations govern the manufacture and sale of GridSense’s products in the United States and other countries where GridSense
+intends to market its products. Such regulation bears upon the approval of manufacturing techniques, testing procedures and approval
+for the manufacturing and sale of GridSense’s products, including advertising and labeling. Any
+failure or delay in obtaining regulatory approvals would adversely affect our ability to market our products. Furthermore, product
+approvals may be withdrawn if problems occur following initial marketing or if compliance with regulatory standards is not maintained.
+The failure, delay or withdrawal of a previously given regulatory approval could materially adversely affect our revenues, cash
+flows and financial position. Sales
+to utilities are generally characterized by long sales cycles. GridSense’s
+sales are largely dependent on the sales cycle of electric utilities which is typically long and requires much technical and application
+support. The purchasing cycle for a utility may involve an evaluation trial or pilot, analysis of data and results, review of
+competitor’s offerings and smaller scale deployments, before a purchasing decision is made. For large orders, some utilities
+are required to solicit competitive bids from other vendors which can contribute significantly more time and result in lost sales
+opportunities. At best, the sales cycle can take several months and in certain circumstances it can be a multi-year process. Delays
+in securing purchase orders can materially adversely affect our revenues, cash flows and financial condition. GridSense
+is attempting to broaden its revenue base by expanding into the North American market. GridSense
+is currently recording a significant portion of its revenue from sales generated in Australia (approximately 38% and 32% for the
+years ended December 31, 2014 and 2013, respectively). GridSense believes that growth and profitability will require additional
+expansion of sales in other markets, most notably the North American market. To the extent that GridSense is unable to expand
+sales into other markets in a timely and cost-effective manner, its business, operating results and financial condition could
+be materially adversely affected. In addition, even with the successful recruitment of additional personnel and international
+resellers, there can be no assurance that GridSense will be successful in maintaining or increasing international market demand
+for its products. Exchange
+rate fluctuations could negatively impact GridSense’s results from its sales through its Australian distributors. GridSense
+no longer has operations in Australia following the closing of its office in 2014. It does still have residual costs associated
+with the closure of the office (professional fees) and still sells its products through Australian distributors. Such sales are
+denominated and collected in Australian dollars while the costs associated with such sales are U.S. dollar based. Such residual
+costs and sales are subject to the volatility of the Australian dollar vis-à-vis the U.S. dollar. In 2013, the U.S. dollar
+strengthened by 13.8%. In 2014, the U.S. dollar strengthened by an additional 8.3%. GridSense does not employ specific strategies,
+such as the use of derivative instruments or hedging, to manage its foreign currency exchange rate exposures. GridSense’s
+market is subject to rapidly changing technologies. GridSense
+markets its products in a field where electronics and software/firmware dominate. This fast changing area may generate unknown
+methods of detecting and monitoring disturbances that could render GridSense’s technology inferior, resulting in GridSense’s
+results of operations being materially adversely affected. GridSense does, however, closely monitor trends and changes in technologies
+and customer demand that could adversely impact its competitiveness and overall success. GridSense
+is subject to vigorous competition with very large competitors that have substantially greater resources and operating histories. Some
+of GridSense’s competitors in the markets it serves are larger, better capitalized and have greater resources than GridSense.
+As GridSense grows and penetrates markets where larger companies have been established, it may experience a reduced rate of growth
+due to competitive forces. Competition from these competitors may have a material adverse effect on our operations, including
+a potential reduction in operating margins and a loss of potential business. Some competitors such as Power Delivery Product,
+Sentient and Cooper have products that directly compete with GridSense at comparable price points and features. 25 Limited
+Protection of Intellectual Technology. GridSense
+invests significant resources in product development and research in order to maintain its competitiveness in the marketplace.
+Keeping proprietary information safe from unauthorized use or disclosure is therefore an important objective. In order to protect
+its proprietary know-how and technology, GridSense uses a combination of patents, trade secrets, contracts, copyrights and trademarks.
+GridSense owns two US patents, and has one patent pending in the U.S. In addition, GridSense owns one patent in Canada. Some of
+GridSense’s know-how and technology may not be patentable. To protect its rights, GridSense requires employees, as well
+as select consultants, advisors and collaborators to enter into confidentiality agreements. While these agreements will provide
+some level of protection, they cannot provide absolute assurance that GridSense’s trade secrets, know-how or other proprietary
+information are fully safeguarded. Whenever intellectual property is developed internally or acquired, GridSense will evaluate
+and determine the optimal mix of controls to protect itself. RISKS
+RELATED TO OMNIMETRIX OmniMetrix
+has incurred net losses since our acquisition and may never achieve sustained profitability. OmniMetrix
+incurred net losses of $2.6 million, $11.5 million (such loss included impairments and restructuring charges of $7.5 million)
+and $1.7 million in 2012 since our acquisition, 2013 and 2014, respectively. OmniMetrix’s cash used in operations was $2.2
+million, $4.2 million and $1.0 million, respectively, during those periods. While OmniMetrix has reduced its loss and cash used
+in operations in 2014, we can provide no assurance that OmniMetrix will be able to generate sufficient revenues and cash flow
+to allow it to become profitable or to eventually sustain profitability or to have positive cash flows. An
+increase in customer terminations would negatively affect our business by reducing OmniMetrix revenue or requiring us to spend
+more money to grow our customer base. We
+reported a $1.1 million impairment charge in 2013 related to the loss of business from a key customer. Non-renewals or other monitoring
+service terminations could increase in the future due to customer dissatisfaction with our products and services, increased competition
+from other providers or alternative technologies. If
+we have an increase in our non-renewal rate, we will have to acquire new customers on an ongoing basis just to maintain our existing
+level of customers and revenues. As a result, marketing expenditures are an ongoing requirement of our business. We incur significant
+costs to acquire new customers, and those costs are an important factor in determining our net profitability. Therefore, if we
+are unsuccessful in retaining customers or are required to spend significant amounts to acquire new customers, our revenue could
+decrease and our operating results could be affected. OmniMetrix
+is a relatively small company with limited resources compared to some of its current and potential competitors, which may hinder
+its ability to compete effectively. Some
+of OmniMetrix’s current and potential competitors have significantly greater resources and broader name recognition than
+it does. As a result, these competitors may have greater credibility with OmniMetrix’s existing and potential customers.
+They also may be able to adopt more aggressive pricing policies and devote greater resources to the development, promotion and
+sale of their products which would allow them to respond more quickly to new or emerging technologies or changes in customer requirements.
+In particular at the present time we are facing significant competition from generator manufacturers who offer their own monitoring
+solutions. OmniMetrix
+may not be able to access sufficient capital to support growth. Since
+our acquisition of OmniMetrix in February 2012, we invested approximately $14.0 million and lent $1.55 million (through December
+2014) to OmniMetrix to support its growth and working capital needs. OmniMetrix has been dependent on Acorn’s ability and
+willingness to provide funding to support its business and growth strategy. OmniMetrix will continue to need funds in 2015. Whether
+Acorn will have the resources necessary to provide funding, or whether alternative funds, such as third-party loans, will be available
+at the time and on terms acceptable to Acorn and OmniMetrix cannot be determined. 26 Additional
+support to OmniMetrix may be in the form of a bank line, new investment by others, additional investment by Acorn, or a combination
+of the above. OmniMetrix was not successful in recent negotiations with commercial banks for a credit facility and we otherwise
+have no assurance that additional support will be available in sufficient amounts, in a timely manner and on acceptable terms.
+The availability and amount of any additional investment from Acorn may be limited by the investment and working capital needs
+of our corporate activities and other operating companies. OmniMetrix
+sells equipment and services which monitor third-party products, thus its revenues are dependent on the continued sales of such
+third-party products. OmniMetrix’s
+end-user customer base is comprised exclusively of parties who have chosen to purchase either generators or cathodic protection
+systems. OmniMetrix has no ability to control the rate at which new generators or CaP protection systems are acquired. When purchases
+of such products decline, the associated need for OmniMetrix’s products and services is expected to decline as well. If
+OmniMetrix is unable to keep pace with changing market or customer-mandated product and service improvements, OmniMetrix’s
+results of operations and financial condition may suffer. Many
+of OmniMetrix’s existing products may require ongoing engineering and upgrades in conjunction with market developments as
+well as specific customer needs. There can be no assurance that OmniMetrix will continue to be successful in its engineering efforts
+regarding the development of its products and future technological difficulties could adversely affect its business, results of
+operations and financial condition. The
+cellular networks used by OmniMetrix are also subject to periodic technical updates that may require corresponding updates to,
+or replacement of, OmniMetrix’s monitoring equipment. Cellular
+networks have evolved over time to offer more robust technical capabilities in both voice and data transmission. At the present
+time, the changes from the so-called “2G” to “3G” and “4G” service have resulted in only limited
+service interruptions. OmniMetrix anticipates, however, that as these new capabilities come online, it will be necessary to have
+equipment that can readily interface with the newer cellular networks to avoid negative impacts on customer service. Not all of
+the costs associated with OmniMetrix’s corresponding equipment upgrades can be passed on to customers and the increased
+expenses are expected to have a negative impact on OmniMetrix’s operating results. A
+substantial portion of OmniMetrix’s revenues are expected to be generated not from product sales, but from periodic monitoring
+fees and thus it is continually exposed to risks associated with its customers’ financial stability. OmniMetrix
+sells on-going monitoring services to both PG and PM customers. It is therefore dependent on these customers continuing to timely
+pay service fees on an on-going basis. If a significant portion of these fees are not renewed from year-to-year, OmniMetrix can
+expect to experience deterioration in its financial condition. OmniMetrix’s
+ability to provide, and to collect revenues from, monitoring services is dependent on the reliability of cellular networks not
+controlled by OmniMetrix. OmniMetrix
+provides monitoring services through the use of cellular technology utilizing the networks of third-party providers. These providers
+generally do not warrant their services to either OmniMetrix or the end users and any dropped transmissions could result in the
+loss of customer renewals and potential claims against OmniMetrix. While OmniMetrix uses contractual measures to limit its liability
+to customers, there is no assurance that such limitations will be enforced or that customers will not cancel monitoring services
+due to network issues. OmniMetrix’s
+business is dependent on its ability to reliably store and manage data, but there can be no guarantee that it has sufficient capabilities
+to mitigate potential data loss in all cases. The
+efficient operation of OmniMetrix’s business is dependent on its information technology systems. In addition, OmniMetrix’s
+ability to assist customers in analyzing data related to the performance of such customers’ power and cathodic protection
+monitoring systems is an important component of its customer value proposition. OmniMetrix utilizes off-site data servers, housed
+within a commercial data center utilizing accepted data and power monitoring and protection processes, but whether a data loss
+can be avoided cannot be assured in every case. OmniMetrix’s information technology systems are vulnerable to damage or
+interruption from natural disasters, sabotage (including theft and attacks by computer viruses or hackers), power outages; and
+computer systems, Internet, telecommunications or data network failure. Any interruption of OmniMetrix’s information technology
+systems could result in decreased revenue, increased expenses, increased capital expenditures, customer dissatisfaction and potential
+lawsuits, any of which could have a material adverse effect on its results of operations and financial condition. 27 RISKS
+RELATED TO OUR SECURITIES Our
+stock price is highly volatile. The
+market price of our common stock has fluctuated substantially in the past and is likely to continue to be highly volatile and
+subject to wide fluctuations. During 2014, our common stock closed at prices as low as $0.68 and as high as $4.50 per share. Fluctuations
+in our stock price may continue to occur in response to various factors, many of which we cannot control, including: general economic
+and political conditions and specific conditions in the markets we address, including the continued volatility in the energy industry
+and the general economy; ● quarter-to-quarter variations in our operating results; ● announcements of changes in our senior management; ● the gain or loss of one or more significant customers or suppliers; ● announcements of technological innovations or new products by our competitors, customers or us; ● the gain or loss of market share in any of our markets; ● changes in accounting rules; ● changes in investor perceptions; or ● changes in expectations relating to our products, plans and strategic position or those of our competitors or customers. In
+addition, the market prices of securities of energy related companies have been and remain volatile. This volatility has significantly
+affected the market prices of securities of many companies for reasons frequently unrelated to the operating performance of the
+specific companies. Our
+share price may decline due to the large number of shares of our common stock eligible for future sale in the public market including
+shares underlying warrants and options. Almost
+all of our outstanding shares of common stock are, or could upon exercise of options or warrants would become, eligible for sale
+in the public market as described below. Sales of a substantial number of shares of our common stock in the public market, or
+the possibility of these sales, may adversely affect our stock price. As
+of March 23, 2015, 26,475,591 shares of our common stock were issued and outstanding. As of that date we had 2,642,423 warrants
+outstanding and exercisable with a weighted average exercise price of $1.50 and 1,198,570 options outstanding and exercisable
+with a weighted average exercise price of $5.25 per share, which if exercised would result in the issuance of additional shares
+of our common stock. In addition to the options noted above, at March 16, 2015, 1,264,012 options are outstanding, but have not
+yet vested and are not yet exercisable. Substantially
+all of our currently outstanding shares and shares issuable under our outstanding options and warrants are or would be freely
+tradable. We
+may have to offer additional securities for sale in the near future. While
+we raised $4.0 million of proceeds (net of transaction costs) in November 2014 and expect DSIT to have sufficient cash to support
+Acorn and its GridSense and OmniMetrix subsidiaries in the near future, we may ultimately not have sufficient cash to allow us
+to execute our plans and the occurrence of one or more other unanticipated events may require us to make significant expenditures.
+Accordingly, we may need to raise additional amounts to finance our operations. If we were to do so by selling shares of our common
+stock and/or other securities convertible into shares of our common stock, current investors will incur additional dilution in
+the value of their shares. We
+may be unable to raise capital by offering shares of our common stock because we do not currently have enough authorized shares
+available for such a transaction. Under
+our Certificate of Incorporation, we currently have only 3,524,409 authorized and unissued shares of common stock that would be
+available for offering in a capital-raising transaction. This number of shares would not be sufficient for raising a significant
+amount of capital by means of an offering of shares. In order to increase the number of authorized shares of common stock, our
+Certificate of Incorporation would need to be amended, which may only be done by the vote of our stockholders. Calling a meeting
+of our stockholders involves a significant amount of time and expense and, in any event, should such a meeting be called for the
+purpose of increasing the number of authorized shares of common stock, there can be no assurance that our stockholders would vote
+in favor of such a proposal. The fact that we do not currently have enough authorized shares available for a capital-raising transaction
+may make us dependent on alternative means of raising capital in order to continue our operations, and there can be no assurance
+that such alternative means may be available to us on acceptable terms or at all. 28 Our
+common stock may be delisted from Nasdaq, which may make it more difficult for you to sell your shares. In
+January 2015, we received a letter from the Nasdaq Listings Qualification Staff stating that we are not in compliance with the
+continued listing requirements of The Nasdaq Global Market because the bid price of our common stock had closed below the minimum
+$1.00 per share requirement for 30 consecutive business days. We have been provided a period of 180 calendar days, or until July
+13, 2015, to regain compliance with the minimum bid price rule. If at any time before July 13, 2015, the bid price of our common
+stock closes at $1.00 per share or higher for a period determined by Nasdaq (which shall be a minimum of 10 consecutive business
+days), Nasdaq will provide us with written notification that we are in compliance with the rule. In
+the event we do not regain compliance with the rule, we may be eligible for an additional 180-day cure period. To qualify, we
+must submit, no later than the expiration date, an application to transfer the listing of our securities from the Nasdaq Global
+Market to the Nasdaq Capital Market. We would be required to meet the continued listing requirement for market value of publicly
+held shares and all other initial listing standards for the Nasdaq Capital Market, with the exception of the bid price requirement,
+and would need to provide written notice of our intention to cure the deficiency during the second compliance period by effecting
+a reverse stock split if necessary. As part of its review process, the Staff would make a determination of whether it believes
+we would be able to cure this deficiency. Should the Staff conclude that we will not be able to cure the deficiency, the Staff
+would provide notice that our securities will be subject to delisting. We would have the right to appeal to a Nasdaq Hearings
+Panel any determination to delist our securities. Our securities would remain listed on Nasdaq until the completion of this appeal
+process. Delisting
+of our common stock by Nasdaq would adversely affect the market price and liquidity of our common stock, your ability to sell
+your shares of our common stock and our ability to raise capital. 

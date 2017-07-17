@@ -1,0 +1,838 @@
+”
+in this report on Form 10-K. YOU SHOULD NOT PLACE UNDUE RELIANCE ON THESE
+FORWARD LOOKING STATEMENTS The forward-looking statements
+made in this report on Form 10-K relate only to events or information as of the date on which the statements are made in this
+report on Form 10-K. Except as required by law, we undertake no obligation to update or revise publicly any forward-looking statements,
+whether as a result of new information, future events, or otherwise, after the date on which the statements are made or to reflect
+the occurrence of unanticipated events. You should read this report and the documents that we reference in this report, including
+documents referenced by incorporation, completely and with the understanding that our actual future results may be materially
+different from what we expect or hope. ii PART I ITEM 1. BUSINESS. Overview and Recent Events Abtech Holdings, Inc. (“Abtech Holdings,”
+the “Company,” “we” or the “registrant”) was incorporated in Nevada on February 13, 2007 under
+the name “Laural Resources, Inc.” and was initially engaged in the business of acquiring and developing mineral properties.
+Subsequent to its fiscal year ended May 31, 2010, Laural Resources, Inc. decided to change its business focus to clean technology
+products and services, specifically in the water clean-up sector. In furtherance of its business objectives, effective June 14,
+2010, Laural Resources, Inc. merged with its wholly-owned subsidiary, Abtech Holdings, Inc., for the purpose of effecting a name
+change to “Abtech Holdings, Inc.” On October 21, 2010, the Company’s Board of Directors changed the Company’s
+fiscal year end from May 31 to December 31. On February 10, 2011, the Company closed a
+merger transaction with AbTech Industries, Inc. (“AbTech Industries”), a Delaware corporation, pursuant to an Agreement
+and Plan of Merger by and among Abtech Holdings, Abtech Merger Sub, Inc., a Nevada corporation and wholly-owned subsidiary of
+Abtech Holdings and AbTech Industries (the “Merger”). As a result of the Merger, (i) Abtech Holdings
+acquired all of the issued and outstanding common stock of AbTech Industries (through a reverse acquisition transaction) in exchange
+for the common stockholders of AbTech Industries acquiring an approximate 78% ownership interest in Abtech Holdings, (ii) AbTech
+Industries became a majority-owned subsidiary of Abtech Holdings, and (iii) Abtech Holdings acquired the business and operations
+of AbTech Industries. The consolidated financial statements of Abtech
+Holdings for the years ended December 31, 2014 and 2013 represent a continuation of the financial statements of AbTech Industries,
+with one adjustment, which is to retroactively adjust the legal capital of AbTech Industries to reflect the legal capital of Abtech
+Holdings. See Note 1 of the Consolidated Financial Statements on page F-7 of this Annual Report on Form 10-K. The Company, through its subsidiaries, AbTech
+Industries and AEWS Engineering (“AEWS”), provides solutions to water contamination issues that are caused by stormwater
+runoff, industrial processes, water produced in the extractive industries such as oil & gas drilling, and spills of oil-based
+fluids in marine environments. The Company’s total solutions and systems approach to addressing customer’s needs results
+in the Company providing services for the design and selection of water treatment systems, products sales of filtration and treatment
+systems, installation of the treatment technologies, and maintenance of the installed systems. Some of these activities are provided
+through subcontractors and on some projects the Company may act as a subcontractor to other entities. AbTech Industries has developed a variety
+of products that leverage its cornerstone filtration media technology called Smart Sponge ® . This patented technology’s
+oil absorbing capabilities make it highly effective as a filtration media to remove hydrocarbons and other pollutants from water.
+AbTech Industries is currently manufacturing its products and is marketing them into a variety of markets resulting in over 20,000
+products installed in 46 states and 15 countries to date. AEWS, a Delaware Limited Liability Company
+formed on October 31, 2011, operates as an independent civil and environmental engineering firm that provides engineering and
+technology innovation to the water infrastructure sector. The Company’s business is subject to
+several significant risks, any of which could have a material adverse effect on its business, operating results, financial condition,
+and the actual outcome of matters as to which it makes forward-looking statements. See “Risk Factors” at page 17 of
+this Annual Report on Form 10-K. Technologies AbTech Industries maintains a core set of water treatment technologies
+with applications in all of its market sectors. While the Company has expanded to include a variety of services that are related
+to its “solutions” approach, it has maintained a strong focus on its heritage as an advanced technology company. Moreover,
+the Company is able to leverage its core technologies as discriminators to gain entry into markets where otherwise there would
+be prohibitive barriers to entry. 1 Smart Sponge ® AbTech Industries has developed and patented
+its core Smart Sponge technologies based on a proprietary blend of synthetic polymers aimed at the removal of hydrocarbons and
+oil derivatives from surface water. Smart Sponge products remove pollutants from water and encapsulate them so that they cannot
+be released back into the water, even under high pressure. The removal process starts with the physical contact between polymer
+and contaminant and the consequent adsorption (physical interaction, contaminant distributed on surface of adsorbing material)
+or absorption (contaminant distributed throughout the absorbing material). The absorption/adsorption process is determined by
+several polymer parameters (e.g., composition and structure, flexibility of the chain and molecular weight), as well as physical
+parameters (e.g., polymer physical form, contaminant molecule size and temperature). While polymer composition is the critical
+factor in defining the solubility, the polymer structure (amorphous or crystalline) is probably the most important factor in determining
+the process of absorption or adsorption. AbTech Industries’ polymers are composed
+of amorphous products that are able to selectively absorb various hydrocarbons (contaminants) present in water, then stabilize
+and retain them in a gelified structure. Other traditional sorbent products, with more crystalline structures, can only adsorb
+the contaminants and don’t have the capability to totally retain them when the sorbent is removed from the water. AbTech
+Industries’ polymers, in order to selectively remove oil derivatives from water, are oleophilic (strong affinity for oils)
+and hydrophobic (repel water). The adsorption/absorption process is also
+controlled by the physical size of the sorbent as diffusion is fairly proportional to the contact surface between fluid and sorbent.
+Finely powderized materials show the best absorption but, because of swelling, tend to gel quickly and block the contact of additional
+fluid with the remaining active sorbent, and are very difficult to handle. In order to overcome this problem and use the sorbent
+to the maximum capacity, AbTech Industries has developed a patented extrusion process that takes advantage of the different thermal
+behavior of the polymers used to create entanglements with the amorphous part of the other polymer, bonding the chains of the
+polymers in a flexible porous structure called Smart Sponge. The porosity of the Smart Sponge allows the
+fluid containing the contaminant to penetrate into its structure, then the polymer chains selectively absorb the hydrocarbon contaminants
+and stably encapsulate them. Based on the level of contaminant, the entire structure begins to swell (but not collapse into a
+total gel) while maintaining absorption capabilities well beyond usual levels. Once reaching saturation, the Smart Sponge is easily
+recoverable and does not leach any of the absorbed contaminant, even in rough water or under pressure, giving it less expensive
+disposal options such as recycling through a waste-to-energy facility. The Smart Sponge can absorb, on average, 3.5 times its
+weight, depending on the contaminant absorbed and remains buoyant permitting it to remain in place until fully saturated. The
+malleable nature of the Smart Sponge material allows it to be formed into a variety of shapes for optimum effectiveness in a wide
+variety of contaminated water filtration applications. The advantages of Smart Sponge based products over competing products
+include: • absorbing rather than adsorbing water-borne hydrocarbons; • reducing coliform bacteria found in stormwater, industrial wastewater and municipal wastewater (in the case of Smart Sponge Plus, described below); • locking-up or encapsulating the hydrocarbons; • transforming the encapsulated pollutant into a solid to prevent leaching; • remaining buoyant after the encapsulation in order to permit recovery; • oil-soaked product may be recycled as a waste-to-energy fuel source; • simpler and less expensive disposal due to classification as a solid “non-hazardous waste”; • easy deployment and retrieval; and • possesses the ability to harvest energy from contaminated water thereby creating a sustainable media solution. 2 Due to the ability of Smart Sponge to capture
+and retain hydrocarbons and other contaminants within its highly porous structure, its performance can best be measured by an
+in-depth look at the spent material to analyze its composition and the quantity of the various contaminants retained. This type
+of data cannot be gleaned from the customary random sampling events typically used to test filters. Such tests are often misleading
+or erroneous due to the non-homogenous concentrations of pollutants in stormwater. Analyzing all contaminants entrapped in the
+filter over a period of time provides a better indicator of the filter’s true performance. Consequently, AbTech Industries
+took a more advanced approach and engaged a highly qualified, analytical laboratory to use complex analytical techniques to deconstruct
+used Smart Sponge polymer and selectively extract all the entrapped contaminants. This in-depth mapping and finger printing of
+contaminants (a first of its kind in stormwater treatment) is analogous to having a “Black Box” recording of the Ultra-Urban ® Filter’s (“UUF’s”) filtration mechanisms and all the contaminants collected in the Smart Sponge
+material during the time that it is deployed. The results of this analysis were then compared to base tests performed on virgin
+Smart Sponge material. The difference between the two samples constitutes the contaminants collected by the field deployed Smart
+Sponge. By extrapolating these results, estimations were made of the total contaminants AbTech Industries’ products prevented
+from being discharged into open waters for entire installation projects such as those at Norwalk, Connecticut. In Norwalk, 275
+UUFs using Smart Sponge filtration media were installed in storm drains to protect residential, commercial, waterside, and industrial
+manufacturing settings which flow into Norwalk Harbor. The deconstruction or meltdown of Smart Sponge media samples documented
+approximately 50 pounds per filter of total contaminants with the presence of several heavy metals (e.g., copper, titanium, and
+zinc) and a variety of hydrocarbons, (about 32 pounds per filter), including solvents, oils and cosmetic product components as
+well as chemical plasticizers. The grand total of contaminants including
+hydrocarbons and heavy metals removed, extrapolated for the 275 filters, is an estimated 13,530 pounds. Essentially, the installation
+of the filters prevented the equivalent of an oil spill of 1,200 gallons from entering the Long Island Sound. This analysis demonstrated
+the effectiveness of AbTech Industries’ products with quantifiable data and added substantially to data provided by other
+tests that merely tested the difference between influents and effluents. Smart Sponge Plus The Company has expanded the original capability
+of Smart Sponge technology by adding an antimicrobial agent that has proven to be effective in reducing coliform bacteria found
+in stormwater, industrial wastewater and municipal wastewater while maintaining its oil-absorbing capability. This expanded technology,
+known as Smart Sponge Plus, provides an effective solution to municipalities and other entities faced with beach closures and
+other hazards of bacteria-laden stormwater. The presence of bacteria in stormwater is a serious problem and poses significant
+health risks that increasingly result in the contamination of water bodies. Water quality standards for bacteria counts are very
+strictly monitored in most coastal areas and small increases in bacteria counts can trigger beach closures. The best potential
+to reduce this bacteria count during rain events is the control and treatment of the stormwater runoff. This control can be achieved
+by expensive, heavy equipment, such as ultraviolet light or chlorine treatment systems that become cost prohibitive for most municipalities.
+AbTech Industries has developed a set of cost-effective systems for retrofit into existing stormwater infrastructure, leveraging
+the antimicrobial capabilities of Smart Sponge Plus. These systems require no electricity or moving parts and create no downstream
+toxicity effect (a problem that must be mitigated in alternative chemical treatment approaches). This antimicrobial capability differentiates
+Smart Sponge Plus products from competitive stormwater treatment devices. It can be engineered to treat massive amounts of water
+runoff in end-of-pipe applications, such as drainage vaults or other configurations. Because of its antimicrobial properties,
+Smart Sponge Plus is characterized as a pesticide and is required to be registered with the Environmental Protection Agency (“EPA”).
+In July 2010, AbTech Industries received conditional approval of its application to register Smart Sponge Plus as a pesticide
+under the Federal Insecticide, Fungicide and Rodenticide Act (“FIFRA”). (See “Regulatory” below in this
+item.) Under the EPA registration, AbTech Industries is allowed to make the claim that Smart Sponge Plus is capable of reducing
+coliform bacteria found in stormwater, industrial wastewater and municipal wastewater. The technological breakthrough in creating
+Smart Sponge Plus occurred when AbTech Industries developed the capability to bind an antimicrobial agent to its proprietary polymers
+thereby modifying their surface and adding micro biostatic features while maintaining their oil absorbing capabilities. This enhanced
+filtration material provides a significant reduction in coliform bacteria and other pathogens frequently found in stormwater and
+other water streams. AbTech Industries believes that this breakthrough, coupled with additional advancements that have dramatically
+increased the antimicrobial strength of Smart Sponge Plus, will be key factors in penetrating the stormwater market. Accordingly,
+AbTech Industries has been issued three U.S. patents that protect the use of Smart Sponge Plus in stormwater filtration applications. 3 The anti-microbial agent used for this innovative
+technology is an organosilane derivative that is widely used in a variety of fields including medical, consumables, pool equipment
+and consumer goods. This anti-microbial agent is registered with the EPA for various applications and has been proven successful
+in those applications against a wide variety of microorganisms. As further discussed under “Regulatory” below in this
+item, AbTech Industries’ Smart Sponge Plus has received conditional registration approval from the EPA under FIFRA as an
+antimicrobial pesticide. Smart Sponge Plus will also act as a fungistatic to control fungus and mildew odor. The anti-microbial mechanism of Smart Sponge
+Plus is based on the agent’s electromagnetic interaction with the microorganism cell membrane, causing the disruption of
+the cell wall of the microorganism, but no chemical or physical change in the agent. Consequently, the anti-microbial agent is
+not depleted over time, maintains its long-term effectiveness and unlike any other technology (with the exception of ultra-violet
+light), doesn’t release any chemical or by-product into the treated water. In manufacturing the Smart Sponge Plus material,
+the anti-microbial agent is chemically and permanently bound to the polymer surface. In the development process, AbTech Industries
+has been successful in increasing the amount of anti-microbial agent bound to the polymer thus increasing its antimicrobial potency
+2,000% over its first generation strength. In laboratory testing, the current generation of Smart Sponge Plus material, has proven
+to be not only much more effective in destroying bacteria than the original generation of Smart Sponge Plus material, but also
+capable of reducing bacteria to meet EPA criteria for bathing and recreational waters in a much shorter period of time (residence
+time), a very important factor in filtration applications where the contaminated water is in contact with the Smart Sponge material
+for just a few minutes versus the hours required in a sanitary sewer system. Smart Sponge versus Commonly Used Non-Advanced Media Filtration AbTech Industries’ core technologies
+are highly-engineered advanced material that are chemically selective towards contaminants and, in the case of the antimicrobial
+material, create biostatic fields to disrupt the cellular membranes of pathogens. These advanced materials enable an entire set
+of engineered deployment systems that otherwise would be less effective or entirely ineffective using non-advanced materials. Smart Sponge material has a distinct advantage
+over traditional polypropylene material for example. In the case of oils and hydrocarbons, once oil comes in contact with the
+Smart Sponge material it is permanently encapsulated in the structure of the polymer and cannot be released under any amount of
+pressure. In comparison, polypropylene materials adsorb or form a temporary attachment to water as well as oil, thus making them
+much heavier and messier to remove releasing both water and oil back into the environment. Disposal Options As local conditions, product use and exposure
+can vary widely, the end user must determine the most appropriate disposal method for a spent Smart Sponge or Smart Sponge Plus’
+material. Smart Sponge samples saturated with hydrocarbons both in the lab and in the field have been tested according to the
+EPA’s Toxicity Characteristic Leaching Procedure (“TCLP”) by the following independent testing facilities: ABC
+Laboratories, Inc., Aculabs, Inc. and Turner Laboratories, Inc. These tests show that Smart Sponge is a “non-leaching”
+product. In addition, used Smart Sponge material can be recycled as an energy source with a British thermal unit, or BTU, value
+ranging from 10,000 to 18,000 based on the type of contaminant absorbed. As a result, Smart Sponge technology affords many cost
+effective and environmentally friendly disposal options. The following waste disposal and resource recovery industries have accepted
+spent Smart Sponge materials for disposal and/or recycling: On-site Disposal. AbTech Industries
+has developed a method for recycling spent Smart Sponge ® and its solidified hydrocarbons allowing for 100% recycling
+of the spent-media. The patent pending process converts solid Smart Sponge ® media and absorbed hydrocarbons into
+a liquid that can be sold to a refinery, eliminating disposal costs and generating additional revenue. 4 Waste-to-Energy Facilities (“WTE”). A specialized segment of the solid waste industry has used spent Smart Sponge material as an alternative fuel in the production
+of electricity. WTE is acknowledged at the federal level as a renewable energy source under the Federal Power Act, Title IV of
+the Clean Air Act and is a participant in the Department of Energy’s National Renewable Energy Program. Cement Kilns. This industry has used
+the spent Smart Sponge material as an alternative fuel in the production process of Portland Cement. This process is considered
+a beneficial reuse of waste products. The British thermal unit value of spent Smart Sponge material is consistently above the
+average acceptable levels set for this high temperature process. Landfills. Used Smart Sponge products
+have been classified as a solid waste and are commonly accepted at Subtitle D Landfills. Engineered Systems and Smart Sponge-based Products Being Sold In conjunction with developing advanced filtration
+media, AbTech Industries engineers have also developed a variety of deployment systems that can be retrofitted into existing stormwater
+and wastewater infrastructure. This solves a major problem for municipalities where aging water infrastructure and increasing
+enforcement of water quality standards (a result of increased awareness of the detrimental environmental and public health effects)
+pose one of the largest infrastructure headaches in the coming decades. Cities have already determined in the vast majority of
+cases that so-called centralized solutions are cost-prohibitive or infeasible. These solutions include rerouting combined sewer
+overflow water and/or even stormwater to sanitation treatment plants for purification (which would also require the construction
+of additional sanitation treatment plants) or building large central stormwater/wastewater treatment “tunnels” underneath
+cities. AbTech Industries’ products enable decentralized solutions at the point-of-entry (e.g. stormdrains, etc.) or at
+the end of stormwater/combined sewer overflow outfall pipes. AbTech Industries has engineered a variety
+of point-of-entry systems that can be dropped into storm drains with little or zero infrastructure disruption and end-of-pipe
+treatment “vaults” that can be built into the existing water lines to treat the flowing water as it passes through. The products described below incorporate the
+Smart Sponge or Smart Sponge Plus material in one or more of its various forms and are each designed to meet specific market needs.
+Each of these products is currently being marketed and sold by the Company. We manufacture the Smart Sponge material in our manufacturing
+facility using polymers procured from the petrochemical industry. We then use this material to complete the final assembly of
+each product using component parts produced to our specification by outside vendors. Each product has application in each of the
+Company’s targeted markets discussed further under “Markets” below in this item, although the UUFs and water
+treatment vaults are designed primarily for stormwater applications and the gravity and vessel filters have primary application
+in industrial and produced water markets. Smart Sponge Popcorn The Smart Sponge material can be formed into
+a variety of physical shapes to optimize its performance in a wide range of filtration applications. The Smart Sponge material
+is the cornerstone of AbTech Industries’ current products, and AbTech Industries continues to find new applications for
+its use. When produced in its “popcorn” form (clumps of polymer similar in shape to popcorn), Smart Sponge is an effective
+filtration media due to its high porosity and favorable hydraulic characteristics. AbTech Industries is currently pursuing the
+use of Smart Sponge popcorn in end-of-pipe applications such as vaults and other configurations. The Smart Sponge material can
+also be sold to OEMs (original equipment manufacturers) and other users to be integrated into many different filtration pressure
+vessels or gravity flow structures. Ultra-Urban® Filter The UUF with Smart Sponge is an innovative
+low-cost Best Management Practice (“BMP”) that helps meet National Pollution Discharge Elimination System (“NPDES”)
+requirements with effective filtration, efficient application, and low maintenance. The UUF is a modular filtration unit (or Catch
+Basin Insert) designed in a variety of shapes and sizes for use in “curb opening” and “top down” storm
+drains and is used to treat stormwater runoff for new or retrofitted sites by absorbing oil and grease and capturing trash and
+sediment. 5 The UUF is ideal for municipal, industrial
+and construction applications ensuring compliance with stormwater regulations. The filter comes in three designs: the Curb Opening,
+Drain Insert, and Customized Drain Insert. The unique micro porosity of Smart Sponge allows the standard sized CO1414 UUF filter
+a hydraulic flow rate of more than 250 gallons per minute and has proven effective in removing more than 80% of hydrocarbons and
+total suspended solids (“TSS”) (300 microns or greater). The unique design of the Curb Opening Series
+allows crews to easily hang the appropriate number of filters in each drain on a simple mounting bracket. The product is designed
+with a lateral bypass to utilize each box as well as an overflow capability to eliminate the potential for street flooding in
+the event of a plugged filter. The UUF Drain Insert Series offers the same
+filtration characteristics of the Curb Opening series for stormwater filtration of hydrocarbons, trash and sediment. The unique
+micro porosity of Smart Sponge allows the DI2020 UUF a hydraulic flow rate of more than 500 gallons per minute, and has proven
+effective in removing more than 80% of hydrocarbons and TSS (300 microns or greater). These units are designed to be suspended
+beneath a collar installed under the stormwater grates. This simple design allows easy access for maintenance while eliminating
+the potential for street flooding in the event of a plugged filter. Customized drain inserts are available for
+those customers with shallow drains or requiring deeper bed depths. AbTech Industries’ team of engineers will work with
+customers to understand the site characteristics, including hydraulics and contamination levels and will confirm the appropriate
+Smart Sponge bed depth to achieve the project’s filtration goals. Water Treatment Vaults (using advanced
+filtration media like Smart Sponge) AbTech Industries’ water treatment vaults
+with advanced filtration media such as Smart Paks ® are an effective alternative to treating individual catch basins.
+These easily installed, typically pre-cast vaults are retrofitted into existing stormwater systems and are ideal for stormwater
+treatment at or near the end of pipe. Vault sizes can be adapted for various flow rates and contamination levels to solve a wide
+range of stormwater treatment issues. AbTech Industries can engineer its water treatment
+vaults for large projects either as stand-alone applications or as part of a treatment train to polish water working with retention
+ponds or hydrodynamic separators. These engineered solutions can be direct or radial flow, and can easily be adapted to treat
+first flush while allowing the later flow of a major storm event to pass around the systems to achieve the hydraulic requirements
+of the watershed. SMART PAK ® AbTech Industries' Smart Pak is designed for
+use in new or existing vaults that experience oil and grease pollution accompanied by sediment, trash/debris, hydrocarbons, and
+coliform bacteria (when specified with Smart Sponge Plus). Smart Paks help users meet and/or exceed stormwater NPDES permit requirements
+with effective filtration, absorption, life expectancy and maintenance costs. Smart Pak products are constructed out of AbTech
+Industries' patented Smart Sponge media which is a nonhazardous material, and can be specified for a variety of applications.
+AbTech Industries' Smart Pak allows Smart Sponge technology to be scaled to virtually any size required in an easy-to-maintain
+form. Absorbent Boom and Line Skimmer AbTech Industries' Tubular Absorbent Booms
+and Line Skimmers employ the Smart Sponge absorptive technology which rejects water while absorbing even sheen levels of hydrocarbons
+in low energy flow environments. Tubular Absorbent Booms and Line Skimmers are designed to absorb and permanently encapsulate
+hydrocarbons resulting in no dewatering of oily water during removal. These products remain completely buoyant, even after being
+saturated allowing long term deployment and conveniently scheduled removal. 6 Passive Skimmer The Passive Skimmer is designed to absorb
+and encapsulate hydrocarbons by floating directly on the water in catch basins, sumps, oil/water separators, and marine fueling
+stations. Passive Skimmers are made with Smart Sponge, are packaged in flexible mesh containers, and are available in a variety
+of sizes. Bilge Skimmer The Smart Sponge Non-Leaching Bilge Skimmer
+is engineered and designed for permanently encapsulating the petroleum hydrocarbons that appear as oily sheen in the engine compartment
+during normal boat operation. The Bilge Skimmer will absorb the contaminant and allow the boater to discharge clean water from
+the bilge pump. Industrial Process Water Systems AbTech Industries has a variety of solutions
+for treating industrial process water including gravity filters and pressure vessel filters. Gravity filters are generally
+designed using Smart Paks which can be easily replaced once consumed. All solutions and media bed depths are determined
+based on flow rate and the level of contaminant in the water. AbTech Industries also uses a variety of third-party pressure
+vessels filled with Smart Sponge material as effective filtration devices. Depending on the design and size of the vessel, the
+Smart Sponge material may be deployed in convenient bag filters for ease of media change out, or it may be installed in loose
+form requiring change-out with the use of a vacuum truck. Produced Water Products AbTech Industries has developed de-oiling
+solutions for the produced water market. These solutions generally are combined with other treatment systems to address
+the full range of the problematic contaminants present at a given site. AbTech’s de-oiling solutions are designed to remove
+hydrocarbons as both a pre-filter to protect the other treatment systems in the treatment train, or as polishing agent at the
+end of the treatment process. One solution for the removal of free oil in produced water is AbTech Industries’ contactor(s)
+in a pretreatment position. These consist of contactor tanks that are sized based on flow rate, influent concentration of
+contaminant, the desired change out schedule, and space or size constraints. The contactors used are widely available ASME
+certified pressure vessels that are filled with loose Smart Sponge popcorn media. These systems can be implemented ranging from
+300 to 3,000 gallons per minute. Markets AbTech Industries targets three major markets:
+stormwater/wastewater, industrial wastewater/process water, and produced water applications for the oil & gas industry. The
+Company’s products also have application in the spill prevention and control markets (including marine environments) although
+the Company is not currently focused on this market as a priority. Stormwater Market/Wastewater This market consists of municipalities and
+private sector entities that for regulatory or other reasons are seeking to control the quality of water and other fluids that
+run off roads and other paved surfaces during wet weather, cleaning or oil spill events. Current customers include municipalities,
+state agencies, federal agencies, private developers, industrial facilities and businesses. Stormwater discharges are generated
+during a rainfall event by runoff from land and impervious areas such as paved streets, parking lots and building rooftops. The
+runoff water picks up a variety of pollutants, in particular bacteria and hydrocarbons, in quantities that can adversely affect
+water quality, and carries those pollutants into nearby rivers, lakes and oceans. · Regulatory Drivers to the Stormwater Market – Stormwater discharges are subject to regulation by the EPA, state and local regulatory bodies. Authorized by the Clean Water Act, the National Pollutant Discharge Elimination System (NPDES) program requires permits for sources that discharge pollutants into waters. Obtaining and complying with NPDES permits requires implementation of stormwater control measures, such as AbTech Industries’ engineered solutions. 7 Regulation of stormwater is a relatively
+new occurrence. The first phase of the NPDES program was promulgated in 1990 but the permit requirement was limited to only select
+regulated entities. The second phase of the NPDES program expanded the permit requirement significantly but did not start until
+2003. Combined Sewer Overflows also must
+comply with the Clean Water Act and present an opportunity for AbTech Industries’ engineered treatment solutions. Combined
+sewer systems serve roughly 772 communities serving 40 million people. In periods of rainfall or snowmelt, the combined stormwater
+and wastewater volume in a combined sewer system can exceed the capacity of the sewer system or treatment plant. This leads to
+the direct discharge of untreated sewage, etc. to the environment. Enforcement of stormwater/CSO standards
+have increased, with EPA compelling installation of stormwater control measures and water quality treatment systems through consent
+decrees. In recent years, billions of dollars of mandated spending on stormwater/CSO systems has been created through consent
+decrees. · Health and Tourism Concerns Driving the Stormwater Market - One area of the stormwater market that is receiving increased publicity and attention is the water pollution caused by microorganisms (bacteria). Polluted stormwater runoff can expose boaters and swimmers to bacteria, viruses and protozoans. A Southern California epidemiological study revealed that individuals who swim in areas adjacent to flowing storm drain outfalls were 50 percent more likely to develop a variety of symptoms than those who swim further away from the same drains. These situations are the cause for thousands of beach closings every year, which affect public health and local economies dependent upon tourism and recreation. According to a the 2014 Testing the Waters report of the Natural Resources Defense Council (“NRDC”), in 2012 there were 20,120 days of closings and advisories across the country at ocean, bay and Great Lakes beaches. NRDC reported that more than 80 percent of the closings and advisories in 2012 were issued because bacteria levels in the beachwater exceeded public health standards potentially indicating the presence of human or animal waste. This was the 8 th time in the past 9 years that the number of beach closing and advisory days exceeded 20,000. Stormwater runoff was reported as the primary known source of known pollution nationwide, consistent with past years, indicating a lack of needed progress on the problem at the national level. NRDC's annual analysis of water quality data at 3,485 coastal U.S. beaches monitored in 2013 found that 10 percent of all monitoring samples exceeded the Environmental Protection Agency's most protective benchmark for assessing swimmer safety, known as the Beach Action Value, or BAV. · Going Green Initiatives – Knowing that polluted stormwater runoff is one of the leading causes of water pollution in the country, many companies are including on-site stormwater treatment in their environmental sustainability goals. AbTech Industries’ systems can help companies meet these goals. AbTech Industries’ Smart Sponge technology not only treats polluted water, it is also recyclable, requires no electricity or other power source and can provide users with quantifiable results of its efficacy, thus helping companies demonstrate their “going green” stewardship. Industrial Wastewater Market The industrial market serves manufacturers
+seeking to control and clean wastewater generated in various processes. The market is comprised of both heavy industry such as
+oil refineries, steel mills, chemical plants, pulp and paper plants and more localized concerns such as mid-size manufacturers,
+refuse sites and shipping/receiving areas. This market also includes private developers, gas stations and owners of developed
+sites (i.e., parking lots) of over one acre. Industry is placing increased emphasis on
+water recovery and reuse in order to conserve and protect scarce water resources and the environment. These efforts create the
+need for effective products and services to treat the water to reduce bacteria and remove unwanted contaminants such as oil derivatives
+and hydrocarbons. 8 Industrial customers are also required to
+comply with increasingly stringent discharge regulations creating the need for products to treat runoff water or discharge water
+before it leaves an industrial facility. The EPA has classified over 3,000 industrial and electric utility facilities as water
+pollution dischargers. Each of these facilities provides its own wastewater treatment prior to discharge into an open body of
+water. The size of many of these plants is equal to or greater than those of many municipalities, and in many instances their
+processes are more complex than those provided by a municipality because of the nature of the chemical pollutants being treated.
+The largest industrial spender on wastewater treatment processes is the chemical and petrochemical sector. There are more than
+12,000 chemical/petrochemical plants in the United States and approximately 90% treat wastewater on-site. In addition, there are
+approximately 30 to 40 independent industrial off-site plants, most of which handle chemical and petrochemical effluent, principally
+from medium-sized and small companies. In the industrial market, it is AbTech Industries’
+intent to market its products through qualified and specialized national distributors, preferably operating in the water treatment
+business. Produced Water and Frack Water Applications
+in the Oil & Gas Industry Oil and gas exploration and production activities
+result in the production of significant volumes of contaminated water. On average, there is five times as much contaminated water
+generated as oil or gas. Approximately 75% of this water is re-injected into the formation to maintain pressure or deep well re-injected
+at another site. In a traditional oil production field this water is called “produced water.” In fracking operations
+this can include “frac flowback water” and in gas fields this could include “gas condensate water.” Approximately
+25% of all water generated from the exploration and production activities must be treated for either reuse in operations or for
+discharge to the environment under an NPDES permit. According to the EPA, the Clean Water Act prohibits the discharge of oil or
+oily waste into or upon the navigable waters of the United States or the waters of the contiguous zone if such discharge causes
+a film or sheen upon the surface of the water. Violators are subject to a monetary penalty. The attributes of AbTech Industries’
+Smart Sponge technology and its ability to remove “oily sheen” make it especially suited to service this market. Smart
+Sponge can be used as a pretreatment system to remove diesel range organics and free oils prior to additional treatment by downstream
+technologies to remove contaminants such as volatile organic compounds, dissolved solids, and bacteria. Spill Prevention and Control Market There are a number of applications related
+to rivers, lakes, and oceans that call for the use of floating or in-line filtration products to control and reduce the presence
+of hydrocarbons in the water or on board transiting vessels. Customers include the cruise ship industry, recreational boaters,
+marina owners, port authorities, spill response organizations and commercial shippers. This market also comprises airports, airport
+fueling facilities, U.S. Department of Defense (“DOD”) bases, transfer stations, and others concerned about oil spills.
+Under the Federal Clean Water Act, the EPA has issued the Spill Prevention, Control and Countermeasure (“SPCC”) rule,
+which requires owners or operators of facilities that store, use, process, transfer, distribute or consume oil and oil products,
+including airports and military bases, to have minimum preventative systems in place. The risks of not adequately implementing
+such countermeasures are regulatory violations, fines and potential releases that result in contamination, clean-up and additional
+fines. The impact of these issues can result in significant costs to a facility owner/operator. There are more than 250 medium
+and large sized airports in the United States and more than 322 U.S. military facilities. AbTech Industries’ systems can be deployed
+for the oil and fuel contamination problems facing airports and military facilities. These systems can not only be used to address
+such problems as stormwater runoff, but also provide effective SPCC solutions to limit potential liabilities to customers by providing
+a last line of defense or perimeter protection for fuel spills. Sales, Distribution, and Marketing Support During 2014, the Company continued a significant
+expansion of its business development efforts in order to capitalize on the expected growth in the stormwater, produced water
+and industrial waste water markets. The primary, ongoing activities in this effort are: 9 1. The re-branding of AbTech as a full-suite environmental technology solutions company for water treatment. This rebranding aims to highlight AbTech’s ability to provide solutions to water treatment issues using a variety of tools rather than just offering a single product or technology. These activities are intended to enhance customer engagement, increase product acceptance, and expand market opportunity by expanding the number and capabilities of product solutions offered. In late 2013, the Company signed a contract with the Nassau County in New York to design, build and operate (“DBO”) stormwater solutions at various stormwater outfall pipe locations throughout the county. The Company began work on this not-to-exceed $12 million contract in 2013 and during 2014 worked on the pre-construction engineering tasks outlined in the contract. 2. In 2014 the Company announced a collaboration effort with Corvias Solutions to develop large stormwater infrastructure projects, particularly under privately-financed public-private partnership models. AEWS is teaming with Corvias Solutions to provide engineering and design services to support a $100 million project in Prince George’s County, Maryland. AbTech and Corvias are jointly pursuing other similar contracts for DBO type projects. 3. Forming strategic alliances aimed at shaping and maximizing addressable markets. As the Company re-brands itself, a primary focus of that endeavor is to position the Company as a holistic stormwater technologies company with elite expertise. To achieve this objective, the Company is seeking to develop strategic working relationships with leading academic institutions and Non-Governmental Organizations in the stormwater, produced water and industrial waste water markets. 4. Continued development of AEWS Engineering, a stormwater engineering subsidiary, to provide consulting services to identify and design effective water treatment solutions and take advantage of the Company’s expertise in the water treatment field. 5. Adding personnel in a staged approach to support relationships with strategic partners, establish expertise in new or expanding markets and provide other administrative and marketing support. 6. Internal development of processes to support business growth and optimize resource allocation within the business pursuit organization. All of these activities are expected to continue
+to expand as appropriate in future years to take advantage of market opportunities and amplify market successes. Stormwater/Wastewater AbTech Industries’ approach to the stormwater/wastewater
+market is focused on the public sector, primarily cities and municipalities, but also addresses commercial and industrial applications.
+For small companies, sales to the public sector have inherent challenges including long sales cycles and erratic budget allocations.
+To deal with these challenges, AbTech Industries is pursuing a strategy of establishing strategic relationships with market segment
+leaders that have expertise and market strengths that are complimentary to AbTech’s strengths in order to provide a complete
+solutions approach for stormwater customers. In 2011, AbTech Industries entered into a strategic relationship with Waste Management,
+Inc. (“WMI”) to pursue a comprehensive stormwater management approach to help municipalities tackle stormwater issues,
+including funding challenges, through public-private partnerships (“P3s”). Through this type of program, a public
+agency can work contractually with a private sector entity, such as WMI or AbTech, to deliver a stormwater treatment service that
+will benefit the general public. Many municipalities have implemented stormwater utilities or assess stormwater fees intended
+to provide the funding needed to implement effective stormwater treatment systems. While the relationship with WMI has not been
+successful to date, AbTech Industries has continued to develop the concept of establishing P3s to address stormwater issues and,
+despite the time it is taking to achieve success, this full-service approach with P3s is still viewed as a viable strategy to
+address this market. The collaborative effort announced in 2014 with Corvias Solutions to develop large stormwater infrastructure
+projects is consistent with this strategy of pursuing privately-financed P3 models. The Company intends to pursue other similar
+strategic relationships. Industrial Wastewater Market The industrial wastewater market is focused
+on the treatment of oily wastewater from industrial processes for either reuse or discharge. This market is serviced by many regional
+chemical and equipment supply companies that offer a catalog of solutions. Solutions may require little to no individual engineering,
+up to custom engineered solutions to address a customer need. AbTech Industries services this market by providing selling direct
+to industrial customers and providing engineering and sales support services to industrial chemical suppliers, equipment suppliers
+and consulting engineers. 10 Oil & Gas Market Treatment of contaminated produced water for
+the oil & gas industry focuses on the water produced during oil and gas exploration and production. Oil services companies,
+oil and gas producers, and engineering firms are the main customers. Applications for this market are generally engineered solutions.
+AbTech Industries services this market with direct AbTech Industries’ sales representatives and engineering resources, including
+external engineering design resources when necessary. The Company also collaborates with other entities that provide complimentary
+technologies to complete an effective treatment train to meet the specific needs of customers. Through teaming agreements and
+other arrangements, the Company works with these entities to identify customers, design systems for specific treatment applications,
+deploy the treatment systems and provide operation support. Collaboration With Consulting Firms, Academic
+Institutions and Public Advocacy Groups AbTech Industries, both on its own, and with
+its distributors, has been active in seeking out and cooperating with a number of academic institutions and private groups that
+have interests that may advance the use of AbTech Industries’ products. AbTech Industries has had an opportunity to
+have its products assessed by several consultants and institutions. The tests performed by these entities, along with the extensive
+testing completed by the Company, have involved various types of contaminants, contaminant concentrations, flow rates, filter
+residence times and other factors. These tests, conducted over many years, have led the Company to design its products for the
+applications where Smart Sponge material performs best and have provided the data needed to validate performance claims for each
+of the various applications for which such products are currently being marketed. Testing is an ongoing process for the Company
+as we continue to seek new ways to improve performance and expand efficacy. Consultants used in the past to assess our products
+include: · Alden Labs. Alden, a recognized leader in the field of research and development, is the oldest continuously operating hydraulic laboratory in the United States and one of the oldest in the world. Alden has completed a variety of tests on AbTech Industries’ SMART PAK for hydraulic conductivity and sediment removal in vault configurations. · North America Science Associates (“NAMSA”). For over 40 years, NAMSA has been supporting the medical device and pharmaceutical industries through a wide variety of testing services, all designed to ensure safety, efficacy and regulatory compliance. NAMSA has completed extensive lab efficiency tests for Smart Sponge Plus materials using varied concentrations of bacteria and exposure times. · Millsaps College. Millsaps is a private liberal arts college located in Jackson, Mississippi. Through the Department of Geology, Millsaps has cooperated with AbTech Industries to test the Smart Sponge’s absorption capability with different hydrocarbons, Smart Sponge porosity and performance claims for the UUF and other products designed for the aviation industry. Millsaps has completed testing for many other large corporations including 3M, Dow, Clorox and Ergon, a local supplier of polypropylene fibers and sorbents for oil spills. · HydroQual Inc. HydroQual is an environmental engineering and science firm. With a staff of over 100 employees, HydroQual addresses issues dealing with water quality, TMDL analyses, floatables pollution, water and wastewater treatment. HydroQual has performed a variety of tests to validate AbTech Industries’ claims regarding the performance of the Smart Sponge. · University of California, Los Angeles (“UCLA”) . The UCLA Department of Engineering and Environmental Sciences provided independent validation of early versions of AbTech Industries’ Ultra-Urban Filter. 11 Competition Stormwater Products Four key factors differentiate AbTech Industries’
+Ultra-Urban Filter from other filters in the stormwater market: · Anti-microbial capability. AbTech Industries’ Smart Sponge filtration media, when treated with an anti-microbial agent, can reduce bacteria and other microbes flowing through the filter. Smart Sponge products are available with or without the added anti-microbial agent. · Structural Filter. AbTech Industries believes that the Ultra-Urban Filter is the only product designed so that the entire structure is involved in the filtration process. Other products have inserted pads or pillows that allow some hydrocarbon removal, but the Ultra-Urban Filter directs the entire water flow through the filtration media thus enhancing the effectiveness of the filter. · Superior Filtration Media. An essential and superior feature of Smart Sponge filtration medium is its ability to absorb hydrocarbons and prohibit them from being released back into the water flow when there are subsequent rain events. The reason for this is that AbTech Industries’ proprietary blend of polymers is oleophilic - an absorbent - which means that hydrocarbons are bonded within its chemical matrix and cannot be washed off, squeezed out or leached out of the material during subsequent wetting or rain events. There are various materials used by competitors for stormwater filtration that do not have this absorbent characteristic, instead they feature an adsorbent capability that merely attracts hydrocarbons to their surface area, but cannot prevent them from leaching back into the environment during subsequent rain events. The most commonly used adsorbent in the market is polypropylene, which is currently used in many sorbent products used for oil spill clean-up. Although it is generally accepted that adsorbents are clearly inferior to absorbents in their ability to capture and remove hydrocarbons from stormwater flows, they are widely used because of the low comparative cost. Over the last ten years, AbTech Industries has performed numerous laboratory and field tests that verify its products’ absorption capabilities and other performance features dealing with the removal of trash, sediment, debris, and other contaminants. Central to these test data is the incontrovertible conclusion that AbTech Industries’ Smart Sponge filtration medium is an absorbent. · Porous Structure. AbTech Industries’ Smart Sponge technology maximizes the effectiveness of the oil-absorbing polymers by forming them into an extremely porous structure that allows effective, long-lasting absorption without clogging or channeling which is common among filter media in a powder or particulate form. There are three general categories of products
+that deal with the treatment of stormwater: hydrodynamic separators (“HDS”), catch basin inserts and ultra-violet
+light systems. To give a complete competitor profile, a brief explanation of HDS systems is given below since HDS systems are
+more often considered an alternative to catch basin inserts in new construction projects. · Hydrodynamic Separators. HDS products use gravitational flow to spin the water in such a way that density differences cause sediment and other pollutants to be separated and skimmed-off the water. HDS units are large compared to catch basin inserts (smallest systems are about the size of an automobile) and are comprised of several large chambers or vaults, each designed to trap specific pollutants. These systems are much more expensive than catch basin inserts but also have the ability to handle more water flow. Unit costs for HDS systems range from $10,000 to $100,000 depending on size. These systems tend to be more cost effective in large new developments where the HDS can be designed into the stormwater system and large areas of run-off can be directed to each unit. In dealing with existing storm drains, HDS products are less desirable because they require streets and sidewalks to be torn-up, drainage redirected, and construction equipment to retrofit the drain and install the units. Catch basin inserts, on the other hand, are relatively easy to install because they fit into existing storm drain catch basins and require little or no construction. 12 Not only are HDS systems expensive,
+they also require significant maintenance to remove the trapped pollutants and ensure that the system continues to function properly.
+Some HDS vendors have purchased AbTech Industries’ Smart Sponge products to be used in conjunction with the HDS units to
+absorb the oil that is separated from the water, thus enhancing the performance of the systems and reducing the required maintenance.
+Another drawback of HDS systems is that they are designed to retain standing water after a rain or water flow event. Consequently,
+the HDS vaults become breeding grounds for mosquitoes (carrier of West Nile Virus), mold, mildew, bacteria and other undesirables. The primary vendors of HDS systems
+are: ConTech (CDS Technologies, Vortechs), Stormceptor and Baysaver Technologies. · Catch Basin Inserts. Competing products in this category include the following: o “DrainPac” by United Storm Water, Inc. o “StormBasin” by Fabco Industries o “Fossil
+Filter” and “Flow Guard” by Kristar o “Grate Inlet Skimmer Box” by Suntree Technologies o “Aqua Guard” by AquaShield o “Inceptor” by Stormdrain Solutions o “Hydrocartridge” by Advanced Aquatic Products o “Ultra HydroKleen” by Ultra Tech International • Ultra Violet Light (“UVL”). For customers seeking effective antibacterial treatment of stormwater, UVL offers a potential solution. However, the economics of these products are far different from catch basin inserts or other vault systems offered by AbTech Industries. Because UVL systems require electricity and expensive equipment, they are very costly to implement and maintain. Consequently, they are not a viable option for many municipalities. Furthermore, these systems become less effective in turbid waters. While AbTech Industries does not compete directly with UVL systems, such systems do provide an alternative to AbTech Industries’ antimicrobial Smart Sponge products. Another solution for the treatment of stormwater
+is the use of water retention systems and other ”green Infrastructure” solutions that are designed for infiltration
+of stormwater or redirection of such stormwater to areas where the water can be stored and allowed to naturally percolate into
+the ground without the use of any filtration technology or treatment system. These systems generally require a relatively large
+amount of land to be used effectively and therefore are often cost prohibitive or impractical where available land is scarce. Other Markets In the industrial, oil & gas and marine
+markets, competition primarily comes from traditional sorbent products and other particulate-based polymer adsorption products
+that are widely available through industrial supply vendors. AbTech Industries’ competitive advantage lies in: • its patented technologies to form these polymers in shapes, such as the propellet, that greatly enhance performance and ease of use; • its unique delivery systems, including in-line filtration cartridges and filtration vessels; • the completely hydrophobic nature of its products; • the capability to deal with more than one contaminant (i.e., hydrocarbons and microorganisms); and • the high saturation capacity. 13 Competitive Position AbTech Industries has a strong competitive
+position in the stormwater marketplace within the United States due to its product offerings and collaborative relationships with
+Corvias Solutions and WMI. There is significant competition for stormdrain insert filters in the marketplace, though AbTech has
+a competitive advantage due to the strength of its hydrocarbon absorption technology. This competitive advantage extends to customers
+such as industrial facilities, marinas/ports, airports, fueling stations, and any area where vehicle maintenance occurs. AbTech
+has a highly unique antimicrobial technology that requires EPA registration. Since the development of antimicrobial technology
+is complex, AbTech's approach is patented, and the EPA registration process is extensive and costly, there are high barriers to
+entry for competitors. This antimicrobial technology has enabled new engineering approaches towards water quality treatment. AbTech
+faces competitive forces from traditional approaches towards antimicrobial treatment. It is unclear whether AbTech's unique engineering
+and technology approach will gain significant market penetration. AbTech's relationships with Corvias Solutions and WMI are unique
+in the marketplace and provide AbTech with competitive advantages including customer access, the credibility of association with
+large, established market leaders, and the potential to bring economies of scale in manufacturing, distribution and systems maintenance.
+AbTech's competitive position is thus greatly enhanced, but also dependent in part, upon these collaborative relationships in
+the U.S. stormwater marketplace. AbTech faces significant competitive forces
+in the industrial process and wastewater treatment market segment. This market segment is highly driven by price points and customer
+relationships. AbTech currently has or may have strong competitive potential for the following applications in this market segment:
+hydrocarbon removal and heavy metals removal. AbTech also has a unique produced water treatment offering for the oil & gas
+industry. AbTech is currently dependent upon the adoption by the industry of its Smart Sponge-based hydrocarbon removal system
+for produced water and currently is at the pilot testing stage with oil & gas industry customers. Intellectual Property, Research, and Development Intellectual Property Patents AbTech Industries
+endeavors to protect the intellectual property it develops through its research and development efforts. The United States Patent
+Office has issued AbTech Industries and its subsidiary 17 patents related to the Smart Sponge technology and products. Additionally,
+three of the patent applications have been pursued internationally with patents issued in Australia, Canada, China, France, Great
+Britain, Italy, Japan, Korea, Mexico and Singapore. In 2014, AbTech Industries applied for another U.S. patent involving the process
+to recycle spent Smart Sponge ® and its solidified hydrocarbons . This patent
+application is currently pending. AbTech Industries intends to pursue patent protection for new patentable technologies that it
+develops. AbTech Industries’ success depends, in part, on its ability to maintain trade secrecy protection and operate without
+infringing on the proprietary rights of third parties. The following table lists the patents issued to the Company and their duration: Patent Number Issue Date Expiration Date US Pat. #5,863,440 1/25/1999 5/24/2016 US Pat. #6,344,519B1 2/5/2002 1/9/2018 US Pat. #6,099,723 8/8/2002 6/5/2018 US Pat. #6,080,307 6/27/2000 9/29/2018 US Pat. #6,106,707 8/22/2000 2/17/2019 US Pat. #6,541,569 4/1/2003 4/7/2018 US Pat. #6,143,172 11/7/2000 1/25/2019 US Pat. #6,231,758 5/15/2001 8/22/2020 US Pat. #6,531,059 3/11/2003 11/3/2020 US Pat. #6,712,976B2 3/30/2004 9/13/2021 US Pat. #6,723,791B2 4/20/2004 12/31/2021 US Pat. #7,094,338B2 8/22/2006 2/21/2023 US Pat #7,048,878B2 5/23/2006 3/24/2023 US Pat. #7,125,823B2 10/4/2006 1/29/2024 US Pat. #7,229,560B2 6/12/2007 12/6/2024 US Pat. #7,229,559B2 6/12/2007 2/27/2024 US Pat. #7,066,023B2 (issued to subsidiary – Environmental Security Corporation) 6/27/2006 7/14/2024 Singapore Pat. #66582 6/20/2000 1/9/2018 Singapore Pat. #103019 7/31/2006 9/13/2022 14 Patent Number Issue Date Expiration Date Australia Pat. #732308 7/26/2001 1/9/2017 Australia Pat. #751991 12/19/2002 2/17/2019 Canada Pat. #2,277,163 5/10/2005 1/9/2018/ Canada Pat. #2321108 5/26/2009 2/17/2019 Canada Pat. #2460511 11/27/2012 9/13/2022 China Pat. #ZL98801774.1 4/19/2006 1/9/2018 Mexico Pat. #232768 12/05/2005 1/9/2018 Korea Pat. #0593867 6/20/2006 1/9/2018 Japan Pat. #4164707 8/8/2008 1/9/2018 Japan Pat. #4470133 3/12/2010 2/17/2019 Japan Pat. #4478866 3/26/2010 9/13/2022 Italy Pat. #1073610B1 1/4/2009 2/17/2019 EEU Pat. #0973593 (France, Great Britain, Italy) 12/01/2004 1/9/2018 EEU Pat, #1436470 7/3/2013 9/13/2022 Trademarks AbTech Industries has registered three trademarks
+with the U.S. Patent and Trademark Office: (i) Smart Sponge ® , which denotes the Smart Sponge material itself in
+its various shapes and sizes; (ii) Ultra-Urban ® Filter, which denotes AbTech Industries’ line of storm drain
+filtration devices; and (iii) SMART PAK ® , which describes Smart Sponge material compacted into blocks, bricks or
+other pre-shaped forms. AbTech Industries also trademarked, but does not currently use, the name OARS ® , which denotes
+an oil aquatic recovery system encompassing Smart Sponge products. Trade Secrets In order to protect its trade secrets and
+un-patented proprietary information arising from its development activities, AbTech Industries requires its employees, consultants
+and contractors to enter into agreements providing for confidentiality, non-disclosure and Company ownership of any trade secret
+or other un-patented proprietary information developed by employees, consultants or contractors during their employment or engagement
+by AbTech Industries. AbTech Industries also requires all potential collaborative partners and distributors to enter into confidentiality
+and non-disclosure agreements. Research and Development The current Smart Sponge technology has prompted
+the development of a robust line of products. However, to ensure future growth, new products and technologies must be developed.
+Research and development effort is expended only on projects that meet certain criteria. The project must have a reasonable commercial
+potential, both in terms of revenue and in terms of profit margins. The products developed from the work must inherently be differentiated
+from competing products, if any, or allow AbTech Industries to fill a critical gap in its products offering. The development time
+to achieve the new technology or product must also be reasonable. AbTech Industries maintains active development
+programs focused on the treatment and removal of heavy metals, naturally occurring radioactive materials (NORMs) and phosphates
+from contaminated water. In 2014, AbTech Industries signed an exclusive license agreement for a highly effective heavy metals
+removal media that can be used in combination with Smart Sponge ® filtration capabilities to target heavy metal
+contamination in the stormwater and mining industries, including removal of selenium VI, a highly toxic heavy metal. Work is currently
+underway with this technology to commercialize the application into effective product configurations. AbTech Industries also has ongoing projects
+to evaluate Smart Sponge and other polymers to determine absorption performance under varying conditions and with a variety of
+contaminants. This testing not only provides independent verification of product performance but also allows AbTech Industries
+to provide more reliable information to customers about the product’s performance under various field conditions. In addition,
+AbTech Industries is evaluating various polymer combinations as the field of polymer science continues to evolve. 15 AbTech Industries’ strategy on all of
+these projects is to partner with third parties (universities, engineering companies and other commercial partners) for experimentation
+and validation of proposed concepts. AbTech Industries has worked cooperatively with North Carolina State University, University
+of North Carolina Coastal Studies Institute, West Virginia University National Environmental Service Center, Millsaps College,
+California State University at Fullerton, Alden Labs, APEX Laboratories, Brooks Rand, ABC Labs, NAMSA and Hydroqual, Inc. on various
+projects and is looking at other qualified partners for specific projects. Manufacturing and Engineering The polymer raw materials used by the Company
+to manufacture Smart Sponge are readily available from the petrochemical industry. These polymers are used extensively in other
+non-related consumer products, road paving materials and various component parts in the auto industry. The Company’s primary
+suppliers of these polymers are Harwick Standard Distribution Corp., LCY Elastomers, SK Global Chemicals and JS Tech, Ltd. The
+Company’s supplier of corrugated plastic used in the manufacture of UUFs is Numatech West (KMP) LLC. The antimicrobial agent
+used by the Company in manufacturing Smart Sponge Plus material is procured from Apollo Chemical Company and is available in sufficient
+quantities to meet anticipated demand. As manufacturing volumes increase, AbTech
+Industries intends to maintain its core engineering competencies in the United States and create a manufacturing outsourcing network
+capable of supplying existing and future products around the world. The network will include some internal manufacturing (mainly
+assembly) capabilities but will largely comprise contract manufacturers and/or strategic partners with the required expertise
+and facilities to cost-effectively manufacture AbTech Industries’ products. Due to the nature of the product (very low specific
+gravity or density, therefore high unitary shipping cost), AbTech Industries expects to establish its manufacturing and warehousing
+sites in key geographic areas. The manufacturing network will have an integrated information system capable of effectively managing
+production orders and ensuring high quality products manufactured to consistent specifications around the world. This plan will
+be rolled out in two steps: AbTech Industries will fully exploit its internal
+manufacturing capabilities at its 13,000 square foot facility in Phoenix, Arizona. While maximizing the capacity of this facility,
+AbTech Industries will search out and train outsourcing partners in the United States and other regions. Products not using the
+Smart Sponge material will be contracted to outside manufacturers. As production volumes increase, AbTech Industries intends to
+further evaluate the opportunities to outsource the manufacturing of all components and most of the finished products, focusing
+on total quality and consistency. Due to the very atypical process and equipment used in AbTech Industries’ manufacturing,
+it is unclear at this time if a suitable manufacturing partner exists. AbTech Industries would need to confirm a clear value proposition
+prior to outsourcing manufacturing. Regulatory In 2009, AbTech Industries filed an application
+with the EPA for registration of Smart Sponge Plus under FIFRA. In July 2010, AbTech Industries received notice of a time-limited
+registration under FIFRA from the EPA that contained certain conditions requiring AbTech Industries to submit additional acute
+aquatic toxicity data regarding the active ingredient in Smart Sponge Plus to the EPA by July 1, 2011. Subsequently, the EPA granted
+extensions of the time-limited registration to December 31, 2014. In December 2014, the Company received notice from the EPA that
+the conditional registration for its Smart Sponge Plus products is no longer subject to a time limitation and the pending submission
+of additional data, as required by the EPA’s original time-limited conditional registration approval, will not be required
+from AbTech until the agency requires all registrants of similar products to submit such data. Under the current registration,
+the Company is allowed to sell its Smart Sponge Plus products for the intended uses with EPA approved labeling. The EPA registration
+number for Smart Sponge Plus is 86256-1. Employees As of March 27, 2015, we had 20 full-time
+employees. Five of these individuals are involved in sales and marketing; three in production; two in research and development,
+three in engineering and seven in administrative functions. 16 Where You Can Find More Information We are required to file Annual Reports on
+Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and other information with the Securities and Exchange
+Commission (the “SEC”). The public can obtain copies of these materials by visiting the SEC’s Public Reference
+Room at 100 F Street, NE, Room 1580, Washington, DC 20549, by calling the SEC at 1-800-732-0330, or by accessing the SEC’s
+website at http://www.sec.gov . Links to these reports can also be found on our website at www.abtechindustries.com, under
+the INVESTORS section of the website. ITEM 1A. RISK FACTORS. Our business and an investment in our common
+stock is subject to a variety of risks. The following risk factors describe the most significant events, facts or circumstances
+that could have a material adverse effect upon our business, financial condition, results of operations, ability to implement
+our business plan and the market price for our common stock. Many of these events are outside of our control. If any of these
+risks actually occurs, our business, financial condition or results of operations may be materially adversely affected. In such
+case, the trading price of our common stock could decline and investors in our common stock could lose all or part of their investment. The risk factors discussed below relate
+to our business and operations following the consummation of the Merger and, accordingly, relate primarily to Abtech Holdings
+and its subsidiaries, AbTech Industries and AEWS. As used in this “Risk Factors” section, the terms “Company,”
+“we,” our” and like words mean Abtech Holdings together with Abtech Industries, unless the context otherwise
+requires. Risks Relating to Our Business Our ability to generate revenue to support
+our operations is uncertain. We are in the early growth stage of our business
+and have a limited history of generating revenues. We have a limited operating history upon which you can evaluate our potential
+for future success, and we are subject to the additional risks affecting early-stage businesses. Rather than relying on historical
+information, financial or otherwise, to evaluate our Company, you should evaluate our Company in light of your assessment of the
+growth potential of our business and the expenses, delays, uncertainties, and complications typically encountered by early-stage
+businesses, many of which will be beyond our control. Early-stage businesses in rapidly evolving markets commonly face risks,
+such as the following: • unanticipated problems, delays, and expenses relating to the development and implementation of their business plans; • operational difficulties; • lack of sufficient capital; • competition from more advanced enterprises; and • uncertain revenue generation. Our limited operating history may make
+it difficult for us to forecast accurately our operating results. Our planned expense levels are, and will continue
+to be, based in part on our expectations, which are difficult to forecast accurately based on our stage of development and factors
+outside of our control. We may be unable to adjust spending in a timely manner to compensate for any unexpected developments.
+Further, business development expenses may increase significantly as we expand operations. To the extent that any unexpected expenses
+precede, or are not rapidly followed by, a corresponding increase in revenue, our business, operating results, and financial condition
+may be materially and adversely affected. 17 We have a history of losses that may continue,
+which may negatively impact our ability to achieve our business objectives. We have incurred net losses since our inception.
+The Company had a net loss of approximately $6.5 million during the fiscal year ended December 31, 2014. We cannot assure you
+that we can achieve or sustain profitability on a quarterly or annual basis in the future. There can be no assurance that future
+operations will be profitable. We may not achieve our business objectives and the failure to achieve such goals would have an
+adverse impact on us. Our success depends on our ability to expand,
+operate, and manage successfully our operations. Our success depends on our ability to expand,
+operate, and manage successfully our operations. Our ability to expand successfully will depend upon a number of factors, including
+the following: • signing with strategic partners, dominant in their field; • the continued development of our business; • the hiring, training, and retention of additional personnel; • the ability to enhance our operational, financial, and management systems; • the availability of adequate financing; • competitive factors; • general economic and business conditions; and • the ability to implement methods for revenue generation. If we are unable to obtain additional capital,
+our business operations could be harmed. The development and expansion of our business
+will require additional funds. In the future, we may seek additional equity or debt financing to provide capital for our Company.
+Such financing may not be available or may not be available on satisfactory terms. If financing is not available on satisfactory
+terms, we may be unable to expand our operations. While debt financing will enable us to expand our business more rapidly than
+we otherwise would be able to do, debt financing increases expenses and we must repay the debt regardless of our operating results.
+Future equity financings could result in dilution to our stockholders. The recent global financial crisis, which
+has included, among other things, significant reductions in available capital and liquidity from banks and other providers of
+credit, substantial reductions or fluctuations in equity and currency values worldwide, and concerns that the worldwide economy
+may enter into a prolonged recessionary period, may make it difficult for us to raise additional capital or obtain additional
+credit, when needed, on acceptable terms or at all. Our inability to obtain adequate capital resources,
+whether in the form of equity or debt, to fund our business and growth strategies, may require us to delay, scale back, or eliminate
+some or all of our operations, which may adversely affect our financial results and ability to operate as a going concern. You may suffer significant dilution if
+we raise additional capital. If we raise additional capital, we expect
+it will be necessary for us to issue additional equity or convertible debt securities. If we issue equity or convertible debt
+securities, the price at which we offer such securities may not bear any relationship to our value, the net tangible book value
+per share may decrease, the percentage ownership of our current stockholders would be diluted, and any equity securities we may
+issue in such offering or upon conversion of convertible debt securities issued in such offering, may have rights, preferences,
+or privileges with respect to liquidation, dividends, redemption, voting, and other matters that are senior to or more advantageous
+than our common stock. 18 We have completed debt financings and face
+risks associated with financing our operations. The Company has completed several debt financings
+and is subject to the normal risks associated with debt financing, including the risk that our cash flow will be insufficient
+to meet required payments of principal and interest and the risk that we will not be able to renew, repay, or refinance our debt
+when it matures or that the terms of any renewal or refinancing will not be as favorable as the existing terms of that debt. As
+of December 31, 2014, the Company had approximately $8.7 million of outstanding debt that matures in 2015 and accrued interest
+payable of $462,356. We have debt outstanding that is secured
+by all of the assets of the Company. During 2014 and 2013, we issued promissory
+notes that are secured by all of the assets of the Company, including its intellectual property. As of December 31, 2014, seven
+secured promissory notes, having a senior security interest in the assets of the Company and an aggregate principal amount of
+$2,000,000, were outstanding. In addition, twelve other secured promissory notes, having a junior security interest in the assets
+of the Company and an aggregate principal amount of $6,516,979, were outstanding. If we are unable to pay our obligations to our
+secured lenders, they could proceed against any or all of the collateral securing our indebtedness to them which could prevent
+the Company from continuing its operations in whole or in part. You may suffer dilution if the Secured
+Notes are converted to common stock. As of December 31, 2014, the Company had approximately
+$4.85 million of convertible notes outstanding that, if converted, would require the company to issue approximately 9.5 million
+shares of common stock. Such conversion would cause the percentage ownership of our current stockholders to be diluted. Our independent auditors have expressed
+substantial doubt about the Company’s ability to continue as a going concern, which may hinder our ability to obtain future
+financing. In their report dated March 31, 2015, our
+independent registered public accounting firm included an emphasis-of-matter paragraph with respect to our financial statements
+for the fiscal year ended December 31, 2014 concerning the Company’s assumption that it will continue as a going concern.
+Our ability to continue as a going concern is an issue raised as a result of recurring losses from operations. To date, each of
+Abtech Holdings and AbTech Industries has only incurred net operating losses resulting in a significant accumulated deficit. Our
+ability to continue as a going concern is subject to our ability to obtain necessary funding from outside sources, including obtaining
+additional funding from the sale of our securities. Our continued net operating losses increase the difficulty in meeting such
+goals and there can be no assurances that such methods will prove successful. The Company plans to raise additional capital in
+the near term and is currently considering the various options available for raising such capital. We depend on our officers and key employees
+who would be difficult to replace, and our business will likely be harmed if we lose their services or cannot hire additional
+qualified personnel. Our success depends substantially on the efforts
+and abilities of our officers and other key employees. AbTech Industries has employment agreements with its chief executive officer,
+its chief financial officer, and certain key employees, but we do not think those agreements limit any employee’s ability
+to terminate his or her employment. We have key person life insurance on Glenn R. Rink, our president, chief executive officer
+and a director, but we do not have key person life insurance covering any of our other officers or other key employees. The loss
+of services of one or more of our officers or key employees or the inability to add key personnel could have a material adverse
+effect on our business. Competition for experienced personnel in our industry is substantial. Our success depends in part on our
+ability to attract, hire, and retain qualified personnel. In addition, if any of our officers or other key employees join a competitor
+or form a competing company, we may lose some of our customers. 19 We depend on the recruitment and retention
+of qualified personnel, and our failure to attract and retain such personnel could seriously harm our business. Due to the specialized nature of our business,
+our future performance is highly dependent upon the continued services of current and future key personnel and managers. Our future
+business depends upon our ability to attract and retain qualified engineering, manufacturing, marketing, sales, and management
+personnel for our operations. We may also have to compete with the other companies in our industry in the recruitment and retention
+of qualified managerial and technical employees. Competition for personnel is intense and confidentiality and non-compete agreements
+may restrict our ability to hire individuals employed by other companies. Therefore, we may not be successful in attracting or
+retaining qualified personnel. Our failure to attract and retain qualified personnel could seriously harm our business, results
+of operations, and financial condition. Furthermore, we may not be able to accurately forecast our needs for additional personnel,
+which could adversely affect our ability to grow. The effects of the recent global economic
+downturn may adversely impact our business, operating results, or financial condition. The recent global economic downturn has caused
+disruptions and volatility in global financial markets and increased rates of default and bankruptcy and has impacted levels of
+consumer and commercial spending. We are unable to predict the duration, severity or pace of recovery of this global economic
+and financial crisis. There can be no assurance that any actions we may take in response to further deterioration in general economic
+and financial conditions will be sufficient. A protracted continuation or worsening of the global economic downturn or disruptions
+in the financial markets could have a material adverse effect on our business, financial condition, or results of operations. If we do not achieve broad market acceptance
+of our products and services, we may not be successful. Although our products and services will serve
+existing needs, our delivery of these products and services is unique and subject to broad market acceptance. As is typical of
+any new product or service, the demand for and market acceptance of these products and services are highly uncertain. We cannot
+assure you that any of our products and services will be commercialized on a widespread basis. The commercial acceptance of our
+products and services may be affected by a number of factors, including the willingness of municipalities and other commercial
+and industrial entities to use our products and services to control the quality of water and other fluids. If the markets for
+our products and services fail to develop on a meaningful basis, if they develop more slowly than we anticipate, or if our products
+and services fail to achieve sufficient market acceptance, our business and future results of operations could be adversely affected. Because our products may be designed to
+provide a solution which competes with existing methods, we are likely to face resistance to change, which could impede our ability
+to commercialize this business. Our products may be designed to provide a
+solution to environmental challenges created by contaminated water and other fluids. Currently, large and well capitalized companies
+provide services in these areas. These competitors have strong relationships with their customers’ personnel, and there
+is a natural reluctance for businesses to change to new technologies, particularly in such industries as the oil and gas industries
+where our future products may be relevant. This reluctance is increased when potential customers make significant capital investments
+in competing technologies. Because of these obstacles, we may face substantial barriers to commercializing our business. If we experience rapid growth and we are
+not able to manage this growth successfully, this inability to manage the growth could adversely affect our business, financial
+condition, and results of operations. Rapid growth places a significant strain on
+financial, operational, and managerial resources. While we engage in strategic and operational planning to adequately manage anticipated
+growth, there can be no assurance that we will be able to implement and subsequently improve operations and financial systems
+successfully and in a timely manner to fully manage our growth. There can be no assurance that we will be able to manage our growth
+and any inability to successfully manage growth could materially adversely affect our business, financial condition, and results
+of operation. 20 We have no experience in manufacturing
+or assembling products on a large scale basis and, if we do not develop adequate manufacturing and assembly processes and capabilities
+to do so in a timely manner, we may be unable to achieve our growth and profitability objectives. We have no experience manufacturing or assembling
+products on a large scale. We do not know whether our current or future manufacturing arrangements will be able to develop efficient,
+low-cost manufacturing capabilities and processes that will enable us to meet the quality, price, engineering, design and production
+standards, or production volumes required to successfully mass market such products. Even if we are successful in developing manufacturing
+capabilities and processes, we do not know whether we will do so in time to meet our product commercialization schedule or to
+satisfy the requirements of our target market. Our failure to develop these manufacturing processes and capabilities, if necessary,
+in a timely manner, could prevent us from achieving our growth and profitability objectives. If we fail to continue to develop or acquire
+new products, adapt to rapid and significant technological change, and respond to introductions of new products, we will not be
+competitive. Our growth strategy includes significant investment
+in and expenditures for product development. We intend to sell products, primarily in the water clean-up sector, which are characterized
+by rapid and significant technological changes, frequent new product and service introductions, and enhancements and evolving
+industry standards. Without the timely introduction of new products, services, and enhancements, our products and services may
+become technologically obsolete over time, in which case our revenue and operating results would suffer. In addition, our competitors may adapt more
+quickly to new technologies and changes in customers’ requirements than we can. The products that we are currently developing
+or those that we will develop in the future may not be technologically feasible or accepted by the marketplace, and our products
+or technologies could become uncompetitive or obsolete. The market for our products is highly competitive,
+and there can be no assurance that competitors will not emerge in the near to medium term with comparable products or technologies. The markets for our products and services
+are expected to remain highly competitive. While we believe our products are unique and have, or will have, adequate patent protection
+for the underlying technologies, or unique trade secrets, there can be no assurance that competitors will not emerge in the near
+to medium term with comparable products or technologies. There are a number of large companies involved in the same businesses
+as us, but with larger more established sales and marketing organizations, technical staff, and financial resources. We may establish
+marketing and distribution partnerships or alliances with some of these companies, but there can be no assurance that such alliances
+will be formed. Our business may become substantially dependent
+on contracts that are awarded through competitive bidding processes. We may sell a significant portion of our products
+pursuant to contracts that are subject to competitive bidding, including contracts with municipal authorities. Competition for,
+and negotiation and award of, contracts present varied risks, including, but not limited to: • investment of substantial time and resources by management for the preparation of bids and proposals with no assurance that a contract will be awarded to us; • the requirement to certify as to compliance with numerous laws (for example, socio-economic, small business, and domestic preference) for which a false or incorrect certification can lead to civil and criminal penalties; • the need to estimate accurately the resources and cost structure required to service a contract; and • the expenses and delays that we might suffer if our competitors protest a contract awarded to us, including the potential that the contract may be terminated and a new bid competition may be conducted. 21 If we are unable to win contracts awarded
+through the competitive bidding process, we may not be able to operate in the market for products and services that are provided
+under those contracts for a number of years. If we are unable to consistently win new contract awards over any extended period,
+or if we fail to anticipate all of the costs and resources that will be required to secure and perform such contract awards, our
+growth strategy and our business, financial condition, and results of operations could be materially and adversely affected. We will sell products and services to companies
+in industries which tend to be extremely cyclical; downturns in those industries would adversely affect our results of operations. The growth and profitability of our business
+will depend on sales to industries that are subject to cyclical downturns. Slowdowns in these industries may adversely affect
+sales by our businesses, which in turn would adversely affect our revenues and results of operations. In particular, our products
+may be sold to and used by the oil and gas industry, which historically has realized significant shifts in activity and spending
+due to fluctuations in commodity prices. Our revenues may be dependent upon spending by oil and gas producers; therefore, a reduction
+in spending by producers may have a materially adverse effect on our business, financial conditions, and results of operations. The industries in which we may sell our
+products are heavily regulated and costs associated with such regulation could reduce our profitability. Federal, state, and local authorities extensively
+regulate the stormwater and oil and gas industries, which are primary industries in which we may sell our products and offer our
+services. Legislation and regulations affecting the industries are under constant review for amendment or expansion. State and
+local authorities regulate various aspects of stormwater and oil and gas activities that ultimately affect how customers use our
+products and how we develop and market our products. The overall regulatory burden on the industries increases the cost of doing
+business, which, in turn, decreases profitability. International sales are also subject to rules
+and regulations promulgated by regulatory bodies within foreign jurisdictions, and there can be no assurance that such foreign
+regulatory bodies will not adopt laws or regulatory requirements that could adversely affect our Company. If chemical companies engage in predatory
+pricing, we may lose customers, which could materially and adversely affect us. Municipalities and other commercial and industrial
+entities traditionally have used chemicals to control the quality of water and other fluids. The chemical companies represent
+a significant competitive factor. The chemical companies who supply chemicals to such municipalities and other commercial and
+industrial entities may, in order to maintain their business relationship, drastically reduce their price and seek to undercut
+the pricing at which we can realistically charge for our products and services. While predatory pricing that is designed to drive
+us out of business may be illegal under the United States anti-trust and other laws, we may lose customers as a result of any
+future predatory pricing and be required to file lawsuits against any companies who engage in such improper tactics. Any such
+litigation may be very expensive which will further impact us and affect their financial condition. As a result, predatory pricing
+by chemical companies could materially and adversely affect us. We are, or in the future may be, subject
+to substantial regulation related to quality standards applicable to our manufacturing and quality processes. Our failure to comply
+with applicable quality standards could have an adverse effect on our business, financial condition, or results of operations. The EPA regulates the registration, manufacturing,
+and sales and marketing of products in our industry, and those of our distributors and partners, in the United States. Significant
+government regulation also exists in overseas markets. Compliance with applicable regulatory requirements is subject to continual
+review and is monitored through periodic inspections and other review and reporting mechanisms. 22 Failure by us or our partners to comply with
+current or future governmental regulations and quality assurance guidelines could lead to temporary manufacturing shutdowns, product
+recalls or related field actions, product shortages, or delays in product manufacturing. Specifically, with regard to the EPA’s
+conditional approval of the registration of our Smart Sponge Plus products under FIFRA, if the EPA makes additional information
+requests in the future that we are unable comply with, the EPA’s conditional approval of our registration of Smart Sponge
+Plus products under FIFRA could be suspended and the Company would then not be able to sell Smart Sponge Plus products. However,
+the expiration of the conditional approval of Smart Sponge Plus products would not affect our ability to continue to sell the
+regular Smart Sponge products that do not include an antimicrobial agent. (see Item 1. “BUSINESS – Regulatory”
+on page 16 of this Annual Report on Form 10-K). Efficacy or safety concerns and/or manufacturing quality issues with respect to
+our products or those of our partners could lead to product recalls, fines, withdrawals, declining sales, and/or our failure to
+successfully commercialize new products or otherwise achieve revenue growth. If a natural or man-made disaster strikes
+our or a third-party’s manufacturing facility that we may use, we may be unable to manufacture our products for a substantial
+amount of time and our sales and profitability will decline. The manufacturing facility and manufacturing
+equipment we use to produce our products will be costly to replace and could require substantial lead-time to repair or replace.
+Our facility or a third-party’s facility that we use may be affected by natural or man-made disasters. In the event they
+were affected by a disaster, we would be forced to set up alternative production capacity, or rely on third-party manufacturers
+to whom we would have to disclose our trade secrets. Although we possess insurance for damage to our property and the disruption
+of our business from casualties, such insurance may not be sufficient to cover all of our potential losses, may not continue to
+be available to us on acceptable terms, or at all, and may not address the marketing and goodwill consequences of our inability
+to provide products for an extended period of time. We may decide to outsource manufacturing
+in the future. Dependence on contract manufacturing and outsourcing other portions of our supply chain may adversely affect our
+ability to bring products to market and damage our reputation. As part of our efforts to streamline operations
+and to cut costs in the future, we may decide to outsource aspects of our manufacturing processes and other functions. If our
+contract manufacturers or other outsourcers fail to perform their obligations in a timely manner or at satisfactory quality levels,
+our ability to bring products to market and our reputation could suffer. For example, during a market upturn, our contract manufacturers
+may be unable to meet our demand requirements, which may preclude us from fulfilling our customers’ orders on a timely basis.
+The ability of these manufacturers to perform is largely outside of our control. Additionally, outsourcing may take place in developing
+countries and, as a result, may be subject to geopolitical uncertainty. The success of our businesses will depend
+on our ability to effectively develop and implement strategic business initiatives. We are currently implementing various strategic
+business initiatives. In connection with the development and implementation of these initiatives, we will incur additional expenses
+and capital expenditures to implement the initiatives. The development and implementation of these initiatives also requires management
+to divert a portion of its time from day-to-day operations. These expenses and diversions could have a significant impact on our
+operations and profitability, particularly if the initiatives prove to be unsuccessful. Moreover, if we are unable to implement
+an initiative in a timely manner, or if those initiatives turn out to be ineffective or are executed improperly, our business
+and operating results would be adversely affected. Failure to successfully reduce our current
+or future production costs may adversely affect our financial results. A significant portion of our strategy will
+rely upon our ability to successfully rationalize and improve the efficiency of our operations. In particular, our strategy relies
+on our ability to reduce our production costs in order to remain competitive. If we are unable to continue to successfully implement
+cost reduction measures, especially in a time of a worldwide economic downturn, or if these efforts do not generate the level
+of cost savings that we expect going forward or result in higher than expected costs, there could be a material adverse effect
+on our business, financial condition, results of operations, or cash flows. 23 If we are unable to make necessary capital
+investments or respond to pricing pressures, our business may be harmed. In order to remain competitive, we need to
+invest in research and development, manufacturing, customer service and support, and marketing. From time to time, we may have
+to adjust the prices of our products and services to remain competitive. We may not have available sufficient financial or other
+resources to continue to make investments necessary to maintain our competitive position. Failure to obtain sufficient supply of
+component materials to conduct our business may have an adverse effect on our production and revenue targets. Our component and materials’ suppliers
+may fail to meet our needs. We intend to manufacture our products using materials and components procured from a limited number
+of third-party suppliers. We do not currently have long-term supply contracts with our suppliers. This generally serves to reduce
+our commitment risk, but does expose us to supply risk and to price increases that we may have to pass on to our customers. In
+some cases, supply shortages and delays in delivery may result in curtailed production or delays in production, which can contribute
+to an increase in inventory levels and loss of profit. We expect that shortages and delays in deliveries of some components will
+occur from time to time. If we are unable to obtain sufficient components on a timely basis, we may experience manufacturing delays,
+which could harm our relationships with current or prospective customers and reduce our sales. We may also not be able to obtain
+competitive pricing for some of our supplies compared to our competitors. We also cannot assure that the component and materials
+from domestic suppliers will be of similar quality or quantity as those imported component and materials, which may lead to rejections
+of component and materials by our customers. In the event the domestic component and materials do not perform as well as the imported
+component and materials or do not perform at all, our business, financial condition, and results of operations could be adversely
+affected. We have limited product distribution experience
+and we expect to rely on third parties who may not successfully sell our products. We have limited product distribution experience
+and currently rely and plan to rely on product distribution arrangements with third parties. We may also license our technology
+to certain third parties for commercialization of certain applications. We expect to enter into distribution agreements and/or
+licensing agreements in the future, and we may not be able to enter into these agreements on terms that are favorable to us, if
+at all. In addition, we may have limited or no control over the distribution activities of these third parties. These third parties
+could sell competing products and may devote insufficient sales efforts to our products. As a result, our future revenues from
+sales of our products, if any, will depend on the success of the efforts of these third parties. We could face significant liabilities in
+connection with our technology, products, and business operations, which if incurred beyond any insurance limits, would adversely
+affect our business and financial condition. We are subject to a variety of potential liabilities
+connected to our technology development and business operations, such as potential liabilities related to environmental risks.
+As a business which manufactures and/or markets products for use by consumers and institutions, we may become liable for any damage
+caused by our products, whether used in the manner intended or not. Any such claim of liability, whether meritorious or not, could
+be time-consuming and/or result in costly litigation. Although we have obtained insurance against certain of these risks, no assurance
+can be given that such insurance will be adequate to cover related liabilities or will be available in the future or, if available,
+that premiums will be commercially justifiable. If we were to incur any substantial liability and related damages were not covered
+by our insurance or exceeded policy limits, or if we were to incur such liability at a time when we are not able to obtain liability
+insurance, our business, financial conditions, and results of operations could be materially adversely affected. 24 Our failure to protect our intellectual
+property rights may undermine our competitive position, and litigation to protect our intellectual property rights or defend against
+third-party allegations of infringement may be costly. Our success will depend in part on our ability
+to develop patentable products and obtain and enforce patent protection for our products in the United States and other countries.
+We intend to file applications, as appropriate, for patents covering our products. Patents may not be issued for any pending or
+future patent applications owned by or licensed to us, and the claims allowed under any issued patents may not be sufficiently
+broad to protect our technology. Any issued patents owned by or licensed to us may be challenged, invalidated, or circumvented,
+and the rights under these patents may not provide us with competitive advantages. In addition, competitors may design around
+our technology or develop competing technologies. Intellectual property rights may also be unavailable or limited in some foreign
+countries, which could make it easier for competitors to capture increased market position. We could incur substantial costs to
+defend suits brought against us or suits in which we may assert our patent rights against others. An unfavorable outcome of any
+such litigation could materially adversely affect our business and results of operations. We may also rely on trade secrets and proprietary
+know-how with which we seek to protect our products, in part by confidentiality agreements with our collaborators, employees,
+and consultants. Nevertheless, these agreements afford only limited protection, and the actions we take to protect our intellectual
+property rights may not be adequate. These agreements may be breached, and we may not have adequate remedies for any breach. In
+addition, our trade secrets may otherwise become known or be independently developed by our competitors. As a result, third parties
+may infringe or misappropriate our proprietary technologies or other intellectual property rights, which could have a material
+adverse effect on our business, financial condition, or operating results. In addition, policing unauthorized use of
+proprietary technology can be difficult and expensive. Litigation may be necessary to enforce our intellectual property rights,
+protect our trade secrets, or determine the validity and scope of the proprietary rights of others. We cannot assure you that
+the outcome of any litigation will be in our favor. Intellectual property litigation may be costly and may divert management attention,
+as well as expend our other resources away from our business. An adverse determination in any such litigation will impair our
+intellectual property rights and may harm our business, prospects, and reputation. In addition, we have no insurance coverage
+against litigation costs and would have to bear all costs arising from such litigation to the extent we are unable to recover
+them from other parties. The occurrence of any of the foregoing could have a material adverse effect on our business, results
+of operations, and financial condition. Operational and Structural Risks We can provide no assurances as to our
+future financial performance or the investment result of a purchase of our common stock. Any projected results of operations involve
+significant risks and uncertainty, should be considered speculative, and depend on various assumptions which may not be correct.
+The future performance of our Company and the return on our common stock depends on a complex series of events that are beyond
+our control and that may or may not occur. Actual results for any period may or may not approximate any assumptions that are made
+and may differ significantly from such assumptions. We can provide no assurance or prediction as to our future profitability or
+to the ultimate success of an investment in our common stock. The compensation we pay to our executive
+officers and employees will likely increase, which will affect our future profitability. We believe that the compensation we have historically
+paid to our executive officers is within the lower quartile of compensation paid by peer companies. An increase in compensation
+and bonuses payable to our executive officers and employees could decrease our net income. 25 As a public reporting company, we are subject
+to corporate governance and internal control reporting requirements, and our costs related to compliance with, or our failure
+to comply with existing and future requirements, could adversely affect our business. We may face new corporate governance requirements
+under the Sarbanes-Oxley Act of 2002 (“SOX”), as well as new rules and regulations subsequently adopted by the SEC
+and the Public Company Accounting Oversight Board. These laws, rules, and regulations continue to evolve and may become increasingly
+stringent in the future. We are required to evaluate our internal control over financial reporting under Section 404 of SOX (“Section
+404”). We are a smaller reporting company as defined in Rule 12b-2 under the Exchange Act. Section 404 requires us to include
+an internal control report with our Annual Report on Form 10-K. The report must include management’s assessment of the effectiveness
+of our internal control over financial reporting as of the end of the fiscal year. This report must also include disclosure of
+any material weaknesses in internal control over financial reporting that we have identified. Failure to comply, or any adverse
+results from such evaluation, could result in a loss of investor confidence in our financial reports and have an adverse effect
+on the trading price of our securities. We strive to continuously evaluate and improve our control structure to help ensure that
+we comply with Section 404. The financial cost of compliance with these laws, rules, and regulations is expected to remain substantial.
+We cannot assure you that we will be able to fully comply with these laws, rules, and regulations that address corporate governance,
+internal control reporting, and similar matters. Failure to comply with these laws, rules, and regulations could materially adversely
+affect our reputation, financial condition, and the value of our securities. As a public company, we will have significant
+operating costs relating to compliance requirements and our management is required to devote substantial time to compliance initiatives. Our management has only limited experience
+operating the Company as a public company. To operate effectively, we will be required to continue to implement changes in certain
+aspects of our business and develop, manage, and train management level and other employees to comply with on-going public company
+requirements. Failure to take such actions, or delay in the implementation thereof, could have a material adverse effect on our
+business, financial condition, and results of operations. SOX, as well as rules subsequently implemented
+by the SEC, imposes various requirements on public companies, including requiring establishment and maintenance of effective disclosure
+and financial controls and changes in corporate governance practices. Our management and other personnel will need to devote a
+substantial amount of time to these compliance initiatives. Moreover, these rules and regulations will increase our legal and
+financial compliance costs and will make some activities more time-consuming and costly. Risks Related to our Common Stock A limited public trading market exists
+for our common stock, which makes it more difficult for our stockholders to sell their common stock in the public markets. Although our common stock is quoted on the
+OTCQB under the symbol “ABHD,” there is a limited public market for our common stock. No assurance can be given that
+an active market will develop or that a stockholder will ever be able to liquidate its shares of common stock without considerable
+delay, if at all. Many brokerage firms may not be willing to effect transactions in the securities. Even if a purchaser finds
+a broker willing to effect a transaction in these securities, the combination of brokerage commissions, state transfer taxes,
+if any, and any other selling costs may exceed the selling price. Furthermore, our stock price may be impacted by factors that
+are unrelated or disproportionate to our operating performance. These market fluctuations, as well as general economic, political,
+and market conditions, such as recessions, interest rates, or international currency fluctuations may adversely affect the market
+price and liquidity of our common stock. Our stock price may be volatile. The market price of our common stock is likely
+to be highly volatile and could fluctuate widely in price in response to various factors, many of which are beyond our control,
+including the following: 26 • limited “public float” in the hands of a small number of persons whose sales (or lack of sales) could result in positive or negative pricing pressure on the market price for our common stock; • actual or anticipated variations in our quarterly operating results; • changes in our earnings estimates; • our ability to obtain adequate working capital financing; • changes in market valuations of similar companies; • publication (or lack of publication) of research reports about us; • changes in applicable laws or regulations, court rulings, enforcement and legal actions; • loss of any strategic relationships; • additions or departures of key management personnel; • actions by our stockholders (including transactions in our shares); • speculation in the press or investment community; • increases in market interest rates, which may increase our cost of capital; • changes in our industry; • competitive pricing pressures; • our ability to execute our business plan; and • economic and other external factors. In addition, the securities markets have from
+time to time experienced significant price and volume fluctuations that are unrelated to the operating performance of particular
+companies. These market fluctuations may also materially and adversely affect the market price of our common stock. Our common stock may be subject to the
+penny stock rules which may make it more difficult to sell our common stock. The SEC has adopted regulations which generally
+define a “penny stock” to be any equity security that has a market price, as defined, less than $5.00 per share or
+an exercise price of less than $5.00 per share, subject to certain exceptions. Our securities may be covered by the penny stock
+rules, which impose additional sales practice requirements on broker-dealers who sell to persons other than established customers
+and accredited investors, such as institutions with assets in excess of $5,000,000 or an individual with net worth in excess of
+$1,000,000 or annual income exceeding $200,000 or $300,000 jointly with his or her spouse. For transactions covered by this rule,
+the broker-dealers must make a special suitability determination for the purchase and receive the purchaser’s written agreement
+of the transaction prior to the sale. Consequently, the rule may affect the ability of broker-dealers to sell our securities and
+also affect the ability of our stockholders to sell their shares in the secondary market. FINRA sales practice requirements may also
+limit a shareholder’s ability to buy and sell our stock. In addition to the “penny stock”
+rules described above, the Financial Industry Regulatory Authority (“FINRA”) has adopted rules that require that in
+recommending an investment to a customer, a broker-dealer must have reasonable grounds for believing that the investment is suitable
+for that customer. Prior to recommending speculative, low priced securities to their non-institutional customers, broker-dealers
+must make reasonable efforts to obtain information about the customer’s financial status, tax status, investment objectives,
+and other information. Under interpretations of these rules, FINRA believes that there is a high probability that speculative,
+low priced securities will not be suitable for at least some customers. The FINRA requirements make it more difficult for broker-dealers
+to recommend that their customers buy our common stock, which may limit your ability to buy and sell our stock and have an adverse
+effect on the market for our shares. 27 Our common shares are currently traded
+at low volume, and you may be unable to sell at or near ask prices or at all if you need to sell or liquidate a substantial number
+of shares at one time. We cannot predict the extent to which an active
+public market for our common stock will develop or be sustained. Our common shares are currently traded, but currently with low
+volume, based on quotations on the OTCQB, meaning that the number of persons interested in purchasing our common shares at or
+near bid prices at any given time may be relatively small or non-existent. This situation is attributable to a number of factors,
+including the fact that we are a small company which is still relatively unknown to stock analysts, stock brokers, institutional
+investors, and others in the investment community that generate or influence sales volume, and that even if we came to the attention
+of such persons, they tend to be risk-averse and would be reluctant to follow an unproven company such as ours or purchase or
+recommend the purchase of our shares until such time as we became more seasoned and viable. As a consequence, there may be periods
+of several days or more when trading activity in our shares is minimal or non-existent, as compared to a seasoned issuer which
+has a large and steady volume of trading activity that will generally support continuous sales without an adverse effect on share
+price. We cannot give you any assurance that a broader or more active public trading market for our common stock will develop
+or be sustained, or that trading levels will be sustained. Shareholders should be aware that, according
+to SEC Release No. 34-29093, the market for “penny stocks” has suffered in recent years from patterns of fraud and
+abuse. Such patterns include: (1) control of the market for the security by one or a few broker-dealers that are often related
+to the promoter or issuer; (2) manipulation of prices through prearranged matching of purchases and sales and false and misleading
+press releases; (3) boiler room practices involving high-pressure sales tactics and unrealistic price projections by inexperienced
+sales persons; (4) excessive and undisclosed bid-ask differential and markups by selling broker-dealers; and (5) the wholesale
+dumping of the same securities by promoters and broker-dealers after prices have been manipulated to a desired level, along with
+the resulting inevitable collapse of those prices and with consequent investor losses. Our management is aware of the abuses that
+have occurred historically in the penny stock market, and we do not expect to be in a position to dictate the behavior of the
+market or of broker-dealers who participate in the market. The occurrence of these patterns or practices could increase the future
+volatility of our share price. We have historically not paid dividends
+and do not intend to pay dividends for the foreseeable future. We have historically not paid dividends to
+our stockholders, and management does not anticipate paying any cash dividends on our common stock to our stockholders for the
+foreseeable future. Any determination we make regarding dividends will be at the discretion of our Board of Directors and will
+depend on our results of operations, our financial condition, contractual restrictions, restrictions imposed by applicable law,
+and other factors our Board of Directors deem relevant. Even if the funds are legally available for distribution, we may nevertheless
+decide not to pay any dividends. We presently intend to retain future earnings, if any, for use in the operation and expansion
+of our business. The elimination of monetary liability against
+our directors, officers, and employees under Nevada law and the existence of indemnification rights to our directors, officers,
+and employees may result in substantial expenditures by our Company and may discourage lawsuits against our directors, officers,
+and employees. Our articles of incorporation contain a provision
+permitting us to eliminate the personal liability of our directors to our Company and shareholders for damages for breach of fiduciary
+duty as a director or officer to the extent provided by Nevada law. We may also have contractual indemnification obligations under
+our employment agreements with our officers. The foregoing indemnification obligations could result in our Company incurring substantial
+expenditures to cover the cost of settlement or damage awards against directors and officers, which we may be unable to recoup.
+These provisions and resultant costs may also discourage our Company from bringing a lawsuit against directors and officers for
+breaches of their fiduciary duties, and may similarly discourage the filing of derivative litigation by our shareholders against
+our directors and officers even though such actions, if successful, might otherwise benefit our Company and shareholders. 28 

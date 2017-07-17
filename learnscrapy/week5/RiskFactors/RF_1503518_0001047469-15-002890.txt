@@ -1,0 +1,530 @@
+ You should carefully consider the risk factors set forth below as well as the other information contained in
+this Annual Report on Form 10-K, including our consolidated financial statements and the related notes, in evaluating our company and our business. The risks described below are not the only
+risks facing us. Additional risks and uncertainties not currently known to us or those we currently view to be immaterial may also materially and adversely affect our business, financial condition or
+results of operations. Any of the following risks could materially and adversely affect our business, financial condition or results of operations. In such a case, you may lose all or part of your
+original investment. Risks Related to Our Business We depend on payments from government Medicare and, to a lesser extent, Medicaid programs for a
+significant amount of our revenue. Our business could be materially harmed by any changes that result in reimbursement reductions. Our payer mix is concentrated with Medicare patients due to the high proportion of cancer patients over the age of 65. We estimate that
+approximately 45%, 45% and 42% of our U.S. net patient service revenue for the years ended December 31, 2012, 2013 and 2014,
+respectively, consisted of payments from Medicare and Medicaid. Only a small percentage of that revenue resulted from Medicaid patients, equaling approximately 2.7%, 2.7%, and 2.2% for the years ended
+December 31, 2012, 2013 and 2014, respectively. In addition, Medicare Advantage represents approximately 13% of our 2014 U.S. net patient service revenue. These government programs generally
+reimburse us on a fee-for-service basis based on predetermined government reimbursement rate schedules. As a result of these reimbursement schedules, we are limited in the amount we can record as
+revenue for our services from these government programs. Following a public comment period, the Centers for Medicare and Medicaid Services ("CMS") can change these schedules annually and therefore the
+prices that the agency pays for these services. In addition, if our operating costs increase, we will not be able to recover these costs from government payers. As a result, our financial condition
+and results of operations may be adversely affected by changes in reimbursement for Medicare reimbursement. Various state Medicaid programs also have recently reduced Medicaid payments to providers
+based on state budget reductions. Although Medicaid reimbursement encompasses only a small portion of our business, there can be no certainty as to whether Medicaid reimbursement will increase or
+decrease in the future and what affect, if any, this will have on our business. In
+the final Medicare 2013 Physician Fee Schedule, CMS reduced payments for radiation oncology by 7%. Total gross reductions in the final rule were offset by a 2% increase due to certain
+other revised radiation oncology codes, which resulted in a total net reduction to radiation oncology of 7%. In
+the final Medicare 2014 Physician Fee Schedule, CMS did finalize its proposal to revise the Medicare Economic Index ("MEI") [2% impact], CMS
+also incorporated updated relative value units ("RVUs") for new and existing codes [+3% impact] resulting in a net impact of +1% for radiation oncology overall. Because the MEI
+policy only applies to freestanding settings, the impact to freestanding centers is approximately flat, while hospital-based radiation oncologists would receive an increase in payment under the final
+rule. In
+the proposed Medicare 2015 Physician Fee Schedule, CMS proposed to reduce payments for radiation oncology by 4% overall. This reduction related primarily to a proposal to remove the
+radiation treatment vault as a direct cost input for radiation treatment delivery codes. Because the proposal only applied to freestanding settings, the cut to freestanding centers would likely have
+been closer to 5%, while hospital based radiation oncologists would have received an increase in payment under the proposal. In the final Medicare 2015 Physician Fee Schedule, CMS did not finalize its
+proposal to remove the radiation treatment vault as a direct cost input for radiation treatment delivery codes. As a result, the net impact of the Final Rule to radiation oncology and freestanding
+radiation 28 Table of Contents therapy
+centers is approximately neutral overall. In the Final rule, CMS also indicated it would review the family of radiation treatment delivery codes in the CY 2016 Physician Fee Schedule Proposed
+Rule. Medicare
+reimbursement rates for all procedures under Medicare ultimately are determined by a formula which takes into account a conversion factor ("CF") which is updated on an annual
+basis based on the Sustainable Growth Rate ("SGR"). For the last several years, the SGR policy has threatened significant cuts to the CF, although Congress has consistently delayed those cuts. On
+April 1, 2014, the President signed H.R. 4302, the Protecting Access to Medicare Act of 2014 which extended the $35.8228 conversion factor through 2014 and also provided for a zero percent
+update through March 31, 2015. If future SGR reductions are not suspended, and if a permanent "doc fix" is not signed into law, the currently scheduled SGR reimbursement decrease (estimated at
+more than 20%) will take effect on April 1, 2015. Due to budget neutrality requirements from certain policies in the final Medicare 2015 Physician Fee Schedule, the 2015 conversion factor has
+been slightly adjusted to $35.7547, assuming no SGR cuts. In
+addition, under the Budget Control Act of 2011, Medicare providers are cut under a sequestration process by 2% each year relative to baseline spending through 2021. This policy was
+subsequently extended through 2024. In the Protecting Access to Medicare Act, the sequestration policy was frontloaded for the year 2024 such that Medicare providers would be cut 4% in the first half
+of 2024 and 0% in the second half of 2024. Reforms to the U.S. healthcare system may adversely affect our business. On March 21, 2010, the House of Representatives passed the Patient Protection and Affordable Care Act, and the corresponding
+reconciliation bill. President Obama signed the larger comprehensive bill into law on March 23, 2010 and the reconciliation bill on March 30, 2010. The comprehensive $940 billion
+dollar overhaul could extend coverage to approximately 32 million previously uninsured Americans. A
+significant portion of our U.S. patient volume is derived from government programs, principally Medicare, which are highly regulated and subject to frequent and substantial changes. We
+anticipate the Health Care Reform Act will continue to significantly affect how the healthcare industry operates in relation to Medicare, Medicaid and the insurance industry. The Health Care Reform
+Act contains a number of provisions, including those governing fraud and abuse, enrollment in federal healthcare programs, and reimbursement changes, which impact existing government healthcare
+programs and will continue to result in the development of new programs, including Medicare payment for performance initiatives and improvements to the physician quality reporting system and feedback
+program. On
+June 28, 2012, the U.S. Supreme Court upheld the constitutionality of the Health Care Reform Act's "individual mandate" that will require individuals as of 2014 to either
+purchase health insurance or pay a penalty. The Supreme Court also held, however, that the federal government cannot force states to expand their Medicaid programs by threatening to cut their existing
+Medicaid funds. As a result of this decision, states are left with a choice about whether to expand their Medicaid programs to
+cover low-income, non-disabled adults without children. Numerous states opted not to expand their Medicaid program in 2014, which may materially impact our Medicaid revenue in these states. The
+Health Care Reform Act provides for the creation of health insurance "Marketplaces" in each state where individuals can compare and enroll in Quality Health Plans ("QHPs"). Some QHPs
+will be partially subsidized by Federal funds. Individuals with an income less than 400% of the federal poverty level that purchase insurance on a Marketplace may be eligible for federal subsidies to
+cover a portion of their health insurance premium costs. In addition, they may be eligible for government cost sharing of co-insurance or co-pay obligations. The presence of Federal funds in QHPs in
+the form of subsidies and cost sharing may subject providers to heightened government attention and enforcement, which could significantly increase the cost of compliance and could materially impact
+our operations. 29 Table of Contents Furthermore,
+an open question remains whether the availability of these federal subsidies classifies a QHP as a federal healthcare program. In an October 30, 2013 letter, Kathleen
+Sebelius, the Secretary of the DHHS, indicated that DHHS does not consider QHPs to be federal healthcare programs. However, this statement by Secretary Sebelius has not been tested in court, and a
+judge may not agree. Additionally, a subsequent CMS FAQ on November 4, 2013, as well as a November 7, 2013 letter from U.S. Senator Charles Grassley to Secretary Sebelius and Attorney
+General Eric Holder, indicates that this issue is not settled. If QHPs are classified as federal healthcare programs it could further increase the cost of compliance significantly for providers. The
+Health Care Reform Act has experienced several setbacks that heighten the uncertainty about its implementation. On October 1, 2013, the DHHS launched the federally-run insurance Marketplaces
+through its www.healthcare.gov website. The website has experienced multiple problems throughout its launch, which has limited the ability of
+individuals to sign up for healthcare coverage and has exposed security concerns. In addition, during the Fall of 2013, millions of people with individual health insurance plans received cancellation
+letters from their insurance providers. These letters frequently expressed that plans were being cancelled because they failed to meet the new requirements of the Health Care Reform Act. In response,
+the White House announced that it would grant state insurance commissioners federal permission to allow consumers to keep existing health insurance policies through 2014. Several state insurance
+commissions have nonetheless continued to maintain that insurers cannot offer plans in 2014 unless they meet the requirements of the Health Care Reform Act. These implementation setbacks have called
+into question early predictions about the number of previously un-insured individuals who will obtain coverage through a Marketplace plan. In addition, certain members of Congress continue to
+introduce legislation that would repeal or significantly amend the Health Care Reform Act. Because of the continued uncertainty about the implementation of the Health Care Reform Act, we cannot
+predict the impact of the law or any future reforms on our business. In
+addition, King v. Burwell is scheduled to be argued before the Supreme Court this year. Petitioners in this case argue that the Health
+Care Reform Act only subsidizes coverage through an exchange established by a state . Depending on the outcome of the case, subsidies for healthcare
+coverage in the states that use federal exchanges could be at risk. We
+can give no assurance that the Health Care Reform Act will not adversely affect our business and financial results, and we cannot predict how future federal or state legislative or
+administrative changes relating to healthcare reform would affect our business. If payments by managed care organizations and other commercial payers decrease, our revenue and
+profitability could be adversely affected. We estimate that approximately 54%, 54% and 57% of our net patient service revenue for the years ended December 31, 2012, 2013
+and 2014, respectively, was derived from commercial payers such as managed care organizations and private health insurance programs as well as individuals. As of December 31, 2014, we have over
+1,000 contracts with commercial payers. These commercial payers generally reimburse us for services rendered to insured patients based upon predetermined rates. Rates for health maintenance
+organization benefit plans are typically lower than those for preferred provider organization or other benefit plans that offer broader provider access. When Medicare rates change, these commercial
+rates automatically change as well. Additionally, most commercial payers tend to negotiate their rates as a percentage of Medicare reimbursement. Even when our commercial rates are fixed and not tied
+directly to changes in Medicare, there is often pressure to renegotiate our reimbursement to align with these modified levels. If managed care organizations and other private insurers reduce their
+rates or we experience a significant shift in our revenue mix toward certain additional managed care payers or Medicare or Medicaid reimbursements, then our revenue and profitability may decline and
+our operating margins will be reduced. Non-government payers, including managed care payers, continue to demand discounted fee structures, and the trend toward 30 Table of Contents consolidation
+among non-government payers tends to increase their bargaining power over fee structures. Our future success will depend, in part, on our ability to retain and renew our managed care
+contracts as well as enter into new managed care contracts on terms favorable to us. Any inability to maintain suitable financial arrangements with commercial payers could have a material adverse
+impact on our business. Increasingly,
+commercial payers are turning to third-party benefits managers to pre-certify radiation oncology services or develop payment-based treatment protocols. The failure to
+obtain such pre-certifications and adhere to such protocols can result in the payers' denial of payment in whole or in part. While we are working with such benefits managers to assure compliance with
+their policies or to obtain modification of what we believe to be inappropriate policies, there can be no assurance that they will not have a material adverse effect on our business. Our overall business results may suffer from an economic downturn. The U.S. economy has weakened significantly following the 2008 financial crisis. Depressed consumer spending and higher unemployment
+rates continue to pressure many industries and geographic locations. During economic downturns, governmental entities often experience budget deficits as a result of increased costs and lower than
+expected tax collections. These budget deficits may force federal, state and local government entities to decrease spending for health and human service programs, including Medicare, Medicaid and
+similar programs, which represent significant payer sources for our treatment centers. Other risks we face from general economic weakness include potential declines in the population covered under
+managed care agreements, patient decisions to postpone or cancel elective procedures as well as routine diagnostic examinations, potential increases in the uninsured and underinsured populations and
+further difficulties in our collecting patient co-payment and deductible receivables. Due to the rising costs of managed care premiums and co-pay amounts, coupled with the current
+economic environment, we may realize an increased exposure to bad debt due to patients' inability to pay for certain forms of cancer treatment. As more patients become uninsured as a result of job losses or receive reduced coverage as a result of cost-control measures by
+employers to offset the increased costs of managed care premiums, patients are becoming increasingly responsible for the rising costs of treatment, which is increasing our exposure to bad debt. This
+also relates to patient accounts for which the primary insurance carrier has paid the amounts covered by the applicable agreement, but patient responsibility amounts (deductibles and co-payments)
+remain outstanding. The shifting responsibility to pay for care has, in some instances, resulted in patients electing not to receive certain forms of cancer treatment. In
+response to this environment, we have improved our processes associated with verification of insurance eligibility and patient responsibility payment programs. In addition, we have
+improved our patient financial counseling efforts and developed tools to monitor our progress in this area. However, a continuation of the trends that have resulted in an increasing proportion of
+accounts receivable being comprised of uninsured accounts and a deterioration in the collectability of these accounts will adversely affect our cash flows and results of operations. We depend on recruiting and retaining qualified healthcare professionals for our success. Our success is dependent upon our continuing ability to recruit, train and retain or affiliate with radiation oncologists, ICC
+physicians, physicists, dosimetrists and radiation therapists. While there is currently a national shortage of certain of these healthcare professionals, we have not experienced significant problems
+attracting and retaining key personnel and professionals in the recent past. We face competition for such personnel from other healthcare providers, research and academic 31 Table of Contents institutions,
+government entities and other organizations. In the event we are unable to recruit and retain these professionals, such shortages could have a material adverse effect on our ability to
+grow. Additionally, many of our senior radiation oncologists, due to their reputations and experience, are very important in the recruitment and education of radiation oncologists. The loss of any
+such senior radiation oncologists could negatively impact us. Most
+of our radiation oncologists and other ICC physicians in the United States are employed under employment agreements which, among other things, provide that they will not compete
+with us (or the professional corporations contracting with us) for a period of time after their employment terminates. Such covenants not to compete are enforced to varying degrees from state to
+state. In most states, a covenant not to compete will be enforced only to the extent that it is necessary to protect the legitimate business interest of the party seeking enforcement, that it does not
+unreasonably restrain the party against whom enforcement is sought and that it is not contrary to the public interest. This determination is made based upon all the facts and circumstances of the
+specific case at the time enforcement is sought. It is unclear whether our interests under our administrative services agreements will be viewed by courts as the type of protected business interest
+that would permit us or the professional corporations to enforce a non-competition covenant against the radiation oncologists. Since our success depends in substantial part on our ability to preserve
+the business of our radiation oncologists and other ICC physicians, a determination that these provisions are unenforceable could have a material adverse effect on us. As
+a result of the OnCure Acquisition, in several markets we rely on physician practices to provide our services. Following our acquisition of OnCure, we assumed the MSAs previously in
+place between OnCure and most of its managed practices, which excluded certain of the MSAs that were rejected in the OnCure bankruptcy proceeding, with all but five of the affected centers becoming
+either a direct Company provider or placed under a new MSA with a practice that was previously affiliated with us. Under the MSAs, OnCure provides the necessary medical and office equipment, clinical
+and operating staff (other than physicians) and office space and leasehold improvements, as well as general management and billing/collection services, in exchange for a management fee based on a
+percentage
+of the practice's revenues or EBITDA. The MSAs generally run for a term of ten years or longer with either party having the right to renew. Upon the termination or expiration of an MSA, OnCure retains
+the ownership of the office space and medical and office equipment, as well as the right to operate the center with a different medical provider. While there are certain reciprocal non-compete
+obligations, such obligations are generally relinquished upon the termination of the MSA. We depend on our senior management and we may be materially harmed if we lose any member of our
+senior management. We are dependent upon the services of our senior management, especially Daniel E. Dosoretz, M.D., our Chief Executive Officer,
+and a director on the Company's Board of Directors. We have entered into executive employment and non-competition agreements with certain members of our senior management. Because many members of our
+senior management team have been with us for over 10 years and have contributed greatly to our growth, their services would be very difficult, time consuming and costly to replace. We carry
+key-man life insurance on Dr. Daniel Dosoretz. The loss of key management personnel or our inability to attract and retain qualified management personnel could have a material adverse effect on
+us. A decision by any of these individuals to leave our employ, to compete with us or to reduce their involvement in our business, could have a material adverse effect on our business. The oncology treatment market is highly competitive. The cancer treatment market is highly competitive in each market in which we operate. Our treatment centers face competition from
+hospitals, other medical practitioners and other operators of 32 Table of Contents radiation
+treatment centers. There is a growing trend by hospitals to employ medical oncologists and other ICC physicians. We compete against hospitals and other providers to employ these individuals,
+which generally results in such physicians referring their patients to the hospitals' radiation facilities, rather than other free-standing facilities. There is also a growing trend of physicians in
+specialties other than radiation oncology, such as urology, entering the radiation treatment business. If these trends continue it could harm our referrals and our business. Certain of our competitors
+have longer operating histories and greater financial and other resources than us. In addition, in states that do not require a certificate of need for the purchase, construction or expansion of
+healthcare facilities or services,
+competition in the form of new services, facilities and capital spending is more prevalent. If our competitors are better able to attract patients, recruit physicians, expand services or obtain
+favorable managed care contracts at their facilities than our centers, we may experience an overall decline in patient volume. In the event that we are not able to compete successfully, our business
+may be adversely affected and competition may make it more difficult for us to affiliate with or employ additional radiation oncologists on terms that are favorable to us. We could be the subject of governmental investigations, claims and litigation. Healthcare companies are subject to numerous types of investigations by various governmental agencies. Further, under the False Claims
+Act, private parties have the right to bring "qui tam," or "whistleblower," suits against companies that knowingly submit false claims for payments to, or improperly retain overpayments from, the
+government. The False Claims Act imposes penalties of not less than $5,500 and not more than $11,000, plus three times the amount of damages which the government sustains because of the submission of
+a false claim. In addition, if we are found to have violated the False Claims Act, we could be excluded from participation in Medicare, Medicaid and other federal healthcare programs. Some states have
+adopted similar state whistleblower and false claims provisions. We have received inquiries from federal and state agencies related to potential False Claims Act liability. Depending on whether the
+underlying conduct in these or future inquiries or investigations could be considered systemic, their resolution could have a material adverse effect on our financial position, results of operations
+and liquidity. Governmental
+agencies and their agents, such as the Medicare Administrative Contractors, as well as the OIG, CMS and state Medicaid programs, conduct audits of our healthcare operations.
+Private payers may conduct similar post-payment audits, and we also perform internal audits and monitoring. Depending on the nature of the conduct found in such audits and whether the underlying
+conduct could be considered systemic, the resolution of these audits could have a material adverse effect on our financial position, results of operations and liquidity. The
+Medicare Prescription Drug, Improvement, and Modernization Act of 2003 established the Recovery Audit Contractor ("RAC") three-year demonstration program to conduct post-payment
+reviews to detect and correct improper payments in the fee-for-service Medicare program. The Tax Relief and Health Care Act of 2006 made the RAC program permanent and expanded the program nationwide
+as of 2010. Since the nationwide expansion of the RAC program, CMS has recouped more than $5 billion in overpayments from fee-for-service Medicare providers. In addition, the Health Care Reform
+Act mandated the expansion of the RAC program to Medicaid. In 2011 CMS issued a Final Rule on Medicaid RAC program, requiring every state Medicaid agency to implement its Medicaid RAC program by 2012.
+State Medicaid agencies have also increased their review activities. Should we be found out of compliance with any of these laws, regulations or programs, depending on the nature of the findings, our
+business, our financial position and our results of operations could be materially adversely affected. On
+February 18, 2014, we were served with subpoenas from the OIG acting with the assistance of the U.S. Attorney's Office for the Middle District of Florida who together have
+requested the production of medical records of patients treated by certain of our physicians for the period from 33 Table of Contents January
+2007 to present regarding the ordering, billing and medical necessity of certain laboratory services as part of a civil False Claims Act investigation, as well as our agreements with such
+physicians. The laboratory services under review relate to the utilization of fluorescence in situ hybridization ("FISH") laboratory tests ordered by certain of our employed physicians and performed
+by us. We were served with another subpoena from the OIG on January 22, 2015, requesting additional documents related to this matter for the period from January 1, 2005 up through the
+production of documents responsive to the February 2014 subpoena. We have recorded a liability for this matter of approximately $4.7 million and $5.1 million that is included in accrued
+expenses in our consolidated balance sheet as of December 31, 2013 and 2014, respectively. The recorded estimate is based on a probability weighted analysis of the low-end of the range of the
+liability that considers the facts currently known by us, our review of qualitative and quantitative factors, and our assessment of potential outcomes under different scenarios used to assess our
+exposure which may be used to determine a potential settlement should we decide not to litigate. Our recording of a liability related to this matter is not an admission of guilt. Depending on how this
+matter progresses, our exposure may be less than or more than the liability recorded and we will continue to reassess and adjust the liability until this matter is settled. Our estimate of the
+high-end of the range of exposure is $10.3 million. We
+received two Civil Investigative Demands ("CIDs"), one on October 22, 2014 addressed to 21C and one on October 31, 2014 addressed to SFRO, from the DOJ pursuant to the
+False Claims Act. The CIDs request information concerning allegations that we knowingly billed for services that were not medically necessary and for services not rendered and appear to be focused on
+GAMMA services (which are dosimetry calculations performed during the course of radiation therapy). The CIDs cover the period from January 1, 2009 to the present. Among other information
+requests, the CIDs request certain documents and information related to the administration of radiation therapy; selection of various radiation therapies and GAMMA services. Our total billings to
+federal health care programs including Medicare, Medicare Advantage and Medicaid for GAMMA services from January 1, 2009 to December 31, 2014 are approximately $68.4 million. It
+is not possible to predict when these matters will be resolved or what impact they might have on our consolidated financial position, results of operations or cash flow. Based
+on reviews performed to date, we do not believe that we or our physicians knowingly submitted false claims in violation of applicable statutory or regulatory requirements. We are
+cooperating fully with the subpoena requests and the DOJ's investigation. We may be subject to actions for false claims, which could harm our business, if we do not comply
+with government coding and billing rules. If we fail to comply with federal and state documentation, coding and billing rules, we could be subject to criminal and/or civil
+penalties, loss of licenses and exclusion from the Medicare and Medicaid programs, which could harm us. We estimate that approximately 45%, 45%, and 42% of our U.S. net patient service revenue for the
+years ended December 31 2012, 2013 and 2014, respectively, consisted of payments from Medicare and Medicaid programs. In addition, Medicare Advantage represents approximately 13% of our 2014
+U.S. net patient service revenue. In billing for our services to third-party payers, we must follow complex documentation, coding and billing rules. These rules are based on federal and state laws,
+rules and regulations, various government pronouncements, and on industry practice. Failure to follow these rules could result in potential civil liability under the False Claims Act, under which
+extensive financial penalties can be imposed. It could further result in criminal liability under various federal and state criminal statutes. We submit thousands of claims for Medicare and other
+payments and there can be no assurance that there have not been errors. While we carefully and regularly review our documentation, coding and billing practices as part of our compliance program, the
+rules are frequently vague and confusing and we cannot assure that governmental investigators, private insurers or private whistleblowers will not challenge our practices. Such a challenge could
+result in a material adverse effect on our business. 34 Table of Contents If we fail to comply with the federal anti-kickback statute, we could be subject to criminal and
+civil penalties, loss of licenses and exclusion from the Medicare and Medicaid programs, which could materially harm us. A provision of the Social Security Act, commonly referred to as the federal anti-kickback statute, prohibits the offer, payment,
+solicitation or receipt of any form of remuneration in return for referring, ordering, leasing, purchasing or arranging for or recommending the ordering, purchasing or leasing of items or services
+payable by Medicare, Medicaid or any other federally funded healthcare program. The federal anti-kickback statute is very broad in scope, as remuneration includes the transfer of anything of value, in
+cash or in kind. Financial relationships covered by this statute can include any relationship where remuneration is provided for referrals including payments not commensurate with fair market value,
+whether in the form of space, equipment leases, professional or technical services or anything else of value. As it is an "intent-based" statute, as detailed in federal court precedent, one or both
+parties must intend the remuneration to be in exchange for or to induce referrals. Violations of the federal anti-kickback statute may result in substantial civil or criminal penalties, including
+criminal fines of up to $25,000, imprisonment of up to five years, civil penalties under the Civil Monetary Penalties Law of up to $50,000 for each violation, plus three times the remuneration
+involved, civil penalties under the federal False Claims Act of up to $11,000 for each claim submitted, plus three times the amounts paid for such claims and exclusion from participation in the
+Medicare and Medicaid programs. These penalties and the participation exclusion, if applied to us or one or more of our subsidiaries or affiliates, could result in significant reductions in our
+revenues and could have a material adverse effect on our business. In
+addition, most of the states in which we operate, including Florida, have also adopted laws, similar to the federal anti-kickback statute, that prohibit payments to physicians in
+exchange for referrals, some of which apply regardless of whether the source of payment is a government payer or a private payer. These statutes typically impose criminal and civil penalties as well
+as loss of licenses. Under
+a provision of the federal Civil Monetary Penalties Law, civil monetary penalties (and exclusion) may be imposed on any person who offers or transfers remuneration to any patient
+who is a Medicare or Medicaid beneficiary, when the person knows or should know that the remuneration is likely to induce the patient to receive medical services from a particular provider. This broad
+provision applies to many kinds of inducements or benefits provided to patients, including complimentary items, services or transportation that are of more than a nominal value. We have reviewed our
+practices of providing services to our patients, and have structured those services in a manner that we believe complies with the law and its interpretation by government authorities. We cannot
+provide assurances, however, that government authorities will not take a contrary view and impose civil monetary penalties and exclude us for past or present practices. If we fail to comply with physician self-referral laws as they are currently interpreted or may be
+interpreted in the future, or if other legislative restrictions are issued, we could incur a significant loss of reimbursement revenue. We are subject to the federal Stark Law, as well as similar state statutes and regulations, which bans payments for DHS rendered as a
+result of referrals by physicians to DHS entities with which the physicians (or immediate family members) have a financial relationship. DHS includes, but is not limited to, radiation therapy,
+radiology and laboratory services. A "financial relationship" includes investment and compensation arrangements, both direct and indirect. The regulatory framework of the Stark Law is to first
+prohibit all referrals from physicians to entities for Medicare DHS and then to except certain types of arrangements from that broad general prohibition. State
+self-referral laws and regulations vary significantly based on the state and, in many cases, have not been interpreted by courts or regulatory agencies. These state laws and
+regulations can encompass not only services reimbursed by Medicaid or government payers but also private payers. 35 Table of Contents Violation
+of these federal and state laws and regulations may result in prohibition of payment for services rendered, loss of licenses, $15,000 civil monetary penalties for specified infractions,
+$100,000
+for a circumvention scheme, criminal penalties, exclusion from Medicare and Medicaid programs, and potential false claims liability, including via "qui tam" action, of not less than $5,500 and not
+more than $11,000 per claim, plus three times the amount of damages that the government sustains because of an improperly submitted claim. The repayment provisions in the Stark Law are not dependent
+on the parties having an improper intent; rather, the Stark Law is a strict liability statute and any violation is subject to repayment of all "tainted" referrals. Our
+compensation and other financial arrangements with physicians are governed by the federal Stark Law. We rely on certain exceptions to the Stark Law, including those covering
+employees and in-office ancillary services, and the exclusion of certain requests by radiation oncologists for radiation therapy services from the definition of "referral." Under our ICC model, we
+have relationships with non-radiation oncology physicians such as medical oncologists, surgeons and urologists that are members of a group practice with our radiation oncologists and we rely on the
+Stark group practice definition and rules with respect to such relationships. The
+Health Care Reform Act also imposes new disclosure requirements, including one such requirement on referring physicians under the federal Stark Law to inform patients that they may
+obtain certain imaging services (e.g., MRI, CT and PET) or other designated health services as specified by the Secretary of Health and Human Services in the future from a provider other than
+that physician, his or her group practice, or another physician in his or her group practice. To date, CMS has not applied these disclosure requirements to radiation therapy referrals but could do so
+in the future. While
+we believe that our financial relationships with physicians and referral practices are in compliance with applicable laws and regulations, we cannot guarantee that government
+authorities might take a different position. If we were found to be in violation of the Stark Law, we could be subject to significant civil and criminal penalties, including fines as specified above,
+exclusion from participation in government and private payer programs and requirements to refund amounts previously received from government and private payers. In
+addition, expansion of our operations to new jurisdictions, or new interpretations of laws in our existing jurisdictions, could require structural and organizational modifications of
+our relationships with physicians to comply with that jurisdiction's laws. Such structural and organizational modifications could result in lower profitability and failure to achieve our growth
+objectives. Certain
+states have proposed statutory or regulatory enactments that would prohibit the use of the Stark Law "in-office ancillary services" exception for ICC physicians to obtain any
+financial benefit from radiation oncology and other DHS services even if they are part of a group practice. To date, only the state of Maryland has enacted such prohibition. If any of these state or
+similar federal proposed enactments are promulgated, this could have a material adverse impact on our ICC model and our business. If a federal or state agency asserts a different position or enacts new laws or regulations
+regarding illegal payments under the Medicare, Medicaid or other governmental programs, we may be subject to civil and criminal penalties, experience a significant reduction in our revenue or be
+excluded from participation in the Medicare, Medicaid or other governmental programs. Any change in interpretations or enforcement of existing or new laws and regulations could subject our current business practices to
+allegations of impropriety or illegality, or could require us to make changes in our treatment centers, equipment, personnel, services, pricing or capital expenditure programs, which could increase
+our operating expenses and have a material adverse effect on our operations or reduce the demand for or profitability of our services. 36 Table of Contents Additionally,
+new federal or state laws may be enacted that would cause our relationships with our radiation oncologists or other physicians to become illegal or result in the imposition
+of penalties against us or our treatment centers. If any of our business arrangements with our radiation oncologists or other physicians in a position to make referrals of radiation therapy services
+were deemed to violate the federal anti-kickback statute or similar laws, or if new federal or state laws were enacted rendering these arrangements illegal, our business would be adversely affected. We may encounter numerous business risks in identifying, acquiring and developing additional
+treatment centers, and may have difficulty operating and integrating those treatment centers. Over the past three years ended December 31, 2014, we have acquired 57 treatment centers, acquired 6 professional/other centers,
+developed 4 treatment centers, developed 1 professional/other center and transitioned 1 acquired professional/other centers to freestanding treatment centers, all of which includes our acquisitions of
+OnCure which we completed on October 25, 2013 and SFRO on February 10, 2014. As part of our growth strategy, we expect to continue to add additional treatment centers in our existing and
+new local and international markets. When we acquire or develop additional treatment centers, we may:  be unable to make acquisitions on terms favorable to us or at all;  have difficulty identifying desirable targets or locations for treatment centers in suitable markets;  be unable to obtain adequate financing to fund our growth strategy;  be unable to successfully operate the treatment centers;  have difficulty integrating their operations and personnel;  be unable to retain physicians or key management personnel;  acquire treatment centers with unknown or contingent liabilities, including liabilities for failure to comply with healthcare laws and
+regulations;  experience difficulties with transitioning or integrating the information systems of acquired treatment centers;  be unable to contract with third-party payers or attract patients to our treatment centers; and/or  experience losses and lower gross revenues and operating margins during the initial periods of operating our newly-developed treatment
+centers. Larger
+acquisitions could increase our potential exposure to business risks. Furthermore, integrating a new treatment center could be expensive and time consuming, and could disrupt our
+ongoing business and distract our management and other key personnel. In addition, we may incur significant transaction fees and expenses, including for potential transactions that are not
+consummated. We
+may continue to explore acquisition opportunities outside of the United States when favorable opportunities are available to us. In addition to the risks set forth herein, foreign
+acquisitions involve unique risks including the particular economic, political and regulatory risks associated with the specific country, currency risks, the relative uncertainty regarding laws and
+regulations and the potential difficulty of integrating operations across different cultures and languages. We
+currently plan to continue to develop new treatment centers in existing and new local markets, including international markets. We may not be able to structure economically beneficial
+arrangements in new markets as a result of healthcare laws applicable to such market or otherwise. If these plans change for any reason or the anticipated schedules for opening and costs of
+development are revised by us, we may be negatively impacted. There can be no assurance that these planned treatment centers will be completed or that, if developed, will achieve sufficient patient
+volume to generate positive 37 Table of Contents operating
+margins. If we are unable to timely and efficiently integrate a newly-developed treatment center, our business could suffer. In
+the case of OnCure, the business operates through a structure dependent on management services agreements. If we are unable to manage these management services agreements and the
+associated relationships, the business may suffer and the expected results of the acquisition may not be realized. We
+cannot assure you that we will achieve the revenue and benefits identified in this Annual Report from completed acquisitions, including with respect to OnCure, or that we will achieve
+synergies and cost savings or benefits in connection with future acquisitions. In addition, many of the businesses that we have acquired and will acquire have unaudited financial statements that have
+been prepared by the management of such companies and have not been independently reviewed and audited. We cannot assure you that the financial statements of companies we have acquired or will acquire
+would not be materially different if such statements were audited. Finally, we cannot assure you that we will continue to acquire businesses at valuations consistent with our prior acquisitions or
+that we will complete acquisitions at all. Any failure to comply with regulations relating to privacy and security of patient information could
+subject us to significant penalties. There are numerous federal and state laws and regulations addressing patient information privacy and security concerns, including state
+laws related to identity theft. In particular, the federal regulations issued under HIPAA contain provisions that:  protect individual privacy by limiting the uses and disclosures of patient information;  require notifications to individuals, and in certain cases to government agencies and the media, in the event of a breach of unsecured
+protected health information;  require the implementation of security safeguards to ensure the confidentiality, integrity and availability of individually
+identifiable health information in electronic form; and  prescribe specific transaction formats and data code sets for certain electronic healthcare transactions. Furthermore,
+the Omnibus HIPAA Rule, published on January 25, 2013 and now effective, makes business associates directly obligated to adhere to the HIPAA Security Rule and certain
+provisions of the HIPAA Privacy and Breach Notification Rules, such that violations of these rules can be enforced by the government directly against the business associate. Compliance
+with these regulations requires us to spend money and substantial time and resources. We believe that we are in material compliance with the HIPAA regulations with which we
+are currently required to comply. If we fail to comply with the HIPAA regulations, we could suffer civil penalties up to $50,000 per violation, not to exceed $1.5 million per calendar year for
+non-compliance of identical provisions, and criminal penalties with fines up to $250,000 per violation and possible imprisonment. Our facilities could be subject to a periodic audit by the federal
+government, and enforcement of HIPAA violations may occur by either federal agencies or state attorneys general. In 2011, the government launched a HIPAA audit initiative to assess covered entities'
+controls and processes implemented to comply with the HIPAA Privacy, Security, and Breach notification Rules, and the Office of Civil Rights is expected to implement a permanent HIPAA audit program
+beginning in 2014, which will expand compliance audits to business associates. 38 Table of Contents State law limitations and prohibitions on the corporate practice of medicine may materially harm our
+business and limit how we can operate. State governmental authorities regulate the medical industry and medical practices extensively. Many states have corporate practice of
+medicine laws which prohibit us from:  employing physicians;  practicing medicine, which, in some states, includes managing or operating a radiation treatment center;  certain types of fee arrangements with physicians;  owning or controlling equipment used in a medical practice;  setting fees charged for physician services;  controlling the content of physician advertisements and marketing;  billing and coding for services;  pursuing relationships with physicians and other referral sources; or  adding facilities and services. In
+addition, many states impose limits on the tasks a physician may delegate to other staff members. We have administrative services agreements in states that prohibit the corporate
+practice of medicine such as California, Massachusetts, Michigan, Nevada, New York and North Carolina. Corporate practice of medicine laws and their interpretation vary from state to state, and
+regulatory authorities
+enforce them with broad discretion. We have structured our agreements and services in those states in a manner that we believe complied with the law and its interpretation by government authorities.
+If, however, we are deemed to be in violation of these laws, we could be required to restructure or terminate our agreements which could materially harm our business and limit how we operate. In the
+event the corporate practice of medicine laws of other states would adversely limit our ability to operate, it could prevent us from expanding into the particular state and impact our growth strategy. In certain states we depend on administrative services agreements with professional corporations,
+including related party professional corporations, and if we are unable to continue to enter into them or they are terminated, we could be materially harmed. Certain states, including California, Massachusetts, Michigan, Nevada, New York and North Carolina, have laws prohibiting business
+corporations from employing physicians. Our treatment centers in California, Massachusetts, Michigan, Nevada, New York and North Carolina operate through administrative services agreements with
+professional corporations that employ the radiation oncologists who provide professional services at the treatment centers in those states. In 2012, 2013 and 2014, $132.8 million,
+$131.9 million and $139.5 million, respectively, of our net patient service revenue was derived from administrative services agreements, as opposed to $553.4 million,
+$584.1 million and $807.4 million, respectively, from all of our other centers. The professional corporations in these states are currently owned by certain of our directors, executive
+officers and equityholders, who are licensed to practice medicine in those states. As we enter into new states that will require an administrative services agreement, there can be no assurance that a
+related party professional corporation, or any professional corporation, will be willing or able to enter into an administrative services agreement. Furthermore, if we enter into an administrative
+services agreement with an unrelated party there could be an increased risk of differences arising or future termination. We cannot assure you that a professional corporation will not seek to
+terminate an agreement with us on any basis, including on the basis of state laws prohibiting the corporate practice of medicine, nor can we assure you that 39 Table of Contents governmental
+authorities in those states will not seek termination of these arrangements on the same basis. While we have not been subject to such proceedings in the past, we could be materially
+harmed if any state governmental authorities or the professional corporations with which we have an administrative services agreement were to succeed in such a termination. As
+compared to our approach, the OnCure model involves MSA arrangements (as more fully described elsewhere in this Annual Report) with medical practices whose shareholders and partners
+are not otherwise affiliated with OnCure. Such medical practices serve as the provider of clinical services with all revenues being billed to patients and/or third party payers in the name or tax
+identification number
+or provider number of the practice. As compared to our general model, OnCure has less involvement in the clinical aspects of the center, focusing instead on the provision of space and equipment, as
+well as day-to-day management. While in connection with the integration of OnCure, it is our plan to introduce our proprietary technology and systems, as well as our ICC model, to these managed
+practices, there is no assurance that the shareholders and partners in the practices will adopt these systems and model. Moreover, while the terms of the MSAs generally run for ten years or longer,
+the non-compete obligations of the managed practices and their shareholders and partners generally cease upon the expiration or termination of the MSAs. Finally, whereas our financial arrangements
+with our affiliated physicians and practices generally involve an employment or compensation arrangement, the financial model under the OnCure MSAs involves a sharing of revenues or EBITDA. In short,
+the practices that are affiliated with OnCure under the MSA model generally have greater autonomy in their operations than the model we generally deploy. Our business could be materially harmed by future interpretation or implementation of state laws
+regarding prohibitions on fee-splitting. Many states prohibit the splitting or sharing of fees between physicians and non-physicians, as well as between treating physicians and
+referral sources. These laws vary from state to state and are enforced by courts and regulatory agencies, each with broad discretion. Some states have interpreted certain types of fee arrangements in
+practice management agreements between entities and physicians as unlawful fee-splitting. We believe our arrangements with physicians comply in all material respects with the fee-splitting laws of the
+states in which we operate. Nevertheless, if government regulatory authorities were to disagree, we and our radiation oncologists could be subject to civil and criminal penalties, and we could be
+required to restructure or terminate our contractual and other arrangements, which would result in a loss of revenue and could result in less input by us into the business decisions of such practices.
+In addition, expansion of our operations to other states with certain types of fee-splitting prohibitions may require structural and organizational modification to the form of relationships that we
+currently have with physicians, professional corporations and hospitals, which could have a material adverse effect on our business, financial condition and results of operation. If we fail to comply with the laws and regulations applicable to our treatment center operations, we
+could suffer penalties or be required to make significant changes to our operations. Our treatment center operations are subject to many laws and regulations at the federal, state and local government levels. These laws
+and regulations require that our treatment centers meet various licensing, certification and other requirements, including those relating to:  qualification of medical and support persons;  pricing of services by healthcare providers;  the adequacy of medical care, equipment, personnel, operating policies and procedures;  clinic licensure and certificates of need;  maintenance and protection of records; and 40 Table of Contents  environmental protection, health and safety, including the handling and disposal of medical waste. While
+we have structured our operations in a manner that we believe complies in all material respects with all applicable laws and regulations, we cannot assure you that government
+regulators will agree, given the breadth and complexity of such laws. If a government agency were to find that we are not in compliance with these laws, we could suffer civil or criminal penalties,
+including becoming the subject of cease and desist orders, rejection of the payment of our claims, the loss of our licenses to operate
+and our ability to participate in government or private healthcare programs, any of which could have a material adverse effect on our business, financial condition and results of operation. Our failure to comply with laws related to hazardous materials could materially harm us. Our treatment centers provide specialized treatment involving the use of radioactive material in the treatment of the lungs, prostate,
+breasts, cervix and other organs. The materials are obtained from, and, if not permanently placed in a patient or consumed, returned to, a third-party provider of supplies to hospitals and other
+radiation therapy practices, which has the ultimate responsibility for its proper disposal. We, however, remain subject to state and federal laws regulating the protection of employees who may be
+exposed to hazardous material and regulating the proper handling, storage and disposal of that material. Although we believe we are in compliance in all material respects with all applicable laws, a
+violation of such laws, or the future enactment of more stringent laws or regulations, could subject us to liability, or require us to incur costs that could have a material adverse effect on us. Our business may be harmed by technological and therapeutic changes. The treatment of cancer patients is subject to potential significant technological and therapeutic changes. Future technological
+developments could render our equipment obsolete. We may incur significant costs in replacing or modifying equipment in which we have already made a substantial investment prior to the end of its
+anticipated useful life. In addition, there may be significant advances in other cancer treatment methods, such as chemotherapy, surgery, biological therapy or in cancer prevention techniques, which
+could reduce demand or even eliminate the need for the radiation therapy services we provide. Changes in medical treatment guidelines or recommendations may adversely affect our business. There are numerous options that a cancer patient can undergo for treatment. There are also a number of regulatory bodies, research
+panels and formal guidelines that can influence or even dictate patients, payers and physicians in the course of action that a patient determines to take for his or her particular form of cancer. For
+instance, in May 2012, the U.S. Preventative Task Force finalized its recommendation against prostate-specific antigen ("PSA") screening and the National Cancer Institute suggested changes in
+treatment patterns for prostate cancer away from definitive treatment and towards "watchful waiting" or "active surveillance." Both of these bodies' proclamations negatively impacted the volume of
+prostate cancer treatments nationally. On a
+same practice basis, in 2012, our prostate cancer treatment volumes declined by over 9.6% over 2011. Although our prostate volumes have stabilized, there can be no assurance that further
+recommendations or changes in treatment guidelines for prostate cancer or other cancer types will not result in a decrease in diagnosis and treatment of cancer which could have a materially adverse
+effect on our business. 41 Table of Contents Efforts to regulate the construction, acquisition or expansion of healthcare treatment centers could
+prevent us from developing or acquiring additional treatment centers or other facilities or renovating our existing treatment centers. Many states have enacted certificate of need laws which require prior approval for the construction, acquisition or expansion of
+healthcare treatment centers. In giving approval, these states consider the need for additional or expanded healthcare treatment centers or services. In the states of Kentucky, Massachusetts,
+Michigan, North Carolina, Rhode Island, South Carolina and West Virginia in which we currently operate, certificates of need must be obtained for capital expenditures exceeding a prescribed amount,
+changes in capacity or services offered and various other matters. Other states in which we now or may in the future operate may also require certificates of need under certain circumstances not
+currently applicable to us. We may not be able to obtain the certificates of need or other required approvals for ongoing, additional or expanded treatment centers or services in the future. In
+addition, at the time we acquire a treatment center, we may agree to replace equipment or expand the acquired treatment center. If we are unable to obtain required approvals, we may not be able to
+acquire additional treatment centers or other facilities or expand acquired treatment centers, expand the healthcare services we provide at these treatment centers or replace equipment. Certain
+states are reconsidering their participation in certificate of need programs, and these decisions could significantly impact the approval process for future projects. For
+example, on June 25, 2013, the governor of South Carolina vetoed the appropriation of funds for the state's certificate of need program. This veto was upheld by the South Carolina House of
+Representatives the next day. As a result of the veto, the SCDEHC suspended the operation of the certificate of need program for the fiscal year beginning July 1, 2013. The SCDEHC is not
+reviewing any new or existing applications while the certificate of need program is suspended. A petition is currently pending in front of the South Carolina Supreme Court seeking a declaratory ruling
+on the ability of providers to engage in activities covered by the state's certificate of need law without approval by the SCDEHC. The outcome of this ruling and other potential future efforts in
+other states could materially affect our ability to develop new projects in various states. We are exposed to local business risks in different countries, which could have a material adverse
+effect on our financial condition or results of operations. We have significant operations in foreign countries. Currently, we operate through 27 legal entities in Argentina, Costa Rica, The
+Dominican Republic, El Salvador, Guatemala and Mexico, in addition to our operations in the United States. Our offshore operations are subject to risks inherent in doing business in foreign countries,
+including, but not necessarily limited to:  new and different legal and regulatory requirements in local jurisdictions, which may conflict with U.S. laws;  local economic conditions;  potential staffing difficulties and labor disputes;  increased costs of transportation or shipping;  credit risk and financial conditions of government, commercial and patient payers;  risk of nationalization of private enterprises by foreign governments;  potential imposition of restrictions on investments;  potential restrictions on repatriation of funds, payments of dividends and other financial options integral to our investments and
+operations;  potential declines in government and/or private payer reimbursement amounts for our services; 42 Table of Contents  potentially adverse tax consequences, including imposition or increase of withholding and other taxes on remittances and other
+payments by subsidiaries;  foreign currency exchange restrictions and fluctuations; and  local political and social conditions, including the possibility of hyperinflationary conditions and political or social instability
+in certain countries. We
+may not be successful in developing and implementing policies and strategies to address the foregoing factors in a timely and effective manner at each location where we do business.
+Consequently, the occurrence of one or more of the foregoing factors could have a material adverse effect on our international operations or upon our financial condition and results of operations. Further,
+our international operations require us to comply with a number of U.S. and international regulations. For example, we must comply with U.S. economic sanctions and export
+control laws in connection with exports of products and services, and we must comply with the Foreign Corrupt Practices Act ("FCPA"), which prohibits U.S. companies or their agents and employees from
+providing anything of value to a foreign official or agent thereof for the purposes of influencing any act or decision of these individuals in their official capacity to help obtain or retain
+business, direct business to any person or corporate entity or obtain any unfair advantage. Any failure by us to ensure that our employees and agents comply with the FCPA, economic sanctions and
+export controls, and applicable laws and regulations in foreign jurisdictions could result in substantial penalties or restrictions on our ability to conduct business in certain foreign jurisdictions,
+and our results of operations and financial condition could be materially and adversely affected. Local
+governments may take actions that are adverse to our interests and our business. For example, in 2012 Argentina's government nationalized the country's largest oil and gas company
+via taking a 51% stake. While no such proposal has been made or threatened with respect to any businesses in the Argentine healthcare sector, we have significant operations in Argentina and any such
+development could have a material adverse effect on our international operations or upon our financial condition and results of operations. The
+Argentine government has implemented certain measures that control and restrict the ability of companies and individuals to exchange Argentine pesos for foreign currencies. Those
+measures include, among other things, the requirement to obtain the prior approval from the Argentine Tax Authority of the foreign currency transaction (for example and without limitation, for the
+payment of non-Argentine goods and services, payment of principal and interest on non-Argentine debt and also payment of dividends to parties outside of the country), which approval process could
+delay, and eventually restrict, the ability to exchange Argentine pesos for other currencies, such as U.S. dollars. Those approvals are administered by the Argentine Central Bank through the Mercado
+Unico Libre de Cambios, which is the only market where exchange transactions may be lawfully made. During
+January 2014 the Argentinean Peso exchange rate against the U.S. Dollar increased by approximately 23%, from 6.52 Argentinean Pesos per U.S. Dollar as of December 31, 2013
+to approximately 8.0 Argentinean Pesos per U.S. Dollar. Since January 2014, the depreciation of the Argentine Peso has been low with, the Argentinean Peso exchange rate ended the year on
+December 31, 2014 at 8.55 Argentine Pesos per U.S. Dollar. Our
+international subsidiaries accounted for $81.2 million, $90.9 million and $99.4 million or 11.7%, 12.3% and 9.7%, of our revenues for the years ended
+December 31, 2012, 2013 and 2014, respectively. 43 Table of Contents Fluctuations in currency exchange rates may significantly impact our results of operations and may
+significantly affect the comparability of our results between financial periods. Some of our operations are conducted by subsidiaries in foreign countries. The results of the operations and the financial position of
+these subsidiaries are reported in the relevant foreign currencies and then translated into U.S. dollars at the applicable exchange rates for inclusion in our consolidated financial statements. The
+main currency to which we are exposed, besides the U.S. dollar, is the Argentine peso. The exchange rate between the Argentine peso and the U.S. dollar in recent years has fluctuated significantly and
+may continue to do so in the future. A depreciation of this currency against the U.S. dollar will decrease the U.S. dollar equivalent of the amounts derived from these operations reported in our
+consolidated financial statements and an appreciation of this currency will result in a corresponding increase in such amounts. In addition, currency fluctuations may affect the comparability of our
+results of operations between financial periods. We
+incur currency exchange risk whenever we enter into a transaction using a currency other than the local currency of the transacting entity. Given the volatility of exchange rates,
+there can be no assurance that we will be able to effectively manage our currency exchange risks or that any volatility in
+currency exchange rates will not have a material adverse effect on our financial condition or results of operations. Exchange controls implemented by the Argentine Government on the acquisition of U.S. dollars and
+other foreign currencies could have a material impact in our operations, business, financial condition and results of operations. The Argentine government has implemented certain measures that control and restrict the ability of companies and individuals to
+exchange Argentine Pesos for foreign currencies. Those measures include, among other things, the requirement to obtain the prior approval from the Argentine Tax Authority and Central Bank of the
+foreign currency transaction (for example and without limitation, for the payment of non-Argentine goods and services, payment of principal and interest on non-Argentine debt and also payment of
+dividends to parties outside of the country), which approval process could delay, and eventually restrict, the ability to exchange Argentine pesos for other currencies, such as U.S. dollars. Those
+approvals are administered by the Argentine Central Bank through the Mercado Unico y Libre de Cambios, which is the only market where exchange transactions may be lawfully made. Further, restrictions
+also currently apply to the acquisition of any foreign currency for holding as cash within Argentina. There can be no assurance that the Central Bank of Argentina or other government agencies will not
+increase such controls or restrictions or make modifications to these regulations or establish more severe restrictions on currency exchange, making payments to foreign creditors or providers,
+dividend payments to foreign shareholders or require its prior authorization for such purposes. As a result, these exchange controls and restrictions could materially affect the business, financial
+condition and results of operations of our Argentine subsidiaries and could significantly impact our ability to comply with our foreign currency obligations, each of which could have a material
+adverse effect on our financial condition and results of operation. Latin America, including Argentina, has experienced adverse economic conditions. Latin American countries have historically experienced uneven periods of economic growth, as well as recession, periods of high
+inflation and economic instability. Currently, as a consequence of adverse economic conditions in global markets and diminishing commodity prices, many of the economies of Latin American countries
+have slowed their rates of growth, and some have entered mild recessions. The duration and severity of this slowdown is hard to predict and could adversely affect our business, financial condition,
+and results of operations. Additionally, certain countries have experienced or are currently experiencing severe economic crises, including Argentina, which may still have future effects. 44 Table of Contents During
+2001 and 2002, Argentina went through a period of severe political, economic and social crisis. Among other consequences, the crisis resulted in the Argentine government
+defaulting on its foreign debt obligations, introducing emergency measures and numerous changes in economic policies that affected utilities and many other sectors of the economy, and suffering a
+significant real devaluation of the peso, which in turn caused numerous Argentine private sector debtors with foreign currency exposure to default on their outstanding debt. In
+the first half of 2005, Argentina restructured part of the sovereign debt it defaulted; however, a number of creditors refused to approve the restructuring and litigation brought by
+these holdout creditors ensued. This litigation initiated by these holdout creditors has persisted to this day. On June 16, 2014, the U.S. Supreme Court rejected an Argentine appeal and decided
+to leave in place a lower court ruling in favor on the holdout creditors, which held that the Argentine government is prohibited from making payments on its restructured debt unless it also pays the
+holdout creditors, who have previously refused to accept its debt restructuring offers, the amount owed to them. In
+July 2014, Argentina and the holdout creditors failed to reach an agreement on the restructuring of this debt. As a result, the Argentine government was prohibited from making certain
+bond payments. The full consequences of this on Argentina's political and economic landscape, and on the Company, are still unclear. We cannot provide any assurance that inflation, fluctuations in the
+value of the peso, the implementation of additional foreign currency restrictions and/or other future economic, social and political developments in Argentina resulting from this current Argentine
+sovereign debt crisis or the difficult economic conditions that current exist in Argentina, over which we have no control, will not adversely affect our business, financial condition or results of
+operations, including our ability to pay our debts at maturity. Our information systems are critical to our business and a failure of those systems could materially
+harm us. We depend on our ability to store, retrieve, process and manage a significant amount of information, and to provide our treatment
+centers with efficient and effective accounting and scheduling systems. Our information systems require maintenance and upgrading to meet our needs, which could significantly increase our
+administrative expenses. We are currently upgrading multiple systems and migrating to other systems within our organization. Furthermore,
+any system failure that causes an interruption in service or availability of our systems could adversely affect operations or delay the collection of revenues. Even though
+we have implemented network security measures, our servers are vulnerable to computer viruses, break-ins and similar disruptions from unauthorized tampering. The occurrence of any of these events
+could result in interruptions, delays, the loss or corruption of data, or cessations in the availability of systems, all of which could have a material adverse effect on our financial position and
+results of operations and harm our business reputation. The
+performance of our information technology and systems is critical to our business operations. Our information systems are essential to a number of critical areas of our operations,
+including:  accounting and financial reporting;  billing and collecting accounts;  coding and compliance;  clinical systems;  medical records and document storage;  inventory management;  negotiating, pricing and administering managed care contracts and supply contracts; and 45 Table of Contents  monitoring quality of care and collecting data on quality measures necessary for full Medicare payment updates. Any
+failure of our information technology and systems could disrupt these operations, which could lead to a material adverse effect on our financial position and results of operations. If we fail to effectively and timely implement electronic health record systems, our operations
+could be adversely affected. As required by the American Recovery and Reinvestment Act of 2009, the DHHS has developed and is implementing an incentive payment
+program for eligible healthcare professionals that adopt and meaningfully use certified electronic health record ("EHR") technology. If our future treatment centers are unable to meet the requirements
+for participation in the incentive payment program, we will not be eligible to receive incentive payments that could offset some of the costs of implementing EHR systems. Further, beginning in 2015,
+eligible healthcare professionals that fail to demonstrate meaningful use of certified EHR technology will be subject to reduced payments from Medicare. While we have qualified at our existing
+facilities, failure to implement EHR systems effectively and in a timely manner at our recently acquired facilities or any future facilities would impact our eligibility to participate in these
+incentive programs and could have a material adverse effect on our financial position and results of operations. Our financial results may suffer if we have to write-off goodwill or other intangible assets. A significant portion of our total assets consist of goodwill and other intangible assets. Goodwill and other intangible assets, net of
+accumulated amortization, accounted for approximately 48.1% and 58.8% of the total assets on our balance sheet as of December 31, 2014 and 2013, respectively. We may not realize the value of
+our goodwill or other intangible assets. We expect to engage in additional transactions that will result in our recognition of additional goodwill or other intangible assets. We evaluate on a regular
+basis whether events and circumstances have occurred that indicate that all or a portion of the carrying amount of goodwill or other intangible assets may no longer be recoverable, and is therefore
+impaired. Under current accounting rules, any determination that impairment has occurred would require us to write-off the impaired portion of our goodwill or the unamortized portion of our intangible
+assets, resulting in a charge to our earnings. We have written off significant amounts of goodwill and intangible assets in the past, and any future write-off could have a material adverse effect on
+our financial condition and results of operations. For the year ended December 31, 2012, we wrote-off approximately $81.0 million in goodwill and leasehold improvements as a result of
+our interim impairment testing of our goodwill and indefinite-lived intangible assets. For the year ended December 31, 2013, there was no impairment of goodwill or intangible. For the year
+ended December 31, 2014, we wrote-off approximately $229.5 million in goodwill, and other investments as a result of our interim impairment testing of our goodwill. We have addressed previous material weaknesses with respect to our internal controls and have
+identified an additional material weaknesses in our internal controls, which could, if not sufficiently remediated, result in material misstatements in our consolidated financial statements. In connection with the audit of our consolidated financial statements as of and for the year ended December 31, 2012, we
+identified a material weakness in internal controls relating to the valuation of goodwill. We have taken steps since then to remediate the internal control weakness, such that at December 31,
+2013, our controls over the valuation of goodwill operated effectively. During 2013, we continued to review the underlying assumptions and inputs to the valuation specialists, as well as reviewed the
+underlying schedules related to the output of the calculation of the impairment values. As we further optimize and refine our goodwill valuation processes, we will review the related controls and may
+take additional steps to ensure that they remain effective and are integrated appropriately. While 46 Table of Contents we
+have implemented the procedures described above and will continue to take further steps in the near future to strengthen further our internal controls, there can be no assurance that we will not
+identify control deficiencies in the future or that such deficiencies will not have a material impact on our operating results or consolidated financial statements. In
+March 2014, we identified two material weaknesses in our internal communications regarding the identification of and accounting for the loss contingency, along with the related
+disclosure regarding certain subpoenas we received in February 2014, from the OIG. We have taken steps since then to remediate the internal control weaknesses, such that at September 30, 2014,
+our controls over the identification and accounting for loss contingencies operated effectively. We implemented a system of internal controls over financial reporting with respect to the accounting
+for loss contingencies, including the establishment of a disclosure committee and the assessment of future probable loss contingency accounting and methods. While we have implemented the procedures
+described above and will continue to take further steps in the near future to strengthen further our internal controls, there can be no assurance that we will not identify control deficiencies in the
+future or that such deficiencies will not have a material impact on our operating results or consolidated financial statements. Effective
+February 10, 2014, we completed the acquisition of SFRO. The facilities acquired as part of the SFRO Acquisition utilize different information technology systems from
+our other facilities. We are currently integrating our internal control processes at SFRO. Although the SFRO acquisition has been excluded from our assessment of and conclusion on the effectiveness of
+our internal control over financial reporting, we have concluded there are material weakness related to the integration of SFRO into our control environment as of December 31, 2014.
+Specifically, we did not maintain appropriate segregation of duties over cash, adequate access controls with regard to financial applications, or adequate controls over the processing of expenditures.
+We are in the process of developing and implementing a remediation plan to address the material weaknesses related to the SFRO integration. If
+our remedial measures are insufficient to address the material weakness or if additional material weaknesses or significant deficiencies in our internal control are discovered or
+occur in the future, we may be unable to accurately report our financial results, or report them within the required timeframes, our consolidated financial statements may contain material
+misstatements and we could be required to restate our financial results in the future, which could cause investors and others to lose confidence in our financial statements, limit our ability to raise
+capital and could adversely affect our reputation, results of operations and consolidated financial condition. A significant number of our treatment centers are concentrated in certain states, particularly
+Florida, which makes us sensitive to regulatory, economic and other conditions in those states. Our Florida treatment centers accounted for approximately 39%, 39% and 45% of our freestanding radiation revenues during the years
+ended December 31 2012, 2013 and 2014, respectively. Our treatment centers are also concentrated in the states of California and North Carolina, which accounted for approximately 13.0% and
+5.9%, respectively, of our freestanding radiation revenues for the year ended December 31, 2014. This concentration makes us particularly sensitive to regulatory requirements in those
+locations, including those related to false and improper
+claims, anti-kickback laws, self-referral laws, fee-splitting, corporate practice of medicine, antitrust, licensing and certificates of need, as well as economic and other conditions which could
+impact us. If our treatment centers in these states are adversely affected by changes in regulatory, economic or other conditions, our revenue and profitability may decline. 47 Table of Contents Our operations in Florida and other areas could be disrupted or damaged by hurricanes and other
+natural disasters. Florida is susceptible to hurricanes, and as of December 31, 2014, we have 62 radiation treatment centers located in Florida.
+Our Florida centers accounted for approximately 39%, 39% and 45% of our freestanding radiation revenues during the years ended December 31 2012, 2013 and 2014, respectively. Our California
+centers are located in areas that are known to experience earthquakes from time to time, some of which have been severe. Our Florida treatment centers, our California treatment centers and any of our
+other treatment centers located in other areas that may be affected by a hurricane, earthquake or other natural disaster could be subject to significant disruptions and/or damage in the future which
+could have an adverse effect on our business and financial results. We carry property damage and business interruption insurance on our facilities, but there can be no assurance that it would be
+adequate to cover all such losses. We have potential conflicts of interest relating to our related party transactions which could harm
+our business. We have potential conflicts of interest relating to existing agreements we have with certain of our directors, executive officers and
+equityholders. In 2012, 2013 and 2014, we paid an aggregate of $21.6 million, $22.9 million and $28.8 million, respectively, under certain of our related party agreements,
+including leases, and malpractice insurance premiums and we received $62.5 million, $72.1 million and $75.8 million, respectively, pursuant to our other services agreements with
+related parties. Potential conflicts of interest can exist if a related party has to make a decision that has different implications for us and the related party. If a dispute arises in connection
+with any of these agreements, if not resolved satisfactorily to us, our business could be harmed. These agreements include:  administrative services agreements with professional corporations that are owned by certain of our directors, executive officers and
+equityholders;  leases we have entered into with entities owned by certain of our directors, executive officers and equityholders; and  medical malpractice insurance which we acquire from an entity owned by certain of our directors, executive officers and equityholders. In
+California, Maryland, Massachusetts, Michigan, Nevada, New York and North Carolina, we have administrative services agreements with professional corporations that are owned by certain
+of our directors, executive officers and equityholders who own interests in these professional corporations. While we have stock transfer agreements corresponding to our administrative services
+agreements in place in all states except New York that provide us with the ability to designate qualified successor physician owners of the shares held by the physician owners of these professional
+corporations upon the occurrence of certain events, there can be no assurance that we will be able to enforce them under the laws of the respective states or that they will not be challenged by
+regulatory agencies. Such stock transfer agreements do not exist with the practices located in California, Florida and Indiana that are affiliated with OnCure. Potential conflicts of interest may
+arise in connection with the administrative services agreements that may have materially different implications for us and the professional corporations and there can be no assurance that it will not
+harm us. For example, we bill for such services either on a fixed basis, percentage of net collections basis, or on a per treatment basis, depending on the particular state requirements and certain of
+these arrangements are subject to renegotiation on an annual basis. We may be unable to renegotiate acceptable fees, in which event many of the administrative services agreements provide for binding
+arbitration. If we are unsuccessful in renegotiations or arbitration this could negatively impact our operating margins or result in the termination of our administrative services agreements. 48 Table of Contents Additionally,
+we lease 36 of our treatment centers from ownership groups that consist of certain of our directors, executive officers and equityholders. Before we enter into these
+leases, we compare rates and terms with our standard documentation as well as rely on third-party fair market value reports for relevant markets. We may be unable to renegotiate these leases when they
+come up for renewal on terms acceptable to us, if at all. In
+October 2003, we replaced our existing third-party medical malpractice insurance coverage with coverage we obtained from an insurance entity which is owned by certain of our
+directors, executive officers and equityholders. After soliciting various third-party proposals for malpractice insurance coverage on an annual basis, we renewed this coverage in 2012, 2013 and 2014,
+with the approval of the Audit and Compliance Committee of the Company's Board of Directors. We may be unable to renegotiate this coverage at acceptable rates and comparable coverage may not be
+available from third-party insurance companies. If we are unsuccessful in renewing our malpractice insurance coverage, we may not be able to continue to operate without being exposed to substantial
+risks of claims being made against us for damage awards we are unable to pay. Related
+party transactions between us and any related party are subject to approval by the Audit and Compliance Committee on behalf of the Company's Board of Directors or by the
+Company's Board of Directors, and disputes are handled by the Company's Board of Directors. There can be no assurance that the above or any future conflicts of interest will be resolved in our favor.
+If not resolved in our favor, such conflicts could harm our business. For a further description of our related party transactions, see "Item 13. Certain Relationships and Related Transactions,
+and Director Independence." In recent years, accreditation of facilities and the establishment of a national error reporting
+database have been under consideration. The Chairman of the ACR called for the required accreditation of all facilities which bill Medicare for advanced medical imaging and
+radiation oncology services, including those in hospitals at a congressional hearing on medical radiation. Federal legislation was also introduced in March 2013, which requires certain personnel
+furnishing medical imaging examinations or radiation therapy to obtain state licensure and certification from certain approved certification organizations, and directs the DHHS to establish a program
+for designating and publishing a list of such certification organizations. Of
+our 144 U.S. treatment centers, 98 have received or are in process of receiving ACR accreditation. In addition to a deep physics infrastructure and internal maintenance department, we
+have recently begun to utilize Gamma Function as a broad application radiation safety monitoring tool to minimize potential errors in our radiation therapy treatments. While we continue to improve
+upon safety measures aimed at minimizing errors in radiation therapy treatment in accordance with our internal protocols as well as the mandates of organizations like ACR, we cannot assure you that
+any further critical press and government scrutiny will not adversely affect our business and results of operations. Our financial results could be adversely affected by claims brought against our facilities, the
+increasing costs of professional liability insurance and by successful malpractice claims. We could be subject to litigation relating to our business practices, including claims and legal actions by patients and others in the
+ordinary course of business alleging malpractice, product liability or other legal theories. We are also exposed to the risk of professional liability and other claims against us and our radiation
+oncologists and other physicians and professionals arising out of patient medical treatment at our treatment centers. Our risk exposure as it relates to our non-radiation oncology physicians could be
+greater than with our radiation oncologists to the extent such non-radiation oncology physicians are engaged in diagnostic activities. For a discussion of current pending material 49 Table of Contents litigation
+against us, see "Item 3. Legal Proceedings." Malpractice claims, if successful, could result in substantial damage awards which might exceed the limits of any applicable insurance
+coverage. Insurance against losses of this type can be expensive and insurance premiums may increase in the near future. Insurance rates vary from state to state, by physician specialty and other
+factors. The rising costs of insurance premiums, as well as successful malpractice claims against us or one of our physicians, could have a material adverse effect on our financial position and
+results of operations. It
+is also possible that our excess liability and other insurance coverage will not continue to be available at acceptable costs or on favorable terms. In addition, our insurance does
+not cover all potential liabilities arising from governmental fines and penalties, indemnification agreements and certain other uninsurable losses. For example, from time to time we agree to indemnify
+third parties, such as hospitals and clinical laboratories, for various claims that may not be covered by insurance. As a result, we may become responsible for substantial damage awards that are
+uninsured. If
+payment for claims exceed actuarially determined estimates or are not covered by insurance, or if reinsurers, if any, fail to meet their obligations, our results of operations and
+financial position could be adversely affected. Our substantial debt could adversely affect our financial condition. We have $967.1 million of total debt outstanding as of December 31, 2014. Our high level of debt could have adverse
+effects on our business and financial condition. Specifically, our high level of debt could have important consequences, including the following:  making it more difficult for us to satisfy our obligations with respect to our debt;  limiting our ability to obtain additional financing to fund future working capital, capital expenditures, acquisitions or other
+general corporate requirements;  requiring a substantial portion of our cash flows to be dedicated to debt service payments instead of other purposes;  increasing our vulnerability to general adverse economic and industry conditions;  limiting our flexibility in planning for and reacting to changes in the industry in which we compete;  placing us at a disadvantage compared to other, less leveraged competitors; and  increasing our cost of borrowing. Our
+ability to make scheduled payments on and to refinance our indebtedness depends on and is subject to our financial and operating performance, which in turn is affected by general and
+regional economic, financial, competitive, business and other factors beyond our control, including the availability of financing in the international banking and capital markets. We cannot assure you
+that our business will generate sufficient cash flow from operations or that future borrowings will be available to us in an amount sufficient to enable us to service our debt, to refinance our debt
+or to fund our other liquidity needs. If we are unable to meet our debt obligations or to fund our other liquidity needs, we will need to restructure or refinance all or a portion of our debt, which
+could cause us to default on our debt obligations and impair our liquidity. Any refinancing of our indebtedness could be at higher interest rates and may require us to comply with more onerous
+covenants which could further restrict our business operations. 50 Table of Contents Despite current indebtedness levels, we and our subsidiaries may still be able to incur
+substantially more debt. This could further exacerbate the risks associated with our substantial leverage. We will have the right to incur substantial additional indebtedness in the future. The terms of our $90 million term loan
+facility (the "Term Facility") and our $100 million revolving credit facility (the "Revolving Credit Facility" and together with the Term Facility, the "Credit Facilities") and the indentures
+governing our notes restrict, but do not in all circumstances, prohibit us from doing so. Under the instruments governing our debt, we are permitted to incur substantial additional debt. Any
+additional debt may be governed by indentures or other instruments containing covenants that could place restrictions on the operation of our business and the execution of our business strategy in
+addition to the restrictions on our business already contained in the agreements governing our existing debt. Because any decision to issue debt securities or enter into new debt facilities will
+depend on market conditions and other factors beyond our control, we cannot predict or estimate the amount, timing or nature of any future debt financings and whether we may be required to accept
+unfavorable terms for any such financings. The indentures governing our notes and our Credit Facilities impose significant operating and
+financial restrictions on our Company and our subsidiaries, which may prevent us from capitalizing on business opportunities. The indentures governing our notes and our Credit Facilities impose significant operating and financial restrictions on us. These
+restrictions limit our ability, among other things, to:  incur additional indebtedness or enter into sale and leaseback obligations;  pay certain dividends or make certain distributions on our capital stock or repurchase our capital stock;  make certain investments or other restricted payments;  place restrictions on the ability of subsidiaries to pay dividends or make other payments to us;  engage in transactions with equityholders or affiliates;  sell certain assets or merge with or into other companies; and  create liens. As
+a result of these covenants and restrictions, we will be limited in how we conduct our business and we may be unable to raise additional debt or other financing to compete effectively
+or to take advantage of new business opportunities. The terms of any future indebtedness we may incur could include more restrictive covenants. We cannot assure you that we will be able to maintain
+compliance with these covenants in the future and, if we fail to do so, that we will be able to obtain waivers from the lenders and/or amend the covenants. We are indirectly owned and controlled by Vestar and its interests may conflict with yours as a
+noteholder. Vestar indirectly controls approximately 80% of the Class A voting equity units of 21 st Century Oncology
+Investments, LLC ("21CI"), which controls us, and which in turn controls our subsidiaries. As a result, they effectively have control over major decisions regardless of whether noteholders
+believe that any such decisions are in their own best interests. The interests of Vestar as an equity holder may conflict with the interests of a noteholder. Vestar may have an incentive to increase
+the value of their investment or cause us to distribute funds at the expense of our financial condition and affect our ability to make payments on the notes. In addition, Vestar may have an interest
+in pursuing acquisitions, divestitures, financings or other transactions that it believes could enhance its equity investments even though such transactions might involve risks to you as a noteholder. 51 Table of Contents On
+September 26, 2014, in connection with an equity investment in the Company made by Canada Pension Plan Investment Board ("CPPIB" or the "Majority Preferred Holders"), we
+entered into a Second Amended and Restated Securityholders Agreement (the "Amended Securityholders Agreement"). The Amended Securityholders Agreement amends and restates the existing securityholders
+agreement such that, among other things, the Company's Board of Directors is comprised of (i) two managers nominated by CPPIB, (ii) three managers nominated by funds affiliated with
+Vestar and (iii) Dr. Daniel E. Dosoretz and one manager he nominated after consultation with Vestar and CPPIB, subject to certain ongoing security ownership provisions. The
+holders of a majority of the outstanding preferred stock will have customary consent rights and will be entitled to vote together with the holders of the Company's common stock on an
+as-converted basis under certain circumstances. Item 1B

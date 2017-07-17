@@ -1,0 +1,321 @@
+ Discussion and Analysis of Financial Condition and Results of Operations 11 Item 7A. Quantitative and Qualitative Disclosures About Market Risk 13 Item 8. Financial Statements and Supplementary Data 13 Item 9. Change in and Disagreements with Accountants on Accounting and Financial Disclosure 13 Item 9A. Controls And Procedures 13 Item 9B. Other Information 14 PART III Item 10. Directors, Executive Officers, and Corporate Governance 14 Item 11. Executive Compensation. 15 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 16 Item 13. Certain Relationships and Related Transactions, and Director Independence 17 Item 14. Principal Accountant Fees and Services 17 PART IV Item 15. Exhibits and Financial Statement Schedules. 18 FORWARD LOOKING STATEMENT INFORMATION Certain
+statements made in this Annual Report on Form 10-K are “forward-looking statements” regarding the plans and objectives
+of management for future operations. Such statements involve known and unknown risks, uncertainties and other factors that may
+cause our actual results, performance or achievements to be materially different from any future results, performance or achievements
+expressed or implied by such forward-looking statements. The forward-looking statements included herein are based on current expectations
+that involve numerous risks and uncertainties. Our plans and objectives are based, in part, on assumptions involving judgments
+with respect to, among other things, future economic, competitive and market conditions and future business decisions, all of which
+are difficult or impossible to predict accurately and many of which are beyond our control. Although we believe that our assumptions
+underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate and, therefore, there can
+be no assurance that the forward-looking statements included in this report will prove to be accurate. In light of the significant
+uncertainties inherent in the forward-looking statements included herein particularly in view of the current state of our operations,
+the inclusion of such information should not be regarded as a statement by us or any other person that our objectives and plans
+will be achieved. Factors that could cause actual results to differ materially from those expressed or implied by such forward-looking
+statements include, but are not limited to, the factors set forth herein under the headings “Business,” “ Management's
+Discussion and Analysis of Financial Condition and Results of Operations ” and “Risk Factors”.
+We undertake no obligation to revise or update publicly any forward-looking statements for any reason. The terms “we”,
+“our”, “us”, or any derivative thereof, as used herein refer to 24Holdings Inc. 2 PART 1 ITEM 1. BUSINESS. THE COMPANY’S HISTORY We are a Delaware corporation formerly
+known as Scoop, Inc. In April 2001, Scoop, Inc. amended its Certificate of Incorporation to change its name to 24Holdings Inc. (“we”, “our”, “us” or “24Holdings”). Prior to
+September 30, 2005, 24Holdings was a holding company that conducted its business operations through its wholly owned subsidiary
+24STORE (Europe) Limited, a company incorporated under the laws of England formerly known as 24STORE.com Limited ("24STORE").
+24STORE commenced business operations in 1996 and focused on the sale of media products and business information services. Commencing
+in July 1998, 24Holdings underwent voluntary reorganization under Chapter 11 of the United States Bankruptcy Code. In accordance
+with the Plan of Reorganization approved by the Bankruptcy Court in December 1999, InfiniCom, AB (now known as Avalon Innovation
+AB), a Swedish registered company (“Infinicom”), acquired 91% of the outstanding stock of 24Holdings in exchange for
+100% of the stock of 24STORE. Subsequent to Infinicom’s acquisition in 1999 and until September 30, 2005, the business operations
+of 24STORE, which represented all of 24Holding's operations, were devoted to supplying business customers with computer and electronics
+products. On October 23, 2006 (the “Effective
+Date”), we implemented a 1 for 125 reverse stock split (the “Reverse Split”) of our common stock par value $0.001
+per share (the “Common Stock”). Pursuant to the Reverse Split, each 125 shares of Common Stock issued and outstanding
+as of the Effective Date was converted into one (1) share of Common Stock. The Reverse Split also reduced the number of shares
+of Common Stock into which each share of Series A Convertible Preferred Stock, par value $.001 per share (the “Preferred
+Stock”) could be converted from 100 shares to 0.8 shares. All per share data herein has been retroactively
+restated to reflect the Reverse Split. CHANGE OF OWNERSHIP TRANSACTIONS On May 26, 2005, we entered into a series
+of agreements with Infinicom in connection with our sale of all of the outstanding stock of 24STORE (the “24STORE Sale”)
+and separately, the assignment of all rights and title to certain trademarks and domain names (the “IP Assets”) that
+we held (the “IP Assignment”). Pursuant to the terms of the 24STORE Sale, Infinicom paid us $100,000 for our 24STORE
+shares and pursuant to the IP Assignment, we paid for the IP Assets through a set-off against all outstanding and contingent liabilities
+we owed to Infinicom determined as of the closing date of the 24STORE Sale, which amounted to $603,830. On May 26, 2005, we also entered into a
+Preferred Stock Purchase Agreement with Infinicom (the “Preferred Stock Agreement”) pursuant to which we sold to Infinicom
+344,595 shares of our Preferred Stock in exchange for the discharge of $230,879 of outstanding debt owed to Infinicom. Each share
+of the Preferred Stock is convertible into 0.8 shares of our Common Stock at the holder’s option. On May 26, 2005, Infinicom, 24Holdings,
+Moyo Partners, LLC (“Moyo”) and R&R Biotech Partners, LLC (“R&R”, and together with Moyo, the “Purchasers”)
+entered into a Common Stock Purchase Agreement (the “Infinicom Sale Agreement”) pursuant to which, Infinicom agreed
+to sell to the Purchasers an aggregate of 873,369 shares of Common Stock (which included shares issuable upon conversion of the
+Preferred Stock) which represented approximately 83.6% of the then issued and outstanding shares of Common Stock (the “Infinicom
+Sale”). In return, the Purchasers (i) paid to Infinicom $500,000 in cash, and (ii) agreed that upon the occurrence of one
+of several post-closing events, including a merger with one or more as yet unidentified private unaffiliated operating companies,
+to cause 24Holdings to issue to Infinicom shares of Common Stock representing 1% of the then issued and outstanding shares of Common
+Stock on a fully diluted basis (the “Infinicom Additional Shares”). The consummation of the Infinicom Sale was contingent
+on the contemporaneous closing of the 24STORE Sale and the IP Assignment. 3 On September 30, 2005, 24Holdings and Infinicom
+completed the transactions contemplated in the 24STORE Sale, the IP Assignment and the Preferred Stock Agreement as described above.
+Infinicom forgave the $603,830 of debt 24Holdings owed to them in consideration of the IP Assignment. Effective September 30, 2005, Infinicom
+completed the sale to the Purchasers, under the Infinicom Sale Agreement, of 597,693 shares of Common Stock (which represented
+77.7% of the 769,226 shares of Common Stock then issued and outstanding) and 344,595 shares of Preferred Stock, constituting 83.6%
+in the aggregate of the then issued and outstanding Common Stock (assuming the conversion of the Preferred Stock into 275,676 shares
+of Common Stock). As a result, the Purchasers acquired control of 24Holdings from Infinicom, with R&R beneficially owning 698,696
+shares of Common Stock (assuming the conversion by R&R of 275,676 shares of Preferred Stock into 220,541 shares of Common Stock)
+constituting 66.9% of the then issued and outstanding shares of Common Stock, and Moyo in the aggregate beneficially owning 174,674
+shares of Common Stock (assuming the conversion by Moyo of 68,919 shares of Preferred Stock into 55,135 shares of Common Stock)
+constituting 16.7% of the then issued and outstanding shares of Common Stock. Effective September 30, 2005 Urban von
+Euler resigned as our president and a director but remained our chief executive officer. Also, effective September 30, 2005, Larsake
+Sandin resigned as a director and each of Arnold P. Kling and Kirk M. Warshaw were appointed as directors of 24Holdings. On November
+21, 2005, effective with the filing of our Form 10-Q for the quarter ended September 30, 2005, Mr. von Euler resigned as chief
+executive officer and Mr. Kling was appointed president and treasurer and Mr. Warshaw was appointed chief financial officer and
+secretary. On November 25, 2005, the Infinicom Sale
+Agreement was amended to provide, among other criteria, that the fair market value of the Infinicom Additional Shares would be
+no less than $400,000 nor more than $600,000 at the time such shares are required to be issued to Infinicom. On February 1, 2006, a total of 250,000
+shares of Preferred Stock were authorized for issuance to two individuals who provided services to us. On May 12, 2006, we issued
+150,000 and 100,000 shares of the Preferred Stock to Arnold P. Kling and Kirk M. Warshaw for their services as our president and
+chief financial officer, respectively. Each share of Preferred Stock was immediately convertible, at the holder's option, into
+0.8 shares of Common Stock. Mr. Kling's services were valued at $11,250 and Mr. Warshaw's services were valued at $7,500. As a result of the Reverse Split we had
+adequate shares of Common Stock to facilitate the conversion of all the issued and outstanding shares of Preferred Stock. Prior
+to the Reverse Split, because the conversion terms of the Preferred Stock would have required more shares of Common Stock to be
+issued than were authorized and available for issuance, $249,628 of indebtedness had been recorded on our balance sheet as a long
+term liability. As a result of the Reverse Split this amount was reclassified, pursuant to the accounting guidance, as preferred
+equity. On November 29, 2006, the holders of all
+the issued and outstanding shares of Preferred Stock elected to convert all of their Preferred Stock into shares of Common Stock.
+As a result, the 594,595 shares of Preferred Stock outstanding were exchanged for 475,676 shares of Common Stock. On May 9, 2013, we entered into an amendment
+to the Infinicom Sale Agreement (the “Amendment”) pursuant to which Infinicom’s rights to the Infinicom Additional
+Shares was converted into 138,222 shares of Common Stock. We recognized non-cash expense of $26,924 associated with this conversion. On May 9, 2013, we raised total gross proceeds
+of $134,000 from the sale of an aggregate of 688,420 shares of Common Stock at a price of $0.1946488 per share. 344,210 of these
+shares were sold to Hudson Bay Master Fund Ltd. (“Hudson”) and the other 344,210 shares were sold to Iroquois Master
+Fund Ltd. (“Iroquois”). The sales to Hudson and Iroquois were exempt from the registration requirements of the Securities
+Act of 1933, as amended (the “Act”) pursuant to Sections 4(a)(2) and 4(a)(5) of the Act. Prior to May 9, 2013, each of Hudson and
+Iroquois acquired 349,348 shares of Common Stock at a purchase price of $68,000, or $0.194648 per share, from the Chapter 7 Trustee
+of the Estates of Rodman & Renshaw, LLC (“Rodman”), Direct Markets, Inc., and Direct Markets Holdings, Corp. in
+Chapter 7 bankruptcy proceedings pending in the United States Bankruptcy Court for the Southern District of New York (Cases No.
+13-10087, 13-10088 and 13-10089). These shares were all the shares of Common Stock beneficially owned by R&R, an affiliate
+of Rodman. 4 On July 24, 2014, we issued convertible promissory notes (the
+“2014 Notes”) in the principal amount of $55,000 to each of Iroquois and Hudson (an aggregate of $110,000). The 2014
+Notes have a maturity date of December 31, 2015 and bear interest at the rate of 5.0% per annum, payable at maturity. The principal
+and accrued interest on the 2014 Notes are convertible at the “Conversion Price” (as defined in the 2014 Notes) into
+shares of Common Stock at the option of the holder, subject to the “Beneficial Ownership Cap” (as defined in the 2014
+Notes), or upon the consummation of a “Fundamental Transaction” (as defined in the 2014 Notes). The proceeds from the
+2014 Notes have been, and will continue to be, utilized by us to fund working capital needs. As of December 31, 2014, our authorized
+capital stock consists of 100,000,000 shares of Common Stock and 5,000,000 shares of Preferred Stock of which 2,071,544 shares
+of Common Stock, and no shares of Preferred Stock, were issued and outstanding. All shares of Common Stock currently outstanding
+are validly issued, fully paid and non-assessable. THE COMPANY TODAY Since September 30, 2005, our purpose has
+been to serve as a vehicle to acquire an operating business and we are currently considered a “shell” company inasmuch
+as we are not generating revenues, do not own an operating business, and have no specific plan other than to engage in a merger
+or acquisition transaction with a yet-to-be identified operating company or business. We have no employees and no material assets. We currently have no definitive agreements
+or understandings with any prospective business combination candidates and there are no assurances that we will find a suitable
+business with which to combine. The implementation of our business objectives is wholly contingent upon a business combination
+and/or the successful sale of our securities. We intend to utilize the proceeds of any offering, any sales of equity securities
+or debt securities, bank and other borrowings or a combination of those sources to effect a business combination with a target
+business which we believe has significant growth potential. While we may, under certain circumstances, seek to effect business
+combinations with more than one target business, unless additional financing is obtained, we will not have sufficient proceeds
+remaining after an initial business combination to undertake additional business combinations. A common reason for a target company to
+enter into a merger with a shell company is the desire to establish a public trading market for its shares. Such a company would
+hope to avoid the perceived adverse consequences of undertaking a public offering itself, such as the time delays and significant
+expenses incurred to comply with the various federal and state securities law that regulate initial public offerings. As a result of our limited resources, unless
+and until additional financing is obtained we expect to have sufficient proceeds to effect only a single business combination.
+Accordingly, the prospects for our success will be entirely dependent upon the future performance of a single business. Unlike
+certain entities that have the resources to consummate several business combinations or entities operating in multiple industries
+or multiple segments of a single industry, we will not have the resources to diversify our operations or benefit from the possible
+spreading of risks or offsetting of losses. A target business may be dependent upon the development or market acceptance of a single
+or limited number of products, processes or services, in which case there will be an even higher risk that the target business
+will not prove to be commercially viable. Our
+officers are only required to devote a small portion of their time (less than 10%) to our affairs on a part-time or as-needed basis.
+Our officers may be entitled to receive compensation from a target company they identify or provide services in connection with
+a business combination. We expect to use outside consultants, advisors,
+attorneys and accountants as necessary, none of which will be hired on a retainer basis. We do not anticipate hiring any full-time
+employees so long as we are seeking and evaluating business opportunities. We do not expect our present management
+to play any managerial role for us following a business combination. Although we intend to scrutinize closely the management of
+a prospective target business in connection with our evaluation of a business combination with a target business, our assessment
+of management may be incorrect. 5 In evaluating a prospective target business,
+we will consider several factors, including the following: - experience and skill of management and availability of additional personnel of the target business; - costs associated with effecting the business combination; - equity interest retained by our stockholders in the merged
+entity; - growth potential of the target business; - capital requirements of the target business; - capital available to the target business; - stage of development of the target business; - proprietary features and degree of intellectual property or other protection of the target business; - the financial statements of the target business; and - the regulatory environment in which the target business
+operates. The foregoing criteria are not intended
+to be exhaustive and any evaluation relating to the merits of a particular target business will be based, to the extent relevant,
+on the above factors, as well as other considerations we deem relevant. In connection with our evaluation of a prospective target
+business, we anticipate that we will conduct a due diligence review which will encompass, among other things, meeting with incumbent
+management as well as a review of financial, legal and other information. The time and costs required to select and
+evaluate a target business (including conducting a due diligence review) and to structure and consummate the business combination
+(including negotiating and documenting relevant agreements and preparing requisite documents for filing pursuant to applicable
+corporate and securities laws) cannot be determined at this time. Our president intends to devote only a very small portion of
+his time to our affairs, and, accordingly, the consummation of a business combination may require a longer time than if he devoted
+his full time to our affairs. However, he will devote such time as he deems reasonably necessary to carry out our business and
+affairs. The amount of time devoted to our business and affairs may vary significantly depending upon, among other things, whether
+we have identified a target business or are engaged in active negotiation of a business combination. We anticipate that various prospective
+target businesses will be brought to our attention from various sources, including securities broker-dealers, investment bankers,
+venture capitalists, bankers and other members of the financial community, including, possibly, the executive officers and our
+affiliates. As a general rule, federal and state tax
+laws and regulations have a significant impact upon the structuring of business combinations. We will evaluate the possible tax
+consequences of any prospective business combination and will endeavor to structure a business combination so as to achieve the
+most favorable tax treatment to our company, the target business and our respective stockholders. There can be no assurance that
+the Internal Revenue Service or relevant state tax authorities will ultimately assent to our tax treatment of a particular consummated
+business combination. To the extent the Internal Revenue Service or any relevant state tax authorities ultimately prevail in recharacterizing
+the tax treatment of a business combination, there may be adverse tax consequences to our company, the target business, and our
+respective stockholders. We may acquire a company or business by
+purchasing the securities of such company or business. However, we do not intend to engage primarily in such activities. Specifically,
+we intend to conduct our activities so as to avoid being classified as an "investment company" under the Investment Company
+Act of 1940, as amended (the “Investment Act”) and therefore avoid application of the costly and restrictive registration
+and other provisions of the Investment Company Act and the regulations promulgated thereunder. 6 Section 3(a) of the Investment Company
+Act excepts from the definition of an "investment company" an entity which does not engage primarily in the business
+of investing, reinvesting or trading in securities, or which does not engage in the business of investing, owning, holding or trading
+"investment securities" (defined as "all securities other than government securities or securities of majority-owned
+subsidiaries") the value of which exceed 40% of the value of its total assets (excluding government securities, cash or cash
+items). We intend to operate any business in the future in a manner which will result in the availability of this exception from
+the definition of an investment company. Consequently, our acquisition of a company or business through the purchase and sale of
+investment securities will be limited. Although we intend to act to avoid classification as an investment company, the provisions
+of the Investment Company Act are extremely complex and it is possible that we may be classified as an inadvertent investment company.
+We intend to vigorously resist classification as an investment company, and to take advantage of any exemptions or exceptions from
+application of the Investment Company Act, which allows an entity a one-time option during any three-year period to claim an exemption
+as a "transient" investment company. The necessity of asserting any such resistance, or making any claim of exemption,
+could be time consuming and costly, or even prohibitive, given our limited resources. Various impediments to a business combination
+may arise, such as appraisal rights afforded the stockholders of a target business under the laws of its state of organization.
+This may prove to be deterrent to a particular combination. ITEM 1A. RISK FACTORS. IN ADDITION TO THE
+OTHER INFORMATION PROVIDED IN THIS REPORT, YOU SHOULD CAREFULLY CONSIDER THE FOLLOWING FACTORS IN EVALUATING OUR BUSINESS, OPERATIONS
+AND FINANCIAL CONDITION. ADDITIONAL RISKS AND UNCERTAINTIES NOT PRESENTLY KNOWN TO US, THAT WE CURRENTLY DEEM IMMATERIAL OR THAT
+ARE SIMILAR TO THOSE FACED BY OTHER COMPANIES IN OUR INDUSTRY OR BUSINESS IN GENERAL, SUCH AS COMPETITIVE CONDITIONS, MAY ALSO
+IMPAIR OUR BUSINESS OPERATIONS. THE OCCURRENCE OF ANY OF THE FOLLOWING RISKS COULD HAVE A MATERIAL ADVERSE EFFECT ON OUR BUSINESS,
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS. WE HAVE NO RECENT OPERATING HISTORY OR
+BASIS FOR EVALUATING PROSPECTS. Since September 30, 2005, we have no operating
+business or plans to develop one. We are currently seeking to enter into a merger or business combination with another company.
+To date, our efforts have been limited to meeting our regulatory filing requirements and searching for a merger target. We
+Have Limited Resources and No Revenues From Operations, and WILL Need Additional Financing in Order to Execute ANY Business Plan. We have limited resources, no revenues
+from operations to date and our cash on hand may not be sufficient to satisfy our cash requirements during the next twelve months.
+In addition, we will not achieve any revenues (other than insignificant investment income) until, at the earliest, the consummation
+of a merger and we cannot ascertain our capital requirements until such time. Further limiting our abilities to achieve revenues,
+in order to avoid status as an "Investment Company" under the Investment Company Act, we can only invest our funds prior
+to a merger in limited investments which do not invoke Investment Company status. There can be no assurance that determinations
+ultimately made by us will permit us to achieve our business objectives. 7 We
+Will Be Able to Effect At Most One Merger, and Thus May Not Have a Diversified Business. Our resources are limited and we will most
+likely have the ability to effect only a single merger. This probable lack of diversification will subject us to numerous economic,
+competitive and regulatory developments, any or all of which may have a material adverse impact upon the particular industry in
+which we may operate subsequent to the consummation of a merger. We will become dependent upon the development or market acceptance
+of a single or limited number of products, processes or services. We
+Depend SUBSTANTIALLY upon OUR PRESIDENT, Whose Experience Is Limited, to Make All Management Decisions. Our ability to effect a merger will be
+dependent upon the efforts of our president, Arnold Kling. Notwithstanding the importance of Mr. Kling, we have not entered into
+any employment agreement or other understanding with Mr. Kling concerning compensation or obtained any "key man" life
+insurance on any of his life. The loss of the services of Mr. Kling will have a material adverse effect on our business objectives
+and success. We rely upon the expertise of Mr. Kling and do not anticipate that we will hire additional personnel. THERE MAY BE CONFLICTS OF INTEREST BETWEEN
+OUR MANAGEMENT AND OUR NON-MANAGEMENT STOCKHOLDERS. Conflicts of interest create the risk that
+management may have an incentive to act adversely to the interests of other investors. Our officers may be entitled to receive
+compensation from a target company they identify or provide services to in connection with a business combination. A conflict of
+interest may arise between our management’s personal pecuniary interest and their fiduciary duty to our stockholders. Further,
+our management’s own pecuniary interest may at some point compromise their fiduciary duty to our stockholders. In addition,
+Messrs. Kling and Warshaw, our officers and directors, are currently involved with other blank check offerings and conflicts in
+the pursuit of business combinations with such other blank check companies with which they are, and may in the future be affiliated
+with, may arise. If we and the other blank check companies that our officers and directors are affiliated with desire to take advantage
+of the same opportunity, then those officers and directors that are affiliated with both companies would abstain from voting upon
+the opportunity. We cannot assure you that conflicts of interest among us, our management and our stockholders will not develop. THERE IS COMPETITION FOR THOSE PRIVATE
+COMPANIES SUITABLE FOR A MERGER TRANSACTION OF THE TYPE CONTEMPLATED BY MANAGEMENT. We are in a highly competitive market for
+a small number of business opportunities which could reduce the likelihood of consummating a successful business combination. We
+are and will continue to be an insignificant participant in the business of seeking mergers with, joint ventures with and acquisitions
+of small private and public entities. A large number of established and well-financed entities, including small public companies
+and venture capital firms, are active in mergers and acquisitions of companies that may be desirable target candidates for us.
+Nearly all these entities have significantly greater financial resources, technical expertise and managerial capabilities than
+we do; consequently, we will be at a competitive disadvantage in identifying possible business opportunities and successfully completing
+a business combination. These competitive factors may reduce the likelihood of our identifying and consummating a successful business
+combination. FUTURE SUCCESS IS HIGHLY DEPENDENT ON THE
+ABILITY OF MANAGEMENT TO LOCATE AND ATTRACT A SUITABLE ACQUISITION. The nature of our operations is highly
+speculative. The success of our plan of operation will depend to a great extent on the operations, financial condition and management
+of the identified business opportunity. While management intends to seek business combination(s) with entities having established
+operating histories, we cannot assure you that we will be successful in locating candidates meeting that criterion. In the event
+we complete a business combination, the success of our operations may be dependent upon management of the successor firm or venture
+partner firm and numerous other factors beyond our control. 8 WE HAVE NO AGREEMENT FOR A BUSINESS COMBINATION
+OR OTHER TRANSACTION. We have no agreement with respect to engaging
+in a merger with, joint venture with or acquisition of, a private or public entity. No assurances can be given that we will successfully
+identify and evaluate suitable business opportunities or that we will conclude a business combination. Management has not identified
+any particular industry or specific business within an industry for evaluation. We cannot guarantee that we will be able to negotiate
+a business combination on favorable terms, and there is consequently a risk that funds allocated to the purchase of our shares
+will not be invested in a company with active business operations. MANAGEMENT WILL CHANGE UPON THE CONSUMMATION
+OF A MERGER. After the closing of a merger or business
+combination, it is likely our current management will not retain any control or managerial responsibilities. Upon such event, Mr.
+Kling and Mr. Warshaw intend to resign from their positions with us. CURRENT STOCKHOLDERS WILL BE IMMEDIATELY
+AND SUBSTANTIALLY DILUTED UPON A MERGER OR BUSINESS COMBINATION. Our Certificate of Incorporation authorized
+the issuance of 100,000,000 shares of our Common Stock. There are currently 97,928,456 authorized but unissued shares of Common
+Stock available for issuance. To the extent that additional shares of Common Stock are authorized and issued in connection with
+a merger or business combination, our stockholders could experience significant dilution of their respective ownership interests.
+Furthermore, the issuance of a substantial number of shares of Common Stock may adversely affect prevailing market prices, if any,
+for our Common Stock and could impair our ability to raise additional capital through the sale of equity securities. CONTROL BY EXISTING STOCKHOLDERS. Hudson and Iroquois beneficially own almost
+68% of the outstanding shares of our Common Stock. As a result, these stockholders are able to exercise control over matters requiring
+stockholder approval, including the election of directors, and the approval of mergers, consolidations and sales of all or substantially
+all of our assets. OUR COMMON STOCK IS A "PENNY STOCK"
+WHICH MAY RESTRICT THE ABILITY OF STOCKHOLDERS TO SELL OUR COMMON STOCK IN THE SECONDARY MARKET. The SEC has adopted regulations which generally
+define "penny stock" to be an equity security that has a market price, as defined, of less than $5.00 per share, or an
+exercise price of less than $5.00 per share, subject to certain exceptions, including an exception of an equity security that is
+quoted on a national securities exchange. Our Common Stock is not now quoted on a national exchange but is traded on the OTCQB
+of the OTC Markets (“OTCQB”). Thus, they are subject to rules that impose additional sales practice requirements on
+broker-dealers who sell these securities. For example, the broker-dealer must make a special suitability determination for the
+purchaser of such securities and have received the purchaser's written consent to the transactions prior to the purchase. Additionally,
+the rules require the delivery, prior to the transaction, of a disclosure schedule prepared by the SEC relating to the penny stock
+market. The broker-dealer also must disclose the commissions payable to both the broker-dealer and the registered underwriter,
+and current quotations for the securities, and, if the broker-dealer is the sole market maker, the broker-dealer must disclose
+this fact and the broker-dealer's presumed control over the market. Finally, among other requirements, monthly statements must
+be sent disclosing recent price information for the penny stock held in the account and information on the limited market in penny
+stocks. The "penny stock" rules, may restrict the ability of our stockholders to sell our Common Stock and warrants in
+the secondary market. 9 OUR COMMON STOCK HAS BEEN THINLY TRADED,
+LIQUIDITY IS LIMITED, AND WE MAY BE UNABLE TO OBTAIN LISTING OF OUR COMMON STOCK ON A MORE LIQUID MARKET. Our Common Stock is quoted on the OTCQB,
+which provides significantly less liquidity than a securities exchange (such as the NYSE MKT, New York Stock Exchange or the NASDAQ).
+There is uncertainty that we will ever be accepted for a listing on a national securities exchange. Often there is currently a limited volume of trading in our
+Common Stock, and on many days there has been no trading activity at all. The purchasers of shares of our Common Stock may find
+it difficult to resell their shares at prices quoted in the market or at all. ITEM 1B. UNRESOLVED STAFF COMMENTS. None. ITEM 2. PROPERTIES. Our principal offices are located
+at 131 Columbia Turnpike, Suite 1, Florham Park, NJ. We have occupied our principal offices on a month to month basis since
+January 2014. We do not own or intend to invest in any real property. We currently have no policy with respect to
+investments or interests in real estate, real estate mortgages or securities of, or interests in, persons primarily engaged
+in real estate activities. ITEM 3. LEGAL PROCEEDINGS. None. ITEM 4. MINE SAFETY DISCLOSURE Not applicable. 10 PART II ITEM 5. MARKET FOR OUR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. (a) Market Information . Our Common Stock is traded
+on the OTCQB market under the symbol "TWFH". The following table sets forth the high and low bid prices for our Common
+Stock for the periods indicated and as reported on the OTCQB. Such quotations reflect inter-dealer prices, without retail mark-up,
+markdown or commission and may not necessarily represent actual transactions. Bid Price High Low 2014 First Quarter $ 1.00 $ 0.024 Second Quarter $ 1.00 $ 1.00 Third Quarter $ 1.00 $ 0.01 Fourth Quarter $ 0.101 $ 0.061 2013 First Quarter $ 0.35 $ 0.10 Second Quarter $ 0.33 $ 0.032 Third Quarter $ 030 $ 0.01 Fourth Quarter $ 0.025 $ 0.02 (b) Holders . As of March 26, 2015, there were 124
+record holders of our Common Stock. (c) Dividend Policy We have not declared or paid any cash dividends
+on our Common Stock and do not intend to declare or pay any cash dividend in the foreseeable future. The payment of dividends,
+if any, is within the discretion of the Board of Directors and will depend on our earnings, if any, our capital requirements and
+financial condition and such other factors as the Board of Directors may consider. ITEM 6. SELECTED FINANCIAL DATA. As a smaller reporting company, as defined in Rule 12b-2 of
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”), we are not required to provide the information
+required by this item. ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS. GENERAL Our plan is to seek, investigate, and consummate
+a merger or other business combination, purchase of assets or other strategic transaction (i.e. a merger) with a corporation, partnership,
+limited liability company or other operating business entity (a "Merger Target") desiring the perceived advantages of
+becoming a publicly reporting and publicly held corporation. We have no operating business, and conduct minimal operations necessary
+to meet regulatory requirements. Our ability to commence any operations is contingent upon obtaining adequate financial resources. 11 We are not currently engaged in any business
+activities that provide cash flow. We believe that the costs of investigating and analyzing business combinations will be paid
+with money in our treasury. During the next twelve months we anticipate
+incurring costs related to: (i) filing of Exchange Act reports, and (ii) costs relating to identifying and consummating a transaction
+with a Merger Target. We believe we will be able to meet these
+costs through use of funds in our treasury and additional amounts, as necessary, to be loaned to or invested in us by our stockholders,
+management or other investors. We may consider a business which has recently
+commenced operations, is a developing company in need of additional funds for expansion into new products or markets, is seeking
+to develop a new product or service, or is an established business which may be experiencing financial or operating difficulties
+and is in need of additional capital. In the alternative, a business combination may involve the acquisition of, or merger with,
+a company which does not need substantial additional capital, but which desires to establish a public trading market for its shares,
+while avoiding, among other things, the time delays, significant expense, and loss of voting control which may occur in a public
+offering. On November 22, 2005, following the filing
+of our 10-Q for the quarter ended September 30, 2005, Arnold P. Kling joined us as our president and Kirk M. Warshaw joined us
+as our chief financial officer and secretary. Messrs. Kling and Warshaw are only required to devote a small portion of their time
+(less than 10%) to our affairs on a part-time or as-needed basis. No regular compensation has or will be paid to any officer or
+director in their capacities as such. We do not anticipate hiring any full-time employees as long as we are seeking and evaluating
+business opportunities. Since September 30, 2005, we had not incurred
+any material costs or expenses other than those associated with our minimal operations necessary to meet regulatory requirements.
+As of December 31, 2014 we had cash on hand of $75,532 and negative working capital of $843. Since we have no revenue or plan to
+generate any revenue, when our accounts payable and accrued expenses exceed our cash on-hand we will be dependent upon loans or
+contributions of capital to fund obligations in excess of our cash. We have historically relied upon funding
+through capital contributions from our majority stockholders, Failure to receive funding will cause us to cease operations. EQUIPMENT AND EMPLOYEES As of December 31, 2014, we had no operating
+business, no equipment, and no employees. We do not intend to develop our own operating business but instead plan to merge with
+another operating company. Results of Operations Continuing
+Operating Results For The Fiscal Year Ended December 31, 2014 Compared To The Fiscal Year
+Ended December 31, 2013 Because we have not had any business operations
+since September 30, 2005, we had no revenues during the years ended December 31, 2014 and 2013, respectively. We did, however,
+recognize $23,063 of Other Income in 2013 which was realized when we negotiated a discounted payment to a vendor in full satisfaction
+of an obligation to that vendor. Total expenses for the years ended December 31, 2014 decreased to $97,110, as compared to $117,280
+for the same period in 2013. The majority of these expenses primarily constituted general and administrative
+expenses related to accounting and compliance with the Exchange Act. For the year ended December 31, 2013 expenses associated with
+the aforementioned events related to the conversion of Infinicom’s rights to the Infinicom Additional Shares and the sale
+and issuance of shares of our Common Stock to Hudson and Iroquois were incurred. For the year ended December 31, 2014 we incurred
+interest expense associated with the 2014 Notes to Hudson and Iroquois. 12 Liquidity and Capital Resources Our principal source of operating capital
+recently has been provided in the form of loans and capital contributions from our stockholders. We do not have any revenues from
+any operations absent a merger or other combination with an operating company and no assurance can be given that such a merger
+or other combination will occur or that we can engage in any public or private sales of our equity or debt securities to raise
+working capital. We are dependent upon future loans from our present stockholders or management and there can be no assurances
+that our present stockholders or management will make any loans to us. At December 31, 2014, we had cash of $75,532 and negative
+working capital of $843. Our present material commitments are professional
+and administrative fees and expenses associated with the preparation of filings with the SEC and other regulatory requirements.
+In the event that we engage in any merger or other combination with an operating company, it is likely that we will have additional
+material commitments. We have limited resources, no revenues
+from operations to date and our cash on hand is not sufficient to satisfy our cash requirements beyond the third fiscal quarter
+of 2015. We have historically relied upon funding through capital contributions and loans from our majority stockholders. Failure to receive funding when needed or on terms acceptable to us will cause us to cease operations. Commitments We do not have any commitments which are required to be disclosed
+in tabular form as of December 31, 2014. Off-Balance Sheet Arrangements As of December 31, 2014, we have no off-balance
+sheet arrangements such as guarantees, retained or contingent interest in assets transferred, obligation under a derivative instrument
+and obligation arising out of or a variable interest in an unconsolidated entity. ITEM 7A
