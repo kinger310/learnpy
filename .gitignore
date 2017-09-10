@@ -8,3 +8,6 @@ build
 
 # My config
 .idea/
+.ipynb_checkpoints/
+MDA/
+*.model.*
