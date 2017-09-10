@@ -1,0 +1,37 @@
+In this paper, two kinds of improved S-Shape heuristics for two order pickers are considered to compare with A-TOP.
+
+
+Recently, the congestion issue caused by multiple order pickers that work in the same zone arouses concerns among researchers. Pan and Shih (2008) and Pan, Shih, and Wu (2012) proposed throughput rate as the performance criterion to evaluate the order picking efficiency with congestion consideration. Parikh and Meller (2009, 2010) developed the analytical models to estimate worker blocking in both wide-aisle and narrow-aisle order picking systems by changing the pick:walk-time ratio. Pan and Wu (2012) developed a heuristic storage assignment policy that considers both the travel time and the waiting time simultaneously by minimizing the average order fulfillment time. Hong, Johnson, and Peters (2013) proposed an integrated batching and sequencing procedure called the indexed batching model (IBM), with the objective of minimizing the total retrieval time with consideration for picker blocking. However, to date, congestion is rarely considered in order picker routing algorithm.
+
+最近，在同一地区工作的多个订单拣选者造成的拥挤问题引起了研究人员的关注。
+Pan and Shih (2008) and Pan, Shih, and Wu (2012)提出了以吞吐率衡量考虑拥堵的订单拣选效率
+Parikh和Meller（2009年，2010年）开发了分析模型，通过改变步行时间比，来估计宽通道和窄通道订单拣选系统中的工人阻塞。
+Pan and Wu (2012)发明了一种启发式存储分配策略，通过最小化平均订单拣选时间，同时考虑旅行时间和等待时间。
+Hong，Johnson和Peters（2013）提出了一种称为索引批次模型（IBM）的集成批处理和排序程序，目的是通过考虑拥堵下的最小化总检索时间。
+然而，到目前为止，在拣货路径算法中,很少考虑阻塞问题。
+
+(1) Each item is independent of the other items within an order.
+(2) The time of finishing a pick is constant
+(3) The speed of a picker is constant.
+(4) There is no travel direction constraint for pickers in both cross aisles and pick aisles.
+(5) Single depot situation is considered. The route starts from and ends at the depot.
+(6) Pick-by-order policy is chosen, which means the order can not be spread.
+(7) There is a time interval between each arrival time of orders, which means that order pickers start to pick at different times, which is in line with the actual situation, order pickers often do not set out for picking at the same time.
+
+（1）每个订单中的库存单位相互独立。
+（2）（在货位处）完成拣取货物的时间是一样的
+（3）工人的速度是恒定的。
+（4）在交叉通道和拣选通道中，拣选者没有行驶方向限制。
+（5）考虑单库情况。 起始点和终点是同一点。
+（6）选择按顺序选项，这意味着订单不能分摊（或者分若干次进行）。一次拣选一定包含一个完整的订单。
+（7）订单到达时间之间有时间间隔，这意味着订单拣选者在不同时间开始选择，这与实际情况相符，订单拣选者通常不会同时进行拣货。
+
+
+The most important reason is that, in ACO, ant travels from one pick to another to construct the picking route. The rules to deal with the congestion can be used in the route constructing process.
+A basic structure of ACO, which has already been illustrated in Neto and Filho (2011), is considered here as shown in Fig. 2.
+最重要的原因是，在ACO中，蚂蚁从一个选择传递到另一个，构建优化路线。 在路由构建过程中可以使用处理拥塞的规则。
+
+
+To consider the congestion, each ant should make clear whether there are barriers along its route, for example, some picking points or subaisles are occupied by other order pickers.
+Therefore, a tabu list is required to record the inaccessible time of each location. After constructing a route, the tabu list will be updated by recording the accessed time of each location by the current order picker, which means inaccessible time for other pickers. By exploiting the tabu list, we could construct a route of visiting all the picks without causing congestion in subaisles. To avoid accessing one location at the same time, the latter order picker may have to wait for a while at the entrance of the subaisle. As a result, the actual travel cost will not only be defined by Manhattan distance but also should take the waiting time into account. Therefore, a logic travel distance which means the sum of waiting time and walking time is proposed to measure this travel cost, and this logic travel distance should be determined by some dedicated rules according to the spatial relationship between two picks.
+为了考虑拥堵，每个蚂蚁都应该清楚其路线上是否存在障碍，例如，其他拣选者占用了一些采摘点或者通道。因此，需要禁忌列表来记录每个位置的无法访问的时间。构建路线后，禁止列表将通过记录当前订单选择器的每个位置的访问时间来更新，这意味着其他选择器无法访问的时间。通过利用禁忌列表，我们可以构建一个访问所有选择的路由，而不会引起混乱。 为了避免同时访问一个位置，后一个订单选择器可能需要等待一段时间在subaisle的入口处。 因此，实际的旅行费用不仅由曼哈顿距离定义，而且应考虑等待时间。 因此，提出了一种意味着等待时间和步行时间之和的逻辑行程距离，用于测量这个旅行成本，这个逻辑行程距离应该根据两个选择之间的空间关系由一些专门的规则来确定。
