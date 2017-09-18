@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 # Gradient Descent 梯度下降法
 # https://ctmakro.github.io/site/on_learning/gd.html
 # 已知 x0 * x1 + x0 * x2^2 + x1 + x1^3 + x2 + x2^5 + x3 + x3^7 - 15 = 0, 求 x0, x1, x2和x3.
