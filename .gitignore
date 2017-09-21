@@ -7,6 +7,7 @@ dist
 build
 
 # My config
+*.pkl
 .idea/
 .ipynb_checkpoints
 MDA/
