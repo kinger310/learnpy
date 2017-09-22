@@ -1,0 +1,31 @@
+1.接到需求开始干活
+git checkout master  -- 先回到master
+git pull origin master  --让master跟远程仓库一致
+git checkout -b ftr/new_feature  --新建需求分支
+开始码
+
+2.活干完了，自测ok
+git add  --add到暂存区
+git commit --提交到本地
+git checkout master --回到master
+git pull origin master --把别人合到master的代码拉下来
+git checkout  ftr/new_feature -- 回到自己的需求分支
+git rebase master --把master跟自己的合并下
+
+如果产生conflict， 修改一致，(git diff)
+然后git add 修改的文件
+然后 git rebase --continue
+
+git push origin ftr/new_feature --把需求分支推到远程仓库（第二次推可能需要加 -f 表示强制覆盖）
+
+3.开始讨论并测试
+提一个merge request让大家看下有没有毛病，讨论并修改代码（修改代码参考第2步）
+同时可以给 ftr/new_feature 分支打个tag 部署到测试环境与预发布环境测试下
+
+4.上线！
+批准merge request把代码合并到master
+给master打个tag，用jenkins 部署到生产环境
+
+
+删除分支
+git br -D my_branch
