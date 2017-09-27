@@ -4,14 +4,15 @@ import numpy as np
 from math import radians, cos, sin, asin, sqrt
 from random import random, randint
 
-
 # 参数
-m = 31                             # 蚂蚁数量
-alpha = 1                          # 信息素重要程度因子
-beta = 5                           # 启发函数重要程度因子
-vol = 0.2                          # 信息素挥发(volatilization)因子
-Q = 10                              # 常系数
-iter_max = 50                     # 最大迭代次数
+m = 31  # 蚂蚁数量
+alpha = 1  # 信息素重要程度因子
+beta = 5  # 启发函数重要程度因子
+vol = 0.2  # 信息素挥发(volatilization)因子
+Q = 10  # 常系数
+iter_max = 100  # 最大迭代次数
+
+
 # Heu_F = 1./D                       # 启发函数(heuristic function) η
 # Tau = ones(n,n)                    # 信息素矩阵
 # Table = zeros(m,n)                 # 路径记录表
@@ -26,6 +27,7 @@ class Node(object):
     """
     构造节点，计算两个节点间的距离
     """
+
     def __init__(self, x, y):
         self.x = x
         self.y = y
@@ -38,11 +40,12 @@ class Graph(object):
     """
     由节点构造图，涉及图的节点距离、总距离等信息
     """
-    def __init__(self, nodes, alpha=1, beta=5, min_pheromone=0.01, vol=0.2, Q=10):
+
+    def __init__(self, nodes, alpha=1, beta=5, init_pheromone=0.01, vol=0.2, Q=10):
         self.nodes = nodes
         self.alpha = alpha
         self.beta = beta
-        self.min_pheromone = min_pheromone
+        self.init_pheromone = init_pheromone
         self.vol = vol
         self.Q = Q
         self._distances = {}
@@ -54,21 +57,21 @@ class Graph(object):
                 distance = node.distance(self.nodes[j])
                 self._distances[(i, j)] = distance
                 self.total_distance += distance
-                self._pheromones[(i, j)] = min_pheromone
+                self._pheromones[(i, j)] = init_pheromone
                 self._deposit[(i, j)] = Q / distance
 
-    def _get_distance(self, i, j):
+    def get_distance(self, i, j):
         return self._distances.get((i, j)) or self._distances.get((j, i))
 
     def get_path_distance(self, path):
         distance = 0
         path_len = len(path)
         for i in range(path_len):
-            distance += self._get_distance(path[i], path[(i + 1) % path_len])
+            distance += self.get_distance(path[i], path[(i + 1) % path_len])
         return distance
 
     def heu_dis_fun(self, i, j):
-        return self._get_distance(i, j) ** -1
+        return self.get_distance(i, j) ** -1
 
     def get_pheromone(self, i, j):
         return self._pheromones.get((i, j), 0) or self._pheromones.get((j, i), 0)
@@ -82,21 +85,30 @@ class Graph(object):
             (self.heu_dis_fun(i, j) ** self.beta)
         )
 
-    def update_pheromones(self, ant_colony):
+    def update_pheromones(self, ant_colony, i):
         """
         Updates pheromones between nodes globally
         """
+        min_distance = ant_colony.min_distance
         for node_pair in self._pheromones:
             self._pheromones[node_pair] *= (1 - self.vol)
         for ant in ant_colony.ants:
             distance = self.get_path_distance(ant.path)
-            if distance <= ant_colony.min_distance:
-                for node_pair in ant.get_passes():
+            for node_pair in ant.get_passes():
+                # self._pheromones[node_pair] += self.Q / ant.distance
+                if distance <= 1.1 * min_distance:
                     self._pheromones[node_pair] += self.Q / ant.distance
-        for node_pair in self._pheromones:
-            self._pheromones[node_pair] = max(
-                self._pheromones[node_pair], self.min_pheromone
-            )
+        # for node_pair in self._pheromones:
+        #     self._pheromones[node_pair] = max(
+        #         self._pheromones[node_pair], self.init_pheromone
+        #     )
+        # p = 0.005 ** (1 / (i+1))
+        # min_pheromone = self.init_pheromone * (1 - p) / ((len(self.nodes) / 2 - 1) * p)
+        # for node_pair in self._pheromones:
+        #     if self._pheromones[node_pair] > self.init_pheromone:
+        #         self._pheromones[node_pair] = self.init_pheromone
+        #     elif self._pheromones[node_pair] < min_pheromone:
+        #         self._pheromones[node_pair] = min_pheromone
 
     def local_update_pheromones(self, passes):
         n = len(self.nodes)
@@ -110,6 +122,7 @@ class AntColony(object):
     """
     Ant colony representation
     """
+
     def __init__(self, m):
         self.ants = []
         self.m = m
@@ -118,6 +131,7 @@ class AntColony(object):
 
     def reset_ants(self, n):
         # 随机产生蚂蚁的起点城市
+        self.ants = []
         for _ in range(self.m):
             self.ants.append(Ant(randint(0, n - 1)))
 
@@ -135,7 +149,7 @@ class AntColony(object):
                 ant.go_to_next(graph, available)
                 available = all_nodes - set(ant.path)
 
-            graph.local_update_pheromones(passes=ant.get_passes())
+            # graph.local_update_pheromones(passes=ant.get_passes())
             ant.get_distance(graph=graph)
 
             if self.min_distance > ant.distance:
@@ -160,14 +174,20 @@ class Ant(object):
         for node_index in available:
             probabilities[node_index] = graph.get_probability(self.path[-1], node_index)
             total += probabilities[node_index]
-        # 轮盘赌法访问下一个节点
-        threshold = random()
-        probability = 0
-        for node_index in available:
-            probability += probabilities[node_index] / total
-            if threshold < probability:
-                self.path.append(node_index)
-                return
+        q = random()
+        if q <= 0.5:
+            node = max(probabilities, key=lambda x: probabilities[x])
+            self.path.append(node)
+            return
+        else:
+            # 轮盘赌法访问下一个节点
+            threshold = random()
+            probability = 0
+            for node_index in available:
+                probability += probabilities[node_index] / total
+                if threshold < probability:
+                    self.path.append(node_index)
+                    return
         self.path.append(available.pop())
 
     def get_distance(self, graph):
@@ -184,19 +204,18 @@ class Ant(object):
 def main():
     df_city = pd.read_excel(r'E:\PycharmProjects\learnpy\learn_model\data\Chap9_citys_data.xlsx', sheetname='Sheet2')
     nodes = [Node(z.x, z.y) for z in df_city.itertuples()]
-    graph = Graph(nodes=nodes, beta=5, vol=0.001, Q=10)
+    graph = Graph(nodes=nodes, beta=5, vol=0.2, init_pheromone=0.01, Q=10)
     ant_colony = AntColony(m)
     dis_result = []
     for i in range(iter_max):
         ant_colony.do_cycles(graph)
-        graph.update_pheromones(ant_colony)
+        graph.update_pheromones(ant_colony, i)
         min_distance = ant_colony.min_distance
         shortest_path = ant_colony.shortest_path
         dis_result.append((i, min_distance, shortest_path))
 
     # pd.to_pickle(dis_result, 'aaa.pkl')
     print('ok')
-
 
 
 if __name__ == '__main__':

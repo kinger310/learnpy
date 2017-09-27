@@ -11,7 +11,7 @@ alpha = 1                          # 信息素重要程度因子
 beta = 5                           # 启发函数重要程度因子
 vol = 0.2                          # 信息素挥发(volatilization)因子
 Q = 10                              # 常系数
-iter_max = 50                     # 最大迭代次数
+iter_max = 1000                     # 最大迭代次数
 # Heu_F = 1./D                       # 启发函数(heuristic function) η
 # Tau = ones(n,n)                    # 信息素矩阵
 # Table = zeros(m,n)                 # 路径记录表
@@ -26,12 +26,15 @@ class Node(object):
     """
     构造节点，计算两个节点间的距离
     """
-    def __init__(self, x, y):
+    def __init__(self, x, y, d):
         self.x = x
         self.y = y
+        self.d = d
 
     def distance(self, node):
         return sqrt((self.x - node.x) ** 2 + (self.y - node.y) ** 2)
+
+
 
 
 class Graph(object):
@@ -89,21 +92,19 @@ class Graph(object):
         for node_pair in self._pheromones:
             self._pheromones[node_pair] *= (1 - self.vol)
         for ant in ant_colony.ants:
-            distance = self.get_path_distance(ant.path)
-            if distance <= ant_colony.min_distance:
-                for node_pair in ant.get_passes():
-                    self._pheromones[node_pair] += self.Q / ant.distance
+            # distance = self.get_path_distance(ant.path)
+            # if distance <= ant_colony.min_distance:
+            for node_pair in ant.get_passes():
+                self._pheromones[node_pair] += self.Q / ant.distance
         for node_pair in self._pheromones:
             self._pheromones[node_pair] = max(
                 self._pheromones[node_pair], self.min_pheromone
             )
 
-    def local_update_pheromones(self, passes):
-        n = len(self.nodes)
-        L_nn = min(self._distances.values())
-        for i, j in passes:
-            self._pheromones[(i, j)] *= (1 - self.vol)
-            self._pheromones[(i, j)] += self.vol / (n * L_nn)
+    # def update_pheromones(self, passes):
+    #     for i, j in passes:
+    #         self._pheromones[(i, j)] *= (1 - self.vol)
+    #         self._pheromones[(i, j)] += self._deposit[(i, j)]
 
 
 class AntColony(object):
@@ -135,7 +136,7 @@ class AntColony(object):
                 ant.go_to_next(graph, available)
                 available = all_nodes - set(ant.path)
 
-            graph.local_update_pheromones(passes=ant.get_passes())
+            # graph.update_pheromones(passes=ant.get_passes())
             ant.get_distance(graph=graph)
 
             if self.min_distance > ant.distance:
@@ -182,9 +183,9 @@ class Ant(object):
 
 
 def main():
-    df_city = pd.read_excel(r'E:\PycharmProjects\learnpy\learn_model\data\Chap9_citys_data.xlsx', sheetname='Sheet2')
+    df_city = pd.read_excel(r'E:\PycharmProjects\learnpy\learn_model\Chap9_citys_data.xlsx', sheetname='Sheet2')
     nodes = [Node(z.x, z.y) for z in df_city.itertuples()]
-    graph = Graph(nodes=nodes, beta=5, vol=0.001, Q=10)
+    graph = Graph(nodes=nodes)
     ant_colony = AntColony(m)
     dis_result = []
     for i in range(iter_max):
@@ -194,8 +195,9 @@ def main():
         shortest_path = ant_colony.shortest_path
         dis_result.append((i, min_distance, shortest_path))
 
-    # pd.to_pickle(dis_result, 'aaa.pkl')
+    pd.to_pickle(dis_result, 'aaa.pkl')
     print('ok')
+
 
 
 
@@ -203,7 +205,7 @@ if __name__ == '__main__':
     main()
 
 
-# import pickle
-#
-# with open(r'E:\PycharmProjects\learnpy\learn_model\aaa.pkl', 'rb') as file:
-#     pickle.load(file)
+import pickle
+
+with open(r'E:\PycharmProjects\learnpy\learn_model\aaa.pkl', 'rb') as file:
+    pickle.load(file)
