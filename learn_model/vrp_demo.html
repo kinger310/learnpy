@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <title>批量地址</title>
+    <style type="text/css">
+        body,
+        html {
+            width: 100%;
+            height: 100%;
+            font-family: "微软雅黑";
+        }
+
+        #l-map {
+            height: 500px;
+            width: 100%;
+        }
+
+        #r-result {
+            width: 100%;
+            font-size: 14px;
+            line-height: 20px;
+        }
+        /*#result {
+            float: left;
+        }
+
+        #sites {
+            float: right;
+        }*/
+    </style>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=kbeMWWFrA3P7NAsh9Ni2ABCM7HI8yNUT"></script>
+</head>
+
+<body>
+    <div id="l-map"></div>
+    <div id="r-result">
+        <div>
+            <input type="button" value="地址解析" onclick="bdGEO()" />
+            <input type="button" value="路线计算" onclick="vrpSolve()" />
+            <input type="button" value="车辆调度" onclick="run()" />
+        </div>
+        <div id="result"></div>
+        <div id="sites"></div>
+        <div id="metrix"></div>
+    </div>
+</body>
+
+</html>
+<script type="text/javascript">
+    // 百度地图API功能
+    var map = new BMap.Map("l-map");
+    map.centerAndZoom("福州市", 13);
+    map.enableScrollWheelZoom(true);
+    var index = 0;
+    var myGeo = new BMap.Geocoder();
+    var adds = [
+        '利嘉路利嘉电子城沃尔玛购物广场1层',
+        '福建省福州市台江区八一七中路888号群升国际AD块1号楼转角处',
+        '浦上大道306号乐都汇购物中心一楼(F1L029号商铺)',
+        '上街国宾大道233号博仕后时代购物广场',
+        '福州市福新中路90号',
+        '福州鼓楼区杨桥东路8号华都商业大厦2楼(近东百大楼)',
+        '台江路95号东百元洪购物广场(近台江广场车站) 东百元洪购物广场2层',
+        '福州市华林路188号',
+        '工业路193号宝龙城市广场宝龙城市广场西区1层',
+        '福州晋安区福马路199号大华都购物广场',
+        '福州市台江区西环中路691号万象城F1',
+        '工业路233号苏宁广场1～ 5 层福州苏宁广场B1层',
+        '黎明街15号',
+        '鳌江路8号福州台江金融街万达广场1层106 / 2 层266',
+        '福州市台江区八一七南路中亭街F区中亭街8090时尚广场F2',
+    ];
+    var sites = [];
+    var D = [];
+    var amounts = [
+        0.5,
+        0.9,
+        1, 1,
+        1.2,
+        0.7,
+        0.9,
+        0.6,
+        0.5,
+        1.0,
+        1.1,
+        0.7,
+        0.6,
+        0.9,
+        0.8,
+        0.7,
+    ]
+    function bdGEO() {
+        var add = adds[index];
+        geocodeSearch(add);
+        index++;
+    }
+    function geocodeSearch(add) {
+        if (index < adds.length) {
+            setTimeout(window.bdGEO, 400);
+        } else {
+        }
+        myGeo.getPoint(add, function(point) {
+            if (point) {
+                sites.push([point.lng, point.lat]);
+                document.getElementById("result").innerHTML += index + "、" + add + ":" + point.lng + "," + point.lat + "</br>";
+                var address = new BMap.Point(point.lng, point.lat);
+                addMarker(address, new BMap.Label(index + ":" + add, {
+                    offset: new BMap.Size(20, -10)
+                }));
+            }
+        }, "福州市");
+    }
+    // 编写自定义函数,创建标注
+    function addMarker(point, label) {
+        var marker = new BMap.Marker(point);
+        map.addOverlay(marker);
+        marker.setLabel(label);
+    }
+    var ttt = false;
+    function vrpSolve() {
+        if (ttt == false) {
+            // 距离矩阵初始化
+            for (var i = 0, N = sites.length; i < N; i++) {
+                D[i] = [];
+                for (var j = 0; j < N; j++) {
+                    tp_dist(i, j);
+                }
+            }
+        }
+        ttt = true;
+    }
+    function tp_dist(x, y) {
+        //alert('mmas for vrp');
+        var output;
+        var searchComplete = function(results) {
+            if (transit.getStatus() != BMAP_STATUS_SUCCESS) {
+                return;
+            }
+            var plan = results.getPlan(0);
+            output = plan.getDistance(false); //获取距离
+            D[x][y] = output;
+            document.getElementById("sites").innerHTML += 'D[' + x + '][' + y + ']: ' + D[x][y] + '</br>';
+        }
+        var transit = new BMap.DrivingRoute(map, {
+            onSearchComplete: searchComplete
+        });
+        var start = new BMap.Point(sites[x][0], sites[x][1]);
+        var end = new BMap.Point(sites[y][0], sites[y][1]);
+        transit.search(start, end);
+    }
+    function mmas_vrp(sites, amounts, c, f) {
+        /** 定义：
+         *  变量与函数
+         */
+        var M = 20,
+            N, T = 300,
+            SITES = sites,
+            ALPHA = 1,
+            BETA = 5,
+            RHO = 0.75,
+            MAX = 10,
+            MIN = 0.01,
+            Q = 100,
+            TAU = [],
+            AMOUNTS = amounts,
+            tabus = [],
+            allowed = [],
+            giveup = [],
+            capacity = [],
+            site = [],
+            travel = [],
+            C = c,
+            F = f,
+            best_ant, l_len, l_rout = [],
+            g_len, g_rout = [],
+            p, path_lengthes = [];
+        N = SITES.length;
+        // 计算两点间距离
+        // 计算一条路径的长度
+        function rout_dist(rout) {
+            var len = rout.length;
+            if (len < 2) {
+                return;
+            } else {
+                var pathLength = 0;
+                for (var i = 0; i < len - 1; i++) {
+                    pathLength += D[rout[i]][rout[i + 1]];
+                }
+                return pathLength;
+            }
+        }
+        // 计算边（i，j）的eta值
+        function eta(i, j) {
+            var x = 1 / D[i][j];
+            if (isNaN(x)) {
+                D[i][j] = tp_dist(i, j);
+                console.log('D[' + i + '][' + j + ']: ' + D[i][j]);
+                alert('请重新调度');
+                throw new Error('eta is not a number');
+            }
+            return x;
+        }
+        // 转移概率（分子部分）
+        function pk(i, j) {
+            var x;
+            if (i == j) {
+                return 0;
+            } else {
+                x = Math.pow(TAU[i][j], ALPHA) * Math.pow(eta(i, j), BETA);
+                if (isNaN(x)) {
+                    throw new Error('pk is not a number');
+                }
+                return x;
+            }
+        }
+        // 数组求和
+        function sum(a) {
+            var sum = 0;
+            for (var i = 0; i < a.length; i++) {
+                sum += a[i];
+            }
+            return sum;
+        }
+        // 生成一个随机数，返回其在一组区间中的位置（选择下一站点）
+        function chose(p) {
+            var r = Math.random(),
+                z = 0;
+            for (var i = 0; i < p.length; i++) {
+                z += p[i];
+                if (r < z) {
+                    return i;
+                }
+            }
+        }
+        // 返回数组中最小值的索引
+        function select_min(a) {
+            var min = a[0],
+                index = 0;
+            for (var i = 1; i < a.length; i++) {
+                if (min > a[i]) {
+                    min = a[i];
+                    index = i;
+                }
+            }
+            return index;
+        }
+        // 移动蚂蚁k到站点j
+        function move_to(ant_k, site_j) {
+            site[ant_k] = site_j;
+            tabus[ant_k].push(site_j);
+            allowed[ant_k][site_j] = false;
+            capacity[ant_k] -= AMOUNTS[site_j];
+            travel[ant_k] += D[site[ant_k]][site_j];
+            if (travel[ant_k] > F) {
+                giveup[ant_k] = true;
+            }
+        }
+        // 使蚂蚁k返回车场
+        function back(ant_k) {
+            if (travel[ant_k] += D[site[ant_k]][0] > F) {
+                giveup[ant_k] = true;
+            }
+            site[ant_k] = 0;
+            tabus[ant_k].push(0);
+            capacity[ant_k] = C;
+            travel[ant_k] = 0;
+        }
+        // capacity, travel, giveup, allowed, tabus, site
+        function ants_redefine() {
+            for (i = 0; i < M; i++) {
+                tabus[i] = [];
+                allowed[i] = [];
+                capacity[i] = C;
+                travel[i] = 0;
+                giveup[i] = false;
+                site[i] = 0;
+                for (j = 0; j < N; j++) {
+                    allowed[i][j] = true;
+                }
+            }
+            // console.log('tabus: ' + tabus);
+            // console.log('allowed: ' + allowed);
+            // console.log('capacity: ' + capacity);
+            // console.log('travel: ' + travel);
+            // console.log('giveup: ' + giveup);
+            // console.log('site: ' + site);
+        }
+        /** 开始：
+         *  算法执行
+         */
+        // 距离矩阵，信息素矩阵初始化
+        for (var i = 0; i < N; i++) {
+            TAU[i] = [];
+            for (var j = 0; j < N; j++) {
+                TAU[i][j] = MAX;
+            }
+        }
+        // console.log("tau: " + TAU);
+        // console.log("D: " +D);
+        // 初始化禁忌表矩阵等相关数据
+        ants_redefine();
+        // console.time('time');
+        // 主循环
+        var p_sum = 0,
+            next_site, n,
+            delta_tau = 0,
+            new_tau = 0;
+        for (var t = 0; t < T; t++) {
+            //console.log('第 ' + t + ' 次循环： ');
+            // 随机选择起点
+            for (var i = 0; i < M; i++) {
+                move_to(i, Math.round(Math.random() * (N - 2)) + 1);
+            }
+            // 构建禁忌表矩阵
+            //console.time('tabus');
+            for (var ant_k = 0; ant_k < M; ant_k++) {
+                n = 1;
+                while (n < N - 1) {
+                    //console.log('n: ' + n);
+                    // 概率区间列表
+                    p = (function(ant_k) {
+                        var p = [0];
+                        for (var j = 1; j < N; j++) {
+                            if (allowed[ant_k][j]) {
+                                p[j] = pk(site[ant_k], j);
+                            } else {
+                                p[j] = 0;
+                            }
+                        }
+                        if (sum(p) == 0) {
+                            throw new Error('p is zero list');
+                        } else if (isNaN(sum(p))) {
+                            throw new Error('sum p is not a number');
+                        }
+                        return p;
+                    })(ant_k);
+                    p_sum = sum(p);
+                    //console.log(' p_sum: ' + p_sum)
+                    for (var i = 0; i < p.length; i++) {
+                        p[i] /= p_sum;
+                    }
+                    // 随机选择区间
+                    next_site = chose(p);
+                    //console.log(' after sum: ' + p);
+                    // 约束处理
+                    if (capacity[ant_k] - AMOUNTS[next_site] > 0) {
+                        move_to(ant_k, next_site);
+                        // 循环
+                        n += 1;
+                    } else {
+                        back(ant_k);
+                    }
+                }
+            }
+            //console.log('n: ' + n);
+            //console.timeEnd('tabus');
+            // (function tabus_info() {
+            //     for (var i = 0; i < M; i++) {
+            //         console.log('[' + tabus[i] + ']');
+            //     }
+            // })();
+            // 计算循环最短路径
+            for (ant_k = 0; ant_k < M; ant_k++) {
+                tabus[ant_k].unshift(0);
+                tabus[ant_k].push(0);
+                path_lengthes[ant_k] = rout_dist(tabus[ant_k]);
+            }
+            best_ant = select_min(path_lengthes);
+            l_len = path_lengthes[best_ant];
+            l_rout = tabus[best_ant];
+            //console.log('l_len: ' + l_len);
+            // console.log('l_rout: ' + l_rout);
+            // 更新全局最短路径
+            if (l_len < g_len || g_len == undefined) {
+                g_len = l_len;
+                g_rout = l_rout;
+            }
+            // 更新信息素
+            for (var i = 0; i < N; i++) {
+                for (var j = 0; j < N; j++) {
+                    new_tau = TAU[i][j] * RHO;
+                    // 信息素强度应大于MIN
+                    if (new_tau < MIN) {
+                        TAU[i][j] = MIN;
+                    } else {
+                        TAU[i][j] = new_tau;
+                    }
+                }
+            }
+            delta_tau = Q / l_len; // 信息素增量
+            for (var site_i = 0; site_i < l_rout.length - 2; site_i++) {
+                new_tau = TAU[l_rout[site_i]][l_rout[site_i + 1]] + delta_tau;
+                // 信息素强度应小于MAX
+                if (new_tau > MAX) {
+                    TAU[l_rout[site_i]][l_rout[site_i + 1]] = MAX;
+                } else {
+                    TAU[l_rout[site_i]][l_rout[site_i + 1]] = new_tau;
+                }
+            }
+            // 重置禁忌表矩阵，allowed矩阵
+            ants_redefine();
+        }
+        // console.timeEnd('time');
+        // 返回结果
+        return {
+            path: g_len,
+            routine: g_rout
+        };
+    }
+    function run() {
+        for (var i = 0, N = D.length; i < N; i++) {
+            for (var j = 0; j < N; j++) {
+                if (D[i][j] == undefined) {
+                    tp_dist(i, j);
+                }
+            }
+        }
+        var outCome = mmas_vrp(sites, amounts, 3, 50000);
+        var path = outCome.path;
+        var routine = outCome.routine;
+        console.log('path: ' + path);
+        console.log('routine: ' + routine);
+        for (var i = 0; i < routine.length - 1; i++) {
+            var p1 = new BMap.Point(sites[routine[i]][0], sites[routine[i]][1]);
+            var p2 = new BMap.Point(sites[routine[i + 1]][0], sites[routine[i + 1]][1]);
+            var callBack = function(results) {
+                if (driving.getStatus() != BMAP_STATUS_SUCCESS) {
+                    return;
+                }
+                var plan = results.getPlan(0);
+                var route = plan.getRoute(0);
+                var pathArray = route.getPath();
+                var poly = new BMap.Polyline(pathArray);
+                map.addOverlay(poly);
+                alert('');
+            }
+            var driving = new BMap.DrivingRoute(map, {
+                renderOptions:{map: map, autoViewport: true}
+                //onSearchComplete: callBack
+            });
+            driving.search(p1, p2);
+        }
+    }
+</script>
