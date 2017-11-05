@@ -50,7 +50,6 @@ class Graph(object):
         self.Q = Q
         self._distances = {}
         self._pheromones = {}
-        self._deposit = {}
         self.total_distance = 0
         for i, node in enumerate(self.nodes):
             for j in range(i):
@@ -58,7 +57,6 @@ class Graph(object):
                 self._distances[(i, j)] = distance
                 self.total_distance += distance
                 self._pheromones[(i, j)] = init_pheromone
-                self._deposit[(i, j)] = Q / distance
 
     def get_distance(self, i, j):
         return self._distances.get((i, j)) or self._distances.get((j, i))

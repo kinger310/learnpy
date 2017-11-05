@@ -10,12 +10,13 @@ from random import random, randint
 
 
 # 参数
+A = 10.5
 m = 31                             # 蚂蚁数量
 alpha = 1                          # 信息素重要程度因子
 beta = 3                           # 启发函数重要程度因子
 vol = 0.2                          # 信息素挥发(volatilization)因子
 Q = 10                              # 常系数
-iter_max = 500                     # 最大迭代次数
+iter_max = 50                     # 最大迭代次数
 # Heu_F = 1./D                       # 启发函数(heuristic function) η
 # Tau = ones(n,n)                    # 信息素矩阵
 # Table = zeros(m,n)                 # 路径记录表
@@ -36,7 +37,13 @@ class Node(object):
         self.demand = demand
 
     def distance(self, node):
-        return sqrt((self.x - node.x) ** 2 + (self.y - node.y) ** 2)
+        x1, x2, y1, y2 = self.x, node.x, self.y, node.y
+        a = int(A)
+        if x1 != x2 and (y1 - A) * (y2 - A) > 0:
+            if y1 > A:
+                y1, y2 = y1 - a, y2 - a
+            return abs(x1 - x2) + min(y1 + y2, 2 * a - y1 - y2)
+        return abs(x1 - x2) + abs(y1 - y2)
 
 
 
@@ -54,7 +61,6 @@ class Graph(object):
         self.Q = Q
         self._distances = {}
         self._pheromones = {}
-        self._deposit = {}
         self.total_distance = 0
         self.amounts = {}
         for i, node in enumerate(self.nodes):
@@ -64,7 +70,6 @@ class Graph(object):
                 self._distances[(i, j)] = distance
                 self.total_distance += distance
                 self._pheromones[(i, j)] = min_pheromone
-                self._deposit[(i, j)] = Q / distance
 
     def _get_distance(self, i, j):
         return self._distances.get((i, j)) or self._distances.get((j, i))
@@ -222,24 +227,51 @@ def main():
     filename = sys.argv[0]
     dirname = os.path.dirname(filename)
     abspath = os.path.abspath(dirname)
-    df_city = pd.read_csv(abspath + r'\data\eil30.csv')
+    df_city = pd.read_csv(abspath + r'\data\order40.csv')
     nodes = [Node(z.x, z.y, z.demand) for z in df_city.itertuples()]
     graph = Graph(nodes=nodes)
-    ant_colony = AntColony(m)
-    dis_result = []
-    dis_result2 = []
-    for i in range(iter_max):
-        print(i)
-        ant_colony.do_cycles(graph)
-        graph.update_pheromones(ant_colony)
-        min_distance = ant_colony.min_distance
-        shortest_path = ant_colony.shortest_path
-        dis_result.append(min_distance)
-        dis_result2.append((i, min_distance, shortest_path))
 
-    # pd.to_pickle(dis_result2, 'aaa.pkl')
-    best_distance = dis_result2[-1][1]
-    best_path = dis_result2[-1][2]
+    # 采用S-shape策略的结果
+    df1 = df_city[df_city['x'] % 2 == 0].sort_values(by=['x', 'y'], ascending=[True, False])
+    df2 = df_city[df_city['x'] % 2 != 0].sort_values(by=['x', 'y'], ascending=[True, True])
+    df_s = pd.concat([df1, df2])
+    df_s['row'] = [i for i in range(len(df_s))]
+    df_s = df_s.sort_values(by=['x', 'row'])
+    capacity = CAPACITY
+    k = int(np.sum(df_s['demand']) / capacity)
+    path_list = []
+    for i in range(len(df_s) - 1):
+        idx = df_s.index[i+1]
+        demand = df_s.loc[idx, 'demand']
+        if capacity > demand:
+            capacity = capacity - demand
+            path_list.append(idx)
+        else:
+            capacity = CAPACITY
+            path_list.append(0)
+            capacity = capacity - demand
+            path_list.append(idx)
+    s_shape_distance = graph.get_path_distance(path_list)
+    print(s_shape_distance)
+
+    best_path = [18, 2, 27, 25, 8, 14, 4, 30, 21, 6, 5, 19, 26, 24, 0, 23, 16, 15, 3, 9, 20, 0, 17, 12, 7, 29, 1, 11, 28, 10, 22, 13]
+    best_distance = graph.get_path_distance(best_path)
+
+    # ant_colony = AntColony(m)
+    # dis_result = []
+    # dis_result2 = []
+    # for i in range(iter_max):
+    #     print(i)
+    #     ant_colony.do_cycles(graph)
+    #     graph.update_pheromones(ant_colony)
+    #     min_distance = ant_colony.min_distance
+    #     shortest_path = ant_colony.shortest_path
+    #     dis_result.append(min_distance)
+    #     dis_result2.append((i, min_distance, shortest_path))
+
+    # best_distance = dis_result2[-1][1]
+    # best_path = dis_result2[-1][2]
+
     best_path.append(0)
     # best_path = [10, 11, 12, 14, 8, 9, 17, 7, 13, 16, 15, 23, 18, 0, 21, 22, 20, 19, 3, 4, 5, 6, 24, 25, 0, 2, 26, 28, 27, 0, 29, 1, 0]
     plt.figure('fig1')
@@ -247,7 +279,7 @@ def main():
     i = -1
     for x, y in zip(df_city['x'], df_city['y']):
         i += 1
-        plt.text(x, y-1, i, fontsize=6, verticalalignment='top', horizontalalignment='center')
+        plt.text(x, y-0.3, i, fontsize=6, verticalalignment='top', horizontalalignment='center')
     plt.title('min distance = {:2f}'.format(best_distance))
     idxs = [i for i, j in enumerate(best_path) if j == 0]
     lists = []
@@ -270,12 +302,12 @@ def main():
             tx, ty = df_city.loc[fig_list[j+1], 'x'], df_city.loc[fig_list[j+1], 'y']
             plt.annotate('', xy=(x, y), xytext=(tx, ty), arrowprops=dict(arrowstyle="<-", connectionstyle="arc3", color=c_list[l]))
             if j < len(fig_list) - 2:
-                plt.text(tx, ty+0.5, '({},{})'.format(capacity, demand_t),
+                plt.text(tx, ty+0.3, '({},{})'.format(capacity, demand_t),
                          fontsize=6, color='r', verticalalignment='bottom', horizontalalignment='center')
 
 
     plt.figure('fig2')
-    plt.plot(dis_result, 'r-')
+    # plt.plot(dis_result, 'r-')
 
     plt.show()
 
