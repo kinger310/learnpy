@@ -45,23 +45,21 @@ class Batch(object):
         center = (np.mean(batch_orders['aisle']), np.mean(batch_orders['position']))
         return center
 
+    def delete(self, order, weight):
+        self.orders.remove(order)
+        self.weight -= weight
+
+    def add(self, order, weight):
+        self.orders.append(order)
+        self.weight += weight
+
     def shift(self, order, weight, batch):
-        if order in self.orders:
-            self.orders.remove(order)
-            self.weight -= weight
-            batch.orders.append(order)
-            batch.weight += weight
-        else:
-            return 0
+        self.delete(order, weight)
+        batch.add(order, weight)
 
     def swap(self, order1, order2, w1, w2, batch):
-        if order1 in self.orders and order2 in batch.orders:
-            self.orders.remove(order1)
-            self.orders.append(order2)
-            self.weight = self.weight - w1 + w2
-            batch.orders.remove(order2)
-            batch.orders.append(order1)
-            batch.weight = batch.weight - w2 + w1
-        else:
-            return 0
+        self.delete(order1, w1)
+        self.add(order2, w2)
+        batch.delete(order2, w2)
+        batch.add(order1, w1)
 

@@ -7,27 +7,35 @@ class Picker(object):
         self.batches = batches
 
     def swap(self, picker, i, j):
-        if i < 0 or j < 0:
-            pass
-        else:
-            t = self.batches[i]
-            self.batches[i] = picker.batches[j]
-            picker.batches[j] = t
+        self.batches[i], picker.batches[j] = picker.batches[j], self.batches[i]
 
-    def tune(self, i):
-        if i == 0:
-            j = 1
-            self.batches[0].sd = 0
-            for batch in self.batches[1:]:
-                prev = self.batches[j-1]
-                batch.sd = prev.sd + prev.pt
-                j += 1
-        else:
-            j = i
-            for batch in self.batches[i:]:
-                prev = self.batches[j-1]
-                batch.sd = prev.sd + prev.pt
-                j += 1
+    def shift(self, picker, i, j):
+        picker.batches.insert(j, self.batches[i])
+        del self.batches[i]
+
+
+    def tune(self):
+        self.batches[0].b = 0
+        self.batches[0].sd = 0
+        j = 1
+        for batch in self.batches[1:]:
+            prev = self.batches[j - 1]
+            batch.sd = prev.sd + prev.pt
+            batch.b = j
+            j += 1
+        # if i == 0:
+        #     j = 1
+        #     self.batches[0].sd = 0
+        #     for batch in self.batches[1:]:
+        #         prev = self.batches[j-1]
+        #         batch.sd = prev.sd + prev.pt
+        #         j += 1
+        # else:
+        #     j = i
+        #     for batch in self.batches[i:]:
+        #         prev = self.batches[j-1]
+        #         batch.sd = prev.sd + prev.pt
+        #         j += 1
 
     def get_batch_centers(self, df_items):
         batch_centers = []
@@ -42,11 +50,16 @@ class Picker(object):
         return weights
 
     def re_routing(self, df_items):
+        for i, batch in enumerate(self.batches):
+            if batch.weight == 0:
+                del self.batches[i]
         j = 1
+        self.batches[0].b = 0
         self.batches[0].routing_time(df_items)
         for batch in self.batches[1:]:
             batch.routing_time(df_items)
             prev = self.batches[j - 1]
             batch.sd = prev.sd + prev.pt
+            batch.b = j
             j += 1
 
