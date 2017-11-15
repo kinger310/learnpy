@@ -32,13 +32,16 @@ class Batch(object):
         batch_orders = df_items[df_items['order'].isin(self.orders)]
         num_item = len(batch_orders)
         if strategy == 's':
-            travel = s_shape(batch_orders)
+            travel = s_shape(batch_orders)  # 可以改进成启发式策略？？
         else:
             travel = 0
         if travel == 0:
             self.pt = 0
         else:
             self.pt = 3 + num_item / 4 + travel / 20
+
+    def _routing(self, df_orders):
+        self.pt = sum(df_orders.loc[self.orders, 'pt']) - 3 * (len(self.orders) - 1)
 
     def get_center(self, df_items):
         batch_orders = df_items[df_items['order'].isin(self.orders)]

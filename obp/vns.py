@@ -23,6 +23,7 @@ def prod_order(n=100):
     c_aisles = [6, 7, 8, 9, 10]
     a, b = 0.5, 0.35
     order_list = []
+    random.seed(1)
     for i in range(n):
         m = random.randint(1, 5)
         for _ in range(m):

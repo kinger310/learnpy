@@ -9,7 +9,7 @@
 import random
 import pandas as pd
 import numpy as np
-import pickle
+import math
 import copy
 from itertools import combinations, permutations
 
@@ -198,6 +198,10 @@ def run(p_max, N, C, mtcr):
     s_inc = jobs
     l = 1
     tardy_pair_inc = tard(df_orders, s_inc)
+
+    e = pow(0.1, 4)
+    at, T = 0.9, 1
+    count = 0
     while l <= 5:
         tardy_pair_inc = tard(df_orders, s_inc)
         print(p_max, N, C, mtcr, tardy_pair_inc)
@@ -210,13 +214,26 @@ def run(p_max, N, C, mtcr):
         if f_s:
             tardy_pair_star = min(f_s, key=lambda x: (x[0], x[1]))
             s_star = f_s[tardy_pair_star]
+            delta = tardy_pair_star[0] - tardy_pair_inc[0]
             if tardy_pair_star < tardy_pair_inc:
                 s_inc = s_star
                 l = 1
+                count += 1
+                print(count)
+                if count >= 15:
+                    break
+            elif delta > 0 and math.exp(- delta / T) >= random.random():
+                s_inc = s_star
+                l += 1
             else:
                 l += 1
         else:
             l += 1
+        T = T * at
+
+        # 若温度达到较低点，停止循环
+        if T < e:
+            break
     return tardy_pair_inc, s_inc
 
 

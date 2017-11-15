@@ -9,7 +9,7 @@
 import random
 import pandas as pd
 import numpy as np
-import pickle
+import math
 import copy
 from itertools import combinations, permutations
 
@@ -171,7 +171,9 @@ def run(p_max, N, C, mtcr):
     # tardy_jobs, tardiness = tard(df_orders, jobs)
 
     s_inc = local_search(C, df_items, df_orders, s_ini)
-    M = 10
+    e = pow(0.1, 4)
+    at, T = 0.9, 10
+    M = 100
     for m in range(M):
         print(m)
         l = 1
@@ -183,12 +185,21 @@ def run(p_max, N, C, mtcr):
             s_star = local_search(C, df_items, df_orders, s_rand)
             print(p_max, N, C, mtcr, tardy_pair_inc)
             tardy_pair_star = tard(df_orders, s_star)
+            delta = tardy_pair_star[0] - tardy_pair_inc[0]
             if tardy_pair_star < tardy_pair_inc:
                 s_inc = s_star
                 l = 1
-            # elif # metro准则，接受，l=1
+            # elif # metro准则，接受star解，l=1
+            elif math.exp(- delta / T) >= random.random():
+                s_inc = s_star
+                l = 1
             else:
                 l += 1
+            T = T * at
+
+        # 若温度达到较低点，停止循环
+        if T < e:
+            break
     return s_inc
 
 

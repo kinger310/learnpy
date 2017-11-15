@@ -185,6 +185,7 @@ m.update()
 
 m._vars = vars
 m.params.LazyConstraints = 1
+# LazyConstraints: programs that use lazy constraints must set this to 1
 m.optimize(subtourelim)
 
 solution = m.getAttr('x', vars)
