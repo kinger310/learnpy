@@ -148,17 +148,17 @@ def neighbor_l(s_inc, df_items, df_orders, C, l=1):
 
 
 def run(p_max, N, C, mtcr):
-    N = 15
-    C = 7
-    # modified traffic congestion rates
-    p_max = 2
-    mtcr = 0.7
-    # df_items = prod_order(n=N)
-    df_items = pd.read_csv(r'./data/orders15.csv')
+    # N = 15
+    # C = 7
+    # # modified traffic congestion rates
+    # p_max = 2
+    # mtcr = 0.7
+    df_items = prod_order(n=N)
+    # df_items = pd.read_csv(r'./data/orders15.csv')
     # # 采用不同的Routing strategy会产生不同的路径
     # # 采用S-shape策略，分奇数通道与偶数通道两种情况处理
-    # df_orders = prod_due_dates(df_items, mtcr, p_max)
-    df_orders = pd.read_csv('./data/due_dates0.7.csv', index_col=0)
+    df_orders = prod_due_dates(df_items, mtcr, p_max)
+    # df_orders = pd.read_csv('./data/due_dates0.7.csv', index_col=0)
     df_orders = df_orders.sort_values(by=['dt'], ascending=True)
 
     # 采用Earliest Start Date方法生成初始解

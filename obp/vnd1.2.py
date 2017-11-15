@@ -12,6 +12,7 @@ import numpy as np
 import pickle
 import copy
 from itertools import combinations, permutations
+import time
 
 from obp.picker import Picker
 from obp.batch import Batch
@@ -173,17 +174,17 @@ def simi(node1, node2):
     return (x1 - x2) ** 2 + (y1 - y2) ** 2
 
 def run(p_max, N, C, mtcr):
-    N = 15
-    C = 7
-    # modified traffic congestion rates
-    p_max = 2
-    mtcr = 0.7
-    # df_items = prod_order(n=N)
-    df_items = pd.read_csv(r'./data/orders15.csv')
+    # N = 15
+    # C = 7
+    # # modified traffic congestion rates
+    # p_max = 2
+    # mtcr = 0.7
+    df_items = prod_order(n=N)
+    # df_items = pd.read_csv(r'./data/orders15.csv')
     # # 采用不同的Routing strategy会产生不同的路径
     # # 采用S-shape策略，分奇数通道与偶数通道两种情况处理
-    # df_orders = prod_due_dates(df_items, mtcr, p_max)
-    df_orders = pd.read_csv('./data/due_dates0.7.csv', index_col=0)
+    df_orders = prod_due_dates(df_items, mtcr, p_max)
+    # df_orders = pd.read_csv('./data/due_dates0.7.csv', index_col=0)
     df_orders = df_orders.sort_values(by=['dt'], ascending=True)
 
     # 采用Earliest Start Date方法生成初始解
@@ -200,7 +201,7 @@ def run(p_max, N, C, mtcr):
     tardy_pair_inc = tard(df_orders, s_inc)
     while l <= 5:
         tardy_pair_inc = tard(df_orders, s_inc)
-        print(p_max, N, C, mtcr, tardy_pair_inc)
+        # print(p_max, N, C, mtcr, tardy_pair_inc)
         neighbors = neighbor_l(s_inc, df_items, df_orders, C, l=l)
         # neighbors = []
         f_s = {}
@@ -217,6 +218,7 @@ def run(p_max, N, C, mtcr):
                 l += 1
         else:
             l += 1
+    print(p_max, N, C, mtcr, tardy_pair_inc)
     return tardy_pair_inc, s_inc
 
 
@@ -264,29 +266,32 @@ def prod_due_dates(df_items, mtcr, p_max):
 
 
 def main():
-    P_MAX = [2, 3, 5, 8]
-    N = [100, 200]
+    P_MAX = [2, 4]
+    N = [50, 100]
     C = [10, 20]
     MTCR = [0.6, 0.7, 0.8]
-    # for p_max in P_MAX:
-    #     for n in N:
-    #         for c in C:
-    #             for mtcr in MTCR:
-    #                 run(p_max, n, c, mtcr)
-    tardy_pair_inc, s_inc = run(2, 15, 7, 0.7)
-    df_orders = pd.read_csv('./data/due_dates0.7.csv', index_col=0)
-    df = df_orders.sort_values(by=['dt'], ascending=True)
-    for job in s_inc:
-        print('Picker', job.p)
-        count = 0
-        for batch in job.batches:
-            print('Batch' + str(count), batch.weight)
-            count += 1
-            ct = batch.sd + batch.pt
-            for order in batch.orders:
-                dt = df.loc[order, 'dt']
-                weight = df.loc[order, 'weight']
-                print(order, weight, ct, dt, max(0, ct - dt))
+    for p_max in P_MAX:
+        for n in N:
+            for c in C:
+                for mtcr in MTCR:
+                    a = time.time()
+                    run(p_max, n, c, mtcr)
+                    b = time.time()
+                    print('time %.2f s' % (b - a))
+
+    # df_orders = pd.read_csv('./data/due_dates0.7.csv', index_col=0)
+    # df = df_orders.sort_values(by=['dt'], ascending=True)
+    # for job in s_inc:
+    #     print('Picker', job.p)
+    #     count = 0
+    #     for batch in job.batches:
+    #         print('Batch' + str(count), batch.weight)
+    #         count += 1
+    #         ct = batch.sd + batch.pt
+    #         for order in batch.orders:
+    #             dt = df.loc[order, 'dt']
+    #             weight = df.loc[order, 'weight']
+    #             print(order, weight, ct, dt, max(0, ct - dt))
 
 
     # with open(r'./data/jobs.pkl', 'rb') as file:

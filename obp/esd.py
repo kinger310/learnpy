@@ -10,27 +10,8 @@ import random
 import pandas as pd
 import numpy as np
 
-class Picker(object):
-    def __init__(self, p, batches=None):
-        self.p = p
-        self.batches = batches
-
-
-class Batch(object):
-    def __init__(self, sd=0, pt=0, weight=0, orders=None):
-        self.sd = sd
-        self.pt = pt
-        self.weight = weight
-        self.orders = orders
-
-    def routing_time(self, df, strategy='s'):
-        df_orders = df[df['order'].isin(self.orders)]
-        num_item = len(df_orders)
-        if strategy == 's':
-            travel = s_shape(df_orders)
-        else:
-            travel = 0
-        self.pt = 3 + num_item / 4 + travel / 20
+from obp.picker import Picker
+from obp.batch import Batch
 
 
 def prod_order(n=100):
@@ -39,6 +20,7 @@ def prod_order(n=100):
     c_aisles = [6, 7, 8, 9, 10]
     a, b = 0.5, 0.35
     order_list = []
+    random.seed(1)
     for i in range(n):
         m = random.randint(1, 5)
         for _ in range(m):
@@ -64,7 +46,8 @@ def proc_time(df, para='s'):
     else:
         travel = large_gap(df)
     pt = 3 + num_item / 4 + travel / 20
-    return pt
+    # center = (np.mean(df['aisle']), np.mean(df['position']))
+    return pd.Series({'weight': num_item, 'pt': pt})
 
 
 def s_shape(df):
@@ -86,37 +69,48 @@ def large_gap(df):
     return travel
 
 
+def prod_due_dates(df_items, mtcr, p_max):
+    df_orders = df_items.groupby(by=['order'])[['aisle', 'position']] \
+        .apply(lambda x: proc_time(x, para='s'))
+    min_pt, sum_pt = min(df_orders['pt']), sum(df_orders['pt'])
+    max_pt = (2 * (1 - mtcr) * sum_pt + min_pt) / p_max
+    random.seed(1)
+    df_orders['dt'] = [round(random.uniform(min_pt, max_pt), 2) for _ in range(len(df_orders))]
+    # df_orders.to_csv('./data/due_dates0.7.csv', index=False)
+    return df_orders
+
+
 def run(p_max, N, C, mtcr):
     # N = 100
     # C = 10
     # # modified traffic congestion rates
     # p_max = 2
     # mtcr = 0.6
-    df_orders = prod_order(n=N)
+    df_items = prod_order(n=N)
     # df_orders = pd.read_csv(r'./data/orders.csv')
     # 采用不同的Routing strategy会产生不同的路径
     # 采用S-shape策略，分奇数通道与偶数通道两种情况处理
-    df_num = df_orders.groupby(by=['order']).apply(lambda x: len(x)).reset_index(name='weight')
-    df_pt = df_orders.groupby(by=['order'])[['aisle', 'position']]\
-        .apply(lambda x: proc_time(x, para='s')).reset_index(name='pt')
-    df_pt = pd.merge(df_num, df_pt, how='inner', on=['order'])
+    df_orders = prod_due_dates(df_items, mtcr, p_max)
 
-    min_pt, sum_pt = min(df_pt['pt']), sum(df_pt['pt'])
-    max_pt = (2 * (1 - mtcr) * sum_pt + min_pt) / p_max
-    df_pt['dt'] = [round(random.uniform(min_pt, max_pt), 2) for _ in range(len(df_pt))]
-    # df_pt.to_csv('./data/due_dates.csv', index=False)
-    # df_pt = pd.read_csv('./data/due_dates.csv')
-    df_pt = df_pt.sort_values(by=['dt'], ascending=True)
+    # df_orders.to_csv('./data/due_dates.csv', index=False)
+    # df_orders = pd.read_csv('./data/due_dates.csv')
+    df_orders = df_orders.sort_values(by=['dt'], ascending=True)
 
     # 采用Earliest Start Date方法生成初始解
     # 还要计算出Tardiness.
+    jobs = init_solution(C, df_items, df_orders, p_max)
 
+    # 计算Tardiness与tardy jobs
+    tardy_pair = tard(df_orders, jobs)
+    print(p_max, N, C, mtcr, tardy_pair)
+
+def init_solution(C, df_items, df_orders, p_max):
     jobs = []
     sd_p = [0] * p_max
     for p in range(p_max):
-        jobs.append(Picker(p, batches=[Batch(sd=0, pt=0, weight=0, orders=[])]))
-    for row in df_pt.itertuples():
-        order, weight, pt = row.order, row.weight, row.pt
+        jobs.append(Picker(p, batches=[Batch(b=0, sd=0, pt=0, weight=0, orders=[])]))
+    for row in df_orders.itertuples():
+        order1, weight, pt = row.Index, row.weight, row.pt
         for picker in jobs:
             batch = picker.batches[-1]
             # 如果可以分配给last position batch， sd_p就是last batch 的sd
@@ -132,31 +126,42 @@ def run(p_max, N, C, mtcr):
         if case == 2:
             prev = jobs[p_star].batches[-1]
             sd = prev.sd + prev.pt
-            jobs[p_star].batches.append(Batch(sd=sd, pt=0, weight=0, orders=[]))
+            b = len(jobs[p_star].batches)
+            jobs[p_star].batches.append(Batch(b=b, sd=sd, pt=0, weight=0, orders=[]))
         batch = jobs[p_star].batches[-1]
-        # TODO 不是那么简单的加和，而是要计算combine在一块的pt时间
-        batch.orders.append(order)
-        batch.routing_time(df_orders)
+        batch.orders.append(order1)
+        # 一个batch里的所有orders需要合并在一起计算routing time，而不是pt单纯地相加！
+        batch.routing_time(df_items)
         batch.weight += weight
+    return jobs
+
+
+# objective functions
+def tard(df, jobs):
     # 计算Tardiness与tardy jobs
     tardiness = 0
     tardy_jobs = 0
     for job in jobs:
+        # print('Picker', job.p)
+        # count = 0
         for batch in job.batches:
-            # 一个batch里的所有orders需要合并在一起，而不是pt单纯地相加
+            # print('Batch' + str(count), batch.weight)
+            # count += 1
             ct = batch.sd + batch.pt
             for order in batch.orders:
-                dt = float(df_pt.loc[df_pt['order'] == order, 'dt'])
+                dt = df.loc[order, 'dt']
+                # weight = df.loc[order, 'weight']
+                # print(order, weight, ct, dt, max(0, ct - dt))
                 if ct > dt:
                     tardiness += ct - dt
                     tardy_jobs += 1
-    print(p_max, N, C, mtcr, tardiness, tardy_jobs)
-
+    # return tardy_jobs, tardiness
+    return tardiness, tardy_jobs
 
 
 def main():
-    P_MAX = [2, 3, 5, 8]
-    N = [100, 200]
+    P_MAX = [2, 4]
+    N = [50, 100]
     C = [10, 20]
     MTCR = [0.6, 0.7, 0.8]
     for p_max in P_MAX:
