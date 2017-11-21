@@ -14,6 +14,7 @@ from obp.picker import Picker
 from obp.batch import Batch
 
 import copy
+import time
 
 def prod_order(n=100):
     a_aisles = [1, 2]
@@ -126,7 +127,7 @@ def init_solution(C, df_items, df_orders, p_max):
         # 一个batch里的所有orders需要合并在一起计算routing time，而不是pt单纯地相加！
         batch.routing_time(df_items)
         batch.weight += weight
-    print('ok')
+    # print('ok')
     for p in jobs:
         p.re_routing(df_items)
     order_lst = list(df_orders.index)
@@ -144,7 +145,7 @@ def init_solution(C, df_items, df_orders, p_max):
             pre_tard, n_star, s_inc = push_in(C, b1, df_items, df_orders, s_inc, order_lst, p1, pre_tard, s_inc[p1].batches[b1].weight)
             if n_star != -1:
                 order_lst.remove(n_star)
-    print('ok')
+    # print('ok')
 
     return s_inc
 
@@ -210,7 +211,10 @@ def main():
         for n in N:
             for c in C:
                 for mtcr in MTCR:
+                    a = time.time()
                     run(p_max, n, c, mtcr)
+                    b = time.time()
+                    print('time %.2f s' % (b - a))
     print('ok')
 
 

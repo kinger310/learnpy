@@ -15,14 +15,15 @@ class Picker(object):
 
 
     def tune(self):
-        self.batches[0].b = 0
-        self.batches[0].sd = 0
-        j = 1
-        for batch in self.batches[1:]:
-            prev = self.batches[j - 1]
-            batch.sd = prev.sd + prev.pt
-            batch.b = j
-            j += 1
+        if self.batches:
+            self.batches[0].b = 0
+            self.batches[0].sd = 0
+            j = 1
+            for batch in self.batches[1:]:
+                prev = self.batches[j - 1]
+                batch.sd = prev.sd + prev.pt
+                batch.b = j
+                j += 1
         # if i == 0:
         #     j = 1
         #     self.batches[0].sd = 0

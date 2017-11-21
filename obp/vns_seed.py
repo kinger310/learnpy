@@ -168,12 +168,13 @@ def run(p_max, N, C, mtcr):
     # 采用Earliest Start Date方法生成初始解
     # 还要计算出Tardiness.
     s_ini = init_solution(C, df_items, df_orders, p_max)
+
     # with open(r'./data/jobs.pkl', 'wb') as file:
     #     pickle.dump(jobs, file)
     # 已经产生initial solutions，下一步产生临域解，先考虑bsw2
     # 可以将其看作Picker的一个方法，Picker与另外一个Picker交换Batch
     tardy_pair_inc = tard(df_orders, s_ini)
-
+    a = time.time()
     s_inc = local_search(C, df_items, df_orders, s_ini)
     M = 10
     for m in range(M):
@@ -193,6 +194,8 @@ def run(p_max, N, C, mtcr):
             else:
                 l += 1
     print(p_max, N, C, mtcr, tardy_pair_inc)
+    b = time.time()
+    print('time %.2f s' % (b - a))
     return s_inc
 
 
@@ -248,7 +251,6 @@ def rand_neighbor(C, df_items, df_orders, s_inc, l):
         # 对两边position在i, j后的pt和sd进行重新的调整
         neighbor[p1.p].tune()
         neighbor[p2.p].tune()
-    # BSH2
     else:
         p1, p2 = random.sample(s_inc, 2)
         k1, k2 = len(p1.batches), len(p2.batches)
@@ -289,30 +291,73 @@ def init_solution(C, df_items, df_orders, p_max):
     for p in range(p_max):
         jobs.append(Picker(p, batches=[Batch(b=0, sd=0, pt=0, weight=0, orders=[])]))
     for row in df_orders.itertuples():
-        order1, weight, pt = row.Index, row.weight, row.pt
+        order1, weight, pt = row.Index, float(row.weight), row.pt
         for picker in jobs:
             batch = picker.batches[-1]
             # 如果可以分配给last position batch， sd_p就是last batch 的sd
-            if batch.weight + weight <= C:
-                # CASE 1
-                sd_p[picker.p] = (batch.sd, 1)
-            else:
-                # CASE 2
-                ct = batch.sd + batch.pt
-                sd_p[picker.p] = (ct, 2)
+            ct = batch.sd + batch.pt
+            sd_p[picker.p] = ct
         p_star = sd_p.index(min(sd_p))
-        case = sd_p[p_star][1]
-        if case == 2:
-            prev = jobs[p_star].batches[-1]
-            sd = prev.sd + prev.pt
-            b = len(jobs[p_star].batches)
-            jobs[p_star].batches.append(Batch(b=b, sd=sd, pt=0, weight=0, orders=[]))
+        prev = jobs[p_star].batches[-1]
+        sd = prev.sd + prev.pt
+        b = len(jobs[p_star].batches)
+        jobs[p_star].batches.append(Batch(b=b, sd=sd, pt=0, weight=0, orders=[]))
         batch = jobs[p_star].batches[-1]
         batch.orders.append(order1)
         # 一个batch里的所有orders需要合并在一起计算routing time，而不是pt单纯地相加！
         batch.routing_time(df_items)
         batch.weight += weight
-    return jobs
+    # print('ok')
+    for p in jobs:
+        p.re_routing(df_items)
+    order_lst = list(df_orders.index)
+    s_inc = jobs
+    while len(order_lst):
+        order_min = order_lst[0]
+        w1 = df_orders.loc[order_min, 'weight']
+        order_lst.remove(order_min)
+        pre_tard = tard(df_orders, s_inc)[0]
+        p1, b1 = find_order(s_inc, order_min)
+        pre_tard, n_star, s_inc = push_in(C, b1, df_items, df_orders, s_inc, order_lst, p1, pre_tard, w1)
+        if n_star != -1:
+            order_lst.remove(n_star)
+        while s_inc[p1].batches[b1].weight < C and pre_tard > 0:
+            pre_tard, n_star, s_inc = push_in(C, b1, df_items, df_orders, s_inc, order_lst, p1, pre_tard, s_inc[p1].batches[b1].weight)
+            if n_star != -1:
+                order_lst.remove(n_star)
+    # print('ok')
+
+    return s_inc
+
+
+def push_in(C, b1, df_items, df_orders, jobs, order_lst, p1, pre_tard, w1):
+    savs = []
+    for order in order_lst:
+        w2 = df_orders.loc[order, 'weight']
+        if w2 + w1 <= C:
+            neighbor = copy.deepcopy(jobs)
+            p2, b2 = find_order(neighbor, order)
+            neighbor[p2].batches[b2].shift(order, w2, neighbor[p1].batches[b1])
+            neighbor[p1].re_routing(df_items)
+            neighbor[p2].re_routing(df_items)
+            inc_tard = tard(df_orders, neighbor)[0]
+            sav = pre_tard - inc_tard
+            savs.append((sav, order, neighbor))
+    if savs:
+        max_sav = max(savs)
+        return pre_tard - max_sav[0], max_sav[1], max_sav[2]
+    else:
+        return -1, -1, jobs
+
+
+def find_order(neighbor, order):
+    for picker in neighbor:
+        for batch in picker.batches:
+            if order in batch.orders:
+                return picker.p, batch.b
+    else:
+        return -1, -1
+
 
 
 def prod_due_dates(df_items, mtcr, p_max):
@@ -327,18 +372,18 @@ def prod_due_dates(df_items, mtcr, p_max):
 
 
 def main():
-    P_MAX = [2, 4]
-    N = [50, 100]
-    C = [10, 20]
+    P_MAX = [4]
+    N = [100]
+    C = [10]
     MTCR = [0.6, 0.7, 0.8]
     for p_max in P_MAX:
         for n in N:
             for c in C:
                 for mtcr in MTCR:
-                    a = time.time()
+                    # a = time.time()
                     run(p_max, n, c, mtcr)
-                    b = time.time()
-                    print('time %.2f s' % (b - a))
+                    # b = time.time()
+                    # print('time %.2f s' % (b - a))
     # s_inc = run(2, 15, 7, 0.7)
     # df_orders = pd.read_csv('./data/due_dates0.7.csv', index_col=0)
     # df = df_orders.sort_values(by=['dt'], ascending=True)
