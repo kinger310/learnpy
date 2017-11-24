@@ -35,7 +35,7 @@ def prod_order(n=100):
             order_data = ('o' + str(i + 1).zfill(3), aisle, position)
             order_list.append(order_data)
     df = pd.DataFrame(data=order_list, columns=['order', 'aisle', 'position'])
-    # df.to_csv('./data/orders.csv', index=False)
+    # df.to_csv('./data/orders15.csv', index=False)
     return df
 
 
@@ -81,13 +81,13 @@ def prod_due_dates(df_items, mtcr, p_max):
 
 
 def run(p_max, N, C, mtcr):
-    # N = 15
-    # C = 7
-    # # modified traffic congestion rates
-    # p_max = 2
-    # mtcr = 0.6
-    df_items = prod_order(n=N)
-    # df_items = pd.read_csv(r'./data/orders15.csv')
+    N = 15
+    C = 7
+    # modified traffic congestion rates
+    p_max = 2
+    mtcr = 0.6
+    # df_items = prod_order(n=N)
+    df_items = pd.read_csv(r'./data/orders15.csv')
     # 采用不同的Routing strategy会产生不同的路径
     # 采用S-shape策略，分奇数通道与偶数通道两种情况处理
     df_orders = prod_due_dates(df_items, mtcr, p_max)

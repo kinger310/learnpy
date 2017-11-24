@@ -13,7 +13,6 @@ class Picker(object):
         picker.batches.insert(j, self.batches[i])
         del self.batches[i]
 
-
     def tune(self):
         if self.batches:
             self.batches[0].b = 0
