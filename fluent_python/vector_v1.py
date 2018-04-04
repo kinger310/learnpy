@@ -172,8 +172,14 @@ class Vector:
     # 散列和快速等值
 
     # Geek way
+    # def __eq__(self, other):
+    #     return len(self) == len(other) and all(a == b for a, b in zip(self, other))
+
     def __eq__(self, other):
-        return len(self) == len(other) and all(a == b for a, b in zip(self, other))
+        if isinstance(other, Vector):
+            return len(self) == len(other) and all(a == b for a, b in zip(self, other))
+        else:
+            return NotImplemented
 
     def __hash__(self):
         # hashes = (hash(x) for x in self._components)
