@@ -169,10 +169,6 @@ def neighbor_l(s_inc, df_items, df_orders, C, l=1):
     return neighbors
 
 
-def simi(node1, node2):
-    x1, y1, x2, y2 = node1[0], node1[1], node2[0], node2[1]
-    return (x1 - x2) ** 2 + (y1 - y2) ** 2
-
 def run(p_max, N, C, mtcr):
     # N = 15
     # C = 7

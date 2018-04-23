@@ -12,6 +12,7 @@ import numpy as np
 
 from obp.picker import Picker
 from obp.batch import Batch
+from obp.opt_best import opt_best
 
 
 def prod_order(n=100):
@@ -44,7 +45,7 @@ def proc_time(df, para='s'):
     if para == 's':
         travel = s_shape(df)
     else:
-        travel = large_gap(df)
+        travel = opt_best(df)
     pt = 3 + num_item / 4 + travel / 20
     # center = (np.mean(df['aisle']), np.mean(df['position']))
     return pd.Series({'weight': num_item, 'pt': pt})
@@ -64,14 +65,10 @@ def s_shape(df):
     return travel
 
 
-def large_gap(df):
-    travel = 1
-    return travel
-
 
 def prod_due_dates(df_items, mtcr, p_max):
     df_orders = df_items.groupby(by=['order'])[['aisle', 'position']] \
-        .apply(lambda x: proc_time(x, para='s'))
+        .apply(lambda x: proc_time(x, para='o'))
     min_pt, sum_pt = min(df_orders['pt']), sum(df_orders['pt'])
     max_pt = (2 * (1 - mtcr) * sum_pt + min_pt) / p_max
     random.seed(1)
@@ -81,13 +78,13 @@ def prod_due_dates(df_items, mtcr, p_max):
 
 
 def run(p_max, N, C, mtcr):
-    N = 15
-    C = 7
-    # modified traffic congestion rates
-    p_max = 2
-    mtcr = 0.6
-    # df_items = prod_order(n=N)
-    df_items = pd.read_csv(r'./data/orders15.csv')
+    # N = 15
+    # C = 7
+    # # modified traffic congestion rates
+    # p_max = 2
+    # mtcr = 0.6
+    df_items = prod_order(n=N)
+    # df_items = pd.read_csv(r'./data/orders15.csv')
     # 采用不同的Routing strategy会产生不同的路径
     # 采用S-shape策略，分奇数通道与偶数通道两种情况处理
     df_orders = prod_due_dates(df_items, mtcr, p_max)
@@ -129,7 +126,7 @@ def init_solution(C, df_items, df_orders, p_max):
         batch = jobs[p_star].batches[-1]
         batch.orders.append(order1)
         # 一个batch里的所有orders需要合并在一起计算routing time，而不是pt单纯地相加！
-        batch.routing_time(df_items)
+        batch.routing_time(df_items, para='o')
         batch.weight += weight
     return jobs
 
@@ -167,6 +164,7 @@ def main():
             for c in C:
                 for mtcr in MTCR:
                     run(p_max, n, c, mtcr)
+    # run(1, 1, 1, 1)
     print('ok')
 
 
