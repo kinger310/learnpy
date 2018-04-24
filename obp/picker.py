@@ -55,10 +55,10 @@ class Picker(object):
                 del self.batches[i]
         j = 1
         self.batches[0].b = 0
-        self.batches[0].routing_time(df_items)
+        self.batches[0].routing_time(df_items, para='s')
         # self.batches[0]._routing(df_items)
         for batch in self.batches[1:]:
-            batch.routing_time(df_items)
+            batch.routing_time(df_items, para='s')
             # batch._routing(df_items)
             prev = self.batches[j - 1]
             batch.sd = prev.sd + prev.pt

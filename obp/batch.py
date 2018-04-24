@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import numpy as np
+from obp.opt_best import opt_best
 
 
 def s_shape(df):
@@ -28,13 +29,13 @@ class Batch(object):
         self.weight = weight
         self.orders = orders
 
-    def routing_time(self, df_items, strategy='s'):
+    def routing_time(self, df_items, para='s'):
         batch_orders = df_items[df_items['order'].isin(self.orders)]
         num_item = len(batch_orders)
-        if strategy == 's':
+        if para == 's':
             travel = s_shape(batch_orders)  # 可以改进成启发式策略？？
         else:
-            travel = 0
+            travel = opt_best(batch_orders)
         if travel == 0:
             self.pt = 0
         else:

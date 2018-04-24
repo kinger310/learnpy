@@ -307,14 +307,14 @@ def init_solution(C, df_items, df_orders, p_max):
         batch = jobs[p_star].batches[-1]
         batch.orders.append(order1)
         # 一个batch里的所有orders需要合并在一起计算routing time，而不是pt单纯地相加！
-        batch.routing_time(df_items)
+        batch.routing_time(df_items, para='o')
         batch.weight += weight
     return jobs
 
 
 def prod_due_dates(df_items, mtcr, p_max):
     df_orders = df_items.groupby(by=['order'])[['aisle', 'position']] \
-        .apply(lambda x: proc_time(x, para='s'))
+        .apply(lambda x: proc_time(x, para='o'))
     min_pt, sum_pt = min(df_orders['pt']), sum(df_orders['pt'])
     max_pt = (2 * (1 - mtcr) * sum_pt + min_pt) / p_max
     random.seed(1)
