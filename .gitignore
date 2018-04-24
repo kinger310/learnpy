@@ -12,3 +12,4 @@ build
 .ipynb_checkpoints
 MDA/
 *.model.*
+*.gif
