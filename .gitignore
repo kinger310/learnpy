@@ -8,8 +8,10 @@ build
 
 # My config
 *.pkl
-.idea/
+.idea
+.vscode
+*.log
 .ipynb_checkpoints
-MDA/
+MDA
 *.model.*
 *.gif
