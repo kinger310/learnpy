@@ -28,8 +28,8 @@ def download_one(cc):  # <3>
 
 
 def download_many(cc_list):
-    workers = min(MAX_WORKERS, len(cc_list))
-    with futures.ThreadPoolExecutor(workers) as executor:
+    # workers = min(MAX_WORKERS, len(cc_list))
+    with futures.ThreadPoolExecutor(MAX_WORKERS) as executor:
         res = executor.map(download_one, sorted(cc_list))
     return len(list(res))
 
