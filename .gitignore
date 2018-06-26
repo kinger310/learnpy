@@ -15,3 +15,5 @@ build
 MDA
 *.model.*
 *.gif
+*.jar
+*.bfg-report
