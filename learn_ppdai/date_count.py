@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/env python
 # coding=utf-8
 
@@ -9,9 +8,7 @@
 1.计算之后多少天日期
 2.计算相隔多少天
 """
-=======
 import time
->>>>>>> commit from acer
 from datetime import datetime, timedelta
 from dateutil.parser import parse
 
@@ -82,14 +79,11 @@ def convert_date(date):
 if __name__ == '__main__':
     date1 = '2016-12-22 10:49:57'
     date2 = '2016-1-22 10:49:57'
-<<<<<<< HEAD
 
     days = add_days(date1, 2)
     print('days:', days)
-=======
     a = time.time()
     days = date_diff('2016-1-12 00:00:00', '2016.5.12')
     print('days:', days)
     # time.sleep(10)
     print(time.time() - a)
->>>>>>> commit from acer
