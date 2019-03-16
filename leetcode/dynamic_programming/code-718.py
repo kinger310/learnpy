@@ -22,10 +22,6 @@ def findLength(A: 'List[int]', B: 'List[int]') -> 'int':
     return result[0]
 
 
-
-
-
-
 def findLength2(A,B):
     memo = [[0] * (len(B) + 1) for _ in range(len(A) + 1)]
     for i in range(len(A) - 1, -1, -1):

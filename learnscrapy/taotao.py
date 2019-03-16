@@ -24,8 +24,8 @@ while 1:
         if 2 <= i <= 17:
             num = 1998 + i
             print('{0},{1},{2},{3}'.format(my_list[0], my_list[1], str(num), name))
-            strings = my_list[0] + ', ' + my_list[1] + ', ' + str(num) + ', ' + name + '\n'
-            new_file.write(strings)
+            arrays = my_list[0] + ', ' + my_list[1] + ', ' + str(num) + ', ' + name + '\n'
+            new_file.write(arrays)
     new_file.close()
 
 file.close()

@@ -40,7 +40,7 @@ import re
         for tag in tags:
             if re.search(r'board,joke,file', tag[1]):
                 print("{0}, {1}".format(tag[0], tag[1]))
-                strings = tag[0] + tag[1] + '\n'
+                arrays = tag[0] + tag[1] + '\n'
 '''
 
 # bbscon,board,joke,file,M.1488980222.A.html

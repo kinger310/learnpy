@@ -20,7 +20,7 @@ from sklearn.preprocessing import LabelEncoder
 X = df[[0, 1, 2, 3]].values
 y = df['class label'].values
 
-# convert class labels from strings to integers
+# convert class labels from arrays to integers
 enc = LabelEncoder()
 label_encoder = enc.fit(y)
 y = label_encoder.transform(y)
