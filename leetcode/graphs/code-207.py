@@ -34,30 +34,33 @@ def canFinish(numCourses, prerequisites):
     """
 
     def dfs(v):
-        if visit[v] == -1:
-            return False
-        if visit[v] == 1:
-            return True
+        nonlocal is_possible
+        if not is_possible:
+            return
         visit[v] = -1
         for u in graph[v]:
-            if not dfs(u):
-                return False
+            if visit[u] == 0:
+                dfs(u)
+            elif visit[u] == -1:
+                is_possible = False
         visit[v] = 1
-        return True
 
     graph = [[] for _ in range(numCourses)]
-    visit = [0] * numCourses
-    for edge in prerequisites:
-        graph[edge[0]].append(edge[1])
+    for src, dest in prerequisites:
+        graph[src].append(dest)
 
-    for target_course in range(numCourses):
-        if not dfs(target_course):
-            return False
-    return True
+    visit = [0] * numCourses
+    is_possible = True
+
+    for course in range(numCourses):
+        if visit[course] == 0:
+            dfs(course)
+    return is_possible
 
 
 # if node v has not been visited, then mark it as 0.
 # if node v is being visited, then mark it as -1. If we find a vertex marked as -1 in DFS, then their is a ring.
 # if node v has been visited, then mark it as 1. If a vertex was marked as 1, then no ring contains v or its successors.
 
-print(canFinish(2, [[1, 0], [0, 1]]))
+# print(canFinish(3, [[0,2], [1, 2], [0, 1]]))
+print(canFinish(4, [[0,1], [1, 2], [2,0],[2,3], [3,0]]))
