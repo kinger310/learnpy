@@ -17,3 +17,4 @@ MDA
 *.gif
 *.jar
 *.bfg-report
+__pycache__

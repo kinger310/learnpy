@@ -1,4 +1,4 @@
-from leetcode.listnode import lst2link, print_link
+from leetcode.listnode import lst2link, link2Lst
 
 
 def reverseList(head):
@@ -29,4 +29,4 @@ def reverse_link(head):
 
 head = lst2link([1, 2, 3, 4, 5])
 p = reverse_link(head)
-print_link(p)
+print(link2Lst(p))

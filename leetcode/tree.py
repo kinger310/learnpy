@@ -1,3 +1,5 @@
+from collections import deque
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -34,6 +36,26 @@ def lstToTreeNode(inputValues):
             node.right = TreeNode(rightNumber)
             nodeQueue.append(node.right)
     return root
+
+
+def treeNodeToLst(root):
+    output = []
+    if not root:
+        return output
+    queue = [root]
+    current = 0
+    while current != len(queue):
+        node = queue[current]
+        current += 1
+        if node is None:
+            output.append(node)
+            continue
+        output.append(node.val)
+        if node.left is None and node.right is None:
+            continue
+        queue.append(node.left)
+        queue.append(node.right)
+    return output
 
 
 if __name__ == '__main__':

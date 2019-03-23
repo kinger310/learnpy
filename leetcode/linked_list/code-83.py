@@ -1,4 +1,4 @@
-from leetcode.listnode import lst2link, print_link, ListNode
+from leetcode.listnode import lst2link, link2Lst, ListNode
 
 
 def deleteDuplicates2(head):
@@ -32,4 +32,4 @@ def deleteDuplicates1(head):
 
 p = lst2link([-1, 1,1,1,2,2,3,3,5])
 q = deleteDuplicates2(p)
-print_link(q)
+print(link2Lst(q))

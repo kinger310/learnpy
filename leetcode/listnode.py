@@ -27,13 +27,13 @@ def cyclelink(lst, pos):
     return dummy.next
 
 
-def print_link(head):
+def link2Lst(head):
     cur = head
     result = []
     while cur:
         result.append(cur.val)
         cur = cur.next
-    print(result)
+    return result
 
 
 # A simple decorator
@@ -51,6 +51,6 @@ def timethis(func):
 if __name__ == '__main__':
     x = cyclelink([1, 2, 3, 4], 1)
     # x = lst2link([1,2,3])
-    print_link(x)
+    link2Lst(x)
 
     print("ok")
