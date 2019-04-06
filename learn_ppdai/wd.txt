@@ -1,0 +1,2439 @@
+211
+00:11:05,190 --> 00:11:08,840
+Now, let&#39;s look at the VC dimension as it relates to learning.
+现在我们来看看与学习有关的VC维
+
+212
+00:11:08,840 --> 00:11:10,550
+This is an important viewgraph.
+这是一个重要的图表
+
+213
+00:11:10,550 --> 00:11:13,720
+When we talk about learning, we have to go back to our friend, the
+当我们谈到学习时，我们不得不回到
+
+214
+00:11:13,720 --> 00:11:14,840
+learning diagram.
+学习图表
+
+215
+00:11:14,840 --> 00:11:17,980
+And in case you forgot it, let me magnify it a little bit.
+怕你们忘了，我把它放大一些。
+
+216
+00:11:17,980 --> 00:11:21,350
+
+
+
+217
+00:11:21,350 --> 00:11:22,860
+There are different components.
+这里有不同的组成部分
+
+218
+00:11:22,860 --> 00:11:25,320
+And we have studied the matter so well, that we now can
+并且我们已经学习过其中的重要部分，现在
+
+219
+00:11:25,320 --> 00:11:26,440
+relate more to this.
+关于这些我们要讲更多
+
+220
+00:11:26,440 --> 00:11:28,790
+Remember, this is the target function, gives me the examples.
+记住，这是目标函数、训练用的例子
+
+221
+00:11:28,790 --> 00:11:31,340
+Learning algorithm picks the hypothesis, puts it as the final one.
+学习算法根据假设集做出最终假设
+
+222
+00:11:31,340 --> 00:11:34,120
+We hope that the final hypothesis approximates this guy.
+我们希望最终假设可以逼近这个函数
+
+223
+00:11:34,120 --> 00:11:36,600
+And we introduced this thing, in order to get the probabilistic analysis.
+同时我们引入了这个（概率分布），以便进行概率分析
+
+224
+00:11:36,600 --> 00:11:39,000
+We have seen this before.
+我们之前也用到过
+
+225
+00:11:39,000 --> 00:11:44,850
+Now, let&#39;s look at this diagram, and see what the VC dimension says.
+现在我们看看这张图表 看看VC维有啥用
+
+226
+00:11:44,850 --> 00:11:51,030
+The main result is that if the VC dimension is finite-- that&#39;s all you
+最主要的结果是 如果VC维是有限的
+
+227
+00:11:51,030 --> 00:11:54,300
+are asking-- then,
+（不要慌 待会儿解释什么是有限）
+
+228
+00:11:54,300 --> 00:11:58,210
+now the green final hypothesis will generalize.
+那么 现在这条绿色的假设将泛化
+
+229
+00:11:58,210 --> 00:11:59,990
+That we have established by the theory.
+那么我们理论上就建成了（学习模型）
+
+230
+00:11:59,990 --> 00:12:02,455
+So you don&#39;t even need to know its value.
+所以你甚至不用去了解它的值
+
+231
+00:12:02,455 --> 00:12:06,250
+You just need to know it&#39;s finite, and then you can say the g will generalize.
+你只需要知道它是有限的，然后，你可以说g可以被泛化
+
+232
+00:12:06,250 --> 00:12:08,250
+That we have in the bag.
+妥妥的
+
+233
+00:12:08,250 --> 00:12:12,740
+Now, I&#39;d like to understand the rest of the diagram, in terms of the VC
+接着我想讲下图表的其他部分内容  就VC维而言
+
+234
+00:12:12,740 --> 00:12:15,960
+dimension. We can understand the green part.
+我们可以理解绿色部分
+
+235
+00:12:15,960 --> 00:12:19,800
+Here, we&#39;ll generalize to the target function, for
+这里，最终假设是目标函数的泛化
+
+236
+00:12:19,800 --> 00:12:20,610
+better or for worse.
+不管假设是好还是坏
+
+237
+00:12:20,610 --> 00:12:24,440
+It could be doing very poorly in the in-sample, and that will generalize.
+最终假设可能在样本内表现很差，它可以泛化
+
+238
+00:12:24,440 --> 00:12:27,000
+Or could be doing great in the in-sample, and that will generalize.
+也可能在样本内表现很好，它还可以泛化
+
+239
+00:12:27,000 --> 00:12:30,190
+We are only talking about generalization here.
+这里我们仅仅讨论泛化
+
+240
+00:12:30,190 --> 00:12:37,510
+Now, this statement is independent of the learning algorithm.
+所以 现在这个是结论与学习算法无关的
+
+241
+00:12:37,510 --> 00:12:38,860
+Why is that?
+为什么呢？
+
+242
+00:12:38,860 --> 00:12:43,520
+Because the learning algorithm here, if it picks a hypothesis, it will have
+因为这里的学习算法 如果选择了一个假设 
+
+243
+00:12:43,520 --> 00:12:45,650
+to pick it from the hypothesis set.
+我们必须从假设集选出它
+
+244
+00:12:45,650 --> 00:12:49,390
+We have gone through all of this trouble, in order to guarantee that
+我们经历过这样的难题：
+
+245
+00:12:49,390 --> 00:12:53,600
+generalization will happen, uniformly, regardless of which
+我们如何保证泛化一致地发生
+
+246
+00:12:53,600 --> 00:12:55,420
+hypothesis you pick.
+不管选择哪个假设
+
+247
+00:12:55,420 --> 00:12:59,240
+Therefore, you can find the craziest learning algorithm, and it can pick
+因此，你可以找到最疯狂的学习算法
+
+248
+00:12:59,240 --> 00:13:02,320
+anything you want, and you still can make the statement about the final
+它可以任意选择假设 而且你都能将最终假设
+
+249
+00:13:02,320 --> 00:13:03,270
+hypothesis.
+泛化
+
+250
+00:13:03,270 --> 00:13:05,390
+So the learning algorithm doesn&#39;t matter, as far as
+所以学习算法不是关键，关键是
+
+251
+00:13:05,390 --> 00:13:06,990
+generalization is concerned.
+泛化
+
+252
+00:13:06,990 --> 00:13:11,640
+Let&#39;s punish it by graying it out.
+所以让我们将它标成灰色
+
+253
+00:13:11,640 --> 00:13:17,880
+Now, it&#39;s also independent of the input distribution.
+好 现在它也独立于输入分布
+
+254
+00:13:17,880 --> 00:13:19,550
+This is the box.
+就是这个框
+
+255
+00:13:19,550 --> 00:13:22,380
+This was technically introduced in order to get Hoeffding.
+这个在技巧上引入，是为了得到Hoeffding不等式
+
+256
+00:13:22,380 --> 00:13:26,620
+And obviously, it has to survive in order to get the VC inequality.
+显然它不得不保留下来以得到VC不等式
+
+257
+00:13:26,620 --> 00:13:29,420
+The reason I am talking about the independence here is because of
+我之所以要讨论这里的独立性 是因为
+
+258
+00:13:29,420 --> 00:13:30,700
+an interesting point.
+有一点很有趣
+
+259
+00:13:30,700 --> 00:13:35,070
+We mentioned that when we define the growth function or the VC dimension, I
+我们曾提到 在我们定义生长函数或者VC维时
+
+260
+00:13:35,070 --> 00:13:39,800
+give you the budget N and then you choose the points any way you want,
+我给你N的预设值 然后你在任何方向选择你想要的点
+
+261
+00:13:39,800 --> 00:13:43,890
+with a view to maximizing the dichotomies, right?
+以求最大限度的对分 对吧
+
+262
+00:13:43,890 --> 00:13:47,720
+So now there is no probability distribution that can beat you.
+所以现在没有什么概率分布能难倒你
+
+263
+00:13:47,720 --> 00:13:51,270
+I can pick the weirdest probability distribution that has preferences for
+我可以选择最不可思议的概率分布 它偏好一些
+
+264
+00:13:51,270 --> 00:13:55,190
+funny points or not, and your choice of the points will be fine,
+有趣的点 或者不是 并且你的选择还会很好
+
+265
+00:13:55,190 --> 00:13:57,610
+because you choose the points that maximize.
+因为你最大限度对分这些点
+
+266
+00:13:57,610 --> 00:13:59,690
+So whatever the probability distribution does, you
+所以不管概率分布如何
+
+267
+00:13:59,690 --> 00:14:02,130
+will be doing more.
+你可以做到更多 对吧
+
+268
+00:14:02,130 --> 00:14:04,950
+And therefore, your bound will hold.
+由此可以保证边界 对吧
+
+269
+00:14:04,950 --> 00:14:07,620
+Therefore, we don&#39;t have to worry about probability distributions.
+我们不必去担心概率分布
+
+270
+00:14:07,620 --> 00:14:10,710
+The learning statement, that this guy will generalize, will hold for any
+学习的结果，也就是这个函数的泛化，可以适用于
+
+271
+00:14:10,710 --> 00:14:12,760
+probability distribution.
+各种概率分布
+
+272
+00:14:12,760 --> 00:14:17,390
+So another guy bites the dust.
+所以另一个对象（概率分布）也变灰了
+
+273
+00:14:17,390 --> 00:14:20,960
+Now, you look at this and then there is a third guy which is an obvious
+现在你们看 又有了第三个对象
+
+274
+00:14:20,960 --> 00:14:23,370
+one, which is the target function.
+很显然是目标函数
+
+275
+00:14:23,370 --> 00:14:27,920
+All of this analysis, the target function didn&#39;t matter at all as far
+通过分析 目标函数一点也不重要
+
+276
+00:14:27,920 --> 00:14:29,020
+as generalization is concerned.
+重要的是泛化
+
+277
+00:14:29,020 --> 00:14:32,330
+We are generalizing to it, but we don&#39;t care what it is.
+我们关心的是如何泛化它  但我们不在意它是什么
+
+278
+00:14:32,330 --> 00:14:36,660
+As long as it generates the examples we learn from, and then we test on it,
+只要它能产生我们可以学习的样例，然后我们可以测试它 
+
+279
+00:14:36,660 --> 00:14:37,880
+that&#39;s all we care about.
+这些就是我们所关心的
+
+280
+00:14:37,880 --> 00:14:40,420
+The generalization statement will hold.
+泛化的观点将会保持 对吧
+
+281
+00:14:40,420 --> 00:14:42,210
+So it also goes.
+那么继续
+
+282
+00:14:42,210 --> 00:14:45,490
+So now as far as the VC theory is concerned, we
+所以现在涉及VC理论
+
+283
+00:14:45,490 --> 00:14:48,400
+really have three blocks.
+我们还剩3个模块 对么
+
+284
+00:14:48,400 --> 00:14:50,250
+The first one is the hypothesis.
+第一是关于最终假设
+
+285
+00:14:50,250 --> 00:14:53,670
+That is the one that we are claiming the generalization with respect to.
+我们在这里提出了泛化 
+
+286
+00:14:53,670 --> 00:14:56,130
+That&#39;s number one.
+这是第一个 
+ 
+287
+00:14:56,130 --> 00:14:58,950
+The hypothesis set is where we define the VC dimension.
+假设集是我们定义VC维的地方
+
+288
+00:14:58,950 --> 00:15:01,800
+And if you remember very early on, I told you that the hypothesis set is
+如果你记得我早先告诉你的  这个假设集是一些
+
+289
+00:15:01,800 --> 00:15:05,050
+a little bit of an artificial notion to introduce as part of
+人为提出的设定，来作为
+
+290
+00:15:05,050 --> 00:15:06,560
+the learning diagram.
+图表学习的一部分
+
+291
+00:15:06,560 --> 00:15:08,320
+And I said that we are going to introduce it
+我之前说过我们会引入它
+
+292
+00:15:08,320 --> 00:15:09,590
+because there is no downside.
+因为它没有坏处
+
+293
+00:15:09,590 --> 00:15:11,810
+There is no loss of generality, which is true.
+这确实没有失掉一般性
+
+294
+00:15:11,810 --> 00:15:13,770
+And there is an upside for the theory.
+而且这个理论有一个好处
+
+295
+00:15:13,770 --> 00:15:15,550
+Now, you can see the upside.
+现在你可以知道这个好处了
+
+296
+00:15:15,550 --> 00:15:20,170
+The entire VC theory deals with the hypothesis set by itself.
+整个VC理论就是在假设集上做研究
+
+297
+00:15:20,170 --> 00:15:23,520
+That&#39;s what&#39;s has a VC dimension, and that&#39;s what will tell you, you are able to
+假设集上有个什么样的VC维 这也将告诉你 
+
+298
+00:15:23,520 --> 00:15:24,320
+generalize.
+你能够泛化什么
+
+299
+00:15:24,320 --> 00:15:27,730
+The rest of the guys that are more intuitive, that disappeared here, are not
+其他在这里消失的东西是更加直观的
+
+300
+00:15:27,730 --> 00:15:30,510
+relevant to that theory.
+和VC理论并不相关 对吧
+
+301
+00:15:30,510 --> 00:15:34,420
+Now, that training examples are left, because the statement that involves
+现在，还剩训练样例  因为涉及到VC维的这个结论
+
+302
+00:15:34,420 --> 00:15:37,380
+the VC dimension is a probabilistic statement.
+是一个概率结论
+
+303
+00:15:37,380 --> 00:15:41,510
+It says that, with high probability, you will generalize.
+它指出 在较大概率下我们可以泛化
+
+304
+00:15:41,510 --> 00:15:45,080
+With high probability with respect to what?
+较大概率是和什么相关？
+
+305
+00:15:45,080 --> 00:15:48,100
+It&#39;s with respect to generating the data.
+它和样例数据集相关
+
+306
+00:15:48,100 --> 00:15:52,160
+You may get a very unlucky data set, for which you are not going to
+你可能会得到很糟糕的数据集  使你无法进行
+
+307
+00:15:52,160 --> 00:15:53,160
+generalize.
+泛化
+
+308
+00:15:53,160 --> 00:15:56,360
+The guarantee is that this happens with a very small probability.
+原因是它发生在一个很小的概率内
+
+309
+00:15:56,360 --> 00:15:59,890
+So this remains here, just because it is part of the statement.
+所以 训练样例保留下来是因为它们是结论的一部分
+
+310
+00:15:59,890 --> 00:16:03,730
+And this triangle is where the VC inequality lives.
+这个三角形就是VC不等式依赖的三个元素
+
+311
+00:16:03,730 --> 00:16:07,100
+
+
+
+312
+00:16:07,100 --> 00:16:12,050
+Now we go into a fun thing of computing the VC dimension for the
+现在我们做一件有趣的事情  计算感知机的
+
+313
+00:16:12,050 --> 00:16:12,940
+perceptrons.
+VC维
+
+314
+00:16:12,940 --> 00:16:14,250
+There are two goals for doing this.
+这么做有两个目的
+
+315
+00:16:14,250 --> 00:16:14,970
+We&#39;ll do it exactly.
+一个目的是准确的
+
+316
+00:16:14,970 --> 00:16:17,140
+We&#39;ll get exact formula for it.
+推算并得到它确切的方程
+
+317
+00:16:17,140 --> 00:16:21,380
+One thing is to test your understanding of the definition.
+另一个目的是测试你们对于定义的理解
+
+318
+00:16:21,380 --> 00:16:25,690
+The definition is a little bit tricky because I give you N. You choose the
+这个定义有些棘手 因为我给你了N。你要任意
+
+319
+00:16:25,690 --> 00:16:27,000
+points any which way.
+选点
+
+320
+00:16:27,000 --> 00:16:27,780
+You maximize this.
+要最大限度对分这些点
+
+321
+00:16:27,780 --> 00:16:32,390
+This is a bound, so what is minimum, what is maximum, and whatnot, may be
+这是个界限问题 那么什么是最大限度 什么是最小限度
+
+322
+00:16:32,390 --> 00:16:33,320
+a little bit fuzzy.
+在求解中存在很多混淆不清的地方
+
+323
+00:16:33,320 --> 00:16:37,320
+And trying to get the number for a particular case will seal the deal.
+处理一个特定的情况或许可以简化问题
+
+324
+00:16:37,320 --> 00:16:39,080
+So that&#39;s number one.
+所以这是第一个
+
+325
+00:16:39,080 --> 00:16:42,050
+Number two is that, because we understand the perceptron model so
+第二是 因为我们已将感知机模型理解到位
+
+326
+00:16:42,050 --> 00:16:45,980
+well, we will be able to get the result, which is the VC dimension of
+我们可以得出感知机VC维的
+
+327
+00:16:45,980 --> 00:16:46,910
+perceptrons.
+结果
+
+328
+00:16:46,910 --> 00:16:50,990
+And that will give us insight into what the VC dimension signifies.
+这将使我们深入了解VC维表示什么
+
+329
+00:16:50,990 --> 00:16:54,530
+And that will set the stage, when we go to interpreting the VC dimension.
+并且 这为我们理解VC维奠定了基础
+
+330
+00:16:54,530 --> 00:16:57,255
+So this is an important part, that will take a little bit of analysis.
+所以这是很重要的一部分  这需要我们做一些分析
+
+331
+00:16:57,255 --> 00:17:00,120
+
+
+
+332
+00:17:00,120 --> 00:17:05,520
+For the two-dimensional perceptron, we already have done the exercise, and
+到目前 对于二维空间感知机，我们已经做了练习
+
+333
+00:17:05,520 --> 00:17:08,180
+we got the VC dimension to be 3.
+得到了VC维是3 
+
+334
+00:17:08,180 --> 00:17:10,390
+Right?
+对不对
+
+335
+00:17:10,390 --> 00:17:14,010
+Now, if you go for the general case and you have d-dimensional space, you
+好 在通常状况下 比如在d-维度空间中
+
+336
+00:17:14,010 --> 00:17:15,700
+expect the VC dimension to be more.
+大家会觉得维度空间应该会大一些
+
+337
+00:17:15,700 --> 00:17:21,240
+Because even if you just go to three dimensions, the troublesome case
+因为即使你仅仅考虑3维时  任意选取4个点
+
+338
+00:17:21,240 --> 00:17:25,630
+of four points, that we had before, is very easily shattered in this case.
+如前所述，是很容易被打散的
+
+339
+00:17:25,630 --> 00:17:27,890
+Just pick the points not on a plane.
+只需选择不在同一平面的一些点
+
+340
+00:17:27,890 --> 00:17:31,570
+And remember the problem with those guys is that if you want these guys to
+记住 那些问题是你知道的  当你希望它们
+
+341
+00:17:31,570 --> 00:17:36,630
+be -1 and these guys to be +1, it was a problem for the plane.
+是-1 而它们是+1 这是个平面问题 对吗
+
+342
+00:17:36,630 --> 00:17:40,560
+Now, you can very easily separate any two points from the other two points
+现在你可以轻易将任意两点和另外两点分开
+
+343
+00:17:40,560 --> 00:17:42,110
+and you can shatter four points.
+将4个点打散
+
+344
+00:17:42,110 --> 00:17:44,270
+So the VC dimension went up for sure.
+所以VC维一定是上升的
+
+345
+00:17:44,270 --> 00:17:47,260
+And we ask ourselves: how much did it go up?
+然后我们要问自己：它上升了多少呢？
+
+346
+00:17:47,260 --> 00:17:50,040
+Well, it turns out to be a very simple formula.
+这其实是个很简单的方程
+
+347
+00:17:50,040 --> 00:17:53,800
+The VC dimension of perceptrons is exactly d plus 1.
+感知机的VC维等于d+1 
+
+348
+00:17:53,800 --> 00:17:56,340
+
+ 
+
+349
+00:17:56,340 --> 00:17:58,170
+Now we need to prove that.
+现在我们需要证明它
+
+350
+00:17:58,170 --> 00:18:02,080
+And we are going to prove it in two stages, very simple stages.
+我们将分两步证明它 很简单的步骤
+
+351
+00:18:02,080 --> 00:18:08,490
+One of them is that we are going to show that the VC dimension is
+其中 我们要证明VC维的小于等于
+
+352
+00:18:08,490 --> 00:18:12,380
+at most d plus 1.
+为d+1 好吧
+
+353
+00:18:12,380 --> 00:18:17,590
+Then, we are going to show that the VC dimension is at least d plus 1.
+然后我们要证明VC维大于等于d+1
+
+354
+00:18:17,590 --> 00:18:23,060
+And that leaves the single possibility that the VC dimension is d plus 1.
+从而VC维只有一种可能值 等于d+1
+
+355
+00:18:23,060 --> 00:18:26,040
+So let&#39;s go.
+现在我们开始
+
+356
+00:18:26,040 --> 00:18:27,900
+Here is one direction.
+这是一个方向 对吗
+
+357
+00:18:27,900 --> 00:18:31,390
+And by the way, pay attention because I am going to give you a quiz in the
+顺便说下 注意听 因为我将会给你们一个小测验
+
+358
+00:18:31,390 --> 00:18:33,910
+middle of the argument, to make sure that you are paying attention.
+在讨论期间 这是为确保你们集中注意力
+
+359
+00:18:33,910 --> 00:18:34,870
+This is for real.
+不仅对在座各位 
+
+360
+00:18:34,870 --> 00:18:37,026
+And for the online audience as well.
+同时也是针对网上观众的
+
+361
+00:18:37,026 --> 00:18:39,590
+Here is the first direction.
+这是第一个方向
+
+362
+00:18:39,590 --> 00:18:46,160
+I am going to construct a specific set of N points, and that N in this case
+我将建立一个特殊的N个点的集合 N在这里
+
+363
+00:18:46,160 --> 00:18:51,270
+is d plus 1, because that&#39;s the number of points I want to shatter.
+是d+1  由于这是我想打散的点数
+
+364
+00:18:51,270 --> 00:18:54,630
+And I am going to construct them in the d-dimensional Euclidean
+我将把它建立在d维欧氏空间
+
+365
+00:18:54,630 --> 00:18:56,690
+space, R to the d.
+点在实数域上
+
+366
+00:18:56,690 --> 00:19:02,340
+I am going to construct them with a view to being able to shatter them.
+我将以它们可以打散这种观点来建立
+
+367
+00:19:02,340 --> 00:19:04,970
+So I get to choose the points, which is my privilege.
+所以我可以随意选择点
+
+368
+00:19:04,970 --> 00:19:08,230
+As long as I can shatter them, we are OK.
+只要我可以打散它们就行
+
+369
+00:19:08,230 --> 00:19:11,070
+So what are these points?
+所以这些点怎么构建呢
+
+370
+00:19:11,070 --> 00:19:13,790
+I am going to construct them using a matrix.
+我将通过一个矩阵来建立它们
+
+371
+00:19:13,790 --> 00:19:16,520
+And you have seen this matrix before.
+你们之前见过这个矩阵 对吗
+
+372
+00:19:16,520 --> 00:19:19,730
+Remember our old friend linear regression?
+记得线性回归么
+
+373
+00:19:19,730 --> 00:19:23,560
+We actually set the input points in linear regression this way, in order to
+事实上 我们以线性回归这种方式设定输入点
+
+374
+00:19:23,560 --> 00:19:26,550
+get the algorithm, the pseudo-inverse, and all of that.
+用转置和求逆的方式得到算法
+
+375
+00:19:26,550 --> 00:19:30,940
+And in the case of linear regression, this was a very tall matrix where this
+在线性回归中 这是一个非常大的矩阵
+
+376
+00:19:30,940 --> 00:19:37,940
+is one data point, which means that it&#39;s d plus 1 dimensional vector.
+这里是一个数据点 它是一个d+1维的向量
+
+377
+00:19:37,940 --> 00:19:43,260
+The 1 dimension is the constant x_0, which is the constant +1 we add to
+常量x_0是1维的，作为常数加1，当我们
+
+378
+00:19:43,260 --> 00:19:44,520
+take care of the threshold.
+考虑他的起始点时
+
+379
+00:19:44,520 --> 00:19:47,540
+And then the rest of the dimensions, from 1 to d, are actually the
+其它的维度从1到d, 实际是
+
+380
+00:19:47,540 --> 00:19:49,820
+coordinates of the point.
+这些点的坐标
+
+381
+00:19:49,820 --> 00:19:50,440
+So we put these.
+因此我们得出
+
+382
+00:19:50,440 --> 00:19:51,580
+And this is one data point.
+第一个数据点
+
+383
+00:19:51,580 --> 00:19:52,400
+This is the second.
+第二个
+
+384
+00:19:52,400 --> 00:19:53,220
+This is the third.
+第三个 等等
+
+385
+00:19:53,220 --> 00:19:53,570
+
+ 
+
+386
+00:19:53,570 --> 00:19:57,000
+And usually, since we have many, many more points than dimensions, this is
+通常我们有比维度更多的点
+
+387
+00:19:57,000 --> 00:19:58,360
+a tall matrix.
+这是一个大矩阵
+
+388
+00:19:58,360 --> 00:20:03,420
+In this case, I am choosing N to be exactly d plus 1.
+这里 我让N=d+1
+
+389
+00:20:03,420 --> 00:20:06,480
+And since we already established that this is d plus 1, this is
+既然它确定为d+1
+
+390
+00:20:06,480 --> 00:20:10,150
+actually a square matrix in this case.
+在这里它实际就是一个方阵
+
+391
+00:20:10,150 --> 00:20:13,950
+But that&#39;s all I need for the purpose that I am after here.
+但这就是我以后计算所需要的
+
+392
+00:20:13,950 --> 00:20:15,690
+I need to give you the identity of these guys.
+我会介绍它们的特征
+
+393
+00:20:15,690 --> 00:20:17,740
+What are these guys?
+它们是什么
+
+394
+00:20:17,740 --> 00:20:21,160
+These guys look like this.
+它们看上去像这样
+
+395
+00:20:21,160 --> 00:20:23,140
+This is no mystery.
+这不难理解
+
+396
+00:20:23,140 --> 00:20:27,340
+See, if you look at the first column, it&#39;s all 1&#39;s.
+看一下第一列 全都是1
+
+397
+00:20:27,340 --> 00:20:28,250
+Well, it has to be.
+好 它必须是
+
+398
+00:20:28,250 --> 00:20:29,180
+That&#39;s dictated.
+确定一定以及肯定
+
+399
+00:20:29,180 --> 00:20:30,680
+That is the constant coordinate.
+那是常数坐标
+
+400
+00:20:30,680 --> 00:20:31,890
+It has to be +1.
+它必须是+1
+
+401
+00:20:31,890 --> 00:20:35,710
+If I want a legitimate point in this representation, the d plus 1
+如果我想在d+1维中找一个合适的点
+
+402
+00:20:35,710 --> 00:20:38,770
+dimensional representation, the first coordinate has to be 1.
+第一列坐标必须是1
+
+403
+00:20:38,770 --> 00:20:42,210
+The rest of the guys, I chose the simplest possible form I can imagine.
+其余的 我选择了最简单的形式
+
+404
+00:20:42,210 --> 00:20:47,390
+You have basically a diagonal matrix here, and I added all 0&#39;s here.
+在这里添加对角矩阵  我在这里用0
+
+405
+00:20:47,390 --> 00:20:52,130
+So these are the guys that are my data set.
+这就是我选的数据点
+
+406
+00:20:52,130 --> 00:20:55,740
+Now, you can see that I chose them such that X is invertible, because
+现在你会发现我给出的矩阵是可逆的
+
+407
+00:20:55,740 --> 00:20:59,080
+that is the technique I&#39;m going to use in order to be able to shatter them.
+因为这就是我要用的技巧 为了能够打散它们
+
+408
+00:20:59,080 --> 00:21:01,600
+You will see in a moment.
+你们一会儿会看到
+
+409
+00:21:01,600 --> 00:21:03,960
+Do I know that this is invertible?
+我知道这是可逆的么
+
+410
+00:21:03,960 --> 00:21:07,270
+Yes, the determinant is 1, actually.
+当然 决定因素实际上在于1 
+
+411
+00:21:07,270 --> 00:21:09,450
+And that means it&#39;s invertible.
+这就意味着它是可逆的
+
+412
+00:21:09,450 --> 00:21:12,080
+Can you compute the determinant?
+你会计算它的行列式吗
+
+413
+00:21:12,080 --> 00:21:13,610
+This is 1.
+结果是1
+
+414
+00:21:13,610 --> 00:21:16,860
+And then every time you have this guy, you have the 0 term wiping out
+你用0消掉了的 
+
+415
+00:21:16,860 --> 00:21:17,270
+everything.
+所有
+
+416
+00:21:17,270 --> 00:21:19,370
+So I get a 1.
+所以我得到了1
+
+417
+00:21:19,370 --> 00:21:21,650
+So this is an invertible matrix.
+所以这是可逆矩阵
+
+418
+00:21:21,650 --> 00:21:24,830
+Why am I interested in an invertible matrix?
+我为什么对可逆矩阵感兴趣
+
+419
+00:21:24,830 --> 00:21:26,900
+Because we can shatter the data set.
+因为我们可以用它打散数据集
+
+420
+00:21:26,900 --> 00:21:29,450
+This is how we are going to do it.
+这就是我要做的
+
+421
+00:21:29,450 --> 00:21:31,930
+Look at any set of labels you want.
+看看你想要的任何一组标签
+
+422
+00:21:31,930 --> 00:21:34,610
+So this is a dichotomy.
+这是一个对分
+
+423
+00:21:34,610 --> 00:21:38,720
+This is the value at the first one, +1 or -1, +1 or -1, and
+在第一个点X点它的值等于 +1或-1、+1或-1、
+
+424
+00:21:38,720 --> 00:21:41,800
++1 or -1, on the x points that I just showed you.
++1或-1，如同我刚和你们讲的
+
+425
+00:21:41,800 --> 00:21:45,770
+All of these could be any pattern of +1 or -1&#39;s.
+那么所有这些可能是任何模式的正负 好吗
+
+426
+00:21:45,770 --> 00:21:49,950
+I would like to tell you that any dichotomy you pick from this--
+所以我将要说明，通过选择任意对分 --
+
+427
+00:21:49,950 --> 00:21:55,310
++1, +1, -1, -1, +1, et cetera, I can find a perceptron
++1, +1, -1, -1, +1等等，我可以找一个感知机
+
+428
+00:21:55,310 --> 00:21:57,170
+that realizes this dichotomy.
+实现这个对分
+
+429
+00:21:57,170 --> 00:22:02,270
+If I do that, then I have showed you that I can shatter the set.
+如果可以，我已经证明了此集合可以打散
+
+430
+00:22:02,270 --> 00:22:06,750
+Let us look for the w that satisfies--
+让我们找下向量W，它满足…… 
+
+431
+00:22:06,750 --> 00:22:08,480
+and what does it satisfy?
+它满足什么呢
+
+432
+00:22:08,480 --> 00:22:12,180
+It satisfies this condition.
+它满足这个条件
+
+433
+00:22:12,180 --> 00:22:17,710
+This computes the signal for all the points at once, in vector form.
+它计算向量形式的所有的点的符号
+
+434
+00:22:17,710 --> 00:22:19,130
+You take the sign of that.
+你选择了符号
+
+435
+00:22:19,130 --> 00:22:22,840
+And you would like the sign of that to agree with the particular y you chose.
+而且Xw和y的符号一致
+
+436
+00:22:22,840 --> 00:22:28,730
+So you give me y, I am supposed to come up with w, such that this holds.
+所以给我Y 我能得出W，来满足这个等式
+
+437
+00:22:28,730 --> 00:22:32,530
+If I can do that for every choice of y you give me, then I am done.
+如果对任意每个y都满足等式，那么可以了
+
+438
+00:22:32,530 --> 00:22:33,870
+I have shattered your set.
+我已经打散了数据集
+
+439
+00:22:33,870 --> 00:22:36,590
+Or, my set, the set I chose.
+对，任意数据集
+
+440
+00:22:36,590 --> 00:22:38,350
+How am I going to do that?
+接下来做什么呢
+
+441
+00:22:38,350 --> 00:22:40,120
+Oh, it&#39;s pretty easy.
+哦 很容易
+
+442
+00:22:40,120 --> 00:22:44,286
+What I am going to do, I am going to do even better than this.
+我将会做得比这更好
+
+443
+00:22:44,286 --> 00:22:50,100
+I am going to actually have X w numerically equal y, even before
+我让Xw=Y
+
+444
+00:22:50,100 --> 00:22:52,380
+taking the sign.
+在取符号之前
+
+445
+00:22:52,380 --> 00:22:56,920
+So when you multiply the matrix X by w, you are going to get specifically
+所以当你用X*W  
+
+446
+00:22:56,920 --> 00:22:58,650
+a pattern of +1 or -1&#39;s.
+右边就等于+1或-1
+
+447
+00:22:58,650 --> 00:23:01,400
+Well, if you get +1 or -1, guess what happens when you take the
+当你得到1或-1 猜猜之后将
+
+448
+00:23:01,400 --> 00:23:03,470
+sign of that?
+发生什么
+
+449
+00:23:03,470 --> 00:23:05,770
+You&#39;ll get the same thing, +1 or -1.
+你将会同样得到+1或-1
+
+450
+00:23:05,770 --> 00:23:07,420
+So that will satisfy that.
+这也满足条件
+
+451
+00:23:07,420 --> 00:23:10,680
+But that is easy to handle, because now I have algebra working for me.
+但这很容易处理  因为我将用代数解决这一问题
+
+452
+00:23:10,680 --> 00:23:13,250
+Remember that X was invertible.
+我们知道X是可逆的
+
+453
+00:23:13,250 --> 00:23:14,270
+That&#39;s pretty easy.
+那很容易
+
+454
+00:23:14,270 --> 00:23:18,180
+So all you do is just solve for it.
+你要做的只是解出来
+
+455
+00:23:18,180 --> 00:23:21,540
+w would be the inverse of X times y.
+W等于X的逆乘以Y
+
+456
+00:23:21,540 --> 00:23:27,450
+And you have a solution that realizes any dichotomy you can think of.
+你便有了一个解能够实现所有的对分
+
+457
+00:23:27,450 --> 00:23:28,090
+That&#39;s wonderful.
+这很棒
+
+458
+00:23:28,090 --> 00:23:30,100
+So we were able to shatter d plus 1 points.
+所以我们可以打散d+1个点
+
+459
+00:23:30,100 --> 00:23:35,990
+Now comes the quiz.
+现在来个小测验
+
+460
+00:23:35,990 --> 00:23:37,330
+We can shatter these points.
+我们可以打散这些点 
+
+461
+00:23:37,330 --> 00:23:38,360
+Wonderful.
+很好
+
+462
+00:23:38,360 --> 00:23:41,990
+But we are not really interested in shattering for its own sake.
+但实际上打散它们只是第一步
+
+463
+00:23:41,990 --> 00:23:44,850
+We were trying to establish the value of the VC dimension.
+我们真正关心的是建立VC维的值
+
+464
+00:23:44,850 --> 00:23:46,340
+So let&#39;s see what we have established.
+让我们看看我们建立了什么
+
+465
+00:23:46,340 --> 00:23:49,765
+ 
+ 
+
+466
+00:23:49,765 --> 00:23:53,830
+I showed you particular d plus 1 points.
+我给出了d+1个点
+
+467
+00:23:53,830 --> 00:23:57,130
+I showed you that we can shatter them.
+并且讲了如何打散它们
+
+468
+00:23:57,130 --> 00:23:59,930
+What is the conclusion?
+那么结论是什么
+
+469
+00:23:59,930 --> 00:24:05,280
+Is it: oh, we have established the VC dimension is d plus 1?
+我们是否就证实了VC维是d+1？
+
+470
+00:24:05,280 --> 00:24:06,420
+Thank you.
+谢谢
+
+471
+00:24:06,420 --> 00:24:12,750
+Or, oh, we only established that it&#39;s greater than or equal to d plus 1?
+还是说我们只是证实了它大于等于d+1？
+
+472
+00:24:12,750 --> 00:24:13,835
+Wait a minute.
+等等
+
+473
+00:24:13,835 --> 00:24:17,130
+We actually established that it is less than or equal to d plus 1.
+或者是我们证实VC维是小于或等于d+1
+
+474
+00:24:17,130 --> 00:24:21,560
+Or maybe we didn&#39;t establish anything at all, as far as the
+或者是我们没有任何结论
+
+475
+00:24:21,560 --> 00:24:23,920
+value of the VC dimension.
+对于VC维来说
+
+476
+00:24:23,920 --> 00:24:28,760
+I ask you to think about it, and tell me which of those can we conclude?
+我想让你们想想  并且告诉我 我们能得出什么结论
+
+477
+00:24:28,760 --> 00:24:33,460
+And I&#39;d like the online audience to text a, b, c, or d, as if you are
+我希望在线观众也想想是ABC或者D
+
+478
+00:24:33,460 --> 00:24:34,690
+solving a homework.
+如同做作业那样
+
+479
+00:24:34,690 --> 00:24:38,350
+And tell me, which of these choices is a valid conclusion given
+告诉我针对刚才的选项
+
+480
+00:24:38,350 --> 00:24:39,600
+what we have argued?
+哪个选项是正确答案
+
+481
+00:24:39,600 --> 00:24:45,250
+ 
+
+ 
+482
+00:24:45,250 --> 00:24:47,330
+So let&#39;s say by shouting.
+好 大声说出来
+
+483
+00:24:47,330 --> 00:24:50,170
+You just shout a or b or c or d.
+你们刚说了A或B或C或D
+
+484
+00:24:50,170 --> 00:24:52,730
+And I hope that there is enough signal that I will be able to
+我希望能听到你们的选择
+
+485
+00:24:52,730 --> 00:24:54,030
+decipher the majority.
+从而可以了解大多数人怎么选的
+
+486
+00:24:54,030 --> 00:24:55,494
+Shout.
+说吧
+
+487
+00:24:55,494 --> 00:24:56,744
+AUDIENCE: b.
+b
+
+488
+00:24:56,744 --> 00:24:59,700
+ 
+
+ 
+489
+00:24:59,700 --> 00:25:01,420
+PROFESSOR: OK.
+好
+
+490
+00:25:01,420 --> 00:25:03,750
+You guys are a tough crowd!
+你们都很厉害
+
+491
+00:25:03,750 --> 00:25:05,300
+Well, why is that?
+好，为什么是这个呢
+
+492
+00:25:05,300 --> 00:25:09,040
+We were able to shatter d plus 1 points.
+我们能打散d+1个点
+
+493
+00:25:09,040 --> 00:25:13,770
+So we are guaranteed that, for at least d plus 1 points, we are OK.
+我们可以保证至少能打散d+1个点
+
+494
+00:25:13,770 --> 00:25:16,410
+It is conceivable that we can shatter a bigger set.
+可想而知我们可以打散更大的一个集合
+
+495
+00:25:16,410 --> 00:25:18,130
+We haven&#39;t argued that yet.
+我们还没讨论到这个
+
+496
+00:25:18,130 --> 00:25:22,550
+But if we even fail, at least we have the VC dimension to be at
+但是即使我们失败了 至少我们知道VC维
+
+497
+00:25:22,550 --> 00:25:23,720
+least d plus 1.
+最小为d+1
+
+498
+00:25:23,720 --> 00:25:25,780
+If we shatter a higher set, it will be even bigger.
+如果我们打散了更大的集合 它将更大
+
+499
+00:25:25,780 --> 00:25:27,120
+If we cannot, it will be equal.
+如果不能 它将等于（d+1）
+
+500
+00:25:27,120 --> 00:25:29,700
+So that is what we have established.
+这就是我们所建立的
+
+501
+00:25:29,700 --> 00:25:33,210
+Since you are very good at this, let&#39;s do another quiz.
+既然你们做的很棒 让我们做另一个测验
+
+502
+00:25:33,210 --> 00:25:35,340
+So I have now greater than or equal to d plus 1.
+我现在已经知道 VC维大于或等于d+1
+
+503
+00:25:35,340 --> 00:25:38,770
+Now I need to show that the VC dimension is less than or
+所以我现在需要证明VC维
+
+504
+00:25:38,770 --> 00:25:40,480
+equal to d plus 1.
+小于等于d+1
+
+505
+00:25:40,480 --> 00:25:44,050
+I wonder what I need to do, in order to achieve that.
+为了实现它我需要做什么
+
+506
+00:25:44,050 --> 00:25:46,830
+ 
+ 
+
+507
+00:25:46,830 --> 00:25:50,150
+We need to show that--
+我们需要
+
+508
+00:25:50,150 --> 00:25:51,400
+one of several choices.
+给出一个选择
+
+509
+00:25:51,400 --> 00:25:54,650
+ 
+ 
+
+510
+00:25:54,650 --> 00:26:01,950
+Oh, I need to show that there are some points, a set of d
+我需要证明存在d+1个点
+
+511
+00:26:01,950 --> 00:26:06,590
+plus 1 points, that we cannot shatter.
+我们不能打散
+
+512
+00:26:06,590 --> 00:26:07,460
+No, no.
+不，不
+
+513
+00:26:07,460 --> 00:26:11,020
+I need to show that there is a set of d plus 2 points
+我们需要证明有d+2个点是
+
+514
+00:26:11,020 --> 00:26:12,300
+that I cannot shatter.
+无法打散的
+
+515
+00:26:12,300 --> 00:26:15,320
+Oh. No, no.
+哦 不不不
+
+516
+00:26:15,320 --> 00:26:23,210
+Maybe we need to show that we cannot shatter any set of d plus 1 points.
+或许我们要证明不能打散的点数是d+1
+
+517
+00:26:23,210 --> 00:26:25,040
+Or, was it d plus 2?
+还是d+2
+
+518
+00:26:25,040 --> 00:26:27,160
+I&#39;m confused now.
+我有些糊涂了
+
+519
+00:26:27,160 --> 00:26:31,010
+What among those guys will establish the premise?
+它成立的前提是什么
+
+520
+00:26:31,010 --> 00:26:34,460
+The premise that we are trying to establish is that the VC dimension is
+我们要建立的前提是VC维
+
+521
+00:26:34,460 --> 00:26:36,230
+at most d plus 1.
+最大值d+1
+
+522
+00:26:36,230 --> 00:26:38,930
+Which of these statements will establish that?
+哪些结论可以建立这个前提
+
+523
+00:26:38,930 --> 00:26:40,070
+Again, think about it.
+再想想
+
+524
+00:26:40,070 --> 00:26:43,230
+And similarly, for the online audience to text the result.
+在线观众也想想
+
+525
+00:26:43,230 --> 00:26:44,520
+I&#39;ll give you 10 seconds.
+我给你们10秒钟 
+
+526
+00:26:44,520 --> 00:26:45,885
+And then, we&#39;ll also answer by shouting.
+之后我们还是把答案说出来
+
+527
+00:26:45,885 --> 00:26:50,400
+ 
+ 
+
+528
+00:26:50,400 --> 00:26:51,840
+OK, shout.
+好 说吧
+
+529
+00:26:51,840 --> 00:26:53,500
+AUDIENCE: d.
+d
+
+530
+00:26:53,500 --> 00:26:55,110
+PROFESSOR: I like this.
+哦好 真棒
+
+531
+00:26:55,110 --> 00:26:57,220
+How about the online audience? d, OK.
+在线观众呢？d，很好
+
+532
+00:26:57,220 --> 00:27:00,740
+So everybody gets the idea.
+大家都这么想
+
+533
+00:27:00,740 --> 00:27:02,590
+Now, we know what we want to prove.
+现在我们知道了我们想要证明的
+
+534
+00:27:02,590 --> 00:27:05,440
+Let&#39;s go ahead and prove it.
+让我们接下来证明它
+
+535
+00:27:05,440 --> 00:27:10,410
+Now it&#39;s a question of any d plus 2 points.
+现在的问题是
+
+536
+00:27:10,410 --> 00:27:13,530
+So I don&#39;t get to choose the points, you get to choose them.
+我不知如何选d+2个点  你们要选
+
+537
+00:27:13,530 --> 00:27:15,390
+So I tell you, choose them please.
+帮我选出它们
+
+538
+00:27:15,390 --> 00:27:17,910
+And give them to me.
+当你们给出你们所选的点
+
+539
+00:27:17,910 --> 00:27:20,410
+When you give me your points, I am going to make a statement about the
+对于你们选的点 我将得到一个
+
+540
+00:27:20,410 --> 00:27:21,745
+points you chose.
+结论
+
+541
+00:27:21,745 --> 00:27:23,460
+Well, how can I make a statement?
+我如何能得出结论呢
+
+542
+00:27:23,460 --> 00:27:24,410
+You chose them any which way.
+对于你们随意选的点
+
+543
+00:27:24,410 --> 00:27:26,280
+I&#39;m going to make a statement.
+我能得出一个结论
+
+544
+00:27:26,280 --> 00:27:30,320
+I am going to say that, for those particular points that you chose,
+我得出的结论是 你们所选的这些点
+
+545
+00:27:30,320 --> 00:27:36,560
+which I really don&#39;t know what they are, I can say that you have more
+虽然我们也不知道它们是什么 但我敢说你们所选的点
+
+546
+00:27:36,560 --> 00:27:39,480
+points than dimensions.
+比维数大
+
+547
+00:27:39,480 --> 00:27:41,100
+Why is that?
+这是为什么
+
+548
+00:27:41,100 --> 00:27:46,230
+Each of these guys still comes from a d plus 1 vector, right?
+它们仍然来自d+1维的向量 对吗？
+
+549
+00:27:46,230 --> 00:27:49,240
+Because it&#39;s a d-dimensional space plus the added coordinate.
+因为这是d维空间上添加的坐标
+
+550
+00:27:49,240 --> 00:27:51,680
+So each one is d plus 1 dimensions.
+所以每个都是d+1维
+
+551
+00:27:51,680 --> 00:27:53,710
+And I asked you to give me d plus 2.
+我让你给我d+2个点
+
+552
+00:27:53,710 --> 00:27:56,560
+So obviously, d plus 2 is bigger than d plus 1.
+显然d+2比d+1大
+
+553
+00:27:56,560 --> 00:28:01,475
+What do you know when you have more vectors than dimensions?
+当向量比维度多的时候情况会怎样呢
+
+554
+00:28:01,475 --> 00:28:05,070
+Oh, I know that they must be linearly dependent.
+它们是线性相关的
+
+555
+00:28:05,070 --> 00:28:08,250
+ 
+ 
+
+556
+00:28:08,250 --> 00:28:15,580
+Therefore, we must have that one of them will be a linear combination from
+因此 我必须让它们中的任一个
+
+557
+00:28:15,580 --> 00:28:16,650
+the rest of the guys.
+与其他的向量线性相关
+
+558
+00:28:16,650 --> 00:28:21,410
+So you take j, whichever it might be, and this will be equal to the sum over
+你选了j， 无论它是多少， 它都等于所有其他向量的线性之和
+
+559
+00:28:21,410 --> 00:28:25,540
+the rest of the guys of some coefficients that I don&#39;t know, times
+这些向量的系数我还不知道，但他们是乘以
+
+560
+00:28:25,540 --> 00:28:26,170
+those guys.
+向量x_i
+
+561
+00:28:26,170 --> 00:28:28,540
+This will apply to any set you choose.
+这将适用于你所选的任何集合
+
+562
+00:28:28,540 --> 00:28:31,400
+And this is the property that I am actually going to use, in order to
+这就是为了建立我想要的东西
+
+563
+00:28:31,400 --> 00:28:34,520
+establish what I want.
+我打算运用的性质
+
+564
+00:28:34,520 --> 00:28:37,250
+Furthermore, I can actually make something about the a_i&#39;s.
+进一步的 实际上我可以建立a_i
+
+565
+00:28:37,250 --> 00:28:40,790
+The a_i&#39;s could be anything for this statement to hold.
+为保证结论 a_i可以是任意的
+
+566
+00:28:40,790 --> 00:28:45,180
+But I&#39;m going to claim that not all of them are zeroes, in this case.
+在这里我想声明它们不全是0
+
+567
+00:28:45,180 --> 00:28:48,480
+At least some of the a_i&#39;s are nonzero.
+至少某些a_i是非零的
+
+568
+00:28:48,480 --> 00:28:49,240
+How do I know that?
+我怎么知道
+
+569
+00:28:49,240 --> 00:28:51,430
+This is not part of the linear dependence.
+这不能线性相关了（如果全为0）
+
+570
+00:28:51,430 --> 00:28:54,730
+This is actually because of the particular form of these guys, where
+因为这是它们的特性
+
+571
+00:28:54,730 --> 00:28:58,260
+the first coordinate of all of these guys is always 1.
+它们的第一个坐标都是1
+
+572
+00:28:58,260 --> 00:29:02,100
+So when you look at this and apply it to the first coordinate, 1 equals--
+所以你知道这点的话 应用第一个坐标是
+
+573
+00:29:02,100 --> 00:29:06,670
+well, these cannot all be zeroes because it has to add up to 1.
+就能知道它不全是0 它必须相加得1
+
+574
+00:29:06,670 --> 00:29:11,910
+Therefore, some of the a_i&#39;s will be nonzero.
+因此有些a_i将是非零
+
+575
+00:29:11,910 --> 00:29:12,640
+That&#39;s all I need.
+这就是我所需要的
+
+576
+00:29:12,640 --> 00:29:13,910
+I need this to hold.
+我需要这个来保证结论
+
+577
+00:29:13,910 --> 00:29:17,050
+I need some of the a_i&#39;s not to be 0.
+我需要某些a_i非0.
+
+578
+00:29:17,050 --> 00:29:18,680
+Everybody buys that this is the case?
+大家都要记住这种情形
+
+579
+00:29:18,680 --> 00:29:19,410
+That&#39;s all I need.
+这就是我所需要的
+
+580
+00:29:19,410 --> 00:29:23,525
+And then we go and show the dichotomy that you cannot implement.
+我们继续 来看看不能实现的对分
+
+581
+00:29:23,525 --> 00:29:27,040
+ 
+ 
+
+582
+00:29:27,040 --> 00:29:30,202
+We have that, right?
+我们有这种情况 对么
+
+583
+00:29:30,202 --> 00:29:31,440
+ 
+
+ 
+584
+00:29:31,440 --> 00:29:32,690
+Consider the following dichotomy.
+考虑以下的对分
+
+585
+00:29:32,690 --> 00:29:35,740
+ 
+ 
+
+586
+00:29:35,740 --> 00:29:40,650
+I am going to take the x_i&#39;s corresponding to nonzero a_i&#39;s.
+我将把x_i对应的非全零的a_i提取出来
+
+587
+00:29:40,650 --> 00:29:42,490
+Some of the a_i&#39;s are nonzero for sure.
+注意一些a_i是非0的
+
+588
+00:29:42,490 --> 00:29:43,460
+Maybe some of them are zeroes.
+一些可能是0
+
+589
+00:29:43,460 --> 00:29:45,560
+I am going to focus only on the nonzero guys.
+我们只需要关注非零的a_i
+
+590
+00:29:45,560 --> 00:29:48,990
+I don&#39;t care what you do with the terms that have a_i equals 0.
+我不会管那些a_i等于0的项
+
+591
+00:29:48,990 --> 00:29:49,830
+Do whatever you want.
+随便他们
+
+592
+00:29:49,830 --> 00:29:51,110
+Give them any +1 or -1.
+等于+1或者-1
+
+593
+00:29:51,110 --> 00:29:53,130
+Let&#39;s not look at them.
+我们不管它们
+
+594
+00:29:53,130 --> 00:29:57,460
+I&#39;m looking at those guys, and I am now constructing a dichotomy that I am
+我们关注这些非零的a_i 现在我要建立一个对分
+
+595
+00:29:57,460 --> 00:30:02,340
+going to show you that you cannot implement using a perceptron.
+而这个对分无法用一个感知机实现
+
+596
+00:30:02,340 --> 00:30:08,760
+So for the x_i&#39;s with the nonzero a_i, I am going to give the label, which
+对于x_i和非0的a_i，我会定义标签（y_i）
+
+597
+00:30:08,760 --> 00:30:12,710
+happens to be the sign of that coefficient.
+其恰好为这个系数（a_i）的符号
+
+598
+00:30:12,710 --> 00:30:13,870
+That is a nonzero number.
+那（a_i）是一个非零数
+
+599
+00:30:13,870 --> 00:30:14,890
+It&#39;s positive or negative.
+它或正或负
+
+600
+00:30:14,890 --> 00:30:17,110
+So I will give it +1 or -1 according to whether
+我会给它（y_i）+1或者-1，根据
+
+601
+00:30:17,110 --> 00:30:18,740
+it&#39;s positive or negative.
+a_i符号的正负
+
+602
+00:30:18,740 --> 00:30:23,210
+And I will do that for every nonzero term here.
+这里我将对任何一个非零数进行处理
+
+603
+00:30:23,210 --> 00:30:25,340
+Everybody sees that?
+大家注意了吗？
+
+604
+00:30:25,340 --> 00:30:29,470
+And now I&#39;m going to complete the dichotomy, by telling you what will
+现在我要完成对分，我们来看看
+
+605
+00:30:29,470 --> 00:30:31,350
+happen with x_j.
+x_j怎么变化
+
+606
+00:30:31,350 --> 00:30:35,226
+I&#39;m going to require that x_j goes to -1.
+我将令x_j（对应的标签y_j）等于-1
+
+607
+00:30:35,226 --> 00:30:40,950
+Now, all you need to realize is that this is a dichotomy.
+现在你应该意识到这就是一个对分
+
+608
+00:30:40,950 --> 00:30:44,400
+These are values of +1 or -1 on specific points.
+在某些点上，它们的（标签）值被标记为+1或者-1
+
+609
+00:30:44,400 --> 00:30:47,440
+The other guys, which happened to be 0, give them any +1 or -1.
+其他的点，也就是a_i等于0的点，它们的值是任意的，可能是+1，也可能是-1
+
+610
+00:30:47,440 --> 00:30:48,520
+You choose.
+随你
+
+611
+00:30:48,520 --> 00:30:52,270
+And for the final guy which is sitting here, I am going to it -1.
+而对于最后的点（x_j），我把它的值标为-1
+
+612
+00:30:52,270 --> 00:30:53,830
+This is a legitimate dichotomy.
+这就是一个合理的对分
+
+613
+00:30:53,830 --> 00:30:56,350
+And I&#39;m going to show you that you cannot implement this particular one.
+但现在我要证明你是不可能实现这个对分的
+
+614
+00:30:56,350 --> 00:31:00,930
+ 
+ 
+
+615
+00:31:00,930 --> 00:31:02,510
+How is that?
+怎么证明？
+
+616
+00:31:02,510 --> 00:31:03,930
+Because I really don&#39;t know your points.
+因为我真的不知道具体的点是怎么选的
+
+617
+00:31:03,930 --> 00:31:08,330
+So I must be using just that algebraic property, in order to find this.
+所以我必须用代数方法描述它
+
+618
+00:31:08,330 --> 00:31:11,740
+And the idea is very simple.
+其实想法也很简单
+
+619
+00:31:11,740 --> 00:31:16,920
+This is the form we have, x_j happens to be the linear sum of these guys.
+这是我们要的形式 对么， x_j正好是其余向量的线性和
+
+620
+00:31:16,920 --> 00:31:21,570
+I am going to multiply by any w.
+我将用任意一个w（转置）乘以它
+
+621
+00:31:21,570 --> 00:31:22,480
+For any w--
+对于这个w
+
+622
+00:31:22,480 --> 00:31:24,260
+the perceptrons, you multiply by w.
+我是说感知机，乘以w
+
+623
+00:31:24,260 --> 00:31:25,630
+That is what makes it a perceptron.
+这样它就变成了一个感知机
+
+624
+00:31:25,630 --> 00:31:27,200
+So I&#39;m going to multiply by it.
+所以我要乘以它
+
+625
+00:31:27,200 --> 00:31:29,900
+And then I realize that w transposed times x_j,
+然后我发现w转置乘以x_j
+
+626
+00:31:29,900 --> 00:31:32,150
+which would actually be the signal for the last guy,
+这个实际上是x_j的信号
+
+627
+00:31:32,150 --> 00:31:35,580
+is actually the sum of the signals for the different guys, with these
+它又是其他向量的信号乘以系数的和
+
+628
+00:31:35,580 --> 00:31:38,750
+coefficients. That has to happen.
+就是这样
+
+629
+00:31:38,750 --> 00:31:40,710
+So what is the problem?
+那么问题出在哪里？
+
+630
+00:31:40,710 --> 00:31:45,850
+The problem is that, when you take this as your perceptron, then by definition
+问题是，当你把它作为感知机时，根据定义
+
+631
+00:31:45,850 --> 00:31:49,380
+the label is the sign of this quantity.
+标签值是这个量的符号
+
+632
+00:31:49,380 --> 00:31:54,290
+For the guys where a_i is nonzero, we force this quantity, which is the
+对于a_i值非0的向量， 我们令这个量
+
+633
+00:31:54,290 --> 00:31:58,070
+value y_i, to be the sign of a_i.
+也就是y_i的值，等于a_i的符号
+
+634
+00:31:58,070 --> 00:32:00,860
+That&#39;s what we constructed.
+这就是我们所建立的
+
+635
+00:32:00,860 --> 00:32:04,410
+What can you conclude given that the sign of this fellow is the same as the
+你可以得出的结论是它们的符号是相同的
+
+636
+00:32:04,410 --> 00:32:05,340
+sign of this fellow?
+它们的符号
+
+637
+00:32:05,340 --> 00:32:08,030
+It must be that these guys agree in sign.
+一定是相同的
+
+638
+00:32:08,030 --> 00:32:11,490
+They are either both positive, or both negative, right?
+它们同正或同负
+
+639
+00:32:11,490 --> 00:32:16,100
+Therefore, I can conclude that if you multiply them, you
+所以当你们让它们相乘
+
+640
+00:32:16,100 --> 00:32:17,330
+get something positive.
+你们会得到一个正数
+
+641
+00:32:17,330 --> 00:32:19,920
+That is for sure.
+这是一定的
+
+642
+00:32:19,920 --> 00:32:23,500
+So now I have a handle on this term.
+所以我现在知道这样一个结论
+
+643
+00:32:23,500 --> 00:32:30,450
+This forces the sum of these guys to be greater than 0.
+这一坨的和是大于0的
+
+644
+00:32:30,450 --> 00:32:31,520
+Why is that?
+为什么呢？
+
+645
+00:32:31,520 --> 00:32:34,720
+Because this happens for every nonzero a_i.
+因为对于每个非零的a_i都是如此
+
+646
+00:32:34,720 --> 00:32:37,310
+For zero a_i&#39;s, they don&#39;t contribute anything here.
+等于0的a_i在这里不起作用
+
+647
+00:32:37,310 --> 00:32:39,900
+So if I add up a bunch of positive numbers and zeroes, I am going to get
+所以如果我加上一些正数和0
+
+648
+00:32:39,900 --> 00:32:42,350
+a positive number.
+我会得到一个正数
+
+649
+00:32:42,350 --> 00:32:43,310
+What is this quantity?
+这个量是什么呢？
+
+650
+00:32:43,310 --> 00:32:45,920
+Do I see it anywhere else on the slide?
+我们好像在哪儿见过？
+
+651
+00:32:45,920 --> 00:32:48,060
+Oh, yeah, I can see it here.
+还记得嘛，在这里见过
+
+652
+00:32:48,060 --> 00:32:54,130
+This actually is the signal on the outstanding point.
+这实际上是这个特殊点（x_j）的信号
+
+653
+00:32:54,130 --> 00:32:57,000
+So I know that the signal on the outstanding point is positive.
+所以我知道了这个特殊点的信号是正
+
+654
+00:32:57,000 --> 00:33:00,580
+What does this force the value of the perceptron, your perceptron, the one
+这对于感知机取值有什么用
+
+655
+00:33:00,580 --> 00:33:03,970
+you had here, to be?
+对这里的感知器
+
+656
+00:33:03,970 --> 00:33:08,120
+It will have to be +1.
+它必须是+1
+
+657
+00:33:08,120 --> 00:33:14,210
+Therefore, it&#39;s impossible to get that to be -1, if you chose this.
+因此 它不可能为-1。如果你选择这些点。
+
+658
+00:33:14,210 --> 00:33:15,590
+This is a choice that is legitimate.
+如果你选择了这些点
+
+659
+00:33:15,590 --> 00:33:17,020
+It is a dichotomy.
+他是个合适的对分
+
+660
+00:33:17,020 --> 00:33:20,760
+And now if you pick those guys, pick the rest of the zero-coefficient guys
+如果你选择这些点，任意选择那些0系数的点
+
+661
+00:33:20,760 --> 00:33:25,030
+any way you want, you are forbidden from having this as -1.
+你会得到-1。（这显然是矛盾的）
+
+662
+00:33:25,030 --> 00:33:30,280
+Therefore, you cannot shatter your set, for any set you choose.
+因此帮你不能打散你的数据集，对任意的数据集来说
+
+663
+00:33:30,280 --> 00:33:34,730
+Therefore, you cannot shatter any set of d plus 2 points.
+因此，你不能打散任意的d+2个点。
+
+664
+00:33:34,730 --> 00:33:35,980
+And I have the result.
+我就得到了这个结果。
+
+665
+00:33:35,980 --> 00:33:38,250
+ 
+ 
+
+666
+00:33:38,250 --> 00:33:41,030
+So let&#39;s put it together.
+现在我们总结一下
+
+667
+00:33:41,030 --> 00:33:45,370
+First, we showed that the VC dimension is at most d plus 1.
+首先 我们证明了VC维最多为d+1
+
+668
+00:33:45,370 --> 00:33:49,976
+And then we showed that it&#39;s at least d plus 1.
+接下来我们证明了它最小为d-1
+
+669
+00:33:49,976 --> 00:33:53,180
+Or actually, did we do it this way, or the other way around?
+实际上 我们是用这种方法还是其他方法做的
+
+670
+00:33:53,180 --> 00:33:53,970
+That&#39;s another quiz.
+这是另一个小测试
+
+671
+00:33:53,970 --> 00:33:57,280
+No, it&#39;s not another quiz!
+不不，逗你们玩的
+
+672
+00:33:57,280 --> 00:34:00,660
+The conclusion is that the VC dimension is d plus 1.
+结论是VC维等于d+1
+
+673
+00:34:00,660 --> 00:34:05,790
+And now, d-dimensional perceptron-- the VC dimension is d plus 1.
+对于d维感知机，VC维等于d+1
+
+674
+00:34:05,790 --> 00:34:10,890
+Let&#39;s ask ourselves the simple question: what is exactly d plus 1 in
+想一想这样一个简单的问题  d+1
+
+675
+00:34:10,889 --> 00:34:13,510
+a d-dimensional perceptron?
+在d维感知机中究竟是什么
+
+676
+00:34:13,510 --> 00:34:15,449
+It&#39;s one above the dimensions.
+它比维度大1
+
+677
+00:34:15,449 --> 00:34:17,969
+You can find many interpretations for it.
+你可以找到很多解释
+
+678
+00:34:17,969 --> 00:34:22,540
+But the interpretation of interest to us will be the fact that this is
+但我们感兴趣的解释是
+
+679
+00:34:22,540 --> 00:34:26,250
+actually the number of parameters in the perceptron model.
+它其实是感知机模型上参数的数量
+
+680
+00:34:26,250 --> 00:34:28,170
+What are the parameters in the perceptron model?
+什么是感知机模型上的参数？
+
+681
+00:34:28,170 --> 00:34:29,610
+We used to call it the vector w.
+我们之前称它为向量w
+
+682
+00:34:29,610 --> 00:34:31,860
+Let&#39;s spell it out, in order to count.
+让我们把它列举出来 按照顺序
+
+683
+00:34:31,860 --> 00:34:34,225
+This happens to be w.
+这一串就是w
+
+684
+00:34:34,225 --> 00:34:38,272
+ 
+
+ 
+685
+00:34:38,272 --> 00:34:42,639
+w_0, this is the one for the threshold, w_1 up to w_d.
+w_0是一个阈值，w_1到w_d
+
+686
+00:34:42,639 --> 00:34:45,300
+These are the parameters you are free to choose, and that we have been
+是你随意选择的参数
+
+687
+00:34:45,300 --> 00:34:46,909
+choosing through this argument.
+我们通过讨论已经选择了它们
+
+688
+00:34:46,909 --> 00:34:49,659
+And how many of them there are? d plus 1.
+它们的个数是多少呢？ d+1
+
+689
+00:34:49,659 --> 00:34:54,239
+Why am I attaching the VC dimension to the number of parameters?
+我对VC维的参数将如何赋值
+
+690
+00:34:54,239 --> 00:34:57,630
+The VC dimension gives me the maximum number of
+VC维给出了我可以打散的点的个数
+
+691
+00:34:57,630 --> 00:34:59,170
+points I can shatter.
+的最大值
+
+692
+00:34:59,170 --> 00:35:01,880
+So now I can do any which way.
+所以我可以随意做
+
+693
+00:35:01,880 --> 00:35:05,240
+The reason I can do any which way, because I have a bunch of parameters
+因为我有一堆参数
+
+694
+00:35:05,240 --> 00:35:08,810
+that I can set one way or the other, in order to achieve that.
+为达到这一目的 我可以设置几种方法
+
+695
+00:35:08,810 --> 00:35:13,580
+So it stands to logic that when I have more parameters, I will have a higher
+因此从逻辑上来说，如果我有更多的参数
+
+696
+00:35:13,580 --> 00:35:14,760
+VC dimension.
+我的VC维也会更大
+
+697
+00:35:14,760 --> 00:35:17,215
+And that will be the basic part of the interpretation that we
+这是我们解释的一个基础
+
+698
+00:35:17,215 --> 00:35:18,950
+are going to go into.
+我们稍后继续
