@@ -53,3 +53,4 @@ input = [
 
 print(shortest_path(input, 0, 3))  # output 7
 print(shortest_path(input, 0, 4))  # output 9
+
